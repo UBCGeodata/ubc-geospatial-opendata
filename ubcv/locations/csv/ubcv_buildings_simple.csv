@@ -1,414 +1,414 @@
-﻿BLDG_UID,NAME,BLDG_CODE,MAIN_ADDRESS,LOCALITY,PROVINCE_CODE,POSTAL_CODE,BLDG_USAGE,BLDG_SEC_USAGE,CONSTR_STATUS,CONSTR_TYPE,BLDG_HEIGHT,REC_IDS,HAS_SUBBLDGS,BLDG_FORM,PROPERTY_TYPE,ACCESSIBLE,POWER_DOOR,ALIAS_2,ALIAS_3,ALIAS_4,ALIAS_5,LAT,LONG
-VBL10347,Cascara House,CASC,6385 Hawthorn Lane,Vancouver,BC,V6T 0C1,Housing,,Complete,,,,,,,1,0,Cascara House,Cascara,Faculty Staff Housing Building C,,-123.249669,49.258465
-VBL10414,Granite Terrace - Commercial,GRT2,5923 Berton Avenue,Vancouver,BC,V6S 0B3,Commercial,,Complete,,,,,,,,,Granite Terrace - Commercial,Granite Terrace,,,-123.236111,49.255068
-VBL10164,Granite Terrace,GRT1,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4,Housing,,Complete,,,,,,,1,0,Granite Terrace,Granite Terrace,,,-123.236985,49.254825
-VBL10336,Prodigy - Building 2,PRD2,3462 Ross Drive,Vancouver,BC,V6S 0H6,Housing,,Complete,,,,,,,,,Prodigy - Phase 2,Prodigy,,,-123.236616,49.251621
-VBL10349,Prodigy - Building 1,PRD1,6033 Gray Avenue,Vancouver,BC,V6S 0G3,Housing,,Complete,,,,,,,1,0,Prodigy - Phase 1,Prodigy,Prodigy 1,,-123.235956,49.251652
-VBL10187,Sage - Highrise,SAG1,5782 Berton Avenue,Vancouver,BC,V6S 0C1,Housing,,Complete,,,,,,,1,0,Sage - Highrise,Sage,,,-123.233709,49.255264
-VBL10379,Nobel House,NOBL,3655 Wesbrook Mall,Vancouver,BC,V6S 0G6,Housing,,Complete,,,,,,,1,0,Nobel House,Nobel House,,,-123.233198,49.25083
-VBL10156,St. John Hospice,STJN,6389 Stadium Road,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,1,0,St. John Hospice,Hospice,,,-123.247385,49.255505
-VBL10210,Binning Tower - Highrise,BINH,3355 Binning Road,Vancouver,BC,V6S 0J1,Housing,,Complete,,,,,,,1,0,Binning Tower - Highrise,Binning Tower,,,-123.231376,49.255444
-VBL10290,Chancellor Hall - Apartment,CHHA,5989 Iona Drive,Vancouver,BC,V6T 2L7,Housing,,Complete,,,,,,,1,1,Chancellor Hall - Apartment,Chancellor Hall,,,-123.250472,49.271899
-VBL10182,Tapestry at Wesbrook Village - Building 2,TAP2,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Housing,,Complete,,,,,,,,,Tapestry at Wesbrook Village - Building 2,Tapestry,,,-123.234523,49.254142
-VBL10137,Tapestry at Wesbrook Village - Building 1,TAP1,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6,Housing,,Complete,,,,,,,1,0,Tapestry at Wesbrook Village - Building 1,Tapestry,Tapestry North,,-123.235007,49.254742
-VBL10184,The Wesbrook - Highrise,WSB1,5838 Berton Avenue,Vancouver,BC,V6S 0A5,Housing,,Complete,,,,,,,1,0,The Wesbrook - Highrise,The Wesbrook,Wesbrook Lot 1,,-123.234504,49.255081
-VBL10022,TRIUMF - Accelerator,TRF02,Building 7 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Accelerator,TRIUMF,,,-123.229307,49.247241
-VBL10032,TRIUMF - ISAC 2,TRF10,Building 5 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - ISAC 2,TRIUMF,,,-123.229391,49.248283
-VBL10025,TRIUMF - ARIEL,TRF01,Building 4 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - ARIEL,TRIUMF,,,-123.229956,49.247688
-VBL10170,Village Square,VSQU,3338 Webber Lane,Vancouver,BC,V6S 0J7,Housing,,Complete,,,,,,,1,1,Village Square,Village,Wesbrook Lot E,,-123.236368,49.253967
-VBL10046,Public Safety Building - RCMP + Fire,PSAB,2990 Wesbrook Mall,Vancouver,BC,V6T 2B7,Services,,Complete,,,,,,,1,0,RCMP + Fire,Public Safety,Police and Fire Department,,-123.238156,49.258948
-VBL10059,TRIUMF - Shipping / Workshop,TRF28,6095 Nurseries Road,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Shipping / Workshop,TRIUMF,,,-123.230074,49.246236
-VBL10004,UBC Botanical Garden - Scholar's Retreat,BOT5,6380 Stadium Road,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,,,UBC Botanical Garden - Scholar's Retreat,Botanical Garden ,,,-123.246935,49.255027
-VBL10256,Robert H. Lee Alumni Centre,ALUM,6163 University Boulevard,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,1,1,Robert H. Lee Alumni Centre,Alumni,,,-123.2499,49.265956
-VBL10219,Crescent West,CRSW,5879 Gray Avenue,Vancouver,BC,V6S 0A9,Housing,,Complete,,,,,,,1,0,Crescent West,Crescent West,,,-123.232746,49.253143
-VBL10018,Larkspur House,LARK,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9,Housing,,Complete,,,,,,,1,0,Larkspur House,Larkspur,Faculty Staff Housing Building F,,-123.234058,49.253548
-VBL10222,UBC Research Ponds,RESP,4069 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,,Complete,,,,,,,1,0,UBC Research Ponds,Ponds,,,-123.232721,49.247161
-VBL10162,Centre for Interactive Research on Sustainability,CIRS,2260 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Centre for Interactive Research on Sustainability,CIRS,,CIRS,-123.253079,49.26205
-VBL10338,C.K. Choi Building for the Institute of Asian Research,CHOI,1855 West Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,C.K. Choi Building for the Institute of Asian Rese,Choi,,,-123.257957,49.267268
-VBL10084,Biomedical Research Centre,BRC,2222 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Biomedical Research Centre,Biomedical,Biomedical Building,,-123.24719,49.26412
-VBL10086,Beaty Biodiversity Centre,BETY,2212 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Beaty Biodiversity Centre,Beaty,Beaty Biodiversity Museum,,-123.250343,49.263442
-VBL10353,Under Construction - The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,Vancouver,BC,,Housing,,UnderConstruction,,,,,,,1,0,The Residences at Nobel Park - Apartment,Nobel Park,Wesbrook Lots 7+8,,-123.234998,49.250616
-VBL10203,Materials Recovery Facility,MARF,6055 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,Materials Recovery Facility,Material,,,-123.228539,49.245784
-VBL10131,Douglas T. Kenny Building,KENN,2136 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Douglas Kenny Building,Kenny,Psychology,,-123.253867,49.263318
-VBL10062,Chemical and Biological Engineering Building,CHBE,2360 East Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Chemical & Biological Engineering Building,ChemBio,,,-123.247072,49.262478
-VBL10392,Chapel of the Epiphany,CHPL,6030 Chancellor Boulevard,Vancouver,BC,V6T 1X3,Other,,Complete,,,,,,,1,0,Chapel of the Epiphany,Chapel,,,-123.252259,49.271559
-VBL10332,Campus and Community Planning,CCP,2210 West Mall,Vancouver,BC,V6T 1Z4,Administrative,,Complete,,,,,,,1,0,Campus & Community Planning,C&CP,,,-123.253284,49.262441
-VBL10233,Norman MacKenzie House,MCKH,6565 NW Marine Drive,Vancouver,BC,V6T 1A7,Services,,Complete,,,,,,,1,1,Norman MacKenzie House,MacKenzie,President's Residence,,-123.261198,49.267663
-VBL10168,Wesbrook Community Centre,WCOM,3335 Webber Lane,Vancouver,BC,V6S 0H3,Other,,Complete,,,,,,,1,0,Wesbrook Community Centre,Wesbrook Community,,,-123.237571,49.254029
-VBL10157,Old Barn Community Centre,OBCC,6308 Thunderbird Boulevard,Vancouver,BC,V6T 1Z4,Other,,Complete,,,,,,,1,0,Old Barn Community Centre,Old Barn,,,-123.248286,49.258907
-VBL10027,TRIUMF - Compressor Building,TRF05,Building 14 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Compressor Building,TRIUMF,,,-123.229949,49.246657
-VBL10242,University Hill Secondary School,UHIL,3228 Ross Drive,Vancouver,BC,V6S 0C6,Other,,Complete,,,,,,,1,0,University Hill Secondary School,U-Hill,High school,,-123.238748,49.254251
-VBL10114,St. Andrew's Hall,STH,6040 Iona Drive,Vancouver,BC,V6T 2E8,Housing,,Complete,,,,,,,1,1,St. Andrew's Hall - Apartment,St. Andrew's,,,-123.251761,49.270164
-VBL10181,The Barn - Owl Child Care,BARN,2323 Main Mall,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,1,0,The Barn,Barn,,,-123.251122,49.261931
-VBL10026,TRIUMF - Badge Room,TRF04,Building 2 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Badge Room,TRIUMF,,,-123.230285,49.247509
-VBL10200,Green College - Admin,GRN4,Building 8 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,1,0,Green College - Admin,Green College,Adminstration Building F,,-123.256319,49.270988
-VBL10258,Acadia Park Residence - Building 2,APR2,2605 Melfa Lane,Vancouver,BC,V6T 2C5,StudentHousing,,Complete,,,,,,,1,0,Acadia Park Residence - Building 2,Townhouses 2,,,-123.237163,49.263564
-VBL10259,Acadia Park Residence - Building 1,APR1,2500 Melfa Lane,Vancouver,BC,V6T 2C6,StudentHousing,,Complete,,,,,,,,,Acadia Park Residence - Building 1,Townhouses 1,,,-123.238441,49.264475
-VBL10043,Gerald McGavin Building,GMCG,2386 East Mall,Vancouver,BC,V6T 1Z3,Administrative,,Complete,,,,,,,1,1,Gerald McGavin Building,McGavin,,,-123.246766,49.261788
-VBL10102,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,0,P. A. Woodward Instructional Resources Centre,IRC,Faculty of Medicine,,-123.24685,49.264818
-VBL10104,Allard Hall,ALRD,1822 East Mall,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,0,Allard Hall,Allard,Peter A. Allard School of Law ,,-123.253294,49.270054
-VBL10107,School of Population & Public Health,SPPH,2206 East Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,School of Population & Public Health,SPPH,,SPPH,-123.248419,49.264234
-VBL10108,Place Vanier Residence - Commonsblock,VNR03,Building 1 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,Services,,Complete,,,,,,,1,1,Place Vanier Residence - Commonsblock,Vanier,Gordon Shrum Commons Block,,-123.258577,49.264656
-VBL10313,Panhellenic House,PANH,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7,StudentHousing,,Complete,,,,,,,1,0,Panhellenic House,Panhellenic,Sorority House,,-123.239585,49.260111
-VBL10243,NRC Institute for Fuel Cell Innovation,NRC,4250 Wesbrook Mall,Vancouver,BC,V6T 1W5,Research,,Complete,,,,,,,1,0,NRC Institute for Fuel Cell Innovation,NRC,,NRC,-123.232293,49.245192
-VBL10099,Hector J. MacLeod Building,MCLD,2356 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,0,0,MacLeod Building,MacLeod,Hector MacLeod Building,,-123.249401,49.261713
-VBL10109,Indian Residential School History and Dialogue Centre,IRSC,1985 Learners' Walk,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,1,Indian Residential School History and Dialogue Centre,IRSC,,IRSC,-123.253754,49.267001
-VBL10110,Pharmaceutical Sciences Building,PHRM,2405 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Pharmaceutical Sciences Building,Pharmacy,,,-123.243281,49.262292
-VBL10111,Life Sciences Centre,LSC,2350 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Life Sciences Centre,Life Sciences ,,,-123.245121,49.26254
-VBL10100,Lower Mall Research Station,LMRS,2259 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,,Complete,,,,,,,1,0,Lower Mall Research Station,LMRS,,,-123.255519,49.260542
-VBL10101,Music Building,MUSC,6361 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,Music Building,Music,Roy Barnett Recital Hall,,-123.256792,49.267436
-VBL10113,Thunderbird Parkade,PART,6085 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Parking,,Complete,,,,,,,1,0,Thunderbird Parkade,Thunderbird Parkade,,,-123.243051,49.261659
-VBL10116,St. John's College,STJC,2111 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,1,St. John's College,St. John's College,,,-123.256818,49.262578
-VBL10119,Forest Sciences Centre,FSC,2424 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Forest Sciences Centre,Forest Sciences,,,-123.247788,49.260607
-VBL10120,Friedman Building,FRDM,2177 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Friedman Building,Friedman,,,-123.246232,49.265371
-VBL10121,Thunderbird Residence - Building 2,THR2,Building 2 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,0,Thunderbird Residence - Building 2,Thunderbird,,,-123.250374,49.258962
-VBL10125,Student Recreation Centre,SRC,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Athletics,,Complete,,,,,,,1,1,Student Recreation Centre,SRC,,SRC,-123.248948,49.268316
-VBL10126,Totem Park Residence - Building 2,TPR2,Building 2 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,,Complete,,,,,,,1,0,Totem Park Residence - Building 2,Totem,,,-123.253228,49.258696
-VBL10127,Totem Park Residence - Building 3,TPR3,Building 3 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,,Complete,,,,,,,1,0,Totem Park Residence - Building 3,Totem,,,-123.252327,49.259339
-VBL10122,Thunderbird Residence - Building 1,THR1,Building 1 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,,Complete,,,,,,,1,0,Thunderbird Residence - Building 1,Thunderbird,,,-123.250862,49.259566
-VBL10128,Totem Park Residence - Building 5,TPR5,Building 5 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,,Complete,,,,,,,1,0,Totem Park Residence - Building 5,Totem,,,-123.251192,49.258594
-VBL10123,Staging Environmental Research Centre,SERC,6045 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,Staging Environmental Research Centre,SERC,,SERC,-123.228068,49.245484
-VBL10124,Stores Road Annex,STRX,6368 Stores Road,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Stores Road Annex,Stores Annex,,,-123.25235,49.261674
-VBL10130,Dorothy Somerset Studios,DSOM,6361 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,0,0,Dorothy Somerset Studios,Somerset Studios,Hut M-18,,-123.254586,49.264697
-VBL10134,B.C. Binning Studios,BINN,6373 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,B.C. Binning Studios,Binning,Hut M-17,,-123.254873,49.264605
-VBL10260,Acadia Park Residence - Highrise,APRH,2725 Melfa Road,Vancouver,BC,V6T 1N4,StudentHousing,,Complete,,,,,,,,,Acadia Park Residence - Highrise,Highrise,,,-123.236861,49.262313
-VBL10262,Woodward Library,WLIB,2198 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,0,0,Woodward Library,Woodward,,,-123.247561,49.264562
-VBL10263,Walter H. Gage Residence - Commonsblock,WGR1,Building 1 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,Services,,Complete,,,,,,,1,1,Walter H. Gage Residence - Commonsblock,Gage,Walter H. Gage Residence Commonsblock,,-123.249839,49.269529
-VBL10269,Place Vanier Residence - Korea House,VNR06,Building 9 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,1,Place Vanier Residence - Korea House,Vanier,,,-123.26001,49.264609
-VBL10270,Place Vanier Residence - Okanagan House,VNR08,Building 2 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Okanagan House,Vanier,,,-123.25778,49.26435
-VBL10251,Robert F. Osborne Centre - Unit 1,OSB1,Building 1 - 6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,0,Robert F. Osborne Centre - Unit 1,Osborne,Osborne Gym,,-123.243723,49.260289
-VBL10252,The Leonard S. Klinck Building,LSK,6356 Agricultural Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,0,The Leonard S. Klinck Building,Klinck,,,-123.255345,49.265432
-VBL10272,Child Care Services - Acadia,CCS1,2865 Revelstoke Court,Vancouver,BC,V6T 1S1,Services,,Complete,,,,,,,,,Child Care Services - Acadia,Child Care Services ,,,-123.234723,49.260894
-VBL10266,Wesbrook Building,WESB,6174 University Boulevard,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,0,0,Wesbrook Building,Wesbrook,,,-123.249162,49.265247
-VBL10273,Child Care Services - Kittiwake/Salal,CCS2,5655 Osoyoos Crescent,Vancouver,BC,V6T 1S1,Services,,Complete,,,,,,,,,Child Care Services - Kittiwake/Salal,Child Care Services ,,,-123.235287,49.259997
-VBL10267,Place Vanier Residence - Dorothy Mawdsley House,VNR04,Building 10 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Dorothy Mawdsley House,Vanier,,,-123.259509,49.264859
-VBL10268,Place Vanier Residence - Kootenay House,VNR05,Building 3 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Kootenay House,Vanier,,,-123.25764,49.263877
-VBL10274,Child Care Services - Little Goslings/Coho,CCS3,5590 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,,Complete,,,,,,,,,Child Care Services - Little Goslings/Coho,Child Care Services ,,,-123.234068,49.259912
-VBL10275,Child Care Services - Little Raven/Pacific Spirit,CCS4,5580 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,,Complete,,,,,,,,,Child Care Services - Little Raven/Pacific Spirit,Child Care Services ,,,-123.233795,49.260208
-VBL10276,Child Care Services - Sandpiper/Auklet,CCS5,5615 Osoyoos Crescent,Vancouver,BC,V6T 1S1,Services,,Complete,,,,,,,1,0,Child Care Services - Sandpiper/Auklet,Child Care Services ,Child Care Services Building 4,,-123.234742,49.260262
-VBL10278,David Lam Management Research Centre,DLAM,2033 Main Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,David Lam Management Research Centre,David Lam,,,-123.254338,49.265713
-VBL10041,Sumac House,SUMA,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1,Housing,,Complete,,,,,,,1,0,Sumac House,Sumac,Faculty Staff Housing Building B,,-123.250055,49.258277
-VBL10282,Chan Centre for the Performing Arts,CHAN,6265 Crescent Road,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,1,1,Chan Centre for the Performing Arts,Chan,,,-123.255114,49.269779
-VBL10283,West Mall Annex,WMAX,1933 West Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,0,West Mall Annex,West Mall Annex,,,-123.257166,49.266245
-VBL10284,West Parkade,PARW,2140 Lower Mall,Vancouver,BC,V6T 1Z4,Parking,,Complete,,,,,,,1,0,West Parkade,West,,,-123.255025,49.262596
-VBL10285,Wood Drying Laboratory,WDL,2324 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,0,Wood Drying Laboratory,Wood Lab,,,-123.252217,49.261486
-VBL10310,Ponderosa Commons West - Arbutus/Maple House,PCW,6488 University Boulevard,Vancouver,BC,V6T 1Z4,Commons,,Complete,,,,,,,1,1,Ponderosa Commons West,Ponderosa,Maple/Arbutus House,,-123.255609,49.263451
-VBL10292,Iona Building,IONA,6000 Iona Drive,Vancouver,BC,V6T 1L4,Academic,,Complete,,,,,,,0,0,Iona Building,Iona,,,-123.250321,49.270988
-VBL10295,Acadia Park Residence - President's Row,APRP,5501 Presidents Row,Vancouver,BC,V6T 1L5,StudentHousing,,Complete,,,,,,,,,Acadia Park Residence - President's Row,President's Row,,,-123.238996,49.265317
-VBL10296,Robert F. Osborne Centre - Unit 2,OSB2,Building 2 - 6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,,,Robert F. Osborne Centre - Unit 2,Osborne,,,-123.24432,49.259969
-VBL10301,Walter H. Gage Residence - Apartment,WGR2,5980 Walter Gage Road,Vancouver,BC,V6T 1K2,StudentHousing,,Complete,,,,,,,1,1,Walter H. Gage Residence - Apartment,Gage,,,-123.249017,49.270143
-VBL10304,West Mall Swing Space Building,SWNG,2175 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,West Mall Swing Space Building,Swing Space,,,-123.254389,49.26279
-VBL10306,Child Care Services Administration Building,CCSA,2881 Acadia Road,Vancouver,BC,V6T 1S1,Services,,Complete,,,,,,,1,0,Child Care Services Administration Building,Child Care Admin,Child Care Main Building,,-123.234229,49.26092
-VBL10311,Ponderosa Commons East - Audain Art Centre/Spruce House,PCE,6398 University Boulevard,Vancouver,BC,V6T 1Z4,Commons,,Complete,,,,,,,1,1,Ponderosa Commons East,Audain Art Centre,Spruce House,,-123.254422,49.263787
-VBL10312,Ponderosa Commons North - Oak/Cedar House,PCN,6445 University Boulevard,Vancouver,BC,V6T 1Z2,Commons,,Complete,,,,,,,1,1,Ponderosa Commons North,Ponderosa,Cedar/Oak House,,-123.256182,49.264086
-VBL10315,Morris and Helen Belkin Art Gallery,BART,1825 Main Mall,Vancouver,BC,V6T 1Z2,Services,,Complete,,,,,,,1,1,Morris and Helen Belkin Art Gallery,Belkin,,,-123.256225,49.268172
-VBL10317,Marine Drive Residence - 2,MAR2,Building 2 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,0,Marine Drive Residence - 2,Marine Drive,,,-123.256768,49.261875
-VBL10319,Marine Drive Residence - 1 Simon Lee,MAR1,Building 1 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,0,Marine Drive Residence - 1 Simon Lee,Marine Drive,,,-123.255886,49.262002
-VBL10323,Buchanan Building,BUCH,1866 Main Mall,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,1,Buchanan Building,Buchanan,"Buchanan Blocks A, B, C, D, E",,-123.25447,49.268693
-VBL10324,Buchanan Tower,BUTO,1873 East Mall,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,0,Buchanan Tower,Buchanan Tower,,,-123.253504,49.268575
-VBL10308,Acadia House,ACAH,2700 Acadia Road,Vancouver,BC,V6T 1R9,StudentHousing,,Complete,,,,,,,1,0,Acadia House,Acadia House,,,-123.235913,49.262883
-VBL10201,Mary Bollert Hall,MBOL,6253 NW Marine Drive,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,0,1,Mary Bollert Hall,Bollert,,,-123.256024,49.270573
-VBL10204,Anthropology and Sociology Building,ANSO,6303 NW Marine Drive,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,0,Anthropology and Sociology Building,ANSO,,ANSOC,-123.2577,49.270313
-VBL10325,Place Vanier Residence - Aldyen Hamber House,VNR01,Building 13 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Aldyen Hamber House,Vanier,,,-123.258794,49.265267
-VBL10326,Place Vanier Residence - Margaret Mackenzie House,VNR07,Building 12 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Margaret Mackenzie House,Vanier,,,-123.259142,49.26569
-VBL10207,Building Operations Storage Shed,BOSS,2214 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,,Complete,,,,,,,1,0,Building Operations Storage Shed,BOps Shed,,,-123.254414,49.262185
-VBL10209,Theatre-Film Production Building,TFPB,6358 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,0,0,Theatre-Film Production Building,Theatre-Film,,,-123.253933,49.263871
-VBL10307,Doug Mitchell Thunderbird Sports Centre,THUN,6066 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Athletics,,Complete,,,,,,,1,1,Doug Mitchell Thunderbird Sports Centre,Doug Mitchell,Thunderbird Sports Centre,,-123.241947,49.260342
-VBL10212,Brock Commons - Tallwood House,BRCE,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1,Commons,,Complete,,,,,,,1,1,Brock Commons - Tallwood House,Tallwood House,Brock Commons East,,-123.25133,49.269514
-VBL10218,Marine Drive Residence - 6,MAR6,Building 6 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,1,Marine Drive Residence - 6,Marine Drive,,,-123.256074,49.261076
-VBL10221,Michael Smith Laboratories,MSL,2185 East Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Michael Smith Laboratories,Michael Smith,,,-123.250207,49.264564
-VBL10223,Totem Field Studios,TFS,2613 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,0,Totem Field Studios,Field,,,-123.249138,49.256243
-VBL10214,Thunderbird Stadium,STAD,6288 Stadium Road,Vancouver,BC,V6T 1Z4,Athletics,,Complete,,,,,,,1,0,Thunderbird Stadium,Stadium,David Sidoo Field,,-123.244574,49.254761
-VBL10215,Thunderbird Residence - Building 3,THR3,Building 3 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,,Complete,,,,,,,1,1,Thunderbird Residence - Building 3,Thunderbird,Thunderbird Commonsblock,,-123.249497,49.259272
-VBL10227,Asian Centre,ACEN,1871 West Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,Asian Centre,Asian Centre,,,-123.258709,49.266747
-VBL10216,Mathematics Annex,MATX,1986 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,0,0,Mathematics Annex,Math Annex,,,-123.254854,49.266106
-VBL10217,Marine Drive Residence - 4,MAR4,Building 4 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,,,Marine Drive Residence - 4,Marine Drive,,,-123.255355,49.261559
-VBL10228,Auditorium Annexes,AUDX,1924 West Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,Auditorium Annexes,AudAnnex,Auditorium Annex Offices A,,-123.256625,49.266575
-VBL10229,Mathematics Building,MATH,1984 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,0,0,Mathematics Building,Math,,,-123.255554,49.266451
-VBL10409,Biological Sciences Building,BIOL,6270 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,2,2,Biological Sciences Building,BioSciences,"BioSciences South, East, West, North Wings",,-123.251333,49.264452
-VBL10234,North Parkade,PARN,6115 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Parking,,Complete,,,,,,,1,0,North Parkade,North,,,-123.250935,49.269042
-VBL10230,Nitobe Memorial Garden,NITO,1895 Lower Mall,Vancouver,BC,V6T 1Z2,Services,,Complete,,,,,,,1,0,Nitobe Garden,Nitobe Garden,,,-123.259227,49.266162
-VBL10235,Museum of Anthropology,MOA,6393 NW Marine Drive,Vancouver,BC,V6T 1Z2,Services,,Complete,,,,,,,1,1,Museum of Anthropology,MoA,,MOA,-123.259431,49.269501
-VBL10237,UBC Baseball Rose Indoor Training Centre,BTC,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Athletics,,Complete,,,,,,,1,1,UBC Baseball Rose Indoor Training Centre,Baseball,,,-123.23951,49.256203
-VBL10231,Totem Park Residence - Commonsblock 1,TPR1,Building 1 - 2525 West Mall,Vancouver,BC,V6T 1W9,Services,,Complete,,,,,,,1,0,Totem Park Residence - Commonsblock 1,Totem,Totem Park Commonsblock,,-123.252998,49.258021
-VBL10302,Vancouver School of Theology,VST,6015 Walter Gage Road,Vancouver,BC,V6T 1Z1,Other,,Complete,,,,,,,1,1,Vancouver School of Theology,VST,Somerville House,VST,-123.251063,49.270385
-VBL10245,UBC Farm - Harvest Hut / Market,FRM2,Building 5 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Academic,,Complete,,,,,,,,,UBC Farm Centre - Harvest Hut / Market,Farm,Plant Science Field Building,,-123.237944,49.250754
-VBL10246,UBC Football Academic Centre,FOOT,6298 Stadium Road,Vancouver,BC,V6T 1Z4,Athletics,,Complete,,,,,,,1,0,UBC Football Academic Centre,Football,,,-123.244986,49.255245
-VBL10248,UBC Life Building,LIFE,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Administrative,,Complete,,,,,,,1,1,UBC Life Building,Life,Old SUB,,-123.250084,49.267434
-VBL10387,Chancellor House - Apartment,CHOA,6015 Iona Drive,Vancouver,BC,V6T 2J4,Housing,,Complete,,,,,,,1,0,Chancellor House - Apartment,Chancellor House,,,-123.251446,49.271562
-VBL10249,Thea Koerner House Graduate Student Centre,THEA,6371 Crescent Road,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,1,Thea Koerner House Graduate Student Centre,GSC,Graduate Student Centre,,-123.257889,49.268438
-VBL10250,Ritsumeikan-UBC House,RITS,6460 Agronomy Road,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,1,Ritsumeikan-UBC House,Ritsumeikan,,,-123.253006,49.2601
-VBL10309,Folio - Apartment,FOL1,5955 Iona Drive,Vancouver,BC,V6T 2L4,Housing,,Complete,,,,,,,1,0,Folio - Apartment,Folio,,,-123.249755,49.272103
-VBL10083,Continuing Studies Building,CSB,2121 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Continuing Studies Building,Continuing Studies,English Language Institute,,-123.255022,49.263338
-VBL10129,Donald Rix Building,RIX,2389 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Administrative,,Complete,,,,,,,1,1,Donald Rix Building,Rix,,,-123.246302,49.26197
-VBL10257,Carey Centre,CRYC,5920 Iona Drive,Vancouver,BC,V6T 1J6,Other,,Complete,,,,,,,1,1,Carey Centre,Carey Centre,,,-123.248913,49.271529
-VBL10085,Fred Kaiser Building,KAIS,2332 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Fred Kaiser Building,Kaiser,Faculty of Applied Science,,-123.250079,49.262352
-VBL10087,Aquatic Ecosystems Research Laboratory,AERL,2202 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,0,Aquatic Ecosystems Research Laboratory,AERL,,AERL,-123.250984,49.263761
-VBL10088,Marine Drive Residence - 3 Commonsblock,MAR3,Building 3 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,1,1,Marine Drive Residence - 3 Commonsblock,Marine Drive,Marine Drive Commonsblock,,-123.256855,49.261412
-VBL10089,Marine Drive Residence - 5,MAR5,Building 5 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,,,Marine Drive Residence - 5,Marine Drive,,,-123.254908,49.261116
-VBL10090,UBC Tennis Centre,TENN,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Athletics,,Complete,,,,,,,,,UBC Tennis Centre,Tennis,,,-123.24386,49.259491
-VBL10080,Irving K. Barber Learning Centre,IBLC,1961 East Mall,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,1,Irving K. Barber Learning Centre,Barber,Ike Barber,,-123.252745,49.267583
-VBL10081,Jack Bell Building for the School of Social Work,SOWK,2080 West Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,0,Jack Bell Building for the School of Social Work,Jack Bell,,,-123.255099,49.264476
-VBL10186,Ambulance Station,AMBS,2333 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,,Complete,,,,,,,1,0,Ambulance Station,Ambulance,,,-123.243605,49.263238
-VBL10098,Thunderbird Residence - Building 4,THR4,Building 4 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,,Complete,,,,,,,1,0,Thunderbird Residence - Building 4,Thunderbird,,,-123.247556,49.259928
-VBL10082,"Food, Nutrition and Health Building",FNH,2205 East Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,"Food, Nutrition and Health Building",FNH,,,-123.249748,49.263992
-VBL10091,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Athletics,,Complete,,,,,,,1,1,National Soccer Development Centre,Soccer,,,-123.24006,49.257165
-VBL10093,Leon and Thea Koerner University Centre,UCEN,6331 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,0,0,Leon and Thea Koerner University Centre,University Centre,,,-123.257222,49.268896
-VBL10094,Medical Sciences Block C,MEDC,2176 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Medical Sciences Block C,MedSciences C,,,-123.247878,49.264971
-VBL10095,Neville Scarfe Building,SCRF,2125 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Neville Scarfe Building ,Scarfe,Faculty of Education,,-123.253098,49.26397
-VBL10097,Lower Mall Header House,LMHH,2331 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,,Complete,,,,,,,1,0,Lower Mall Header House,Header,,,-123.254818,49.260524
-VBL10176,Green College - Coach House,GRN6,Building 2 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,,,Green College - Coach House,Green College,,,-123.256545,49.271146
-VBL10281,West Hampstead - Building 1,WHM1,5760 Hampton Place,Vancouver,BC,V6T 2G1,Housing,,Complete,,,,,,,1,0,West Hampstead - Building 1,West Hampstead,Hampton Place Lot 2,,-123.235245,49.257589
-VBL10177,Liu Institute for Global Issues,LIU,6476 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,Liu Institute for Global Issues,Liu Institute,,,-123.259278,49.267555
-VBL10180,Green College - Guest House,GRN9,Building 1 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,,,Green College - Guest House,Green College,,,-123.256523,49.270857
-VBL10185,Acadia Community Centre,ACOM,2707 Tennis Crescent,Vancouver,BC,V6T 2E5,Services,,Complete,,,,,,,1,0,Acadia Community Centre,Community Centre,Acadia Park Commonsblock,,-123.237352,49.26263
-VBL10189,Green College - Graham House,GRN7,Building 4 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,,,Green College - Graham House,Green College,,,-123.256341,49.271285
-VBL10190,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,,,Green College - Principal's Residence,Green College,,,-123.256959,49.270906
-VBL10195,UBC Botanical Garden Nursery - Workshop,BON2,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,UBC Botanical Garden Nursery - Workshop,Nursery,,,-123.234451,49.249521
-VBL10196,UBC Botanical Garden Nursery - Greenhouses,BON1,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,UBC Botanical Garden Nursery - Greenhouses,Nursery,,,-123.234953,49.249455
-VBL10192,Main Substation,MSUB,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Operations,,Complete,,,,,,,1,0,Main Substation,Substation,,,-123.244362,49.261352
-VBL10193,Fairview Crescent Residence - Building 1,FAR1,2600 Fairview Crescent,Vancouver,BC,V6T 2B9,StudentHousing,,Complete,,,,,,,1,0,Fairview Crescent Residence - Building 1,Fairview 1,,,-123.239655,49.263308
-VBL10194,Green College - A North + Kitchen/Laundry,GRN1,Building 5 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,,,Green College - A North + Kitchen/Laundry,Green College,,,-123.255629,49.27113
-VBL10224,Gardenia House,GARD,6309 Larkin Drive,Vancouver,BC,V6T 0C2,Housing,,Complete,,,,,,,1,0,Gardenia House,Gardenia,Faculty Staff Housing Building D,,-123.248966,49.258728
-VBL10152,Ponderosa Office Annex F,PONF,2008 Lower Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,Ponderosa Office Annex F,Pond F,Ponderosa Annexes,,-123.257159,49.26492
-VBL10153,Ponderosa Office Annex G,PONG,2044 Lower Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,Ponderosa Office Annex G,Pond G,Ponderosa Annexes,,-123.256445,49.264501
-VBL10305,Westpoint,WSPT,6005 Walter Gage Road,Vancouver,BC,V6T 0B3,Housing,,Complete,,,,,,,1,0,Westpoint,Westpoint,,,-123.250441,49.270246
-VBL10154,Walter C. Koerner Library,KLIB,1958 Main Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,1,Walter C. Koerner Library,Koerner Library,,,-123.255134,49.266655
-VBL10155,Berwick Child Development Centre,BERW,2765 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Administrative,,Complete,,,,,,,1,0,Berwick Memorial Centre,Berwick,,,-123.238955,49.260598
-VBL10161,War Memorial Gymnasium,MGYM,6081 University Boulevard,Vancouver,BC,V6T 1Z1,Athletics,,Complete,,,,,,,0,0,War Memorial Gymnasium,Gym,Gym,,-123.247672,49.266771
-VBL10163,Abdul Ladha Science Student Centre,ALSC,2055 East Mall,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,1,1,Abdul Ladha Science Student Centre,Ladha,Science Student Centre,ALSC,-123.251362,49.266079
-VBL10174,Green College - B East,GRN5,Building 7 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,,,Green College - B East,Green College,,,-123.256004,49.270833
-VBL10327,Chemistry Physics Building,CHPH,6221 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,0,1,Chemistry Physics Building,Chemistry Physics,Chemistry A Block,,-123.251534,49.265728
-VBL10328,Chemistry Building,CHEM,2036 Main Mall,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,0,0,Chemistry Building,Chemistry,"Chemistry B, C, D, E Blocks / South, East, Centre, North Wings",,-123.252684,49.265806
-VBL10286,The Bristol,BRIS,5735 Hampton Place,Vancouver,BC,V6T 2G8,Housing,,Complete,,,,,,,1,0,The Bristol,Bristol,Hampton Place Lot 6 ,,-123.235005,49.258838
-VBL10287,The Regency,REGE,5639 Hampton Place,Vancouver,BC,V6T 2H6,Housing,,Complete,,,,,,,1,0,The Regency,Regency,Hampton Place Lot 8 ,,-123.232888,49.259113
-VBL10293,Wyndham Hall,WYND,5683 Hampton Place,Vancouver,BC,V6T 2H3,Housing,,Complete,,,,,,,1,0,Wyndham Hall,Wyndham Hall,Hampton Place Lot 7-2 ,,-123.23417,49.259329
-VBL10361,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Other,,Complete,,,,,,,1,1,Hillel House - Diamond Foundation Centre for Jewish Campus Life,Hillel,,,-123.251328,49.268616
-VBL10241,The Laureates - Highrise,LAR1,5628 Birney Avenue,Vancouver,BC,V6S 0H7,Housing,,Complete,,,,,,,1,0,The Laureates - Higrise,Laureates,Laureates 1,,-123.230758,49.254092
-VBL10371,International House,INTL,1783 West Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,International House,IHouse,I-House,,-123.258963,49.267805
-VBL10096,Dahlia House,DAHL,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2,Housing,,Complete,,,,,,,1,0,Dahlia House,Dahlia,,,-123.233923,49.25214
-VBL10261,The Laureates - Apartment,LAR2,5638 Birney Avenue,Vancouver,BC,V6S 0H8,Housing,,Complete,,,,,,,,,The Laureates - Apartment,Laureates,,,-123.231713,49.254198
-VBL10362,Horticulture Building,HORT,6394 Stores Road,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Horticulture Building,Horticulture,Greenhouse,,-123.252772,49.261395
-VBL10374,Kids Club,KIDS,2855 Acadia Road,Vancouver,BC,V6T 1S1,Services,,Complete,,,,,,,1,0,Kids Club,Kids Club,,,-123.234812,49.26173
-VBL10376,Ladner Clock Tower,CLCK,1956 Main Mall,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,1,0,Ladner Clock Tower,Clock,,,-123.253632,49.267397
-VBL10377,Landscape Architecture Annex,LAX,2371 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,0,0,Landscape Architecture Annex,Landscape,,,-123.250073,49.260647
-VBL10386,First Nations Longhouse,FNLH,1985 West Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,First Nations Longhouse,Longhouse,House of Learning,,-123.257199,49.26555
-VBL10402,Environmental Services Facility - Incinerator,ENV2,Building 2 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,Environmental Services Facility - Incinerator,ESF,,,-123.229007,49.243671
-VBL10390,Sail - Building 2,SAL2,5981 Gray Avenue,Vancouver,BC,V6S 0G1,Housing,,Complete,,,,,,,,,Sail - Building 2,Sail,,,-123.235195,49.252597
-VBL10340,Ultima,ULTM,3479 Wesbrook Mall,Vancouver,BC,V6S 0B7,Housing,,Complete,,,,,,,1,0,Ultima,Ultima,,,-123.234392,49.252732
-VBL10143,Clement's Green,CLEM,6268 Eagles Drive,Vancouver,BC,V6T 0A2,Housing,,Complete,,,,,,,1,0,Clement's Green,Clement's Green,,,-123.245843,49.258213
-VBL10334,UBC Hospital - Detwiller Pavilion,DPAV,2255 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,,Complete,,,,,,,1,1,UBC Hospital - Detwiller Pavilion,Detwiller,,,-123.244473,49.263557
-VBL10005,UBC Botanical Garden - Workshop (Trailer),BOT6,6450 Stadium Road,Vancouver,BC,V6T 1Z4,Operations,,Complete,,,,,,,,,UBC Botanical Garden - Workshop (Trailer),Botanical Garden ,,,-123.247618,49.254774
-VBL10006,UBC Botanical Garden - Admin/Campbell Building,BOT2,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,,,UBC Botanical Garden - Admin/Campbell Building,Botanical Garden ,,,-123.251106,49.253884
-VBL10391,UBC Farm - Yurt,YURT,3465 Ross Drive,Vancouver,BC,V6T 1W5,Academic,,Complete,,,,,,,,,UBC Farm Centre - Yurt,Farm,,,-123.239894,49.251271
-VBL10393,Walter H. Gage Residence - East Highrise,WGR4,Building 3 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,,Complete,,,,,,,1,0,Walter H. Gage Residence - East Highrise,Gage,,,-123.24916,49.269644
-VBL10394,Walter H. Gage Residence - North Highrise,WGR5,Building 4 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,,Complete,,,,,,,1,0,Walter H. Gage Residence - North Highrise,Gage,,,-123.250038,49.269834
-VBL10148,Reflections,REFL,6279 Eagles Drive,Vancouver,BC,V6T 2K7,Housing,,Complete,,,,,,,1,0,Reflections,Reflections,,,-123.246897,49.258249
-VBL10397,Fraser River Parkade,PARF,6440 Memorial Road,Vancouver,BC,V6T 1Z2,Parking,,Complete,,,,,,,1,0,Fraser River Parkade,Fraser,,,-123.258053,49.266067
-VBL10149,Promontory,PROM,2688 West Mall,Vancouver,BC,V6T 2J8,Housing,,Complete,,,,,,,1,0,Promontory,Promontory,,,-123.247566,49.255945
-VBL10160,Legacy,LGCY,6333 Larkin Drive,Vancouver,BC,V6T 0A7,Housing,,Complete,,,,,,,1,0,Legacy,Legacy,,,-123.248016,49.257457
-VBL10112,Sitka,SITK,5868 Agronomy Road,Vancouver,BC,V6T 0B5,Housing,,Complete,,,,,,,1,1,Sitka,Sitka,,,-123.241928,49.262867
-VBL10395,Walter H. Gage Residence - South Highrise,WGR6,Building 2 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,,Complete,,,,,,,1,0,Walter H. Gage Residence - South Highrise,Gage,,,-123.249716,49.269202
-VBL10396,Walter H. Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,,Complete,,,,,,,1,1,Walter H. Gage Residence - Court (West Coast Suites),Gage,,,-123.248584,49.269593
-VBL10225,Journey,JOUR,6328 Larkin Drive,Vancouver,BC,V6T 2K2,Housing,,Complete,,,,,,,1,0,Journey,Journey,,,-123.247486,49.258032
-VBL10401,Environmental Services Facility - Lab,ENV1,Building 5 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,Environmental Services Facility - Lab ,ESF,,,-123.228625,49.243329
-VBL10407,AMS Nest,NEST,6133 University Boulevard,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,1,1,AMS Nest,Nest,AMS Student Nest,,-123.249792,49.266536
-VBL10408,Environmental Services Facility - Natural Gas Station,ENV3,6027 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,Environmental Services Facility - Natural Gas Stat,ESF,,,-123.228158,49.243629
-VBL10132,"TRIUMF - Offices, Laboratory & Workshops",TRF14,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,1,0,"TRIUMF - Offices, Laborartory & Workshops",TRIUMF,,TRIUMF,-123.230613,49.247642
-VBL10405,Frederic Wood Theatre,FRWO,6354 Crescent Road,Vancouver,BC,V6T 1Z2,Services,,Complete,,,,,,,1,1,Frederic Wood Theatre,Theatre,Freddy Wood,,-123.256998,49.268043
-VBL10410,Gas Gun Facility,GASG,6301 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,0,Gas Gun Facility,Gas Gun,,,-123.246039,49.256018
-VBL10040,Keenleyside,KEEN,5788 Birney Avenue,Vancouver,BC,V6S 0A2,Housing,,Complete,,,,,,,1,0,Keenleyside,Keenleyside,,,-123.233177,49.253955
-VBL10135,Eton - Highrise,ETN1,3487 Binning Road,Vancouver,BC,,Housing,,Complete,,,,,,,1,0,Eton - Highrise,Eton,Wesbrook Lot 15,,-123.230573,49.253427
-VBL10136,Eton - Apartment,ETN2,5687 Gray Avenue,Vancouver,BC,,Housing,,Complete,,,,,,,,,Eton - Aparment,Eton,,,-123.231391,49.253188
-VBL10167,Yu,YU,5955 Birney Avenue,Vancouver,BC,V6S 0C5,Housing,,Complete,,,,,,,1,0,Yu,Yu,,,-123.236055,49.253554
-VBL10159,Tamarack House,TAMK,6230 Thunderbird Boulevard,Vancouver,BC,V6T 0C3,Housing,,Complete,,,,,,,1,0,Tamarack House,Tamarack,Faculty Staff Housing Building E,,-123.246339,49.259593
-VBL10169,Pacific,PACC,5928 Birney Avenue,Vancouver,BC,V6S 0B5,Housing,,Complete,,,,,,,1,0,Pacific,Pacific,,,-123.23499,49.253273
-VBL10172,Sail - Building 1,SAL1,5983 Gray Avenue,Vancouver,BC,V6S 0G8,Housing,,Complete,,,,,,,1,0,Sail - Building 1,Sail,Sail 1,,-123.23523,49.252234
-VBL10183,Academy - Highrise,ACD1,5728 Berton Avenue,Vancouver,BC,V6S 0E5,Housing,,Complete,,,,,,,1,0,Academy - Highrise,Academy,,,-123.233049,49.25559
-VBL10240,Pathways - West Building,PTHW,5777 Birney Avenue,Vancouver,BC,V6S 0A4,Housing,,Complete,,,,,,,,,Pathways - West Building,Pathways,,,-123.233782,49.254396
-VBL10411,Geography Building,GEOG,1984 West Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,0,0,Geography Building,Geography,,,-123.256138,49.265987
-VBL10412,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Athletics,,Complete,,,,,,,1,0,Gerald McGavin UBC Rugby Centre,Rugby Centre,,,-123.241322,49.259584
-VBL10406,Environmental Services Facility - PCB Equipment Storage,ENV5,Building 4 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,Environmental Services Facility - PCB Equipment St,ESF,,,-123.228047,49.243358
-VBL10413,Environmental Services Facility - Solvent Storage Area,ENV6,Building 3 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,Environmental Services Facility - Solvent Storage ,ESF,,,-123.228605,49.243731
-VBL10238,Spirit,SPRT,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6,Housing,,Complete,,,,,,,1,0,Spirit,Spirit,,,-123.233615,49.252974
-VBL10239,Pathways - East Building,PTHE,5779 Birney Avenue,Vancouver,BC,V6S 0A3,Housing,,Complete,,,,,,,1,0,Pathways - East Building,Pathways,Pathways II East,,-123.232835,49.25463
-VBL10415,Green College - A South,GRN3,Building 6 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,,Complete,,,,,,,,,Green College - A South,Green College,,,-123.25524,49.270939
-VBL10092,Chan Gunn Pavilion,GUNN,2553 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,Chan Gunn Pavilion,Chan Gunn,,,-123.241614,49.260961
-VBL10105,Totem Park Residence - Building 7,TPR7,Building 7 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,,Complete,,,,,,,1,1,Totem Park Residence - Building 7,Totem,,,-123.251645,49.256806
-VBL10103,Djavad Mowafaghian Centre for Brain Health,CBH,2215 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,,Complete,,,,,,,1,1,Djavad Mowafaghian Centre for Brain Health,CBH,,,-123.244565,49.264273
-VBL10318,UBC Hospital - Koerner Pavilion,KPAV,2211 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,,Complete,,,,,,,1,1,UBC Hospital - Koerner Pavilion,Koerner,Hospital,,-123.245982,49.264151
-VBL10388,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,Vancouver,BC,V6T 1Z9,Services,,Complete,,,,,,,1,1,UBC Hospital - Purdy Pavilion,Purdy,,,-123.245952,49.263267
-VBL10329,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Civil and Mechanical Engineering Building,CEME,,CEME,-123.248891,49.262558
-VBL10020,FERIC,FERC,2601 East Mall,Vancouver,BC,V6T 1Z4,Administrative,,Complete,,,,,,,1,0,FPInnovations - FERIC (Forest Operations),Feric,<Null>,,-123.244548,49.257744
-VBL10021,FPInnovations,FPIN,2665 East Mall,Vancouver,BC,V6T 1Z4,Research,,Complete,,,,,,,1,0,FPInnovations - FORINTEK (Wood Products),FP Innovations,Forintek,,-123.244467,49.256798
-VBL10118,St. Mark's College,STMK,5935 Iona Drive,Vancouver,BC,V6T 1J7,Other,,Complete,,,,,,,1,0,St. Mark's College,St. Mark's College,,,-123.249156,49.272273
-VBL10346,Technology Enterprise Facility 3,TEF3,6190 Agronomy Road,Vancouver,BC,V6T 1Z3,Administrative,,Complete,,,,,,,1,0,Technology Enterprise Facility 3 ,TEF3,,,-123.246304,49.261149
-VBL10330,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,0,Civil and Mechanical Engineering Labs,CEME Labs,,,-123.249351,49.263122
-VBL10236,3800 Wesbrook Mall,3800,3800 Wesbrook Mall,Vancouver,BC,V6T 1W5,Research,,Complete,,,,,,,1,0,3800 Wesbrook,3800,,,-123.2303,49.2502
-VBL10333,D.H. Copp Building,COPP,2146 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,D.H. Copp Building,Copp,,,-123.247549,49.265533
-VBL10335,Old Auditorium,AUDI,6344 Memorial Road,Vancouver,BC,V6T 1Z2,Services,,Complete,,,,,,,1,0,Old Auditorium,Old Aud,,,-123.256101,49.266897
-VBL10337,Building Operations Nursery,BONR,6029 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,Building Operations Nursery,BOps Nursery,Plant Operations Greenhouses,,-123.228779,49.244333
-VBL10339,Campus Energy Centre,CEC,6130 Agronomy Road,Vancouver,BC,V6T 1Z3,Operations,,Complete,,,,,,,1,1,Campus Energy Centre,CEC,,,-123.245092,49.261645
-VBL10341,Cecil Green Park Coach House,CGPC,6323 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Administrative,,Complete,,,,,,,0,0,Cecil Green Park Coach House,Coach House,,,-123.258473,49.270999
-VBL10342,Cecil Green Park House,CGPH,6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Administrative,,Complete,,,,,,,1,0,Cecil Green Park House,Cecil Green,,,-123.257677,49.271375
-VBL10343,Ponderosa Office Annex B,PONB,2029 West Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,Ponderosa Office Annex B,Pond B,Ponderosa Annexes,,-123.255964,49.264843
-VBL10344,Ponderosa Office Annex C,PONC,2021 West Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,0,0,Ponderosa Office Annex C,Pond C,Ponderosa Annexes,,-123.256263,49.264858
-VBL10348,Sing Tao Building,STAO,6388 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,1,Sing Tao Building,Sing Tao,School of Journalism,,-123.257746,49.267826
-VBL10351,Library PARC@UBC,PARC,6049 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,,Complete,,,,,,,1,0,Library PARC@UBC,Library PARC,Library Preservation and Archives ,PARC,-123.229679,49.245095
-VBL10357,Health Sciences Parkade,PARH,2250 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Parking,,Complete,,,,,,,1,0,Health Sciences Parkade,Health Sciences,,,-123.247851,49.2634
-VBL10358,Place Vanier Residence - Robson House,VNR10,Building 7 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Robson House,Vanier,,,-123.258437,49.263908
-VBL10359,Hennings Building,HENN,6224 Agricultural Road,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,0,0,Hennings Building,Hennings,,,-123.252206,49.266441
-VBL10254,The Chatham,CHAT,5775 Hampton Place,Vancouver,BC,V6T 2G6,Housing,,Complete,,,,,,,1,0,The Chatham,Chatham,Hampton Place Lot 5 ,,-123.236162,49.258695
-VBL10360,Place Vanier Residence - Cariboo House,VNR02,Building 6 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Cariboo House,Vanier,,,-123.258973,49.26374
-VBL10363,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,Vancouver,BC,V6T 1Z4,Administrative,,Complete,,,,,,,1,0,Hugh Dempster Pavilion,Dempster,,,-123.248044,49.261251
-VBL10364,In-Vessel Composting Facility,COMP,6035 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,In-Vessel Composting Facility,Composting,,,-123.228013,49.244844
-VBL10365,Place Vanier Residence - Sherwood Lett House,VNR11,Building 4 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Sherwood Lett House,Vanier,,,-123.257533,49.263393
-VBL10366,John Barfoot Macdonald Building,MCDN,2199 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,1,1,JB Macdonald Building,Macdonald,Dentistry Building,,-123.245336,49.265339
-VBL10367,Place Vanier Residence - Tec De Monterrey House,VNR12,Building 8 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,1,Place Vanier Residence - Tec De Monterrey House,Vanier,,,-123.259536,49.264033
-VBL10191,Magnolia House,MAGN,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1,Housing,,Complete,,,,,,,1,0,Magnolia House,Magnolia,,,-123.233538,49.251536
-VBL10368,Place Vanier Residence - Phyllis Ross House,VNR09,Building 11 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Phyllis Ross House,Vanier,,,-123.259613,49.265321
-VBL10369,Place Vanier Residence - Tweedsmuir House,VNR13,Building 5 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,,Complete,,,,,,,1,0,Place Vanier Residence - Tweedsmuir House,Vanier,,,-123.258307,49.263479
-VBL10370,Exchange Residence,EXCH,5960 Student Union Boulevard,Vancouver,BC,V6T 2C9,StudentHousing,,Complete,,,,,,,1,1,Exchange Residence,Exchange,,,-123.247698,49.268598
-VBL10138,Old Administration Building,OAB,6328 Memorial Road,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,1,Old Administration Building,OAB,,,-123.255508,49.267103
-VBL10150,University Services Building,USB,2329 West Mall,Vancouver,BC,V6T 1Z4,Operations,,Complete,,,,,,,1,1,University Services Building,USB,Campus Mail,USB,-123.253783,49.261305
-VBL10151,Ponderosa Office Annex E,PONE,2034 Lower Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,Ponderosa Office Annex E,Pond E,Ponderosa Annexes,,-123.256702,49.264677
-VBL10139,Old Fire Hall,FIRE,2038 West Mall,Vancouver,BC,V6T 1Z2,Operations,,Complete,,,,,,,0,0,Old Fire Hall,Fire Hall,,,-123.255572,49.265027
-VBL10140,Child Care Services - Sitka/Discovery,CCS6,5620 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,,Complete,,,,,,,,,Child Care Services - Sitka/Discovery,Child Care Services ,,,-123.234523,49.259755
-VBL10141,Child Care Services - Summer of 73/Lilliput,CCS7,5690 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,,Complete,,,,,,,,,Child Care Services - Summer of 73/Lilliput,Child Care Services ,,,-123.235474,49.259443
-VBL10142,Child Care Services - Tillicum/Canada Goose,CCS8,5660 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,,Complete,,,,,,,,,Child Care Services - Tillicum/Canada Goose,Child Care Services ,,,-123.234993,49.25959
-VBL10145,Point Grey Apartments,PGRA,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3,StudentHousing,,Complete,,,,,,,1,1,Point Grey Apartments ,,Osoyoos Housing,,-123.237985,49.259961
-VBL10146,Ponderosa Office Annex A,PONA,2011 West Mall,Vancouver,BC,V6T 1Z2,Administrative,,Complete,,,,,,,1,0,Ponderosa Office Annex A,Pond A,Ponderosa Annexes,,-123.256382,49.26517
-VBL10106,Sandringham,SAND,5650 Hampton Place,Vancouver,BC,V6T 2G5,Housing,,Complete,,,,,,,1,0,Sandringham,Sandringham,Hampton Place Lot 1,,-123.233552,49.257841
-VBL10206,The Stratford,STRA,5657 Hampton Place,Vancouver,BC,V6T 2H4,Housing,,Complete,,,,,,,1,0,The Stratford,Stratford,Hampton Place Lot 7-1 ,,-123.233453,49.259631
-VBL10253,Thames Court - Townhouses,THAC2,5880 Hampton Place,Vancouver,BC,V6T 2E9,Housing,,Complete,,,,,,,1,0,Thames Court,Thames Court,Hampton Place Lot 3,,-123.236155,49.257069
-VBL10314,Axis,AXIS,6090 Iona Drive,Vancouver,BC,V6T 0B6,Housing,,Complete,,,,,,,1,0,Axis ,Axis ,,,-123.252236,49.270004
-VBL10303,Corus,CORS,5989 Walter Gage Road,Vancouver,BC,V6T 0A8,Housing,,Complete,,,,,,,1,1,Corus,Corus,,,-123.249362,49.270655
-VBL10133,Azalea House,AZAL,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9,Housing,,Complete,,,,,,,1,0,Azalea House,Azalea,Faculty Staff Housing Building A ,,-123.2495,49.257889
-VBL10074,Spirit Park Apartments,SPPA,2705 Osoyoos Crescent,Vancouver,BC,V6T 1X7,StudentHousing,,Complete,,,,,,,1,0,Spirit Park Apartments,Spirit Park,,,-123.239378,49.261495
-VBL10075,Sopron House,SOPR,2730 Acadia Road,Vancouver,BC,V6T 1R9,StudentHousing,,Complete,,,,,,,1,0,Sopron House,Sopron House,,,-123.235345,49.262177
-VBL10289,Stirling House,STIR,6080 Iona Drive,Vancouver,BC,V6T 0A4,Housing,,Complete,,,,,,,1,1,Stirling House,Stirling House,,,-123.252464,49.270469
-VBL10280,Esse,ESSE,1863 Wesbrook Mall,Vancouver,BC,V6T 2J7,Housing,,Complete,,,,,,,1,0,Esse,Esse,,,-123.248325,49.271208
-VBL10288,Argyll House East,ARGE,5958 Iona Drive,Vancouver,BC,V6T 2L2,Housing,,Complete,,,,,,,1,0,Argyll House East,Argyll East,,,-123.24956,49.271404
-VBL10077,South Campus Warehouse,SCWH,6116 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,South Campus Warehouse,SC Warehouse,,,-123.231866,49.24625
-VBL10078,Institute for Computing Information and Cognitive Systems / Computer Science,ICCS,2366 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,"Institute for Computing, Information and Cognitive Systems",ICICS,,ICICS/CS,-123.248831,49.261174
-VBL10079,Thunderbird Residence - Building 5,THR5,Building 5 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,,Complete,,,,,,,1,0,Thunderbird Residence - Building 5,Thunderbird,,,-123.246686,49.260235
-VBL10010,Greenwood Commons,GRWC,2660 Wesbrook Mall,Vancouver,BC,V6T 0A5,Housing,,Complete,,,,,,,1,0,Greenwood Commons ,Green College,,,-123.240073,49.260949
-VBL10011,Vista Point,VIST,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8,Housing,,Complete,,,,,,,1,0,Vista Point,Vista Point,,,-123.240257,49.261695
-VBL10117,Fraser Hall,FRAS,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3,StudentHousing,,Complete,,,,,,,1,0,Fraser Hall,Fraser Hall,,,-123.240737,49.261478
-VBL10320,TRIUMF House,TRFH,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6,Housing,,Complete,,,,,,,1,0,TRIUMF House,TRIUMF,TRIUMF Visitor's Residence,,-123.241234,49.262043
-VBL10322,Cypress House,CYPR,5988 Gray Avenue,Vancouver,BC,V6S 0K4,Housing,,Complete,,,,,,,1,0,Cypress House,Cypress,Wesbrook Lot 29,,-123.234693,49.251928
-VBL10294,AYO Smart Home,AYOH,5935 Agronomy Road,Vancouver,BC,V6T 1Z3,Other,,Complete,,,,,,,1,0,AYO Smart Home Prototype,AYO,,,-123.243428,49.263035
-VBL10321,Pine House,PINE,3588 Ross Drive,Vancouver,BC,V6S 0K3,Housing,,Complete,,,,,,,1,0,Pine House,Pine,Wesbrook Lot 27,,-123.234275,49.251427
-VBL10345,Virtuoso,VIRT,3581 Ross Drive,Vancouver,BC,V6S 0K5,Housing,,Complete,,,,,,,1,0,Virtuoso,Virtuoso,Wesbrook Lot 23,,-123.23395,49.250717
-VBL10171,Webber House,WEBH,3388 Webber Lane,Vancouver,BC,V6S 0J8,Housing,,Complete,,,,,,,1,0,Webber House,Webber,,,-123.236769,49.2533
-VBL10208,Carey Hall (Carey Theological College),CRYH,1815 Wesbrook Mall,Vancouver,BC,V6T 1J6,Other,,Complete,,,,,,,1,0,Carey Hall (Carey Theological College),Carey Hall,,,-123.248534,49.271734
-VBL10404,Fraternity Village,FRAT,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3,StudentHousing,,Complete,,,,,,,1,0,Fraternity Village ,Fraternity,,,-123.238861,49.259666
-VBL10001,Earth and Ocean Sciences,EOS,6339 Stores Road,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Earth and Ocean Sciences,EOS,EOS Main,EOS,-123.252478,49.262499
-VBL10002,Totem Park Residence - Building 6,TPR6,Building 6 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,,Complete,,,,,,,1,0,Totem Park Residence - Building 6,Totem,,,-123.252628,49.257453
-VBL10003,UBC Botanical Garden - Garden Pavilion,BOT4,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,,,UBC Botanical Garden - Garden Pavilion,Botanical Garden ,,,-123.247123,49.253249
-VBL10013,Orchard Commons,ORCH,6363 Agronomy Road,Vancouver,BC,V6T 1Z4,Commons,,Complete,,,,,,,1,1,Orchard Commons,Orchard,,,-123.251298,49.260428
-VBL10331,Brock Hall,BRCK,1874 East Mall,Vancouver,BC,V6T 1Z1,Administrative,,Complete,,,,,,,1,1,Brock Hall,Brock,Student Services and Welcome Centre,,-123.252066,49.268649
-VBL10014,UBC Farm - Farm Centre,FRM1,Building 1 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Academic,,Complete,,,,,,,,,UBC Farm Centre - Farm Centre,Farm,Forestry Field House,,-123.240131,49.251577
-VBL10007,UBC Botanical Garden - Ting Lookout,BOT7,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,,,UBC Botanical Garden - Ting Lookout,Botanical Garden ,Lookout,,-123.251644,49.254077
-VBL10015,UBC Farm - Children's Greenhouse,FRM3,Building 2 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,UBC Farm Centre - Children's Greenhouse,Farm,,,-123.23981,49.251464
-VBL10008,UBC Botanical Garden - Reception Centre,BOT3,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,,,UBC Botanical Garden - Reception Centre,Botanical Garden ,Reception/Education,,-123.25124,49.254142
-VBL10017,Centre for Comparative Medicine,CCM,4145 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,,Complete,,,,,,,1,0,Centre for Comparative Medicine,CCM,,CCM,-123.233695,49.246842
-VBL10009,UBC Farm - Greenhouse 1,FRM4,Building 3 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,UBC Farm Centre - Greenhouse 1,Farm,Botany Greenhouse 1,,-123.238944,49.251132
-VBL10012,UBC Farm - Greenhouse 2,FRM5,Building 4 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,UBC Farm Centre - Greenhouse 2,Farm,Botany Greenhouse 2,,-123.239035,49.251033
-VBL10016,Totem Park Residence - Building 4,TPR4,Building 4 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,,Complete,,,,,,,1,0,Totem Park Residence - Building 4,Totem,,,-123.251552,49.259171
-VBL10060,HR MacMillan Building,MCML,2357 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,HR MacMillan Building,MacMillan,Faculty of Land and Food Systems,,-123.250752,49.261068
-VBL10403,MBA House,MBAH,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4,StudentHousing,,Complete,,,,,,,1,0,MBA House,MBA House,,,-123.235168,49.253864
-VBL10165,The Mews,MEWS,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Housing,,Complete,,,,,,,1,0,The Mews,Mews,,,-123.235704,49.254536
-VBL10042,Frederic Lasserre Building,LASR,6333 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,0,Frederic Lasserre Building,Lasserre,,,-123.255992,49.267592
-VBL10044,Frank Forward Building,FORW,6350 Stores Road,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,0,0,Frank Forward Building,Forward,,,-123.251707,49.261686
-VBL10045,Pulp and Paper Centre,PAPC,2385 East Mall,Vancouver,BC,V6T 1Z4,Research,,Complete,,,,,,,1,1,Pulp and Paper Centre,Pulp,,,-123.247581,49.261414
-VBL10047,Hebb Building,HEBB,2045 East Mall,Vancouver,BC,V6T 1Z1,Academic,,Complete,,,,,,,1,0,Hebb Building,Hebb,,,-123.251648,49.266132
-VBL10019,Environmental Services Facility - Waste Processing & Storage,ENV7,Building 6 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,1,0,Environmental Services Facility - Waste Processing,ESF,,,-123.228693,49.243437
-VBL10024,Power House,POWR,2040 West Mall,Vancouver,BC,V6T 1Z2,Operations,,Complete,,,,,,,1,0,Power House,Power House,,,-123.2548,49.265211
-VBL10039,George Cunningham Building,CUNN,2146 East Mall,Vancouver,BC,V6T 1Z3,Academic,,Complete,,,,,,,0,0,George Cunningham Building ,Cunningham,,,-123.248748,49.26479
-VBL10054,Rose Garden Parkade,PARR,6278 NW Marine Drive,Vancouver,BC,V6T 1Z1,Parking,,Complete,,,,,,,1,0,Rose Garden Parkade,Rose Garden,,,-123.256306,49.269107
-VBL10055,Rugby Pavilion,RUGB,2584 East Mall,Vancouver,BC,V6T 1Z3,Athletics,,Complete,,,,,,,1,0,Rugby Pavilion,Rugby,,,-123.244018,49.258669
-VBL10051,Rodney Graham Millennium Sculpture Pavilion,RSCU,1940 Main Mall,Vancouver,BC,V6T 1Z1,Services,,Complete,,,,,,,1,0,Rodney Graham Millennium Sculpture Pavilion,Sculpture,,,-123.254508,49.267523
-VBL10297,Coast - Apartment West,COSW,6093 Iona Drive,Vancouver,BC,V6T 0B2,Housing,,Complete,,,,,,,1,0,Coast - Apartment West,Coast West,,,-123.25321,49.27074
-VBL10298,Argyll House West,ARGW,6018 Iona Drive,Vancouver,BC,V6T 2L1,Housing,,Complete,,,,,,,1,0,Argyll House West,Argyll West,,,-123.251327,49.270781
-VBL10300,Coast - Apartment East,COSE,6063 Iona Drive,Vancouver,BC,V6T 0B1,Housing,,Complete,,,,,,,1,0,Coast - Apartment East,Coast East,,,-123.252559,49.271039
-VBL10166,Wesbrook Professional Centre,WPRO,3313 Shrum Lane,Vancouver,BC,V6S 0C8,Commercial,,Complete,,,,,,,1,0,Wesbrook Professional Centre,Professional,,,-123.23633,49.254469
-VBL10115,St. James House,STJA,5835 Hampton Place,Vancouver,BC,V6T 2G2,Housing,,Complete,,,,,,,1,0,St. James House,St. James,Hampton Place Lot 4,,-123.237176,49.258207
-VBL10175,The Balmoral,BALM,5615 Hampton Place,Vancouver,BC,V6T 2H1,Housing,,Complete,,,,,,,1,0,The Balmoral,Balmoral,Hampton Place Lot 9,,-123.232724,49.258484
-VBL10205,The Pemberley,PEMB,5605 Hampton Place,Vancouver,BC,V6T 2H2,Housing,,Complete,,,,,,,1,0,The Pemberley,Pemberley,Hampton Place Lot 10 ,,-123.232204,49.258019
-VBL10064,Wayne and William White Engineering Design Centre,EDC,2345 East Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,0,Wayne and William White Engineering Design Centre,EDC,,EDC,-123.248167,49.262339
-VBL10065,UBC Bookstore,BOOK,6200 University Boulevard,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,1,1,UBC Bookstore,Bookstore,,,-123.250614,49.264987
-VBL10356,Central,CNTL,6015 University Boulevard,Vancouver,BC,V6T 0C4,Housing,,Complete,,,,,,,1,1,Central (University Boulevard Site B),Central,Site B,,-123.247244,49.266347
-VBL10037,TRIUMF - Stores Building,TRF17,Building 22 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Stores Building,TRIUMF,,,-123.230593,49.246533
-VBL10066,The Brimacombe Building,BRIM,2355 East Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,The Brimacombe Building,Brimacombe,,,-123.248079,49.261856
-VBL10067,Henry Angus Building,ANGU,2053 Main Mall,Vancouver,BC,V6T 1Z2,Academic,,Complete,,,,,,,1,0,Henry Angus Building,Angus,Sauder School of Business,,-123.253922,49.265125
-VBL10068,Coal and Mineral Processing Laboratory,MINL,2332 West Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Coal and Mineral Processing Lab,Coal Lab,Keevil Institute of Mining Engineering,,-123.252029,49.261163
-VBL10069,Bioenergy Research and Demonstration Facility,BRDF,2337 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,,Complete,,,,,,,1,1,Bioenergy Research and Demonstration Facility,Bioenergy,,,-123.254573,49.260277
-VBL10070,David Strangway Building,STRG,5950 University Boulevard,Vancouver,BC,V6T 1Z3,Administrative,,Complete,,,,,,,1,0,David Strangway Building,Strangway,,,-123.246187,49.265847
-VBL10071,UBC Aquatic Centre,AQUA,6080 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Athletics,,Complete,,,,,,,1,1,UBC Aquatic Centre,Aquatic,Swimming Pool,,-123.248567,49.267812
-VBL10072,Earth Sciences Building,ESB,2207 Main Mall,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Earth Sciences Building,ESB,Science Dean office,,-123.252163,49.263055
-VBL10073,Engineering Student Centre,ESC,2335 Engineering Road,Vancouver,BC,V6T 1Z4,Academic,,Complete,,,,,,,1,1,Engineering Student Centre,ESC,Engineering Undergraduate Society,ESC,-123.249272,49.262192
-VBL10144,Hawthorn Green,HAWT,,,,,Housing,,Complete,,,,,,,1,0,Hawthorn Green,Hawthorn Green,,,-123.248583,49.258173
-VBL10158,Nine on the Park,NINE,,,,,Housing,,Complete,,,,,,,0,0,Nine on the Park,Nine on the Park,,,-123.247043,49.259322
-VBL10147,Somerset,SOMS,,,,,Housing,,Complete,,,,,,,1,0,Somerset,Somerset,,,-123.248143,49.256497
-VBL10220,Westchester,WSTR,,,,,Housing,,Complete,,,,,,,1,0,Westchester,Westchester,,,-123.24911,49.257371
-VBL10226,Logan Lane,LOGN,,,,,Housing,,Complete,,,,,,,0,0,Logan Lane,Logan Lane,,,-123.245758,49.258904
-VBL10279,St. Mark's Duplexes,STMD,,,,,Housing,,Complete,,,,,,,0,0,St. Mark's Duplexes,Duplexes,,,-123.249411,49.272726
-VBL10355,University Boulevard Lot,ULOT,6131 University Boulevard,Vancouver,BC,V6T 1Z3,Parking,,Complete,,,,,,,,,University Boulevard Lot,UBlvd Lot,,,-123.248957,49.266712
-VBL10063,TRIUMF - Trailer GG,TRF20,Building 26 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer GG,TRIUMF,,,-123.229348,49.246181
-VBL10057,TRIUMF - Trailer RR,TRF26,Building 16 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer RR,TRIUMF,,,-123.230826,49.247133
-VBL10076,The Wesbrook - Townhouses,WSB2,Building 1 - 5838 Berton Avenue,Vancouver,BC,V6S 0A5,Housing,,Complete,,,,,,,,,The Wesbrook - Townhouses,The Wesbrook,,,-123.234202,49.254725
-VBL10299,Binning Tower - Townhouses,BINT,Building 1 - 3355 Binning Road,Vancouver,BC,V6S 0J1,Housing,,Complete,,,,,,,,,Binning Tower - Townhouses,Binning Tower,,,-123.231627,49.255277
-VBL10398,West Hampstead - Townhouses,WHM2,Building 1 - 5760 Hampton Place,Vancouver,BC,V6T 2G1,Housing,,Complete,,,,,,,,,West Hampstead - Townhouses,West Hampstead,,,-123.234586,49.2575
-VBL10188,Sage - Townhouses,SAG2,Building 1 - 5782 Berton Avenue,Vancouver,BC,V6S 0C1,Housing,,Complete,,,,,,,,,Sage - Townhouses,Sage,,,-123.233503,49.254979
-VBL10031,TRIUMF - ISAC 1,TRF09,Building 6 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - ISAC 1,TRIUMF,,,-123.229471,49.247857
-VBL10213,Under Construction - Mundell House,MUNH,6038 Birney Avenue,Vancouver,BC,,Housing,,UnderConstruction,,,,,,,,,Mundell House,Mundell,,,-123.236061,49.252932
-VBL10232,Under Construction - Focal,FOCL,6111 University Boulevard,Vancouver,BC,V6T 0C7,Housing,,UnderConstruction,,,,,,,,,Focal,Focal,,,-123.248422,49.266177
-VBL10247,Under Construction - Georgia Point,GEOP,3381 Ross Drive,Vancouver,BC,,Housing,,UnderConstruction,,,,,,,,,Georgia Point,Georgia Point,,,-123.239225,49.251953
-VBL10255,Under Construction - Oakwood Residences,OAKR,3383 Ross Drive,Vancouver,BC,,Housing,,UnderConstruction,,,,,,,,,Oakwood Residences,Oakwood,,,-123.23852,49.251645
-VBL10179,Telus Hub,TELS,5895 Berton Avenue,Vancouver,BC,V6T 1W5,Other,,Complete,,,,,,,,,Telus Hub,Telus,,,-123.235473,49.255225
-VBL10352,Under Construction - The Residences at Nobel Park - Townhouses,REN2,3483 Ross Drive,Vancouver,BC,,Housing,,UnderConstruction,,,,,,,,,The Residences at Nobel Park - Townhouses,Nobel Park,,,-123.236412,49.250912
-VBL10372,Under Construction - Acadia Modular Child Care - Building 1,MCC1,,Vancouver,BC,,Services,,UnderConstruction,,,,,,,,,Acadia Modular Child Care - Building 1,Child Care 1,,,-123.236533,49.260392
-VBL10373,Under Construction - Acadia Modular Child Care - Building 2,MCC2,,Vancouver,BC,,Services,,UnderConstruction,,,,,,,,,Acadia Modular Child Care - Building 2,Child Care 2,,,-123.235488,49.260488
-VBL10375,Under Construction - Acadia Modular Child Care - Building 3,MCC3,,Vancouver,BC,,Services,,UnderConstruction,,,,,,,,,Acadia Modular Child Care - Building 3,Child Care 3,,,-123.235332,49.26084
-VBL10378,Under Construction - Pacific Residences - Building 2,PAR2,5955 Student Union Boulevard,Vancouver,BC,,StudentHousing,,UnderConstruction,,,,,,,,,Pacific Residences - Building 2,Pacific Res,,,-123.248459,49.269229
-VBL10381,Under Construction - Pacific Residences - Building 1,PAR1,5985 Student Union Boulevard,Vancouver,BC,,StudentHousing,,UnderConstruction,,,,,,,,,Pacific Residences - Building 1,Pacific Res,,,-123.249612,49.268822
-VBL10382,Under Construction - Pacific Residences - Building 5,PAR5,5970 Walter Gage Road,Vancouver,BC,,StudentHousing,,UnderConstruction,,,,,,,,,Pacific Residences - Building 5,Pacific Res,,,-123.248296,49.270582
-VBL10383,Under Construction - Pacific Residences - Building 3,PAR3,,Vancouver,BC,,StudentHousing,,UnderConstruction,,,,,,,,,Pacific Residences - Building 3,Pacific Res,,,-123.247869,49.269615
-VBL10384,Under Construction - Pacific Residences - Building 4,PAR4,,Vancouver,BC,,StudentHousing,,UnderConstruction,,,,,,,,,Pacific Residences - Building 4,Pacific Res,,,-123.247986,49.270206
-VBL10425,Under Construction - TRIUMF - Institute of Advanced Medical Isotopes (IAMI),,Building 28 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,UnderConstruction,,,,,,,,,TRIUMF - Institute of Advanced Medical Isotopes,TRIUMF,,IAMI,-123.228275,49.246796
-VBL10023,TRIUMF - Accelerator Trailer,TRF03,Building 15 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Accelerator Trailer,TRIUMF,,,-123.230129,49.246851
-VBL10028,TRIUMF - Equipment Marque,TRF06,Building 20 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Equipment Marque,TRIUMF,,,-123.230714,49.246738
-VBL10030,TRIUMF - Hazardous Storage,TRF08,Building 13 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Hazardous Storage,TRIUMF,,,-123.229338,49.24672
-VBL10038,TRIUMF - Trailer A,TRF18,Building 21 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer A,TRIUMF,,,-123.230343,49.246578
-VBL10033,TRIUMF - Liquid Helium Storage,TRF11,Building 18 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Liquid Helium Storage,TRIUMF,,,-123.230787,49.246918
-VBL10034,TRIUMF - Nina Storage Shelter,TRF13,Building 23 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Nina Storage Shelter,TRIUMF,,,-123.230432,49.245982
-VBL10035,TRIUMF - Plant Storage,TRF15,Building 27 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Plant Storage,TRIUMF,,,-123.229637,49.245997
-VBL10049,TRIUMF - Trailer HH & FF,TRF21,Building 3 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer HH & FF,TRIUMF,,,-123.230638,49.248306
-VBL10050,TRIUMF - Trailer LL,TRF22,Building 17 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer LL,TRIUMF,,,-123.230961,49.24689
-VBL10053,TRIUMF - Trailer PP,TRF24,Building 25 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer PP,TRIUMF,,,-123.229145,49.246359
-VBL10056,TRIUMF - Trailer Q,TRF25,Building 19 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Trailer Q,TRIUMF,,,-123.230628,49.246812
-VBL10061,TRIUMF - Machine Shop Materials,TRF12,Building 24 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,,Complete,,,,,,,,,TRIUMF - Machine Shop Materials,TRIUMF,,,-123.229845,49.246373
-VBL10198,Fairview Crescent Residence - Building 2,FAR2,2763 Fairview Crescent,Vancouver,BC,V6T 2B8,StudentHousing,,Complete,,,,,,,,,Fairview Crescent Residence - Building 2,Fairview 2,,,-123.239819,49.262993
-VBL10421,Under Construction - Counselling Services,CNSL,1930 East Mall,Vancouver,BC,,Services,,UnderConstruction,,,,,,,,,Counselling Services,Counselling,,,-123.251997,49.268236
-VBL10244,Eton - Townhouses,ETN3,Building 1 - 5687 Gray Avenue,Vancouver,BC,,Housing,,Complete,,,,,,,,,Eton - Townhouses,Eton,,,-123.231518,49.253524
-VBL10264,Ivy on the Park - Townhouses,IVYT,5681 Birney Avenue,Vancouver,BC,,Housing,,Complete,,,,,,,,,Ivy on the Park - Townhouses,Ivy on the Park,,,-123.231836,49.254771
-VBL10265,Ivy on the Park - Highrise,IVYH,5629 Birney Avenue,Vancouver,BC,,Housing,,Complete,,,,,,,,,Ivy on the Park - Highrise,Ivy on the Park,,,-123.231003,49.254718
-VBL10400,Environmental Services Facility - Office,ENV4,Building 1 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,,Complete,,,,,,,,,Environmental Services Facility - Office,ESF,,,-123.228955,49.243459
-VBL10199,Academy - Townhouses,ACD2,Building 1 - 5728 Berton Avenue,Vancouver,BC,V6S 0E5,Housing,,Complete,,,,,,,,,Academy - Townhouses,Academy,,,-123.232779,49.255182
-VBL10416,Vanier Pump Station,VNRP,Building 14 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,Operations,,Complete,,,,,,,,,Vanier Pump Station,Vanier Pump,,,-123.260266,49.26482
-VBL10418,Cecil Green Squash Court,CGSQ,Building 1 - 6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Athletics,,Complete,,,,,,,,,Cecil Green Squash Court,Squash,,,-123.257056,49.271418
-VBL10419,UBC Botanical Garden - Shop/Gatehouse Entrance,BOT1,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,,Complete,,,,,,,,,UBC Botanical Garden - Shop/Gatehouse Entrance,Botanical Garden ,,,-123.250531,49.254029
-VBL10354,UBC Exchange,TRAN,1985 Wesbrook Mall,Vancouver,BC,V6T 2C9,Parking,,Complete,,,,,,,,,UBC Exchange,Transit,,,-123.247729,49.268347
-VBL10422,Under Construction - Wesbrook Place Lot BCR 8,,3508 Wesbrook Mall,Vancouver,BC,,Housing,,UnderConstruction,,,,,,,,,Wesbrook Place Lot BCR 8,BCR8,,,-123.233231,49.252338
-VBL10420,Under Construction - Pump House Replacement,PUMP,,,,,Operations,,,,,,,,,,,Pump House Replacement,Pump,,,-123.25418,49.26464
-VBL10271,Chancellor Hall - Townhouses,CHHT,,,,,Housing,,Complete,,,,,,,,,Chancellor Hall - Townhouses,Chancellor Hall,,,-123.250356,49.272193
-VBL10316,Folio - Townhouses,FOL2,,,,,Housing,,Complete,,,,,,,,,Folio - Townhouses,Folio,,,-123.2502,49.272247
-VBL10399,Coast - Duplexes,COSD,,,,,Housing,,Complete,,,,,,,,,Coast - Duplexes,Coast,,,-123.253238,49.271304
-VBL10417,Thames Court - Building 1,THAC1,,,,,Housing,,Complete,,,,,,,,,Thames Court - Building 1,Thames Court,,,-123.235779,49.25725
-VBL10277,Coast - Townhouses,COST,,,,,Housing,,Complete,,,,,,,,,Coast - Townhouses,Coast,,,-123.253052,49.271064
-VBL10423,Under Construction - Brock Commons North,,,,,,Commons,,UnderConstruction,,,,,,,,,Brock Commons North,Brock Commons,,,-123.252618,49.269569
-VBL10426,Under Construction - Arts Student Centre,,,,,,Services,,UnderConstruction,,,,,,,,,Arts Student Centre,ASC,,ASC,-123.253078,49.269288
-VBL10424,Under Construction - Brock Commons South,,,,,,Commons,,UnderConstruction,,,,,,,,,Brock Commons South,Brock Commons,,,-123.252366,49.269083
-VBL10291,Folio - Duplexes,FOL3,,,,,Housing,,Complete,,,,,,,,,Folio - Duplexes,Folio,,,-123.250607,49.272418
-VBL10385,Chancellor House - Duplexes,CHOD,,,,,Housing,,Complete,,,,,,,,,Chancellor House - Duplexes,Chancellor House,,,-123.251863,49.271978
+﻿BLDG_UID,NAME,BLDG_CODE,MAIN_ADDRESS,LOCALITY,PROVINCE_CODE,POSTAL_CODE,BLDG_USAGE,CONSTR_STATUS,ACCESSIBLE,POWER_DOOR,ALIAS_2,ALIAS_3,ALIAS_4,ALIAS_5,LAT,LONG
+VBL10347,Cascara House,CASC,6385 Hawthorn Lane,Vancouver,BC,V6T 0C1,Housing,Complete,1,0,Cascara House,Cascara,Faculty Staff Housing Building C,,-123.249669,49.258465
+VBL10414,Granite Terrace - Commercial,GRT2,5923 Berton Avenue,Vancouver,BC,V6S 0B3,Commercial,Complete,,,Granite Terrace - Commercial,Granite Terrace,,,-123.236111,49.255068
+VBL10164,Granite Terrace,GRT1,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4,Housing,Complete,1,0,Granite Terrace,Granite Terrace,,,-123.236985,49.254825
+VBL10336,Prodigy - Building 2,PRD2,3462 Ross Drive,Vancouver,BC,V6S 0H6,Housing,Complete,,,Prodigy - Phase 2,Prodigy,,,-123.236616,49.251621
+VBL10349,Prodigy - Building 1,PRD1,6033 Gray Avenue,Vancouver,BC,V6S 0G3,Housing,Complete,1,0,Prodigy - Phase 1,Prodigy,Prodigy 1,,-123.235956,49.251652
+VBL10187,Sage - Highrise,SAG1,5782 Berton Avenue,Vancouver,BC,V6S 0C1,Housing,Complete,1,0,Sage - Highrise,Sage,,,-123.233709,49.255264
+VBL10379,Nobel House,NOBL,3655 Wesbrook Mall,Vancouver,BC,V6S 0G6,Housing,Complete,1,0,Nobel House,Nobel House,,,-123.233198,49.25083
+VBL10156,St. John Hospice,STJN,6389 Stadium Road,Vancouver,BC,V6T 1Z4,Services,Complete,1,0,St. John Hospice,Hospice,,,-123.247385,49.255505
+VBL10210,Binning Tower - Highrise,BINH,3355 Binning Road,Vancouver,BC,V6S 0J1,Housing,Complete,1,0,Binning Tower - Highrise,Binning Tower,,,-123.231376,49.255444
+VBL10290,Chancellor Hall - Apartment,CHHA,5989 Iona Drive,Vancouver,BC,V6T 2L7,Housing,Complete,1,1,Chancellor Hall - Apartment,Chancellor Hall,,,-123.250472,49.271899
+VBL10182,Tapestry at Wesbrook Village - Building 2,TAP2,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7,Housing,Complete,,,Tapestry at Wesbrook Village - Building 2,Tapestry,,,-123.234523,49.254142
+VBL10137,Tapestry at Wesbrook Village - Building 1,TAP1,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6,Housing,Complete,1,0,Tapestry at Wesbrook Village - Building 1,Tapestry,Tapestry North,,-123.235007,49.254742
+VBL10184,The Wesbrook - Highrise,WSB1,5838 Berton Avenue,Vancouver,BC,V6S 0A5,Housing,Complete,1,0,The Wesbrook - Highrise,The Wesbrook,Wesbrook Lot 1,,-123.234504,49.255081
+VBL10022,TRIUMF - Accelerator,TRF02,Building 7 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Accelerator,TRIUMF,,,-123.229307,49.247241
+VBL10032,TRIUMF - ISAC 2,TRF10,Building 5 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - ISAC 2,TRIUMF,,,-123.229391,49.248283
+VBL10025,TRIUMF - ARIEL,TRF01,Building 4 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - ARIEL,TRIUMF,,,-123.229956,49.247688
+VBL10170,Village Square,VSQU,3338 Webber Lane,Vancouver,BC,V6S 0J7,Housing,Complete,1,1,Village Square,Village,Wesbrook Lot E,,-123.236368,49.253967
+VBL10046,Public Safety Building - RCMP + Fire,PSAB,2990 Wesbrook Mall,Vancouver,BC,V6T 2B7,Services,Complete,1,0,RCMP + Fire,Public Safety,Police and Fire Department,,-123.238156,49.258948
+VBL10059,TRIUMF - Shipping / Workshop,TRF28,6095 Nurseries Road,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Shipping / Workshop,TRIUMF,,,-123.230074,49.246236
+VBL10004,UBC Botanical Garden - Scholar's Retreat,BOT5,6380 Stadium Road,Vancouver,BC,V6T 1Z4,Services,Complete,,,UBC Botanical Garden - Scholar's Retreat,Botanical Garden ,,,-123.246935,49.255027
+VBL10256,Robert H. Lee Alumni Centre,ALUM,6163 University Boulevard,Vancouver,BC,V6T 1Z1,Services,Complete,1,1,Robert H. Lee Alumni Centre,Alumni,,,-123.2499,49.265956
+VBL10219,Crescent West,CRSW,5879 Gray Avenue,Vancouver,BC,V6S 0A9,Housing,Complete,1,0,Crescent West,Crescent West,,,-123.232746,49.253143
+VBL10018,Larkspur House,LARK,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9,Housing,Complete,1,0,Larkspur House,Larkspur,Faculty Staff Housing Building F,,-123.234058,49.253548
+VBL10222,UBC Research Ponds,RESP,4069 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,Complete,1,0,UBC Research Ponds,Ponds,,,-123.232721,49.247161
+VBL10162,Centre for Interactive Research on Sustainability,CIRS,2260 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Centre for Interactive Research on Sustainability,CIRS,,CIRS,-123.253079,49.26205
+VBL10338,C.K. Choi Building for the Institute of Asian Research,CHOI,1855 West Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,C.K. Choi Building for the Institute of Asian Rese,Choi,,,-123.257957,49.267268
+VBL10084,Biomedical Research Centre,BRC,2222 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Biomedical Research Centre,Biomedical,Biomedical Building,,-123.24719,49.26412
+VBL10086,Beaty Biodiversity Centre,BETY,2212 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Beaty Biodiversity Centre,Beaty,Beaty Biodiversity Museum,,-123.250343,49.263442
+VBL10353,Under Construction - The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,Vancouver,BC,,Housing,UnderConstruction,1,0,The Residences at Nobel Park - Apartment,Nobel Park,Wesbrook Lots 7+8,,-123.234998,49.250616
+VBL10203,Materials Recovery Facility,MARF,6055 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,Materials Recovery Facility,Material,,,-123.228539,49.245784
+VBL10131,Douglas T. Kenny Building,KENN,2136 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Douglas Kenny Building,Kenny,Psychology,,-123.253867,49.263318
+VBL10062,Chemical and Biological Engineering Building,CHBE,2360 East Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Chemical & Biological Engineering Building,ChemBio,,,-123.247072,49.262478
+VBL10392,Chapel of the Epiphany,CHPL,6030 Chancellor Boulevard,Vancouver,BC,V6T 1X3,Other,Complete,1,0,Chapel of the Epiphany,Chapel,,,-123.252259,49.271559
+VBL10332,Campus and Community Planning,CCP,2210 West Mall,Vancouver,BC,V6T 1Z4,Administrative,Complete,1,0,Campus & Community Planning,C&CP,,,-123.253284,49.262441
+VBL10233,Norman MacKenzie House,MCKH,6565 NW Marine Drive,Vancouver,BC,V6T 1A7,Services,Complete,1,1,Norman MacKenzie House,MacKenzie,President's Residence,,-123.261198,49.267663
+VBL10168,Wesbrook Community Centre,WCOM,3335 Webber Lane,Vancouver,BC,V6S 0H3,Other,Complete,1,0,Wesbrook Community Centre,Wesbrook Community,,,-123.237571,49.254029
+VBL10157,Old Barn Community Centre,OBCC,6308 Thunderbird Boulevard,Vancouver,BC,V6T 1Z4,Other,Complete,1,0,Old Barn Community Centre,Old Barn,,,-123.248286,49.258907
+VBL10027,TRIUMF - Compressor Building,TRF05,Building 14 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Compressor Building,TRIUMF,,,-123.229949,49.246657
+VBL10242,University Hill Secondary School,UHIL,3228 Ross Drive,Vancouver,BC,V6S 0C6,Other,Complete,1,0,University Hill Secondary School,U-Hill,High school,,-123.238748,49.254251
+VBL10114,St. Andrew's Hall,STH,6040 Iona Drive,Vancouver,BC,V6T 2E8,Housing,Complete,1,1,St. Andrew's Hall - Apartment,St. Andrew's,,,-123.251761,49.270164
+VBL10181,The Barn - Owl Child Care,BARN,2323 Main Mall,Vancouver,BC,V6T 1Z4,Services,Complete,1,0,The Barn,Barn,,,-123.251122,49.261931
+VBL10026,TRIUMF - Badge Room,TRF04,Building 2 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Badge Room,TRIUMF,,,-123.230285,49.247509
+VBL10200,Green College - Admin,GRN4,Building 8 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,1,0,Green College - Admin,Green College,Adminstration Building F,,-123.256319,49.270988
+VBL10258,Acadia Park Residence - Building 2,APR2,2605 Melfa Lane,Vancouver,BC,V6T 2C5,StudentHousing,Complete,1,0,Acadia Park Residence - Building 2,Townhouses 2,,,-123.237163,49.263564
+VBL10259,Acadia Park Residence - Building 1,APR1,2500 Melfa Lane,Vancouver,BC,V6T 2C6,StudentHousing,Complete,,,Acadia Park Residence - Building 1,Townhouses 1,,,-123.238441,49.264475
+VBL10043,Gerald McGavin Building,GMCG,2386 East Mall,Vancouver,BC,V6T 1Z3,Administrative,Complete,1,1,Gerald McGavin Building,McGavin,,,-123.246766,49.261788
+VBL10102,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,0,P. A. Woodward Instructional Resources Centre,IRC,Faculty of Medicine,,-123.24685,49.264818
+VBL10104,Allard Hall,ALRD,1822 East Mall,Vancouver,BC,V6T 1Z1,Academic,Complete,1,0,Allard Hall,Allard,Peter A. Allard School of Law ,,-123.253294,49.270054
+VBL10107,School of Population & Public Health,SPPH,2206 East Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,School of Population & Public Health,SPPH,,SPPH,-123.248419,49.264234
+VBL10108,Place Vanier Residence - Commonsblock,VNR03,Building 1 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,Services,Complete,1,1,Place Vanier Residence - Commonsblock,Vanier,Gordon Shrum Commons Block,,-123.258577,49.264656
+VBL10313,Panhellenic House,PANH,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7,StudentHousing,Complete,1,0,Panhellenic House,Panhellenic,Sorority House,,-123.239585,49.260111
+VBL10243,NRC Institute for Fuel Cell Innovation,NRC,4250 Wesbrook Mall,Vancouver,BC,V6T 1W5,Research,Complete,1,0,NRC Institute for Fuel Cell Innovation,NRC,,NRC,-123.232293,49.245192
+VBL10099,Hector J. MacLeod Building,MCLD,2356 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,0,0,MacLeod Building,MacLeod,Hector MacLeod Building,,-123.249401,49.261713
+VBL10109,Indian Residential School History and Dialogue Centre,IRSC,1985 Learners' Walk,Vancouver,BC,V6T 1Z1,Academic,Complete,1,1,Indian Residential School History and Dialogue Centre,IRSC,,IRSC,-123.253754,49.267001
+VBL10110,Pharmaceutical Sciences Building,PHRM,2405 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Pharmaceutical Sciences Building,Pharmacy,,,-123.243281,49.262292
+VBL10111,Life Sciences Centre,LSC,2350 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Life Sciences Centre,Life Sciences ,,,-123.245121,49.26254
+VBL10100,Lower Mall Research Station,LMRS,2259 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,Complete,1,0,Lower Mall Research Station,LMRS,,,-123.255519,49.260542
+VBL10101,Music Building,MUSC,6361 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,Music Building,Music,Roy Barnett Recital Hall,,-123.256792,49.267436
+VBL10113,Thunderbird Parkade,PART,6085 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Parking,Complete,1,0,Thunderbird Parkade,Thunderbird Parkade,,,-123.243051,49.261659
+VBL10116,St. John's College,STJC,2111 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,1,St. John's College,St. John's College,,,-123.256818,49.262578
+VBL10119,Forest Sciences Centre,FSC,2424 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Forest Sciences Centre,Forest Sciences,,,-123.247788,49.260607
+VBL10120,Friedman Building,FRDM,2177 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Friedman Building,Friedman,,,-123.246232,49.265371
+VBL10121,Thunderbird Residence - Building 2,THR2,Building 2 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,0,Thunderbird Residence - Building 2,Thunderbird,,,-123.250374,49.258962
+VBL10125,Student Recreation Centre,SRC,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Athletics,Complete,1,1,Student Recreation Centre,SRC,,SRC,-123.248948,49.268316
+VBL10126,Totem Park Residence - Building 2,TPR2,Building 2 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,Complete,1,0,Totem Park Residence - Building 2,Totem,,,-123.253228,49.258696
+VBL10127,Totem Park Residence - Building 3,TPR3,Building 3 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,Complete,1,0,Totem Park Residence - Building 3,Totem,,,-123.252327,49.259339
+VBL10122,Thunderbird Residence - Building 1,THR1,Building 1 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,Complete,1,0,Thunderbird Residence - Building 1,Thunderbird,,,-123.250862,49.259566
+VBL10128,Totem Park Residence - Building 5,TPR5,Building 5 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,Complete,1,0,Totem Park Residence - Building 5,Totem,,,-123.251192,49.258594
+VBL10123,Staging Environmental Research Centre,SERC,6045 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,Staging Environmental Research Centre,SERC,,SERC,-123.228068,49.245484
+VBL10124,Stores Road Annex,STRX,6368 Stores Road,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Stores Road Annex,Stores Annex,,,-123.25235,49.261674
+VBL10130,Dorothy Somerset Studios,DSOM,6361 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,Complete,0,0,Dorothy Somerset Studios,Somerset Studios,Hut M-18,,-123.254586,49.264697
+VBL10134,B.C. Binning Studios,BINN,6373 University Boulevard,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,B.C. Binning Studios,Binning,Hut M-17,,-123.254873,49.264605
+VBL10260,Acadia Park Residence - Highrise,APRH,2725 Melfa Road,Vancouver,BC,V6T 1N4,StudentHousing,Complete,,,Acadia Park Residence - Highrise,Highrise,,,-123.236861,49.262313
+VBL10262,Woodward Library,WLIB,2198 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,0,0,Woodward Library,Woodward,,,-123.247561,49.264562
+VBL10263,Walter H. Gage Residence - Commonsblock,WGR1,Building 1 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,Services,Complete,1,1,Walter H. Gage Residence - Commonsblock,Gage,Walter H. Gage Residence Commonsblock,,-123.249839,49.269529
+VBL10269,Place Vanier Residence - Korea House,VNR06,Building 9 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,1,Place Vanier Residence - Korea House,Vanier,,,-123.26001,49.264609
+VBL10270,Place Vanier Residence - Okanagan House,VNR08,Building 2 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Okanagan House,Vanier,,,-123.25778,49.26435
+VBL10251,Robert F. Osborne Centre - Unit 1,OSB1,Building 1 - 6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Academic,Complete,1,0,Robert F. Osborne Centre - Unit 1,Osborne,Osborne Gym,,-123.243723,49.260289
+VBL10252,The Leonard S. Klinck Building,LSK,6356 Agricultural Road,Vancouver,BC,V6T 1Z2,Academic,Complete,1,0,The Leonard S. Klinck Building,Klinck,,,-123.255345,49.265432
+VBL10272,Child Care Services - Acadia,CCS1,2865 Revelstoke Court,Vancouver,BC,V6T 1S1,Services,Complete,,,Child Care Services - Acadia,Child Care Services ,,,-123.234723,49.260894
+VBL10266,Wesbrook Building,WESB,6174 University Boulevard,Vancouver,BC,V6T 1Z3,Academic,Complete,0,0,Wesbrook Building,Wesbrook,,,-123.249162,49.265247
+VBL10273,Child Care Services - Kittiwake/Salal,CCS2,5655 Osoyoos Crescent,Vancouver,BC,V6T 1S1,Services,Complete,,,Child Care Services - Kittiwake/Salal,Child Care Services ,,,-123.235287,49.259997
+VBL10267,Place Vanier Residence - Dorothy Mawdsley House,VNR04,Building 10 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Dorothy Mawdsley House,Vanier,,,-123.259509,49.264859
+VBL10268,Place Vanier Residence - Kootenay House,VNR05,Building 3 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Kootenay House,Vanier,,,-123.25764,49.263877
+VBL10274,Child Care Services - Little Goslings/Coho,CCS3,5590 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,Complete,,,Child Care Services - Little Goslings/Coho,Child Care Services ,,,-123.234068,49.259912
+VBL10275,Child Care Services - Little Raven/Pacific Spirit,CCS4,5580 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,Complete,,,Child Care Services - Little Raven/Pacific Spirit,Child Care Services ,,,-123.233795,49.260208
+VBL10276,Child Care Services - Sandpiper/Auklet,CCS5,5615 Osoyoos Crescent,Vancouver,BC,V6T 1S1,Services,Complete,1,0,Child Care Services - Sandpiper/Auklet,Child Care Services ,Child Care Services Building 4,,-123.234742,49.260262
+VBL10278,David Lam Management Research Centre,DLAM,2033 Main Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,David Lam Management Research Centre,David Lam,,,-123.254338,49.265713
+VBL10041,Sumac House,SUMA,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1,Housing,Complete,1,0,Sumac House,Sumac,Faculty Staff Housing Building B,,-123.250055,49.258277
+VBL10282,Chan Centre for the Performing Arts,CHAN,6265 Crescent Road,Vancouver,BC,V6T 1Z1,Services,Complete,1,1,Chan Centre for the Performing Arts,Chan,,,-123.255114,49.269779
+VBL10283,West Mall Annex,WMAX,1933 West Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,0,West Mall Annex,West Mall Annex,,,-123.257166,49.266245
+VBL10284,West Parkade,PARW,2140 Lower Mall,Vancouver,BC,V6T 1Z4,Parking,Complete,1,0,West Parkade,West,,,-123.255025,49.262596
+VBL10285,Wood Drying Laboratory,WDL,2324 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,0,Wood Drying Laboratory,Wood Lab,,,-123.252217,49.261486
+VBL10310,Ponderosa Commons West - Arbutus/Maple House,PCW,6488 University Boulevard,Vancouver,BC,V6T 1Z4,Commons,Complete,1,1,Ponderosa Commons West,Ponderosa,Maple/Arbutus House,,-123.255609,49.263451
+VBL10292,Iona Building,IONA,6000 Iona Drive,Vancouver,BC,V6T 1L4,Academic,Complete,0,0,Iona Building,Iona,,,-123.250321,49.270988
+VBL10295,Acadia Park Residence - President's Row,APRP,5501 Presidents Row,Vancouver,BC,V6T 1L5,StudentHousing,Complete,,,Acadia Park Residence - President's Row,President's Row,,,-123.238996,49.265317
+VBL10296,Robert F. Osborne Centre - Unit 2,OSB2,Building 2 - 6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Academic,Complete,,,Robert F. Osborne Centre - Unit 2,Osborne,,,-123.24432,49.259969
+VBL10301,Walter H. Gage Residence - Apartment,WGR2,5980 Walter Gage Road,Vancouver,BC,V6T 1K2,StudentHousing,Complete,1,1,Walter H. Gage Residence - Apartment,Gage,,,-123.249017,49.270143
+VBL10304,West Mall Swing Space Building,SWNG,2175 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,West Mall Swing Space Building,Swing Space,,,-123.254389,49.26279
+VBL10306,Child Care Services Administration Building,CCSA,2881 Acadia Road,Vancouver,BC,V6T 1S1,Services,Complete,1,0,Child Care Services Administration Building,Child Care Admin,Child Care Main Building,,-123.234229,49.26092
+VBL10311,Ponderosa Commons East - Audain Art Centre/Spruce House,PCE,6398 University Boulevard,Vancouver,BC,V6T 1Z4,Commons,Complete,1,1,Ponderosa Commons East,Audain Art Centre,Spruce House,,-123.254422,49.263787
+VBL10312,Ponderosa Commons North - Oak/Cedar House,PCN,6445 University Boulevard,Vancouver,BC,V6T 1Z2,Commons,Complete,1,1,Ponderosa Commons North,Ponderosa,Cedar/Oak House,,-123.256182,49.264086
+VBL10315,Morris and Helen Belkin Art Gallery,BART,1825 Main Mall,Vancouver,BC,V6T 1Z2,Services,Complete,1,1,Morris and Helen Belkin Art Gallery,Belkin,,,-123.256225,49.268172
+VBL10317,Marine Drive Residence - 2,MAR2,Building 2 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,0,Marine Drive Residence - 2,Marine Drive,,,-123.256768,49.261875
+VBL10319,Marine Drive Residence - 1 Simon Lee,MAR1,Building 1 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,0,Marine Drive Residence - 1 Simon Lee,Marine Drive,,,-123.255886,49.262002
+VBL10323,Buchanan Building,BUCH,1866 Main Mall,Vancouver,BC,V6T 1Z1,Academic,Complete,1,1,Buchanan Building,Buchanan,"Buchanan Blocks A, B, C, D, E",,-123.25447,49.268693
+VBL10324,Buchanan Tower,BUTO,1873 East Mall,Vancouver,BC,V6T 1Z1,Academic,Complete,1,0,Buchanan Tower,Buchanan Tower,,,-123.253504,49.268575
+VBL10308,Acadia House,ACAH,2700 Acadia Road,Vancouver,BC,V6T 1R9,StudentHousing,Complete,1,0,Acadia House,Acadia House,,,-123.235913,49.262883
+VBL10201,Mary Bollert Hall,MBOL,6253 NW Marine Drive,Vancouver,BC,V6T 1Z1,Academic,Complete,0,1,Mary Bollert Hall,Bollert,,,-123.256024,49.270573
+VBL10204,Anthropology and Sociology Building,ANSO,6303 NW Marine Drive,Vancouver,BC,V6T 1Z1,Academic,Complete,1,0,Anthropology and Sociology Building,ANSO,,ANSOC,-123.2577,49.270313
+VBL10325,Place Vanier Residence - Aldyen Hamber House,VNR01,Building 13 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Aldyen Hamber House,Vanier,,,-123.258794,49.265267
+VBL10326,Place Vanier Residence - Margaret Mackenzie House,VNR07,Building 12 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Margaret Mackenzie House,Vanier,,,-123.259142,49.26569
+VBL10207,Building Operations Storage Shed,BOSS,2214 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,Complete,1,0,Building Operations Storage Shed,BOps Shed,,,-123.254414,49.262185
+VBL10209,Theatre-Film Production Building,TFPB,6358 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,Complete,0,0,Theatre-Film Production Building,Theatre-Film,,,-123.253933,49.263871
+VBL10307,Doug Mitchell Thunderbird Sports Centre,THUN,6066 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Athletics,Complete,1,1,Doug Mitchell Thunderbird Sports Centre,Doug Mitchell,Thunderbird Sports Centre,,-123.241947,49.260342
+VBL10212,Brock Commons - Tallwood House,BRCE,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1,Commons,Complete,1,1,Brock Commons - Tallwood House,Tallwood House,Brock Commons East,,-123.25133,49.269514
+VBL10218,Marine Drive Residence - 6,MAR6,Building 6 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,1,Marine Drive Residence - 6,Marine Drive,,,-123.256074,49.261076
+VBL10221,Michael Smith Laboratories,MSL,2185 East Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Michael Smith Laboratories,Michael Smith,,,-123.250207,49.264564
+VBL10223,Totem Field Studios,TFS,2613 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,0,Totem Field Studios,Field,,,-123.249138,49.256243
+VBL10214,Thunderbird Stadium,STAD,6288 Stadium Road,Vancouver,BC,V6T 1Z4,Athletics,Complete,1,0,Thunderbird Stadium,Stadium,David Sidoo Field,,-123.244574,49.254761
+VBL10215,Thunderbird Residence - Building 3,THR3,Building 3 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,Complete,1,1,Thunderbird Residence - Building 3,Thunderbird,Thunderbird Commonsblock,,-123.249497,49.259272
+VBL10227,Asian Centre,ACEN,1871 West Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,Asian Centre,Asian Centre,,,-123.258709,49.266747
+VBL10216,Mathematics Annex,MATX,1986 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,Complete,0,0,Mathematics Annex,Math Annex,,,-123.254854,49.266106
+VBL10217,Marine Drive Residence - 4,MAR4,Building 4 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,,,Marine Drive Residence - 4,Marine Drive,,,-123.255355,49.261559
+VBL10228,Auditorium Annexes,AUDX,1924 West Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,Auditorium Annexes,AudAnnex,Auditorium Annex Offices A,,-123.256625,49.266575
+VBL10229,Mathematics Building,MATH,1984 Mathematics Road,Vancouver,BC,V6T 1Z2,Academic,Complete,0,0,Mathematics Building,Math,,,-123.255554,49.266451
+VBL10409,Biological Sciences Building,BIOL,6270 University Boulevard,Vancouver,BC,V6T 1Z4,Academic,Complete,2,2,Biological Sciences Building,BioSciences,"BioSciences South, East, West, North Wings",,-123.251333,49.264452
+VBL10234,North Parkade,PARN,6115 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Parking,Complete,1,0,North Parkade,North,,,-123.250935,49.269042
+VBL10230,Nitobe Memorial Garden,NITO,1895 Lower Mall,Vancouver,BC,V6T 1Z2,Services,Complete,1,0,Nitobe Garden,Nitobe Garden,,,-123.259227,49.266162
+VBL10235,Museum of Anthropology,MOA,6393 NW Marine Drive,Vancouver,BC,V6T 1Z2,Services,Complete,1,1,Museum of Anthropology,MoA,,MOA,-123.259431,49.269501
+VBL10237,UBC Baseball Rose Indoor Training Centre,BTC,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4,Athletics,Complete,1,1,UBC Baseball Rose Indoor Training Centre,Baseball,,,-123.23951,49.256203
+VBL10231,Totem Park Residence - Commonsblock 1,TPR1,Building 1 - 2525 West Mall,Vancouver,BC,V6T 1W9,Services,Complete,1,0,Totem Park Residence - Commonsblock 1,Totem,Totem Park Commonsblock,,-123.252998,49.258021
+VBL10302,Vancouver School of Theology,VST,6015 Walter Gage Road,Vancouver,BC,V6T 1Z1,Other,Complete,1,1,Vancouver School of Theology,VST,Somerville House,VST,-123.251063,49.270385
+VBL10245,UBC Farm - Harvest Hut / Market,FRM2,Building 5 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Academic,Complete,,,UBC Farm Centre - Harvest Hut / Market,Farm,Plant Science Field Building,,-123.237944,49.250754
+VBL10246,UBC Football Academic Centre,FOOT,6298 Stadium Road,Vancouver,BC,V6T 1Z4,Athletics,Complete,1,0,UBC Football Academic Centre,Football,,,-123.244986,49.255245
+VBL10248,UBC Life Building,LIFE,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Administrative,Complete,1,1,UBC Life Building,Life,Old SUB,,-123.250084,49.267434
+VBL10387,Chancellor House - Apartment,CHOA,6015 Iona Drive,Vancouver,BC,V6T 2J4,Housing,Complete,1,0,Chancellor House - Apartment,Chancellor House,,,-123.251446,49.271562
+VBL10249,Thea Koerner House Graduate Student Centre,THEA,6371 Crescent Road,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,1,Thea Koerner House Graduate Student Centre,GSC,Graduate Student Centre,,-123.257889,49.268438
+VBL10250,Ritsumeikan-UBC House,RITS,6460 Agronomy Road,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,1,Ritsumeikan-UBC House,Ritsumeikan,,,-123.253006,49.2601
+VBL10309,Folio - Apartment,FOL1,5955 Iona Drive,Vancouver,BC,V6T 2L4,Housing,Complete,1,0,Folio - Apartment,Folio,,,-123.249755,49.272103
+VBL10083,Continuing Studies Building,CSB,2121 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Continuing Studies Building,Continuing Studies,English Language Institute,,-123.255022,49.263338
+VBL10129,Donald Rix Building,RIX,2389 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Administrative,Complete,1,1,Donald Rix Building,Rix,,,-123.246302,49.26197
+VBL10257,Carey Centre,CRYC,5920 Iona Drive,Vancouver,BC,V6T 1J6,Other,Complete,1,1,Carey Centre,Carey Centre,,,-123.248913,49.271529
+VBL10085,Fred Kaiser Building,KAIS,2332 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Fred Kaiser Building,Kaiser,Faculty of Applied Science,,-123.250079,49.262352
+VBL10087,Aquatic Ecosystems Research Laboratory,AERL,2202 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,0,Aquatic Ecosystems Research Laboratory,AERL,,AERL,-123.250984,49.263761
+VBL10088,Marine Drive Residence - 3 Commonsblock,MAR3,Building 3 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,Services,Complete,1,1,Marine Drive Residence - 3 Commonsblock,Marine Drive,Marine Drive Commonsblock,,-123.256855,49.261412
+VBL10089,Marine Drive Residence - 5,MAR5,Building 5 - 2205 Lower Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,,,Marine Drive Residence - 5,Marine Drive,,,-123.254908,49.261116
+VBL10090,UBC Tennis Centre,TENN,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3,Athletics,Complete,,,UBC Tennis Centre,Tennis,,,-123.24386,49.259491
+VBL10080,Irving K. Barber Learning Centre,IBLC,1961 East Mall,Vancouver,BC,V6T 1Z1,Academic,Complete,1,1,Irving K. Barber Learning Centre,Barber,Ike Barber,,-123.252745,49.267583
+VBL10081,Jack Bell Building for the School of Social Work,SOWK,2080 West Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,0,Jack Bell Building for the School of Social Work,Jack Bell,,,-123.255099,49.264476
+VBL10186,Ambulance Station,AMBS,2333 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,Complete,1,0,Ambulance Station,Ambulance,,,-123.243605,49.263238
+VBL10098,Thunderbird Residence - Building 4,THR4,Building 4 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,Complete,1,0,Thunderbird Residence - Building 4,Thunderbird,,,-123.247556,49.259928
+VBL10082,"Food, Nutrition and Health Building",FNH,2205 East Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,"Food, Nutrition and Health Building",FNH,,,-123.249748,49.263992
+VBL10091,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Athletics,Complete,1,1,National Soccer Development Centre,Soccer,,,-123.24006,49.257165
+VBL10093,Leon and Thea Koerner University Centre,UCEN,6331 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,Complete,0,0,Leon and Thea Koerner University Centre,University Centre,,,-123.257222,49.268896
+VBL10094,Medical Sciences Block C,MEDC,2176 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Medical Sciences Block C,MedSciences C,,,-123.247878,49.264971
+VBL10095,Neville Scarfe Building,SCRF,2125 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Neville Scarfe Building ,Scarfe,Faculty of Education,,-123.253098,49.26397
+VBL10097,Lower Mall Header House,LMHH,2331 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,Complete,1,0,Lower Mall Header House,Header,,,-123.254818,49.260524
+VBL10176,Green College - Coach House,GRN6,Building 2 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,,,Green College - Coach House,Green College,,,-123.256545,49.271146
+VBL10281,West Hampstead - Building 1,WHM1,5760 Hampton Place,Vancouver,BC,V6T 2G1,Housing,Complete,1,0,West Hampstead - Building 1,West Hampstead,Hampton Place Lot 2,,-123.235245,49.257589
+VBL10177,Liu Institute for Global Issues,LIU,6476 NW Marine Drive,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,Liu Institute for Global Issues,Liu Institute,,,-123.259278,49.267555
+VBL10180,Green College - Guest House,GRN9,Building 1 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,,,Green College - Guest House,Green College,,,-123.256523,49.270857
+VBL10185,Acadia Community Centre,ACOM,2707 Tennis Crescent,Vancouver,BC,V6T 2E5,Services,Complete,1,0,Acadia Community Centre,Community Centre,Acadia Park Commonsblock,,-123.237352,49.26263
+VBL10189,Green College - Graham House,GRN7,Building 4 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Services,Complete,,,Green College - Graham House,Green College,,,-123.256341,49.271285
+VBL10190,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,,,Green College - Principal's Residence,Green College,,,-123.256959,49.270906
+VBL10195,UBC Botanical Garden Nursery - Workshop,BON2,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5,Operations,Complete,,,UBC Botanical Garden Nursery - Workshop,Nursery,,,-123.234451,49.249521
+VBL10196,UBC Botanical Garden Nursery - Greenhouses,BON1,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,UBC Botanical Garden Nursery - Greenhouses,Nursery,,,-123.234953,49.249455
+VBL10192,Main Substation,MSUB,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Operations,Complete,1,0,Main Substation,Substation,,,-123.244362,49.261352
+VBL10193,Fairview Crescent Residence - Building 1,FAR1,2600 Fairview Crescent,Vancouver,BC,V6T 2B9,StudentHousing,Complete,1,0,Fairview Crescent Residence - Building 1,Fairview 1,,,-123.239655,49.263308
+VBL10194,Green College - A North + Kitchen/Laundry,GRN1,Building 5 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,,,Green College - A North + Kitchen/Laundry,Green College,,,-123.255629,49.27113
+VBL10224,Gardenia House,GARD,6309 Larkin Drive,Vancouver,BC,V6T 0C2,Housing,Complete,1,0,Gardenia House,Gardenia,Faculty Staff Housing Building D,,-123.248966,49.258728
+VBL10152,Ponderosa Office Annex F,PONF,2008 Lower Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,Ponderosa Office Annex F,Pond F,Ponderosa Annexes,,-123.257159,49.26492
+VBL10153,Ponderosa Office Annex G,PONG,2044 Lower Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,Ponderosa Office Annex G,Pond G,Ponderosa Annexes,,-123.256445,49.264501
+VBL10305,Westpoint,WSPT,6005 Walter Gage Road,Vancouver,BC,V6T 0B3,Housing,Complete,1,0,Westpoint,Westpoint,,,-123.250441,49.270246
+VBL10154,Walter C. Koerner Library,KLIB,1958 Main Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,1,Walter C. Koerner Library,Koerner Library,,,-123.255134,49.266655
+VBL10155,Berwick Child Development Centre,BERW,2765 Osoyoos Crescent,Vancouver,BC,V6T 1X7,Administrative,Complete,1,0,Berwick Memorial Centre,Berwick,,,-123.238955,49.260598
+VBL10161,War Memorial Gymnasium,MGYM,6081 University Boulevard,Vancouver,BC,V6T 1Z1,Athletics,Complete,0,0,War Memorial Gymnasium,Gym,Gym,,-123.247672,49.266771
+VBL10163,Abdul Ladha Science Student Centre,ALSC,2055 East Mall,Vancouver,BC,V6T 1Z1,Services,Complete,1,1,Abdul Ladha Science Student Centre,Ladha,Science Student Centre,ALSC,-123.251362,49.266079
+VBL10174,Green College - B East,GRN5,Building 7 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,,,Green College - B East,Green College,,,-123.256004,49.270833
+VBL10327,Chemistry Physics Building,CHPH,6221 University Boulevard,Vancouver,BC,V6T 1Z1,Academic,Complete,0,1,Chemistry Physics Building,Chemistry Physics,Chemistry A Block,,-123.251534,49.265728
+VBL10328,Chemistry Building,CHEM,2036 Main Mall,Vancouver,BC,V6T 1Z1,Academic,Complete,0,0,Chemistry Building,Chemistry,"Chemistry B, C, D, E Blocks / South, East, Centre, North Wings",,-123.252684,49.265806
+VBL10286,The Bristol,BRIS,5735 Hampton Place,Vancouver,BC,V6T 2G8,Housing,Complete,1,0,The Bristol,Bristol,Hampton Place Lot 6 ,,-123.235005,49.258838
+VBL10287,The Regency,REGE,5639 Hampton Place,Vancouver,BC,V6T 2H6,Housing,Complete,1,0,The Regency,Regency,Hampton Place Lot 8 ,,-123.232888,49.259113
+VBL10293,Wyndham Hall,WYND,5683 Hampton Place,Vancouver,BC,V6T 2H3,Housing,Complete,1,0,Wyndham Hall,Wyndham Hall,Hampton Place Lot 7-2 ,,-123.23417,49.259329
+VBL10361,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Other,Complete,1,1,Hillel House - Diamond Foundation Centre for Jewish Campus Life,Hillel,,,-123.251328,49.268616
+VBL10241,The Laureates - Highrise,LAR1,5628 Birney Avenue,Vancouver,BC,V6S 0H7,Housing,Complete,1,0,The Laureates - Higrise,Laureates,Laureates 1,,-123.230758,49.254092
+VBL10371,International House,INTL,1783 West Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,International House,IHouse,I-House,,-123.258963,49.267805
+VBL10096,Dahlia House,DAHL,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2,Housing,Complete,1,0,Dahlia House,Dahlia,,,-123.233923,49.25214
+VBL10261,The Laureates - Apartment,LAR2,5638 Birney Avenue,Vancouver,BC,V6S 0H8,Housing,Complete,,,The Laureates - Apartment,Laureates,,,-123.231713,49.254198
+VBL10362,Horticulture Building,HORT,6394 Stores Road,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Horticulture Building,Horticulture,Greenhouse,,-123.252772,49.261395
+VBL10374,Kids Club,KIDS,2855 Acadia Road,Vancouver,BC,V6T 1S1,Services,Complete,1,0,Kids Club,Kids Club,,,-123.234812,49.26173
+VBL10376,Ladner Clock Tower,CLCK,1956 Main Mall,Vancouver,BC,V6T 1Z1,Services,Complete,1,0,Ladner Clock Tower,Clock,,,-123.253632,49.267397
+VBL10377,Landscape Architecture Annex,LAX,2371 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,0,0,Landscape Architecture Annex,Landscape,,,-123.250073,49.260647
+VBL10386,First Nations Longhouse,FNLH,1985 West Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,First Nations Longhouse,Longhouse,House of Learning,,-123.257199,49.26555
+VBL10402,Environmental Services Facility - Incinerator,ENV2,Building 2 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,,,Environmental Services Facility - Incinerator,ESF,,,-123.229007,49.243671
+VBL10390,Sail - Building 2,SAL2,5981 Gray Avenue,Vancouver,BC,V6S 0G1,Housing,Complete,,,Sail - Building 2,Sail,,,-123.235195,49.252597
+VBL10340,Ultima,ULTM,3479 Wesbrook Mall,Vancouver,BC,V6S 0B7,Housing,Complete,1,0,Ultima,Ultima,,,-123.234392,49.252732
+VBL10143,Clement's Green,CLEM,6268 Eagles Drive,Vancouver,BC,V6T 0A2,Housing,Complete,1,0,Clement's Green,Clement's Green,,,-123.245843,49.258213
+VBL10334,UBC Hospital - Detwiller Pavilion,DPAV,2255 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,Complete,1,1,UBC Hospital - Detwiller Pavilion,Detwiller,,,-123.244473,49.263557
+VBL10005,UBC Botanical Garden - Workshop (Trailer),BOT6,6450 Stadium Road,Vancouver,BC,V6T 1Z4,Operations,Complete,,,UBC Botanical Garden - Workshop (Trailer),Botanical Garden ,,,-123.247618,49.254774
+VBL10006,UBC Botanical Garden - Admin/Campbell Building,BOT2,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,Complete,,,UBC Botanical Garden - Admin/Campbell Building,Botanical Garden ,,,-123.251106,49.253884
+VBL10391,UBC Farm - Yurt,YURT,3465 Ross Drive,Vancouver,BC,V6T 1W5,Academic,Complete,,,UBC Farm Centre - Yurt,Farm,,,-123.239894,49.251271
+VBL10393,Walter H. Gage Residence - East Highrise,WGR4,Building 3 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,Complete,1,0,Walter H. Gage Residence - East Highrise,Gage,,,-123.24916,49.269644
+VBL10394,Walter H. Gage Residence - North Highrise,WGR5,Building 4 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,Complete,1,0,Walter H. Gage Residence - North Highrise,Gage,,,-123.250038,49.269834
+VBL10148,Reflections,REFL,6279 Eagles Drive,Vancouver,BC,V6T 2K7,Housing,Complete,1,0,Reflections,Reflections,,,-123.246897,49.258249
+VBL10397,Fraser River Parkade,PARF,6440 Memorial Road,Vancouver,BC,V6T 1Z2,Parking,Complete,1,0,Fraser River Parkade,Fraser,,,-123.258053,49.266067
+VBL10149,Promontory,PROM,2688 West Mall,Vancouver,BC,V6T 2J8,Housing,Complete,1,0,Promontory,Promontory,,,-123.247566,49.255945
+VBL10160,Legacy,LGCY,6333 Larkin Drive,Vancouver,BC,V6T 0A7,Housing,Complete,1,0,Legacy,Legacy,,,-123.248016,49.257457
+VBL10112,Sitka,SITK,5868 Agronomy Road,Vancouver,BC,V6T 0B5,Housing,Complete,1,1,Sitka,Sitka,,,-123.241928,49.262867
+VBL10395,Walter H. Gage Residence - South Highrise,WGR6,Building 2 - 5959 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,Complete,1,0,Walter H. Gage Residence - South Highrise,Gage,,,-123.249716,49.269202
+VBL10396,Walter H. Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2,StudentHousing,Complete,1,1,Walter H. Gage Residence - Court (West Coast Suites),Gage,,,-123.248584,49.269593
+VBL10225,Journey,JOUR,6328 Larkin Drive,Vancouver,BC,V6T 2K2,Housing,Complete,1,0,Journey,Journey,,,-123.247486,49.258032
+VBL10401,Environmental Services Facility - Lab,ENV1,Building 5 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,,,Environmental Services Facility - Lab ,ESF,,,-123.228625,49.243329
+VBL10407,AMS Nest,NEST,6133 University Boulevard,Vancouver,BC,V6T 1Z1,Services,Complete,1,1,AMS Nest,Nest,AMS Student Nest,,-123.249792,49.266536
+VBL10408,Environmental Services Facility - Natural Gas Station,ENV3,6027 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,,,Environmental Services Facility - Natural Gas Stat,ESF,,,-123.228158,49.243629
+VBL10132,"TRIUMF - Offices, Laboratory & Workshops",TRF14,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,1,0,"TRIUMF - Offices, Laborartory & Workshops",TRIUMF,,TRIUMF,-123.230613,49.247642
+VBL10405,Frederic Wood Theatre,FRWO,6354 Crescent Road,Vancouver,BC,V6T 1Z2,Services,Complete,1,1,Frederic Wood Theatre,Theatre,Freddy Wood,,-123.256998,49.268043
+VBL10410,Gas Gun Facility,GASG,6301 Stadium Road,Vancouver,BC,V6T 1Z4,Academic,Complete,1,0,Gas Gun Facility,Gas Gun,,,-123.246039,49.256018
+VBL10040,Keenleyside,KEEN,5788 Birney Avenue,Vancouver,BC,V6S 0A2,Housing,Complete,1,0,Keenleyside,Keenleyside,,,-123.233177,49.253955
+VBL10135,Eton - Highrise,ETN1,3487 Binning Road,Vancouver,BC,,Housing,Complete,1,0,Eton - Highrise,Eton,Wesbrook Lot 15,,-123.230573,49.253427
+VBL10136,Eton - Apartment,ETN2,5687 Gray Avenue,Vancouver,BC,,Housing,Complete,,,Eton - Aparment,Eton,,,-123.231391,49.253188
+VBL10167,Yu,YU,5955 Birney Avenue,Vancouver,BC,V6S 0C5,Housing,Complete,1,0,Yu,Yu,,,-123.236055,49.253554
+VBL10159,Tamarack House,TAMK,6230 Thunderbird Boulevard,Vancouver,BC,V6T 0C3,Housing,Complete,1,0,Tamarack House,Tamarack,Faculty Staff Housing Building E,,-123.246339,49.259593
+VBL10169,Pacific,PACC,5928 Birney Avenue,Vancouver,BC,V6S 0B5,Housing,Complete,1,0,Pacific,Pacific,,,-123.23499,49.253273
+VBL10172,Sail - Building 1,SAL1,5983 Gray Avenue,Vancouver,BC,V6S 0G8,Housing,Complete,1,0,Sail - Building 1,Sail,Sail 1,,-123.23523,49.252234
+VBL10183,Academy - Highrise,ACD1,5728 Berton Avenue,Vancouver,BC,V6S 0E5,Housing,Complete,1,0,Academy - Highrise,Academy,,,-123.233049,49.25559
+VBL10240,Pathways - West Building,PTHW,5777 Birney Avenue,Vancouver,BC,V6S 0A4,Housing,Complete,,,Pathways - West Building,Pathways,,,-123.233782,49.254396
+VBL10411,Geography Building,GEOG,1984 West Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,0,0,Geography Building,Geography,,,-123.256138,49.265987
+VBL10412,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Athletics,Complete,1,0,Gerald McGavin UBC Rugby Centre,Rugby Centre,,,-123.241322,49.259584
+VBL10406,Environmental Services Facility - PCB Equipment Storage,ENV5,Building 4 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,,,Environmental Services Facility - PCB Equipment St,ESF,,,-123.228047,49.243358
+VBL10413,Environmental Services Facility - Solvent Storage Area,ENV6,Building 3 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,,,Environmental Services Facility - Solvent Storage ,ESF,,,-123.228605,49.243731
+VBL10238,Spirit,SPRT,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6,Housing,Complete,1,0,Spirit,Spirit,,,-123.233615,49.252974
+VBL10239,Pathways - East Building,PTHE,5779 Birney Avenue,Vancouver,BC,V6S 0A3,Housing,Complete,1,0,Pathways - East Building,Pathways,Pathways II East,,-123.232835,49.25463
+VBL10415,Green College - A South,GRN3,Building 6 - 6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,StudentHousing,Complete,,,Green College - A South,Green College,,,-123.25524,49.270939
+VBL10092,Chan Gunn Pavilion,GUNN,2553 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,Chan Gunn Pavilion,Chan Gunn,,,-123.241614,49.260961
+VBL10105,Totem Park Residence - Building 7,TPR7,Building 7 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,Complete,1,1,Totem Park Residence - Building 7,Totem,,,-123.251645,49.256806
+VBL10103,Djavad Mowafaghian Centre for Brain Health,CBH,2215 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,Complete,1,1,Djavad Mowafaghian Centre for Brain Health,CBH,,,-123.244565,49.264273
+VBL10318,UBC Hospital - Koerner Pavilion,KPAV,2211 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Services,Complete,1,1,UBC Hospital - Koerner Pavilion,Koerner,Hospital,,-123.245982,49.264151
+VBL10388,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,Vancouver,BC,V6T 1Z9,Services,Complete,1,1,UBC Hospital - Purdy Pavilion,Purdy,,,-123.245952,49.263267
+VBL10329,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Civil and Mechanical Engineering Building,CEME,,CEME,-123.248891,49.262558
+VBL10020,FERIC,FERC,2601 East Mall,Vancouver,BC,V6T 1Z4,Administrative,Complete,1,0,FPInnovations - FERIC (Forest Operations),Feric,<Null>,,-123.244548,49.257744
+VBL10021,FPInnovations,FPIN,2665 East Mall,Vancouver,BC,V6T 1Z4,Research,Complete,1,0,FPInnovations - FORINTEK (Wood Products),FP Innovations,Forintek,,-123.244467,49.256798
+VBL10118,St. Mark's College,STMK,5935 Iona Drive,Vancouver,BC,V6T 1J7,Other,Complete,1,0,St. Mark's College,St. Mark's College,,,-123.249156,49.272273
+VBL10346,Technology Enterprise Facility 3,TEF3,6190 Agronomy Road,Vancouver,BC,V6T 1Z3,Administrative,Complete,1,0,Technology Enterprise Facility 3 ,TEF3,,,-123.246304,49.261149
+VBL10330,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,0,Civil and Mechanical Engineering Labs,CEME Labs,,,-123.249351,49.263122
+VBL10236,3800 Wesbrook Mall,3800,3800 Wesbrook Mall,Vancouver,BC,V6T 1W5,Research,Complete,1,0,3800 Wesbrook,3800,,,-123.2303,49.2502
+VBL10333,D.H. Copp Building,COPP,2146 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,D.H. Copp Building,Copp,,,-123.247549,49.265533
+VBL10335,Old Auditorium,AUDI,6344 Memorial Road,Vancouver,BC,V6T 1Z2,Services,Complete,1,0,Old Auditorium,Old Aud,,,-123.256101,49.266897
+VBL10337,Building Operations Nursery,BONR,6029 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,Building Operations Nursery,BOps Nursery,Plant Operations Greenhouses,,-123.228779,49.244333
+VBL10339,Campus Energy Centre,CEC,6130 Agronomy Road,Vancouver,BC,V6T 1Z3,Operations,Complete,1,1,Campus Energy Centre,CEC,,,-123.245092,49.261645
+VBL10341,Cecil Green Park Coach House,CGPC,6323 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Administrative,Complete,0,0,Cecil Green Park Coach House,Coach House,,,-123.258473,49.270999
+VBL10342,Cecil Green Park House,CGPH,6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Administrative,Complete,1,0,Cecil Green Park House,Cecil Green,,,-123.257677,49.271375
+VBL10343,Ponderosa Office Annex B,PONB,2029 West Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,Ponderosa Office Annex B,Pond B,Ponderosa Annexes,,-123.255964,49.264843
+VBL10344,Ponderosa Office Annex C,PONC,2021 West Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,0,0,Ponderosa Office Annex C,Pond C,Ponderosa Annexes,,-123.256263,49.264858
+VBL10348,Sing Tao Building,STAO,6388 Crescent Road,Vancouver,BC,V6T 1Z2,Academic,Complete,1,1,Sing Tao Building,Sing Tao,School of Journalism,,-123.257746,49.267826
+VBL10351,Library PARC@UBC,PARC,6049 Nurseries Road,Vancouver,BC,V6T 1W5,Academic,Complete,1,0,Library PARC@UBC,Library PARC,Library Preservation and Archives ,PARC,-123.229679,49.245095
+VBL10357,Health Sciences Parkade,PARH,2250 Health Sciences Mall,Vancouver,BC,V6T 1Z3,Parking,Complete,1,0,Health Sciences Parkade,Health Sciences,,,-123.247851,49.2634
+VBL10358,Place Vanier Residence - Robson House,VNR10,Building 7 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Robson House,Vanier,,,-123.258437,49.263908
+VBL10359,Hennings Building,HENN,6224 Agricultural Road,Vancouver,BC,V6T 1Z1,Academic,Complete,0,0,Hennings Building,Hennings,,,-123.252206,49.266441
+VBL10254,The Chatham,CHAT,5775 Hampton Place,Vancouver,BC,V6T 2G6,Housing,Complete,1,0,The Chatham,Chatham,Hampton Place Lot 5 ,,-123.236162,49.258695
+VBL10360,Place Vanier Residence - Cariboo House,VNR02,Building 6 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Cariboo House,Vanier,,,-123.258973,49.26374
+VBL10363,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,Vancouver,BC,V6T 1Z4,Administrative,Complete,1,0,Hugh Dempster Pavilion,Dempster,,,-123.248044,49.261251
+VBL10364,In-Vessel Composting Facility,COMP,6035 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,In-Vessel Composting Facility,Composting,,,-123.228013,49.244844
+VBL10365,Place Vanier Residence - Sherwood Lett House,VNR11,Building 4 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Sherwood Lett House,Vanier,,,-123.257533,49.263393
+VBL10366,John Barfoot Macdonald Building,MCDN,2199 Wesbrook Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,1,1,JB Macdonald Building,Macdonald,Dentistry Building,,-123.245336,49.265339
+VBL10367,Place Vanier Residence - Tec De Monterrey House,VNR12,Building 8 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,1,Place Vanier Residence - Tec De Monterrey House,Vanier,,,-123.259536,49.264033
+VBL10191,Magnolia House,MAGN,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1,Housing,Complete,1,0,Magnolia House,Magnolia,,,-123.233538,49.251536
+VBL10368,Place Vanier Residence - Phyllis Ross House,VNR09,Building 11 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Phyllis Ross House,Vanier,,,-123.259613,49.265321
+VBL10369,Place Vanier Residence - Tweedsmuir House,VNR13,Building 5 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,StudentHousing,Complete,1,0,Place Vanier Residence - Tweedsmuir House,Vanier,,,-123.258307,49.263479
+VBL10370,Exchange Residence,EXCH,5960 Student Union Boulevard,Vancouver,BC,V6T 2C9,StudentHousing,Complete,1,1,Exchange Residence,Exchange,,,-123.247698,49.268598
+VBL10138,Old Administration Building,OAB,6328 Memorial Road,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,1,Old Administration Building,OAB,,,-123.255508,49.267103
+VBL10150,University Services Building,USB,2329 West Mall,Vancouver,BC,V6T 1Z4,Operations,Complete,1,1,University Services Building,USB,Campus Mail,USB,-123.253783,49.261305
+VBL10151,Ponderosa Office Annex E,PONE,2034 Lower Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,Ponderosa Office Annex E,Pond E,Ponderosa Annexes,,-123.256702,49.264677
+VBL10139,Old Fire Hall,FIRE,2038 West Mall,Vancouver,BC,V6T 1Z2,Operations,Complete,0,0,Old Fire Hall,Fire Hall,,,-123.255572,49.265027
+VBL10140,Child Care Services - Sitka/Discovery,CCS6,5620 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,Complete,,,Child Care Services - Sitka/Discovery,Child Care Services ,,,-123.234523,49.259755
+VBL10141,Child Care Services - Summer of 73/Lilliput,CCS7,5690 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,Complete,,,Child Care Services - Summer of 73/Lilliput,Child Care Services ,,,-123.235474,49.259443
+VBL10142,Child Care Services - Tillicum/Canada Goose,CCS8,5660 Osoyoos Crescent,Vancouver,BC,V6T 2E6,Services,Complete,,,Child Care Services - Tillicum/Canada Goose,Child Care Services ,,,-123.234993,49.25959
+VBL10145,Point Grey Apartments,PGRA,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3,StudentHousing,Complete,1,1,Point Grey Apartments ,,Osoyoos Housing,,-123.237985,49.259961
+VBL10146,Ponderosa Office Annex A,PONA,2011 West Mall,Vancouver,BC,V6T 1Z2,Administrative,Complete,1,0,Ponderosa Office Annex A,Pond A,Ponderosa Annexes,,-123.256382,49.26517
+VBL10106,Sandringham,SAND,5650 Hampton Place,Vancouver,BC,V6T 2G5,Housing,Complete,1,0,Sandringham,Sandringham,Hampton Place Lot 1,,-123.233552,49.257841
+VBL10206,The Stratford,STRA,5657 Hampton Place,Vancouver,BC,V6T 2H4,Housing,Complete,1,0,The Stratford,Stratford,Hampton Place Lot 7-1 ,,-123.233453,49.259631
+VBL10253,Thames Court - Townhouses,THAC2,5880 Hampton Place,Vancouver,BC,V6T 2E9,Housing,Complete,1,0,Thames Court,Thames Court,Hampton Place Lot 3,,-123.236155,49.257069
+VBL10314,Axis,AXIS,6090 Iona Drive,Vancouver,BC,V6T 0B6,Housing,Complete,1,0,Axis ,Axis ,,,-123.252236,49.270004
+VBL10303,Corus,CORS,5989 Walter Gage Road,Vancouver,BC,V6T 0A8,Housing,Complete,1,1,Corus,Corus,,,-123.249362,49.270655
+VBL10133,Azalea House,AZAL,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9,Housing,Complete,1,0,Azalea House,Azalea,Faculty Staff Housing Building A ,,-123.2495,49.257889
+VBL10074,Spirit Park Apartments,SPPA,2705 Osoyoos Crescent,Vancouver,BC,V6T 1X7,StudentHousing,Complete,1,0,Spirit Park Apartments,Spirit Park,,,-123.239378,49.261495
+VBL10075,Sopron House,SOPR,2730 Acadia Road,Vancouver,BC,V6T 1R9,StudentHousing,Complete,1,0,Sopron House,Sopron House,,,-123.235345,49.262177
+VBL10289,Stirling House,STIR,6080 Iona Drive,Vancouver,BC,V6T 0A4,Housing,Complete,1,1,Stirling House,Stirling House,,,-123.252464,49.270469
+VBL10280,Esse,ESSE,1863 Wesbrook Mall,Vancouver,BC,V6T 2J7,Housing,Complete,1,0,Esse,Esse,,,-123.248325,49.271208
+VBL10288,Argyll House East,ARGE,5958 Iona Drive,Vancouver,BC,V6T 2L2,Housing,Complete,1,0,Argyll House East,Argyll East,,,-123.24956,49.271404
+VBL10077,South Campus Warehouse,SCWH,6116 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,South Campus Warehouse,SC Warehouse,,,-123.231866,49.24625
+VBL10078,Institute for Computing Information and Cognitive Systems / Computer Science,ICCS,2366 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,"Institute for Computing, Information and Cognitive Systems",ICICS,,ICICS/CS,-123.248831,49.261174
+VBL10079,Thunderbird Residence - Building 5,THR5,Building 5 - 6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9,StudentHousing,Complete,1,0,Thunderbird Residence - Building 5,Thunderbird,,,-123.246686,49.260235
+VBL10010,Greenwood Commons,GRWC,2660 Wesbrook Mall,Vancouver,BC,V6T 0A5,Housing,Complete,1,0,Greenwood Commons ,Green College,,,-123.240073,49.260949
+VBL10011,Vista Point,VIST,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8,Housing,Complete,1,0,Vista Point,Vista Point,,,-123.240257,49.261695
+VBL10117,Fraser Hall,FRAS,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3,StudentHousing,Complete,1,0,Fraser Hall,Fraser Hall,,,-123.240737,49.261478
+VBL10320,TRIUMF House,TRFH,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6,Housing,Complete,1,0,TRIUMF House,TRIUMF,TRIUMF Visitor's Residence,,-123.241234,49.262043
+VBL10322,Cypress House,CYPR,5988 Gray Avenue,Vancouver,BC,V6S 0K4,Housing,Complete,1,0,Cypress House,Cypress,Wesbrook Lot 29,,-123.234693,49.251928
+VBL10294,AYO Smart Home,AYOH,5935 Agronomy Road,Vancouver,BC,V6T 1Z3,Other,Complete,1,0,AYO Smart Home Prototype,AYO,,,-123.243428,49.263035
+VBL10321,Pine House,PINE,3588 Ross Drive,Vancouver,BC,V6S 0K3,Housing,Complete,1,0,Pine House,Pine,Wesbrook Lot 27,,-123.234275,49.251427
+VBL10345,Virtuoso,VIRT,3581 Ross Drive,Vancouver,BC,V6S 0K5,Housing,Complete,1,0,Virtuoso,Virtuoso,Wesbrook Lot 23,,-123.23395,49.250717
+VBL10171,Webber House,WEBH,3388 Webber Lane,Vancouver,BC,V6S 0J8,Housing,Complete,1,0,Webber House,Webber,,,-123.236769,49.2533
+VBL10208,Carey Hall (Carey Theological College),CRYH,1815 Wesbrook Mall,Vancouver,BC,V6T 1J6,Other,Complete,1,0,Carey Hall (Carey Theological College),Carey Hall,,,-123.248534,49.271734
+VBL10404,Fraternity Village,FRAT,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3,StudentHousing,Complete,1,0,Fraternity Village ,Fraternity,,,-123.238861,49.259666
+VBL10001,Earth and Ocean Sciences,EOS,6339 Stores Road,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Earth and Ocean Sciences,EOS,EOS Main,EOS,-123.252478,49.262499
+VBL10002,Totem Park Residence - Building 6,TPR6,Building 6 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,Complete,1,0,Totem Park Residence - Building 6,Totem,,,-123.252628,49.257453
+VBL10003,UBC Botanical Garden - Garden Pavilion,BOT4,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,Complete,,,UBC Botanical Garden - Garden Pavilion,Botanical Garden ,,,-123.247123,49.253249
+VBL10013,Orchard Commons,ORCH,6363 Agronomy Road,Vancouver,BC,V6T 1Z4,Commons,Complete,1,1,Orchard Commons,Orchard,,,-123.251298,49.260428
+VBL10331,Brock Hall,BRCK,1874 East Mall,Vancouver,BC,V6T 1Z1,Administrative,Complete,1,1,Brock Hall,Brock,Student Services and Welcome Centre,,-123.252066,49.268649
+VBL10014,UBC Farm - Farm Centre,FRM1,Building 1 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Academic,Complete,,,UBC Farm Centre - Farm Centre,Farm,Forestry Field House,,-123.240131,49.251577
+VBL10007,UBC Botanical Garden - Ting Lookout,BOT7,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,Complete,,,UBC Botanical Garden - Ting Lookout,Botanical Garden ,Lookout,,-123.251644,49.254077
+VBL10015,UBC Farm - Children's Greenhouse,FRM3,Building 2 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Operations,Complete,,,UBC Farm Centre - Children's Greenhouse,Farm,,,-123.23981,49.251464
+VBL10008,UBC Botanical Garden - Reception Centre,BOT3,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,Complete,,,UBC Botanical Garden - Reception Centre,Botanical Garden ,Reception/Education,,-123.25124,49.254142
+VBL10017,Centre for Comparative Medicine,CCM,4145 Wesbrook Mall,Vancouver,BC,V6T 1W5,Academic,Complete,1,0,Centre for Comparative Medicine,CCM,,CCM,-123.233695,49.246842
+VBL10009,UBC Farm - Greenhouse 1,FRM4,Building 3 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Operations,Complete,,,UBC Farm Centre - Greenhouse 1,Farm,Botany Greenhouse 1,,-123.238944,49.251132
+VBL10012,UBC Farm - Greenhouse 2,FRM5,Building 4 - 3461 Ross Drive,Vancouver,BC,V6T 1W5,Operations,Complete,,,UBC Farm Centre - Greenhouse 2,Farm,Botany Greenhouse 2,,-123.239035,49.251033
+VBL10016,Totem Park Residence - Building 4,TPR4,Building 4 - 2525 West Mall,Vancouver,BC,V6T 1W9,StudentHousing,Complete,1,0,Totem Park Residence - Building 4,Totem,,,-123.251552,49.259171
+VBL10060,HR MacMillan Building,MCML,2357 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,HR MacMillan Building,MacMillan,Faculty of Land and Food Systems,,-123.250752,49.261068
+VBL10403,MBA House,MBAH,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4,StudentHousing,Complete,1,0,MBA House,MBA House,,,-123.235168,49.253864
+VBL10165,The Mews,MEWS,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3,Housing,Complete,1,0,The Mews,Mews,,,-123.235704,49.254536
+VBL10042,Frederic Lasserre Building,LASR,6333 Memorial Road,Vancouver,BC,V6T 1Z2,Academic,Complete,1,0,Frederic Lasserre Building,Lasserre,,,-123.255992,49.267592
+VBL10044,Frank Forward Building,FORW,6350 Stores Road,Vancouver,BC,V6T 1Z4,Academic,Complete,0,0,Frank Forward Building,Forward,,,-123.251707,49.261686
+VBL10045,Pulp and Paper Centre,PAPC,2385 East Mall,Vancouver,BC,V6T 1Z4,Research,Complete,1,1,Pulp and Paper Centre,Pulp,,,-123.247581,49.261414
+VBL10047,Hebb Building,HEBB,2045 East Mall,Vancouver,BC,V6T 1Z1,Academic,Complete,1,0,Hebb Building,Hebb,,,-123.251648,49.266132
+VBL10019,Environmental Services Facility - Waste Processing & Storage,ENV7,Building 6 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,1,0,Environmental Services Facility - Waste Processing,ESF,,,-123.228693,49.243437
+VBL10024,Power House,POWR,2040 West Mall,Vancouver,BC,V6T 1Z2,Operations,Complete,1,0,Power House,Power House,,,-123.2548,49.265211
+VBL10039,George Cunningham Building,CUNN,2146 East Mall,Vancouver,BC,V6T 1Z3,Academic,Complete,0,0,George Cunningham Building ,Cunningham,,,-123.248748,49.26479
+VBL10054,Rose Garden Parkade,PARR,6278 NW Marine Drive,Vancouver,BC,V6T 1Z1,Parking,Complete,1,0,Rose Garden Parkade,Rose Garden,,,-123.256306,49.269107
+VBL10055,Rugby Pavilion,RUGB,2584 East Mall,Vancouver,BC,V6T 1Z3,Athletics,Complete,1,0,Rugby Pavilion,Rugby,,,-123.244018,49.258669
+VBL10051,Rodney Graham Millennium Sculpture Pavilion,RSCU,1940 Main Mall,Vancouver,BC,V6T 1Z1,Services,Complete,1,0,Rodney Graham Millennium Sculpture Pavilion,Sculpture,,,-123.254508,49.267523
+VBL10297,Coast - Apartment West,COSW,6093 Iona Drive,Vancouver,BC,V6T 0B2,Housing,Complete,1,0,Coast - Apartment West,Coast West,,,-123.25321,49.27074
+VBL10298,Argyll House West,ARGW,6018 Iona Drive,Vancouver,BC,V6T 2L1,Housing,Complete,1,0,Argyll House West,Argyll West,,,-123.251327,49.270781
+VBL10300,Coast - Apartment East,COSE,6063 Iona Drive,Vancouver,BC,V6T 0B1,Housing,Complete,1,0,Coast - Apartment East,Coast East,,,-123.252559,49.271039
+VBL10166,Wesbrook Professional Centre,WPRO,3313 Shrum Lane,Vancouver,BC,V6S 0C8,Commercial,Complete,1,0,Wesbrook Professional Centre,Professional,,,-123.23633,49.254469
+VBL10115,St. James House,STJA,5835 Hampton Place,Vancouver,BC,V6T 2G2,Housing,Complete,1,0,St. James House,St. James,Hampton Place Lot 4,,-123.237176,49.258207
+VBL10175,The Balmoral,BALM,5615 Hampton Place,Vancouver,BC,V6T 2H1,Housing,Complete,1,0,The Balmoral,Balmoral,Hampton Place Lot 9,,-123.232724,49.258484
+VBL10205,The Pemberley,PEMB,5605 Hampton Place,Vancouver,BC,V6T 2H2,Housing,Complete,1,0,The Pemberley,Pemberley,Hampton Place Lot 10 ,,-123.232204,49.258019
+VBL10064,Wayne and William White Engineering Design Centre,EDC,2345 East Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,0,Wayne and William White Engineering Design Centre,EDC,,EDC,-123.248167,49.262339
+VBL10065,UBC Bookstore,BOOK,6200 University Boulevard,Vancouver,BC,V6T 1Z4,Services,Complete,1,1,UBC Bookstore,Bookstore,,,-123.250614,49.264987
+VBL10356,Central,CNTL,6015 University Boulevard,Vancouver,BC,V6T 0C4,Housing,Complete,1,1,Central (University Boulevard Site B),Central,Site B,,-123.247244,49.266347
+VBL10037,TRIUMF - Stores Building,TRF17,Building 22 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Stores Building,TRIUMF,,,-123.230593,49.246533
+VBL10066,The Brimacombe Building,BRIM,2355 East Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,The Brimacombe Building,Brimacombe,,,-123.248079,49.261856
+VBL10067,Henry Angus Building,ANGU,2053 Main Mall,Vancouver,BC,V6T 1Z2,Academic,Complete,1,0,Henry Angus Building,Angus,Sauder School of Business,,-123.253922,49.265125
+VBL10068,Coal and Mineral Processing Laboratory,MINL,2332 West Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Coal and Mineral Processing Lab,Coal Lab,Keevil Institute of Mining Engineering,,-123.252029,49.261163
+VBL10069,Bioenergy Research and Demonstration Facility,BRDF,2337 Lower Mall,Vancouver,BC,V6T 1Z4,Operations,Complete,1,1,Bioenergy Research and Demonstration Facility,Bioenergy,,,-123.254573,49.260277
+VBL10070,David Strangway Building,STRG,5950 University Boulevard,Vancouver,BC,V6T 1Z3,Administrative,Complete,1,0,David Strangway Building,Strangway,,,-123.246187,49.265847
+VBL10071,UBC Aquatic Centre,AQUA,6080 Student Union Boulevard,Vancouver,BC,V6T 1Z1,Athletics,Complete,1,1,UBC Aquatic Centre,Aquatic,Swimming Pool,,-123.248567,49.267812
+VBL10072,Earth Sciences Building,ESB,2207 Main Mall,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Earth Sciences Building,ESB,Science Dean office,,-123.252163,49.263055
+VBL10073,Engineering Student Centre,ESC,2335 Engineering Road,Vancouver,BC,V6T 1Z4,Academic,Complete,1,1,Engineering Student Centre,ESC,Engineering Undergraduate Society,ESC,-123.249272,49.262192
+VBL10144,Hawthorn Green,HAWT,,,,,Housing,Complete,1,0,Hawthorn Green,Hawthorn Green,,,-123.248583,49.258173
+VBL10158,Nine on the Park,NINE,,,,,Housing,Complete,0,0,Nine on the Park,Nine on the Park,,,-123.247043,49.259322
+VBL10147,Somerset,SOMS,,,,,Housing,Complete,1,0,Somerset,Somerset,,,-123.248143,49.256497
+VBL10220,Westchester,WSTR,,,,,Housing,Complete,1,0,Westchester,Westchester,,,-123.24911,49.257371
+VBL10226,Logan Lane,LOGN,,,,,Housing,Complete,0,0,Logan Lane,Logan Lane,,,-123.245758,49.258904
+VBL10279,St. Mark's Duplexes,STMD,,,,,Housing,Complete,0,0,St. Mark's Duplexes,Duplexes,,,-123.249411,49.272726
+VBL10355,University Boulevard Lot,ULOT,6131 University Boulevard,Vancouver,BC,V6T 1Z3,Parking,Complete,,,University Boulevard Lot,UBlvd Lot,,,-123.248957,49.266712
+VBL10063,TRIUMF - Trailer GG,TRF20,Building 26 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer GG,TRIUMF,,,-123.229348,49.246181
+VBL10057,TRIUMF - Trailer RR,TRF26,Building 16 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer RR,TRIUMF,,,-123.230826,49.247133
+VBL10076,The Wesbrook - Townhouses,WSB2,Building 1 - 5838 Berton Avenue,Vancouver,BC,V6S 0A5,Housing,Complete,,,The Wesbrook - Townhouses,The Wesbrook,,,-123.234202,49.254725
+VBL10299,Binning Tower - Townhouses,BINT,Building 1 - 3355 Binning Road,Vancouver,BC,V6S 0J1,Housing,Complete,,,Binning Tower - Townhouses,Binning Tower,,,-123.231627,49.255277
+VBL10398,West Hampstead - Townhouses,WHM2,Building 1 - 5760 Hampton Place,Vancouver,BC,V6T 2G1,Housing,Complete,,,West Hampstead - Townhouses,West Hampstead,,,-123.234586,49.2575
+VBL10188,Sage - Townhouses,SAG2,Building 1 - 5782 Berton Avenue,Vancouver,BC,V6S 0C1,Housing,Complete,,,Sage - Townhouses,Sage,,,-123.233503,49.254979
+VBL10031,TRIUMF - ISAC 1,TRF09,Building 6 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - ISAC 1,TRIUMF,,,-123.229471,49.247857
+VBL10213,Under Construction - Mundell House,MUNH,6038 Birney Avenue,Vancouver,BC,,Housing,UnderConstruction,,,Mundell House,Mundell,,,-123.236061,49.252932
+VBL10232,Under Construction - Focal,FOCL,6111 University Boulevard,Vancouver,BC,V6T 0C7,Housing,UnderConstruction,,,Focal,Focal,,,-123.248422,49.266177
+VBL10247,Under Construction - Georgia Point,GEOP,3381 Ross Drive,Vancouver,BC,,Housing,UnderConstruction,,,Georgia Point,Georgia Point,,,-123.239225,49.251953
+VBL10255,Under Construction - Oakwood Residences,OAKR,3383 Ross Drive,Vancouver,BC,,Housing,UnderConstruction,,,Oakwood Residences,Oakwood,,,-123.23852,49.251645
+VBL10179,Telus Hub,TELS,5895 Berton Avenue,Vancouver,BC,V6T 1W5,Other,Complete,,,Telus Hub,Telus,,,-123.235473,49.255225
+VBL10352,Under Construction - The Residences at Nobel Park - Townhouses,REN2,3483 Ross Drive,Vancouver,BC,,Housing,UnderConstruction,,,The Residences at Nobel Park - Townhouses,Nobel Park,,,-123.236412,49.250912
+VBL10372,Under Construction - Acadia Modular Child Care - Building 1,MCC1,,Vancouver,BC,,Services,UnderConstruction,,,Acadia Modular Child Care - Building 1,Child Care 1,,,-123.236533,49.260392
+VBL10373,Under Construction - Acadia Modular Child Care - Building 2,MCC2,,Vancouver,BC,,Services,UnderConstruction,,,Acadia Modular Child Care - Building 2,Child Care 2,,,-123.235488,49.260488
+VBL10375,Under Construction - Acadia Modular Child Care - Building 3,MCC3,,Vancouver,BC,,Services,UnderConstruction,,,Acadia Modular Child Care - Building 3,Child Care 3,,,-123.235332,49.26084
+VBL10378,Under Construction - Pacific Residences - Building 2,PAR2,5955 Student Union Boulevard,Vancouver,BC,,StudentHousing,UnderConstruction,,,Pacific Residences - Building 2,Pacific Res,,,-123.248459,49.269229
+VBL10381,Under Construction - Pacific Residences - Building 1,PAR1,5985 Student Union Boulevard,Vancouver,BC,,StudentHousing,UnderConstruction,,,Pacific Residences - Building 1,Pacific Res,,,-123.249612,49.268822
+VBL10382,Under Construction - Pacific Residences - Building 5,PAR5,5970 Walter Gage Road,Vancouver,BC,,StudentHousing,UnderConstruction,,,Pacific Residences - Building 5,Pacific Res,,,-123.248296,49.270582
+VBL10383,Under Construction - Pacific Residences - Building 3,PAR3,,Vancouver,BC,,StudentHousing,UnderConstruction,,,Pacific Residences - Building 3,Pacific Res,,,-123.247869,49.269615
+VBL10384,Under Construction - Pacific Residences - Building 4,PAR4,,Vancouver,BC,,StudentHousing,UnderConstruction,,,Pacific Residences - Building 4,Pacific Res,,,-123.247986,49.270206
+VBL10425,Under Construction - TRIUMF - Institute of Advanced Medical Isotopes (IAMI),,Building 28 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,UnderConstruction,,,TRIUMF - Institute of Advanced Medical Isotopes,TRIUMF,,IAMI,-123.228275,49.246796
+VBL10023,TRIUMF - Accelerator Trailer,TRF03,Building 15 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Accelerator Trailer,TRIUMF,,,-123.230129,49.246851
+VBL10028,TRIUMF - Equipment Marque,TRF06,Building 20 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Equipment Marque,TRIUMF,,,-123.230714,49.246738
+VBL10030,TRIUMF - Hazardous Storage,TRF08,Building 13 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Hazardous Storage,TRIUMF,,,-123.229338,49.24672
+VBL10038,TRIUMF - Trailer A,TRF18,Building 21 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer A,TRIUMF,,,-123.230343,49.246578
+VBL10033,TRIUMF - Liquid Helium Storage,TRF11,Building 18 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Liquid Helium Storage,TRIUMF,,,-123.230787,49.246918
+VBL10034,TRIUMF - Nina Storage Shelter,TRF13,Building 23 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Nina Storage Shelter,TRIUMF,,,-123.230432,49.245982
+VBL10035,TRIUMF - Plant Storage,TRF15,Building 27 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Plant Storage,TRIUMF,,,-123.229637,49.245997
+VBL10049,TRIUMF - Trailer HH & FF,TRF21,Building 3 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer HH & FF,TRIUMF,,,-123.230638,49.248306
+VBL10050,TRIUMF - Trailer LL,TRF22,Building 17 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer LL,TRIUMF,,,-123.230961,49.24689
+VBL10053,TRIUMF - Trailer PP,TRF24,Building 25 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer PP,TRIUMF,,,-123.229145,49.246359
+VBL10056,TRIUMF - Trailer Q,TRF25,Building 19 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Trailer Q,TRIUMF,,,-123.230628,49.246812
+VBL10061,TRIUMF - Machine Shop Materials,TRF12,Building 24 - 4004 Wesbrook Mall,Vancouver,BC,V6T 2A3,Research,Complete,,,TRIUMF - Machine Shop Materials,TRIUMF,,,-123.229845,49.246373
+VBL10198,Fairview Crescent Residence - Building 2,FAR2,2763 Fairview Crescent,Vancouver,BC,V6T 2B8,StudentHousing,Complete,,,Fairview Crescent Residence - Building 2,Fairview 2,,,-123.239819,49.262993
+VBL10421,Under Construction - Counselling Services,CNSL,1930 East Mall,Vancouver,BC,,Services,UnderConstruction,,,Counselling Services,Counselling,,,-123.251997,49.268236
+VBL10244,Eton - Townhouses,ETN3,Building 1 - 5687 Gray Avenue,Vancouver,BC,,Housing,Complete,,,Eton - Townhouses,Eton,,,-123.231518,49.253524
+VBL10264,Ivy on the Park - Townhouses,IVYT,5681 Birney Avenue,Vancouver,BC,,Housing,Complete,,,Ivy on the Park - Townhouses,Ivy on the Park,,,-123.231836,49.254771
+VBL10265,Ivy on the Park - Highrise,IVYH,5629 Birney Avenue,Vancouver,BC,,Housing,Complete,,,Ivy on the Park - Highrise,Ivy on the Park,,,-123.231003,49.254718
+VBL10400,Environmental Services Facility - Office,ENV4,Building 1 - 6025 Nurseries Road,Vancouver,BC,V6T 1W5,Operations,Complete,,,Environmental Services Facility - Office,ESF,,,-123.228955,49.243459
+VBL10199,Academy - Townhouses,ACD2,Building 1 - 5728 Berton Avenue,Vancouver,BC,V6S 0E5,Housing,Complete,,,Academy - Townhouses,Academy,,,-123.232779,49.255182
+VBL10416,Vanier Pump Station,VNRP,Building 14 - 1935 Lower Mall,Vancouver,BC,V6T 1X1,Operations,Complete,,,Vanier Pump Station,Vanier Pump,,,-123.260266,49.26482
+VBL10418,Cecil Green Squash Court,CGSQ,Building 1 - 6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1,Athletics,Complete,,,Cecil Green Squash Court,Squash,,,-123.257056,49.271418
+VBL10419,UBC Botanical Garden - Shop/Gatehouse Entrance,BOT1,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4,Services,Complete,,,UBC Botanical Garden - Shop/Gatehouse Entrance,Botanical Garden ,,,-123.250531,49.254029
+VBL10354,UBC Exchange,TRAN,1985 Wesbrook Mall,Vancouver,BC,V6T 2C9,Parking,Complete,,,UBC Exchange,Transit,,,-123.247729,49.268347
+VBL10422,Under Construction - Wesbrook Place Lot BCR 8,,3508 Wesbrook Mall,Vancouver,BC,,Housing,UnderConstruction,,,Wesbrook Place Lot BCR 8,BCR8,,,-123.233231,49.252338
+VBL10420,Under Construction - Pump House Replacement,PUMP,,,,,Operations,,,,Pump House Replacement,Pump,,,-123.25418,49.26464
+VBL10271,Chancellor Hall - Townhouses,CHHT,,,,,Housing,Complete,,,Chancellor Hall - Townhouses,Chancellor Hall,,,-123.250356,49.272193
+VBL10316,Folio - Townhouses,FOL2,,,,,Housing,Complete,,,Folio - Townhouses,Folio,,,-123.2502,49.272247
+VBL10399,Coast - Duplexes,COSD,,,,,Housing,Complete,,,Coast - Duplexes,Coast,,,-123.253238,49.271304
+VBL10417,Thames Court - Building 1,THAC1,,,,,Housing,Complete,,,Thames Court - Building 1,Thames Court,,,-123.235779,49.25725
+VBL10277,Coast - Townhouses,COST,,,,,Housing,Complete,,,Coast - Townhouses,Coast,,,-123.253052,49.271064
+VBL10423,Under Construction - Brock Commons North,,,,,,Commons,UnderConstruction,,,Brock Commons North,Brock Commons,,,-123.252618,49.269569
+VBL10426,Under Construction - Arts Student Centre,,,,,,Services,UnderConstruction,,,Arts Student Centre,ASC,,ASC,-123.253078,49.269288
+VBL10424,Under Construction - Brock Commons South,,,,,,Commons,UnderConstruction,,,Brock Commons South,Brock Commons,,,-123.252366,49.269083
+VBL10291,Folio - Duplexes,FOL3,,,,,Housing,Complete,,,Folio - Duplexes,Folio,,,-123.250607,49.272418
+VBL10385,Chancellor House - Duplexes,CHOD,,,,,Housing,Complete,,,Chancellor House - Duplexes,Chancellor House,,,-123.251863,49.271978
