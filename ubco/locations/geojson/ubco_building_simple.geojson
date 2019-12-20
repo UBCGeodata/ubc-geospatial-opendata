@@ -65,11 +65,11 @@
 				"NAME" : "Cascades Residence - B",
 				"BLDG_CODE" : "CASB",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10027",
+				"MAIN_ADDRESS" : "3200 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3200 Lower Residence Lane"
+				"ADD_UID" : "OAD10027"
 			}
 		},
 		{
@@ -131,11 +131,11 @@
 				"NAME" : "Cascades Residence - G",
 				"BLDG_CODE" : "CASG",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10025",
+				"MAIN_ADDRESS" : "3210 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3210 Lower Residence Lane"
+				"ADD_UID" : "OAD10025"
 			}
 		},
 		{
@@ -201,11 +201,11 @@
 				"NAME" : "Cascades Residence - A",
 				"BLDG_CODE" : "CASA",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10032",
+				"MAIN_ADDRESS" : "3212 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3212 Lower Residence Lane"
+				"ADD_UID" : "OAD10032"
 			}
 		},
 		{
@@ -270,11 +270,11 @@
 				"NAME" : "Similkameen Residence",
 				"BLDG_CODE" : "SIM",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10003",
+				"MAIN_ADDRESS" : "1263 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1263 Discovery Avenue"
+				"ADD_UID" : "OAD10003"
 			}
 		},
 		{
@@ -340,11 +340,11 @@
 				"NAME" : "Cascades Residence - D",
 				"BLDG_CODE" : "CASD",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10030",
+				"MAIN_ADDRESS" : "3176 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3176 Lower Residence Lane"
+				"ADD_UID" : "OAD10030"
 			}
 		},
 		{
@@ -503,11 +503,11 @@
 				"NAME" : "Valhalla Residence",
 				"BLDG_CODE" : "VAL",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10014",
+				"MAIN_ADDRESS" : "1311 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1311 Discovery Avenue"
+				"ADD_UID" : "OAD10014"
 			}
 		},
 		{
@@ -627,11 +627,11 @@
 				"NAME" : "Arts Building",
 				"BLDG_CODE" : "ART",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10002",
+				"MAIN_ADDRESS" : "1147 Research Road",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1147 Research Road"
+				"ADD_UID" : "OAD10002"
 			}
 		},
 		{
@@ -693,11 +693,11 @@
 				"NAME" : "Science Building",
 				"BLDG_CODE" : "SCI",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10016",
+				"MAIN_ADDRESS" : "1177 Research Road",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1177 Research Road"
+				"ADD_UID" : "OAD10016"
 			}
 		},
 		{
@@ -799,11 +799,11 @@
 				"NAME" : "Campus Administration Building",
 				"BLDG_CODE" : "ADM",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10031",
+				"MAIN_ADDRESS" : "1138 Alumni Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1138 Alumni Avenue"
+				"ADD_UID" : "OAD10031"
 			}
 		},
 		{
@@ -869,11 +869,11 @@
 				"NAME" : "Cascades Residence - F",
 				"BLDG_CODE" : "CASF",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10029",
+				"MAIN_ADDRESS" : "3192 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3192 Lower Residence Lane"
+				"ADD_UID" : "OAD10029"
 			}
 		},
 		{
@@ -1030,11 +1030,11 @@
 				"NAME" : "Kalamalka Residence",
 				"BLDG_CODE" : "KAL",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10043",
+				"MAIN_ADDRESS" : "1240 International Mews",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1240 International Mews"
+				"ADD_UID" : "OAD10043"
 			}
 		},
 		{
@@ -1066,11 +1066,11 @@
 				"NAME" : "Creative and Critical Studies Building",
 				"BLDG_CODE" : "CCS",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10035",
+				"MAIN_ADDRESS" : "1148 Research Road",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1148 Research Road"
+				"ADD_UID" : "OAD10035"
 			}
 		},
 		{
@@ -1131,11 +1131,11 @@
 				"NAME" : "Cascades Residence - C",
 				"BLDG_CODE" : "CASC",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10024",
+				"MAIN_ADDRESS" : "3188 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3188 Lower Residence Lane"
+				"ADD_UID" : "OAD10024"
 			}
 		},
 		{
@@ -1201,11 +1201,11 @@
 				"NAME" : "Cascades Residence - E",
 				"BLDG_CODE" : "CASE",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10026",
+				"MAIN_ADDRESS" : "3174 Lower Residence Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3174 Lower Residence Lane"
+				"ADD_UID" : "OAD10026"
 			}
 		},
 		{
@@ -1277,11 +1277,11 @@
 				"NAME" : "Gymnasium",
 				"BLDG_CODE" : "GYM",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10019",
+				"MAIN_ADDRESS" : "3211 Athletics Court",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3211 Athletics Court"
+				"ADD_UID" : "OAD10019"
 			}
 		},
 		{
@@ -1337,11 +1337,11 @@
 				"NAME" : "Library Building",
 				"BLDG_CODE" : "LIB",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10047",
+				"MAIN_ADDRESS" : "3287 University Way",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3287 University Way"
+				"ADD_UID" : "OAD10047"
 			}
 		},
 		{
@@ -1370,11 +1370,11 @@
 				"NAME" : "Geo Exchange Control Building",
 				"BLDG_CODE" : "GEO",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10046",
+				"MAIN_ADDRESS" : "3348 University Way",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3348 University Way"
+				"ADD_UID" : "OAD10046"
 			}
 		},
 		{
@@ -1432,11 +1432,11 @@
 				"NAME" : "Cascades Residence - J",
 				"BLDG_CODE" : "CASJ",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10022",
+				"MAIN_ADDRESS" : "3133 Upper Residence Place",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3133 Upper Residence Place"
+				"ADD_UID" : "OAD10022"
 			}
 		},
 		{
@@ -1502,11 +1502,11 @@
 				"NAME" : "Cascades Residence - K",
 				"BLDG_CODE" : "CASK",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10023",
+				"MAIN_ADDRESS" : "3152 Upper Residence Place",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3152 Upper Residence Place"
+				"ADD_UID" : "OAD10023"
 			}
 		},
 		{
@@ -1629,11 +1629,11 @@
 				"NAME" : "Engineering, Management and Education Building",
 				"BLDG_CODE" : "EME",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10038",
+				"MAIN_ADDRESS" : "1137 Alumni Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1137 Alumni Avenue"
+				"ADD_UID" : "OAD10038"
 			}
 		},
 		{
@@ -1693,11 +1693,11 @@
 				"NAME" : "Purcell Residence",
 				"BLDG_CODE" : "PUR",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10008",
+				"MAIN_ADDRESS" : "1323 International Mews",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1323 International Mews"
+				"ADD_UID" : "OAD10008"
 			}
 		},
 		{
@@ -1783,11 +1783,11 @@
 				"NAME" : "Arts and Sciences Centre",
 				"BLDG_CODE" : "ASC",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10001",
+				"MAIN_ADDRESS" : "3187 University Way",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3187 University Way"
+				"ADD_UID" : "OAD10001"
 			}
 		},
 		{
@@ -1811,11 +1811,11 @@
 				"NAME" : "Skeena Residence",
 				"BLDG_CODE" : "SKN",
 				"CONSTR_STATUS" : "UnderConstruction",
-				"ADD_UID" : "OAD10053",
+				"MAIN_ADDRESS" : "1320 International Mews",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1320 International Mews"
+				"ADD_UID" : "OAD10053"
 			}
 		},
 		{
@@ -1845,11 +1845,11 @@
 				"NAME" : "Upper Campus Health Building",
 				"BLDG_CODE" : "UCH",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10017",
+				"MAIN_ADDRESS" : "1238 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1238 Discovery Avenue"
+				"ADD_UID" : "OAD10017"
 			}
 		},
 		{
@@ -1991,11 +1991,11 @@
 				"NAME" : "Nicola Residence",
 				"BLDG_CODE" : "NIC",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10040",
+				"MAIN_ADDRESS" : "1270 International Mews",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1270 International Mews"
+				"ADD_UID" : "OAD10040"
 			}
 		},
 		{
@@ -2023,11 +2023,11 @@
 				"NAME" : "Nechako Residence",
 				"BLDG_CODE" : "NCH",
 				"CONSTR_STATUS" : "UnderConstruction",
-				"ADD_UID" : "OAD10054.",
+				"MAIN_ADDRESS" : "1255 International Mews",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1255 International Mews"
+				"ADD_UID" : "OAD10054."
 			}
 		},
 		{
@@ -2093,11 +2093,11 @@
 				"NAME" : "Cascades Residence - H",
 				"BLDG_CODE" : "CASH",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10020",
+				"MAIN_ADDRESS" : "3153 Upper Residence Place",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3153 Upper Residence Place"
+				"ADD_UID" : "OAD10020"
 			}
 		},
 		{
@@ -2163,11 +2163,11 @@
 				"NAME" : "Cascades Residence - I",
 				"BLDG_CODE" : "CASI",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10021",
+				"MAIN_ADDRESS" : "3132 Upper Residence Place",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V8",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3132 Upper Residence Place"
+				"ADD_UID" : "OAD10021"
 			}
 		},
 		{
@@ -2292,11 +2292,11 @@
 				"NAME" : "Cassiar Residence",
 				"BLDG_CODE" : "CSR",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10034",
+				"MAIN_ADDRESS" : "1337 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1337 Discovery Avenue"
+				"ADD_UID" : "OAD10034"
 			}
 		},
 		{
@@ -2342,11 +2342,11 @@
 				"NAME" : "Reichwald Health Sciences Centre",
 				"BLDG_CODE" : "RHS",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10013",
+				"MAIN_ADDRESS" : "1088 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1088 Discovery Avenue"
+				"ADD_UID" : "OAD10013"
 			}
 		},
 		{
@@ -2374,11 +2374,11 @@
 				"NAME" : "The Commons",
 				"BLDG_CODE" : "COM",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10005",
+				"MAIN_ADDRESS" : "3297 University Way",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3297 University Way"
+				"ADD_UID" : "OAD10005"
 			}
 		},
 		{
@@ -2400,11 +2400,11 @@
 				"NAME" : "Quonset Office",
 				"BLDG_CODE" : "QOT",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10037",
+				"MAIN_ADDRESS" : "Building 4 - 1033 Alumni Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "Building 4 - 1033 Alumni Avenue"
+				"ADD_UID" : "OAD10037"
 			}
 		},
 		{
@@ -2464,11 +2464,11 @@
 				"NAME" : "Quonset - Hut",
 				"BLDG_CODE" : "QUO",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10048",
+				"MAIN_ADDRESS" : "Building 1 - 1035 Alumni Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "Building 1 - 1035 Alumni Avenue"
+				"ADD_UID" : "OAD10048"
 			}
 		},
 		{
@@ -2490,11 +2490,11 @@
 				"NAME" : "Quonset - Hazardous Waste Depot",
 				"BLDG_CODE" : "QUW",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10050",
+				"MAIN_ADDRESS" : "Building 3 - 1035 Alumni Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "Building 3 - 1035 Alumni Avenue"
+				"ADD_UID" : "OAD10050"
 			}
 		},
 		{
@@ -2516,11 +2516,11 @@
 				"NAME" : "Portable A",
 				"BLDG_CODE" : "PBA",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10018",
+				"MAIN_ADDRESS" : "Building 1 - 1060 Diversity Place",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "Building 1 - 1060 Diversity Place"
+				"ADD_UID" : "OAD10018"
 			}
 		},
 		{
@@ -2542,11 +2542,11 @@
 				"NAME" : "Portable N",
 				"BLDG_CODE" : "PBN",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10011",
+				"MAIN_ADDRESS" : "3177 Athletics Court",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3177 Athletics Court"
+				"ADD_UID" : "OAD10011"
 			}
 		},
 		{
@@ -2568,11 +2568,11 @@
 				"NAME" : "Quonset - Science Shed",
 				"BLDG_CODE" : "QUS",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10052",
+				"MAIN_ADDRESS" : "Building 2 - 1035 Alumni Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "Building 2 - 1035 Alumni Avenue"
+				"ADD_UID" : "OAD10052"
 			}
 		},
 		{
@@ -2657,11 +2657,11 @@
 				"NAME" : "Daycare Building",
 				"BLDG_CODE" : "DAY",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10036",
+				"MAIN_ADDRESS" : "1262 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1262 Discovery Avenue"
+				"ADD_UID" : "OAD10036"
 			}
 		},
 		{
@@ -2683,11 +2683,11 @@
 				"NAME" : "Central Heating Plant",
 				"BLDG_CODE" : "CHP",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10028",
+				"MAIN_ADDRESS" : "3267 Knowledge Lane",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3267 Knowledge Lane"
+				"ADD_UID" : "OAD10028"
 			}
 		},
 		{
@@ -2725,11 +2725,11 @@
 				"NAME" : "University House",
 				"BLDG_CODE" : "UNI",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10049",
+				"MAIN_ADDRESS" : "1060 Diversity Place",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1060 Diversity Place"
+				"ADD_UID" : "OAD10049"
 			}
 		},
 		{
@@ -2831,11 +2831,11 @@
 				"NAME" : "Monashee Residence",
 				"BLDG_CODE" : "MON",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10041",
+				"MAIN_ADDRESS" : "1267 Discovery Avenue",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "1267 Discovery Avenue"
+				"ADD_UID" : "OAD10041"
 			}
 		},
 		{
@@ -3025,11 +3025,11 @@
 				"NAME" : "Charles E. Fipke Centre for Innovative Research",
 				"BLDG_CODE" : "FIP",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10033",
+				"MAIN_ADDRESS" : "3247 University Way",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3247 University Way"
+				"ADD_UID" : "OAD10033"
 			}
 		},
 		{
@@ -3072,11 +3072,11 @@
 				"NAME" : "University Centre",
 				"BLDG_CODE" : "UNC",
 				"CONSTR_STATUS" : "Complete",
-				"ADD_UID" : "OAD10012",
+				"MAIN_ADDRESS" : "3272 University Way",
 				"LOCALITY" : "Kelowna",
 				"POSTAL_CODE" : "V1V 1V7",
 				"PROVINCE_CODE" : "BC",
-				"FULL_ADDRESS" : "3272 University Way"
+				"ADD_UID" : "OAD10012"
 			}
 		}
 	]

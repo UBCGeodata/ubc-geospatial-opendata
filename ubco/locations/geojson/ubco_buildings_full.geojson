@@ -61,7 +61,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 32,
 				"BLDG_UID" : "OBL10032",
 				"NAME" : "Cascades Residence - B",
 				"BLDG_CODE" : "CASB",
@@ -91,9 +90,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 469.09926847,
-				"SHAPE.LEN" : 111.96267093961801
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -151,7 +148,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 33,
 				"BLDG_UID" : "OBL10033",
 				"NAME" : "Cascades Residence - G",
 				"BLDG_CODE" : "CASG",
@@ -181,9 +177,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 468.958245325,
-				"SHAPE.LEN" : 109.524698800576
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -245,7 +239,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 34,
 				"BLDG_UID" : "OBL10034",
 				"NAME" : "Cascades Residence - A",
 				"BLDG_CODE" : "CASA",
@@ -275,9 +268,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 469.09897872500005,
-				"SHAPE.LEN" : 111.96251172257901
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -338,7 +329,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5,
 				"BLDG_UID" : "OBL10005",
 				"NAME" : "Similkameen Residence",
 				"BLDG_CODE" : "SIM",
@@ -368,9 +358,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1144.323122525,
-				"SHAPE.LEN" : 271.95861913118597
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -432,7 +420,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 9,
 				"BLDG_UID" : "OBL10009",
 				"NAME" : "Cascades Residence - D",
 				"BLDG_CODE" : "CASD",
@@ -462,9 +449,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 469.09829756500005,
-				"SHAPE.LEN" : 111.96308458173401
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -619,7 +604,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 11,
 				"BLDG_UID" : "OBL10011",
 				"NAME" : "Valhalla Residence",
 				"BLDG_CODE" : "VAL",
@@ -649,9 +633,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1283.4109916250002,
-				"SHAPE.LEN" : 247.372621723995
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -767,7 +749,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 12,
 				"BLDG_UID" : "OBL10012",
 				"NAME" : "Arts Building",
 				"BLDG_CODE" : "ART",
@@ -797,9 +778,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3513.46747416,
-				"SHAPE.LEN" : 431.374374301313
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -857,7 +836,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 29,
 				"BLDG_UID" : "OBL10029",
 				"NAME" : "Science Building",
 				"BLDG_CODE" : "SCI",
@@ -887,9 +865,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3313.07618891,
-				"SHAPE.LEN" : 266.104480256315
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -987,7 +963,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 30,
 				"BLDG_UID" : "OBL10030",
 				"NAME" : "Campus Administration Building",
 				"BLDG_CODE" : "ADM",
@@ -1017,9 +992,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3315.10216294,
-				"SHAPE.LEN" : 379.931817139673
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1081,7 +1054,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 31,
 				"BLDG_UID" : "OBL10031",
 				"NAME" : "Cascades Residence - F",
 				"BLDG_CODE" : "CASF",
@@ -1111,9 +1083,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 469.09826226,
-				"SHAPE.LEN" : 111.96293275238301
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1266,7 +1236,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 24,
 				"BLDG_UID" : "OBL10024",
 				"NAME" : "Kalamalka Residence",
 				"BLDG_CODE" : "KAL",
@@ -1296,9 +1265,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1283.225416445,
-				"SHAPE.LEN" : 244.85553143166402
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1326,7 +1293,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 25,
 				"BLDG_UID" : "OBL10025",
 				"NAME" : "Creative and Critical Studies Building",
 				"BLDG_CODE" : "CCS",
@@ -1356,9 +1322,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2162.0354690550002,
-				"SHAPE.LEN" : 258.3260013822
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1415,7 +1379,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 35,
 				"BLDG_UID" : "OBL10035",
 				"NAME" : "Cascades Residence - C",
 				"BLDG_CODE" : "CASC",
@@ -1445,9 +1408,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 477.71828184500004,
-				"SHAPE.LEN" : 104.800590601119
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1509,7 +1470,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 36,
 				"BLDG_UID" : "OBL10036",
 				"NAME" : "Cascades Residence - E",
 				"BLDG_CODE" : "CASE",
@@ -1539,9 +1499,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 469.097624035,
-				"SHAPE.LEN" : 111.96292649120801
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1609,7 +1567,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 38,
 				"BLDG_UID" : "OBL10038",
 				"NAME" : "Gymnasium",
 				"BLDG_CODE" : "GYM",
@@ -1639,9 +1596,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3685.74425303,
-				"SHAPE.LEN" : 362.136513694923
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1693,7 +1648,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 40,
 				"BLDG_UID" : "OBL10040",
 				"NAME" : "Library Building",
 				"BLDG_CODE" : "LIB",
@@ -1723,9 +1677,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1858.8350178849998,
-				"SHAPE.LEN" : 185.991354199313
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1750,7 +1702,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2,
 				"BLDG_UID" : "OBL10002",
 				"NAME" : "Geo Exchange Control Building",
 				"BLDG_CODE" : "GEO",
@@ -1780,9 +1731,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 437.66778565500005,
-				"SHAPE.LEN" : 104.71919929504001
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1836,7 +1785,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 15,
 				"BLDG_UID" : "OBL10015",
 				"NAME" : "Cascades Residence - J",
 				"BLDG_CODE" : "CASJ",
@@ -1866,9 +1814,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 482.32074618,
-				"SHAPE.LEN" : 106.072190085244
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1930,7 +1876,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 28,
 				"BLDG_UID" : "OBL10028",
 				"NAME" : "Cascades Residence - K",
 				"BLDG_CODE" : "CASK",
@@ -1960,9 +1905,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 473.36883177,
-				"SHAPE.LEN" : 112.97630325493101
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2081,7 +2024,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 27,
 				"BLDG_UID" : "OBL10027",
 				"NAME" : "Engineering, Management and Education Building",
 				"BLDG_CODE" : "EME",
@@ -2111,9 +2053,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 5002.620984545,
-				"SHAPE.LEN" : 452.836023081354
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2169,7 +2109,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 13,
 				"BLDG_UID" : "OBL10013",
 				"NAME" : "Purcell Residence",
 				"BLDG_CODE" : "PUR",
@@ -2199,9 +2138,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1318.5718131449999,
-				"SHAPE.LEN" : 233.033135975871
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2283,7 +2220,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 10,
 				"BLDG_UID" : "OBL10010",
 				"NAME" : "Arts and Sciences Centre",
 				"BLDG_CODE" : "ASC",
@@ -2313,9 +2249,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2175.911145525,
-				"SHAPE.LEN" : 330.284934794863
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2335,7 +2269,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 46,
 				"BLDG_UID" : "OBL10046",
 				"NAME" : "Skeena Residence",
 				"BLDG_CODE" : "SKN",
@@ -2365,9 +2298,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1277.86702,
-				"SHAPE.LEN" : 195.14410437709802
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2393,7 +2324,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 44,
 				"BLDG_UID" : "OBL10044",
 				"NAME" : "Upper Campus Health Building",
 				"BLDG_CODE" : "UCH",
@@ -2423,9 +2353,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 854.22789637,
-				"SHAPE.LEN" : 134.255212029883
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2563,7 +2491,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 21,
 				"BLDG_UID" : "OBL10021",
 				"NAME" : "Nicola Residence",
 				"BLDG_CODE" : "NIC",
@@ -2593,9 +2520,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1568.08497981,
-				"SHAPE.LEN" : 281.520845702191
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2619,7 +2544,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 48,
 				"BLDG_UID" : "OBL10045",
 				"NAME" : "Nechako Residence",
 				"BLDG_CODE" : "NCH",
@@ -2649,9 +2573,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4184.338845605,
-				"SHAPE.LEN" : 276.964590905992
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2713,7 +2635,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 17,
 				"BLDG_UID" : "OBL10017",
 				"NAME" : "Cascades Residence - H",
 				"BLDG_CODE" : "CASH",
@@ -2743,9 +2664,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 473.68603115,
-				"SHAPE.LEN" : 113.09137586282701
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2807,7 +2726,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 43,
 				"BLDG_UID" : "OBL10043",
 				"NAME" : "Cascades Residence - I",
 				"BLDG_CODE" : "CASI",
@@ -2837,9 +2755,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 473.434930465,
-				"SHAPE.LEN" : 113.05936881803201
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2960,7 +2876,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 26,
 				"BLDG_UID" : "OBL10026",
 				"NAME" : "Cassiar Residence",
 				"BLDG_CODE" : "CSR",
@@ -2990,9 +2905,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1035.58095413,
-				"SHAPE.LEN" : 193.879416873356
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3034,7 +2947,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 18,
 				"BLDG_UID" : "OBL10018",
 				"NAME" : "Reichwald Health Sciences Centre",
 				"BLDG_CODE" : "RHS",
@@ -3064,9 +2976,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2039.159095125,
-				"SHAPE.LEN" : 279.231899226786
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3090,7 +3000,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 7,
 				"BLDG_UID" : "OBL10007",
 				"NAME" : "The Commons",
 				"BLDG_CODE" : "COM",
@@ -3120,9 +3029,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2207.15445466,
-				"SHAPE.LEN" : 195.791993759083
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3140,7 +3047,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3,
 				"BLDG_UID" : "OBL10003",
 				"NAME" : "Quonset Office",
 				"BLDG_CODE" : "QOT",
@@ -3170,9 +3076,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 121.35398939,
-				"SHAPE.LEN" : 44.7525117039179
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3228,7 +3132,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 1,
 				"BLDG_UID" : "OBL10001",
 				"NAME" : "Quonset - Hut",
 				"BLDG_CODE" : "QUO",
@@ -3258,9 +3161,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 588.754063295,
-				"SHAPE.LEN" : 183.722040054095
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3278,7 +3179,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 19,
 				"BLDG_UID" : "OBL10019",
 				"NAME" : "Quonset - Hazardous Waste Depot",
 				"BLDG_CODE" : "QUW",
@@ -3308,9 +3208,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 46.03980225,
-				"SHAPE.LEN" : 29.5396956931008
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3328,7 +3226,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 8,
 				"BLDG_UID" : "OBL10008",
 				"NAME" : "Portable A",
 				"BLDG_CODE" : "PBA",
@@ -3358,9 +3255,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 107.930493,
-				"SHAPE.LEN" : 44.0642874976088
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3378,7 +3273,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 16,
 				"BLDG_UID" : "OBL10016",
 				"NAME" : "Portable N",
 				"BLDG_CODE" : "PBN",
@@ -3408,9 +3302,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 107.40719994,
-				"SHAPE.LEN" : 44.7741108409851
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3428,7 +3320,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 20,
 				"BLDG_UID" : "OBL10020",
 				"NAME" : "Quonset - Science Shed",
 				"BLDG_CODE" : "QUS",
@@ -3458,9 +3349,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 169.79574525,
-				"SHAPE.LEN" : 52.668559056352
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3541,7 +3430,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 37,
 				"BLDG_UID" : "OBL10037",
 				"NAME" : "Daycare Building",
 				"BLDG_CODE" : "DAY",
@@ -3571,9 +3459,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 630.43071502,
-				"SHAPE.LEN" : 118.05684785389701
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3591,7 +3477,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 4,
 				"BLDG_UID" : "OBL10004",
 				"NAME" : "Central Heating Plant",
 				"BLDG_CODE" : "CHP",
@@ -3621,9 +3506,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 304.919010935,
-				"SHAPE.LEN" : 72.5999040917127
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3657,7 +3540,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 14,
 				"BLDG_UID" : "OBL10014",
 				"NAME" : "University House",
 				"BLDG_CODE" : "UNI",
@@ -3687,9 +3569,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 169.655496105,
-				"SHAPE.LEN" : 71.3104357884143
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3787,7 +3667,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 22,
 				"BLDG_UID" : "OBL10022",
 				"NAME" : "Monashee Residence",
 				"BLDG_CODE" : "MON",
@@ -3817,9 +3696,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1981.9199276650002,
-				"SHAPE.LEN" : 353.15296611954307
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4005,7 +3882,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 23,
 				"BLDG_UID" : "OBL10023",
 				"NAME" : "Charles E. Fipke Centre for Innovative Research",
 				"BLDG_CODE" : "FIP",
@@ -4035,9 +3911,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2735.7634578750003,
-				"SHAPE.LEN" : 331.75486245981097
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4076,7 +3950,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 39,
 				"BLDG_UID" : "OBL10039",
 				"NAME" : "University Centre",
 				"BLDG_CODE" : "UNC",
@@ -4106,9 +3979,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_CONDITION" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3110.392014185,
-				"SHAPE.LEN" : 265.782368025833
+				"PROPERTY_TYPE" : null
 			}
 		}
 	]
