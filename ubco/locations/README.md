@@ -17,8 +17,8 @@ Datasets
 
 Files Provided
 --------------
-* Data on git are geojson and csv (text) only. File geodatabase download [here](https://maps.gis.ubc.ca/data/ubcv/ubco_locations.gdb.zip)
-* FGDB is UTM10N(ESPG:26910), geojson is LL84(ESPG:4326).
+* Data on git are geojson and csv (text) only. File geodatabase download [here](https://maps.gis.ubc.ca/data/ubco/ubco_locations.gdb.zip).
+* FGDB is UTM11N(ESPG:26911), geojson is LL84(ESPG:4326).
 * csv data has lat/long columns.
 
 Metadata
