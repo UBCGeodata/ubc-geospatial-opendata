@@ -21,7 +21,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 355,
 				"BLDG_UID" : "VBL10355",
 				"NAME" : "University Boulevard Lot",
 				"BLDG_CODE" : "ULOT",
@@ -51,9 +50,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 5400.878366305,
-				"SHAPE.LEN" : 314.604275639317
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -75,7 +72,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 63,
 				"BLDG_UID" : "VBL10063",
 				"NAME" : "TRIUMF - Trailer GG",
 				"BLDG_CODE" : "TRF20",
@@ -105,9 +101,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 777.04868206,
-				"SHAPE.LEN" : 157.394929998464
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -165,7 +159,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 347,
 				"BLDG_UID" : "VBL10347",
 				"NAME" : "Cascara House",
 				"BLDG_CODE" : "CASC",
@@ -195,9 +188,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 779.72852829,
-				"SHAPE.LEN" : 158.37811330293502
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -215,7 +206,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 57,
 				"BLDG_UID" : "VBL10057",
 				"NAME" : "TRIUMF - Trailer RR",
 				"BLDG_CODE" : "TRF26",
@@ -245,9 +235,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 93.85491889500001,
-				"SHAPE.LEN" : 42.9534404010813
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -271,7 +259,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 415,
 				"BLDG_UID" : "VBL10414",
 				"NAME" : "Granite Terrace - Commercial",
 				"BLDG_CODE" : "GRT2",
@@ -301,9 +288,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 488.47872805,
-				"SHAPE.LEN" : 93.1906662891532
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -352,7 +337,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 416,
 				"BLDG_UID" : "VBL10164",
 				"NAME" : "Granite Terrace",
 				"BLDG_CODE" : "GRT1",
@@ -382,9 +366,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3968.808887345,
-				"SHAPE.LEN" : 338.514128617021
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -502,7 +484,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 76,
 				"BLDG_UID" : "VBL10076",
 				"NAME" : "The Wesbrook - Townhouses",
 				"BLDG_CODE" : "WSB2",
@@ -532,9 +513,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 606.616317415,
-				"SHAPE.LEN" : 141.31574225399802
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -581,7 +560,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 299,
 				"BLDG_UID" : "VBL10299",
 				"NAME" : "Binning Tower - Townhouses",
 				"BLDG_CODE" : "BINT",
@@ -611,9 +589,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 747.7986991949999,
-				"SHAPE.LEN" : 214.95274052215402
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -698,7 +674,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 336,
 				"BLDG_UID" : "VBL10336",
 				"NAME" : "Prodigy - Building 2",
 				"BLDG_CODE" : "PRD2",
@@ -728,9 +703,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1217.48926478,
-				"SHAPE.LEN" : 237.12039429383
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -826,7 +799,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 349,
 				"BLDG_UID" : "VBL10349",
 				"NAME" : "Prodigy - Building 1",
 				"BLDG_CODE" : "PRD1",
@@ -856,9 +828,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1738.85817975,
-				"SHAPE.LEN" : 315.388889834202
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1498,7 +1468,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 398,
 				"BLDG_UID" : "VBL10398",
 				"NAME" : "West Hampstead - Townhouses",
 				"BLDG_CODE" : "WHM2",
@@ -1528,9 +1497,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3413.8063328850003,
-				"SHAPE.LEN" : 965.5540665709261
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1552,7 +1519,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 187,
 				"BLDG_UID" : "VBL10187",
 				"NAME" : "Sage - Highrise",
 				"BLDG_CODE" : "SAG1",
@@ -1582,9 +1548,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 638.499315175,
-				"SHAPE.LEN" : 112.464687409673
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1654,7 +1618,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 188,
 				"BLDG_UID" : "VBL10188",
 				"NAME" : "Sage - Townhouses",
 				"BLDG_CODE" : "SAG2",
@@ -1684,9 +1647,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 605.03625462,
-				"SHAPE.LEN" : 145.37635654349103
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1705,7 +1666,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 1923,
 				"BLDG_UID" : "VBL10420",
 				"NAME" : "Under Construction - Pump House Replacement",
 				"BLDG_CODE" : "PUMP",
@@ -1735,9 +1695,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 124.96094641,
-				"SHAPE.LEN" : 45.484624872510096
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1831,7 +1789,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 379,
 				"BLDG_UID" : "VBL10379",
 				"NAME" : "Nobel House",
 				"BLDG_CODE" : "NOBL",
@@ -1861,9 +1818,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1711.046534085,
-				"SHAPE.LEN" : 310.319592347848
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1927,7 +1882,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 156,
 				"BLDG_UID" : "VBL10156",
 				"NAME" : "St. John Hospice",
 				"BLDG_CODE" : "STJN",
@@ -1957,9 +1911,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1131.632969665,
-				"SHAPE.LEN" : 208.72571113469903
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -1989,7 +1941,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 271,
 				"BLDG_UID" : "VBL10271",
 				"NAME" : "Chancellor Hall - Townhouses",
 				"BLDG_CODE" : "CHHT",
@@ -2019,9 +1970,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 121.508687255,
-				"SHAPE.LEN" : 48.820081597538
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2083,7 +2032,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 210,
 				"BLDG_UID" : "VBL10210",
 				"NAME" : "Binning Tower - Highrise",
 				"BLDG_CODE" : "BINH",
@@ -2113,9 +2061,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 815.978543145,
-				"SHAPE.LEN" : 140.561925796957
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2189,7 +2135,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 290,
 				"BLDG_UID" : "VBL10290",
 				"NAME" : "Chancellor Hall - Apartment",
 				"BLDG_CODE" : "CHHA",
@@ -2219,9 +2164,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1455.261574375,
-				"SHAPE.LEN" : 225.78619989905602
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2281,7 +2224,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 182,
 				"BLDG_UID" : "VBL10182",
 				"NAME" : "Tapestry at Wesbrook Village - Building 2",
 				"BLDG_CODE" : "TAP2",
@@ -2311,9 +2253,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1097.5823586049999,
-				"SHAPE.LEN" : 178.077269242695
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2366,7 +2306,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 137,
 				"BLDG_UID" : "VBL10137",
 				"NAME" : "Tapestry at Wesbrook Village - Building 1",
 				"BLDG_CODE" : "TAP1",
@@ -2396,9 +2335,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2481.03507666,
-				"SHAPE.LEN" : 283.55615587732
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2436,7 +2373,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 184,
 				"BLDG_UID" : "VBL10184",
 				"NAME" : "The Wesbrook - Highrise",
 				"BLDG_CODE" : "WSB1",
@@ -2466,9 +2402,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 721.09440182,
-				"SHAPE.LEN" : 115.931943053791
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2533,7 +2467,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 22,
 				"BLDG_UID" : "VBL10022",
 				"NAME" : "TRIUMF - Accelerator",
 				"BLDG_CODE" : "TRF02",
@@ -2563,9 +2496,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 9061.29219587,
-				"SHAPE.LEN" : 750.737556468919
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2593,7 +2524,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 31,
 				"BLDG_UID" : "VBL10031",
 				"NAME" : "TRIUMF - ISAC 1",
 				"BLDG_CODE" : "TRF09",
@@ -2623,9 +2553,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2440.3595598449997,
-				"SHAPE.LEN" : 212.412848422841
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2663,7 +2591,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 32,
 				"BLDG_UID" : "VBL10032",
 				"NAME" : "TRIUMF - ISAC 2",
 				"BLDG_CODE" : "TRF10",
@@ -2693,9 +2620,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3592.95522358,
-				"SHAPE.LEN" : 290.81258652613
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2731,7 +2656,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 25,
 				"BLDG_UID" : "VBL10025",
 				"NAME" : "TRIUMF - ARIEL",
 				"BLDG_CODE" : "TRF01",
@@ -2761,9 +2685,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1097.07111689,
-				"SHAPE.LEN" : 182.10745001121902
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2813,7 +2735,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 170,
 				"BLDG_UID" : "VBL10170",
 				"NAME" : "Village Square",
 				"BLDG_CODE" : "VSQU",
@@ -2843,9 +2764,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2008.253395985,
-				"SHAPE.LEN" : 226.82352651634602
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -2958,7 +2877,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 213,
 				"BLDG_UID" : "VBL10213",
 				"NAME" : "Under Construction - Mundell House",
 				"BLDG_CODE" : "MUNH",
@@ -2988,9 +2906,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2005.5481088249999,
-				"SHAPE.LEN" : 349.607986537442
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3009,7 +2925,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 232,
 				"BLDG_UID" : "VBL10232",
 				"NAME" : "Under Construction - Focal",
 				"BLDG_CODE" : "FOCL",
@@ -3039,9 +2954,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1073.578371725,
-				"SHAPE.LEN" : 144.26734544720202
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3161,7 +3074,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 46,
 				"BLDG_UID" : "VBL10046",
 				"NAME" : "Public Safety Building - RCMP + Fire",
 				"BLDG_CODE" : "PSAB",
@@ -3191,9 +3103,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1845.18397398,
-				"SHAPE.LEN" : 238.394754244984
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3220,7 +3130,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 247,
 				"BLDG_UID" : "VBL10247",
 				"NAME" : "Under Construction - Georgia Point",
 				"BLDG_CODE" : "GEOP",
@@ -3250,9 +3159,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 688.491224245,
-				"SHAPE.LEN" : 121.587529396627
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3292,7 +3199,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 255,
 				"BLDG_UID" : "VBL10255",
 				"NAME" : "Under Construction - Oakwood Residences",
 				"BLDG_CODE" : "OAKR",
@@ -3322,9 +3228,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1021.84535873,
-				"SHAPE.LEN" : 248.808890591105
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3350,7 +3254,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 59,
 				"BLDG_UID" : "VBL10059",
 				"NAME" : "TRIUMF - Shipping / Workshop",
 				"BLDG_CODE" : "TRF28",
@@ -3380,9 +3283,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 899.02472606,
-				"SHAPE.LEN" : 133.502426369291
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3400,7 +3301,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 179,
 				"BLDG_UID" : "VBL10179",
 				"NAME" : "Telus Hub",
 				"BLDG_CODE" : "TELS",
@@ -3430,9 +3330,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 60.832726435,
-				"SHAPE.LEN" : 31.6455073749584
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3456,7 +3354,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 4,
 				"BLDG_UID" : "VBL10004",
 				"NAME" : "UBC Botanical Garden - Scholar's Retreat",
 				"BLDG_CODE" : "BOT5",
@@ -3486,9 +3383,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 120.12567229,
-				"SHAPE.LEN" : 54.250079013683
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3613,7 +3508,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 352,
 				"BLDG_UID" : "VBL10352",
 				"NAME" : "Under Construction - The Residences at Nobel Park - Townhouses",
 				"BLDG_CODE" : "REN2",
@@ -3643,9 +3537,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1900.252056175,
-				"SHAPE.LEN" : 514.828882225431
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3666,7 +3558,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 256,
 				"BLDG_UID" : "VBL10256",
 				"NAME" : "Robert H. Lee Alumni Centre",
 				"BLDG_CODE" : "ALUM",
@@ -3696,9 +3587,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 970.77287713,
-				"SHAPE.LEN" : 142.605470745591
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -3997,7 +3886,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 219,
 				"BLDG_UID" : "VBL10219",
 				"NAME" : "Crescent West",
 				"BLDG_CODE" : "CRSW",
@@ -4027,9 +3915,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1642.918636,
-				"SHAPE.LEN" : 500.83620722502803
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4060,7 +3946,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 18,
 				"BLDG_UID" : "VBL10018",
 				"NAME" : "Larkspur House",
 				"BLDG_CODE" : "LARK",
@@ -4090,9 +3975,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1338.18642529,
-				"SHAPE.LEN" : 200.284046288739
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4110,7 +3993,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 222,
 				"BLDG_UID" : "VBL10222",
 				"NAME" : "UBC Research Ponds",
 				"BLDG_CODE" : "RESP",
@@ -4140,9 +4022,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 41.28750073,
-				"SHAPE.LEN" : 30.6370283448004
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4172,7 +4052,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 162,
 				"BLDG_UID" : "VBL10162",
 				"NAME" : "Centre for Interactive Research on Sustainability",
 				"BLDG_CODE" : "CIRS",
@@ -4202,9 +4081,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1621.457834905,
-				"SHAPE.LEN" : 166.805829050654
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4254,7 +4131,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 338,
 				"BLDG_UID" : "VBL10338",
 				"NAME" : "C.K. Choi Building for the Institute of Asian Research",
 				"BLDG_CODE" : "CHOI",
@@ -4284,9 +4160,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 968.4681860950001,
-				"SHAPE.LEN" : 214.030191663187
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4324,7 +4198,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 84,
 				"BLDG_UID" : "VBL10084",
 				"NAME" : "Biomedical Research Centre",
 				"BLDG_CODE" : "BRC",
@@ -4354,9 +4227,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1146.84885567,
-				"SHAPE.LEN" : 162.416127487219
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4398,7 +4269,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 86,
 				"BLDG_UID" : "VBL10086",
 				"NAME" : "Beaty Biodiversity Centre",
 				"BLDG_CODE" : "BETY",
@@ -4428,9 +4298,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2691.43647293,
-				"SHAPE.LEN" : 434.79243305176306
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4592,7 +4460,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 353,
 				"BLDG_UID" : "VBL10353",
 				"NAME" : "Under Construction - The Residences at Nobel Park - Apartment",
 				"BLDG_CODE" : "REN1",
@@ -4622,9 +4489,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3130.40044959,
-				"SHAPE.LEN" : 503.330461019557
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4642,7 +4507,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 372,
 				"BLDG_UID" : "VBL10372",
 				"NAME" : "Under Construction - Acadia Modular Child Care - Building 1",
 				"BLDG_CODE" : "MCC1",
@@ -4672,9 +4536,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 360.134478555,
-				"SHAPE.LEN" : 80.52397092297919
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4692,7 +4554,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 373,
 				"BLDG_UID" : "VBL10373",
 				"NAME" : "Under Construction - Acadia Modular Child Care - Building 2",
 				"BLDG_CODE" : "MCC2",
@@ -4722,9 +4583,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 343.695521385,
-				"SHAPE.LEN" : 78.9684690557269
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4742,7 +4601,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 203,
 				"BLDG_UID" : "VBL10203",
 				"NAME" : "Materials Recovery Facility",
 				"BLDG_CODE" : "MARF",
@@ -4772,9 +4630,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 14.026539675,
-				"SHAPE.LEN" : 16.1003495606072
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4792,7 +4648,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 375,
 				"BLDG_UID" : "VBL10375",
 				"NAME" : "Under Construction - Acadia Modular Child Care - Building 3",
 				"BLDG_CODE" : "MCC3",
@@ -4822,9 +4677,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 361.52529348,
-				"SHAPE.LEN" : 80.7657526056219
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4842,7 +4695,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 378,
 				"BLDG_UID" : "VBL10378",
 				"NAME" : "Under Construction - Pacific Residences - Building 2",
 				"BLDG_CODE" : "PAR2",
@@ -4872,9 +4724,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 854.98949844,
-				"SHAPE.LEN" : 146.29181273766798
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4892,7 +4742,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 381,
 				"BLDG_UID" : "VBL10381",
 				"NAME" : "Under Construction - Pacific Residences - Building 1",
 				"BLDG_CODE" : "PAR1",
@@ -4922,9 +4771,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 878.096557555,
-				"SHAPE.LEN" : 147.532460519491
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4942,7 +4789,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 382,
 				"BLDG_UID" : "VBL10382",
 				"NAME" : "Under Construction - Pacific Residences - Building 5",
 				"BLDG_CODE" : "PAR5",
@@ -4972,9 +4818,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 753.145699305,
-				"SHAPE.LEN" : 127.197866781303
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -4992,7 +4836,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 383,
 				"BLDG_UID" : "VBL10383",
 				"NAME" : "Under Construction - Pacific Residences - Building 3",
 				"BLDG_CODE" : "PAR3",
@@ -5022,9 +4865,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 896.58482258,
-				"SHAPE.LEN" : 146.127005248695
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5042,7 +4883,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 384,
 				"BLDG_UID" : "VBL10384",
 				"NAME" : "Under Construction - Pacific Residences - Building 4",
 				"BLDG_CODE" : "PAR4",
@@ -5072,9 +4912,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 793.761643815,
-				"SHAPE.LEN" : 132.881308219954
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5102,7 +4940,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2242,
 				"BLDG_UID" : "VBL10425",
 				"NAME" : "Under Construction - TRIUMF - Institute of Advanced Medical Isotopes (IAMI)",
 				"BLDG_CODE" : null,
@@ -5132,9 +4969,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 686.365942425,
-				"SHAPE.LEN" : 125.016967208549
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5178,7 +5013,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 131,
 				"BLDG_UID" : "VBL10131",
 				"NAME" : "Douglas T. Kenny Building",
 				"BLDG_CODE" : "KENN",
@@ -5208,9 +5042,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2485.22268697,
-				"SHAPE.LEN" : 244.204399869907
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5272,7 +5104,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 62,
 				"BLDG_UID" : "VBL10062",
 				"NAME" : "Chemical and Biological Engineering Building",
 				"BLDG_CODE" : "CHBE",
@@ -5302,9 +5133,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3130.79529832,
-				"SHAPE.LEN" : 434.826502983742
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5346,7 +5175,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 392,
 				"BLDG_UID" : "VBL10392",
 				"NAME" : "Chapel of the Epiphany",
 				"BLDG_CODE" : "CHPL",
@@ -5376,9 +5204,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 369.36405217500004,
-				"SHAPE.LEN" : 131.595259248107
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5425,7 +5251,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 332,
 				"BLDG_UID" : "VBL10332",
 				"NAME" : "Campus and Community Planning",
 				"BLDG_CODE" : "CCP",
@@ -5455,9 +5280,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 816.297835925,
-				"SHAPE.LEN" : 176.780961445311
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5544,7 +5367,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 233,
 				"BLDG_UID" : "VBL10233",
 				"NAME" : "Norman MacKenzie House",
 				"BLDG_CODE" : "MCKH",
@@ -5574,9 +5396,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 550.50305134,
-				"SHAPE.LEN" : 173.385248274857
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5602,7 +5422,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 168,
 				"BLDG_UID" : "VBL10168",
 				"NAME" : "Wesbrook Community Centre",
 				"BLDG_CODE" : "WCOM",
@@ -5632,9 +5451,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1900.731809405,
-				"SHAPE.LEN" : 186.740398926082
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5680,7 +5497,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 157,
 				"BLDG_UID" : "VBL10157",
 				"NAME" : "Old Barn Community Centre",
 				"BLDG_CODE" : "OBCC",
@@ -5710,9 +5526,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 649.880527705,
-				"SHAPE.LEN" : 142.48874479527998
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5730,7 +5544,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 23,
 				"BLDG_UID" : "VBL10023",
 				"NAME" : "TRIUMF - Accelerator Trailer",
 				"BLDG_CODE" : "TRF03",
@@ -5760,9 +5573,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 20.883350515,
-				"SHAPE.LEN" : 22.1526001847742
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5780,7 +5591,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 27,
 				"BLDG_UID" : "VBL10027",
 				"NAME" : "TRIUMF - Compressor Building",
 				"BLDG_CODE" : "TRF05",
@@ -5810,9 +5620,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 289.93500720500003,
-				"SHAPE.LEN" : 69.35211279325028
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5830,7 +5638,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 28,
 				"BLDG_UID" : "VBL10028",
 				"NAME" : "TRIUMF - Equipment Marque",
 				"BLDG_CODE" : "TRF06",
@@ -5860,9 +5667,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 47.638048655000006,
-				"SHAPE.LEN" : 31.8845981146998
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5880,7 +5685,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 30,
 				"BLDG_UID" : "VBL10030",
 				"NAME" : "TRIUMF - Hazardous Storage",
 				"BLDG_CODE" : "TRF08",
@@ -5910,9 +5714,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 79.385180545,
-				"SHAPE.LEN" : 36.2479715268741
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5930,7 +5732,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 38,
 				"BLDG_UID" : "VBL10038",
 				"NAME" : "TRIUMF - Trailer A",
 				"BLDG_CODE" : "TRF18",
@@ -5960,9 +5761,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 144.9712393,
-				"SHAPE.LEN" : 50.059294603655495
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -5980,7 +5779,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 33,
 				"BLDG_UID" : "VBL10033",
 				"NAME" : "TRIUMF - Liquid Helium Storage",
 				"BLDG_CODE" : "TRF11",
@@ -6010,9 +5808,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 568.55019508,
-				"SHAPE.LEN" : 105.09280049119
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6030,7 +5826,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 34,
 				"BLDG_UID" : "VBL10034",
 				"NAME" : "TRIUMF - Nina Storage Shelter",
 				"BLDG_CODE" : "TRF13",
@@ -6060,9 +5855,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 295.34236483,
-				"SHAPE.LEN" : 75.9893964539997
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6080,7 +5873,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 35,
 				"BLDG_UID" : "VBL10035",
 				"NAME" : "TRIUMF - Plant Storage",
 				"BLDG_CODE" : "TRF15",
@@ -6110,9 +5902,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 198.178693785,
-				"SHAPE.LEN" : 58.42002598877829
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6255,7 +6045,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 242,
 				"BLDG_UID" : "VBL10242",
 				"NAME" : "University Hill Secondary School",
 				"BLDG_CODE" : "UHIL",
@@ -6285,9 +6074,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 7107.9542891,
-				"SHAPE.LEN" : 526.563034115458
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6527,7 +6314,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 114,
 				"BLDG_UID" : "VBL10114",
 				"NAME" : "St. Andrew's Hall",
 				"BLDG_CODE" : "STH",
@@ -6557,9 +6343,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2154.512849485,
-				"SHAPE.LEN" : 477.558547142876
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6577,7 +6361,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 181,
 				"BLDG_UID" : "VBL10181",
 				"NAME" : "The Barn - Owl Child Care",
 				"BLDG_CODE" : "BARN",
@@ -6607,9 +6390,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 194.26488854,
-				"SHAPE.LEN" : 58.51872629611349
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6638,7 +6419,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 49,
 				"BLDG_UID" : "VBL10049",
 				"NAME" : "TRIUMF - Trailer HH & FF",
 				"BLDG_CODE" : "TRF21",
@@ -6668,9 +6448,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 521.12074411,
-				"SHAPE.LEN" : 128.9053653606
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6688,7 +6466,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 50,
 				"BLDG_UID" : "VBL10050",
 				"NAME" : "TRIUMF - Trailer LL",
 				"BLDG_CODE" : "TRF22",
@@ -6718,9 +6495,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 56.63092286,
-				"SHAPE.LEN" : 39.016471612531696
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6738,7 +6513,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 53,
 				"BLDG_UID" : "VBL10053",
 				"NAME" : "TRIUMF - Trailer PP",
 				"BLDG_CODE" : "TRF24",
@@ -6768,9 +6542,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 56.206369825,
-				"SHAPE.LEN" : 33.7905257595381
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6788,7 +6560,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 56,
 				"BLDG_UID" : "VBL10056",
 				"NAME" : "TRIUMF - Trailer Q",
 				"BLDG_CODE" : "TRF25",
@@ -6818,9 +6589,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 34.37661694,
-				"SHAPE.LEN" : 27.1340651199528
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6839,7 +6608,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 61,
 				"BLDG_UID" : "VBL10061",
 				"NAME" : "TRIUMF - Machine Shop Materials",
 				"BLDG_CODE" : "TRF12",
@@ -6869,9 +6637,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 94.64560138,
-				"SHAPE.LEN" : 39.0553190144499
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -6889,7 +6655,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 26,
 				"BLDG_UID" : "VBL10026",
 				"NAME" : "TRIUMF - Badge Room",
 				"BLDG_CODE" : "TRF04",
@@ -6919,9 +6684,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 46.71840664,
-				"SHAPE.LEN" : 29.633435140887297
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -7253,7 +7016,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 198,
 				"BLDG_UID" : "VBL10198",
 				"NAME" : "Fairview Crescent Residence - Building 2",
 				"BLDG_CODE" : "FAR2",
@@ -7283,9 +7045,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3160.99923627,
-				"SHAPE.LEN" : 880.5300112647911
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -7315,7 +7075,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 200,
 				"BLDG_UID" : "VBL10200",
 				"NAME" : "Green College - Admin",
 				"BLDG_CODE" : "GRN4",
@@ -7345,9 +7104,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 105.93679913,
-				"SHAPE.LEN" : 46.1965571708538
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -7860,7 +7617,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 258,
 				"BLDG_UID" : "VBL10258",
 				"NAME" : "Acadia Park Residence - Building 2",
 				"BLDG_CODE" : "APR2",
@@ -7890,9 +7646,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4559.636155515,
-				"SHAPE.LEN" : 1416.28147800235
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -8967,7 +8721,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 259,
 				"BLDG_UID" : "VBL10259",
 				"NAME" : "Acadia Park Residence - Building 1",
 				"BLDG_CODE" : "APR1",
@@ -8997,9 +8750,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 8635.264885445,
-				"SHAPE.LEN" : 2788.0577732249503
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9035,7 +8786,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 43,
 				"BLDG_UID" : "VBL10043",
 				"NAME" : "Gerald McGavin Building",
 				"BLDG_CODE" : "GMCG",
@@ -9065,9 +8815,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 993.59081365,
-				"SHAPE.LEN" : 143.29419725976803
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9183,7 +8931,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 102,
 				"BLDG_UID" : "VBL10102",
 				"NAME" : "P. A. Woodward Instructional Resources Centre",
 				"BLDG_CODE" : "IRC",
@@ -9213,9 +8960,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3942.9345313450003,
-				"SHAPE.LEN" : 349.142856877719
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9267,7 +9012,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 104,
 				"BLDG_UID" : "VBL10104",
 				"NAME" : "Allard Hall",
 				"BLDG_CODE" : "ALRD",
@@ -9297,9 +9041,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3253.172757725,
-				"SHAPE.LEN" : 303.00471188185
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9359,7 +9101,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 107,
 				"BLDG_UID" : "VBL10107",
 				"NAME" : "School of Population & Public Health",
 				"BLDG_CODE" : "SPPH",
@@ -9389,9 +9130,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1715.86394664,
-				"SHAPE.LEN" : 209.65729822619102
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9428,7 +9167,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 108,
 				"BLDG_UID" : "VBL10108",
 				"NAME" : "Place Vanier Residence - Commonsblock",
 				"BLDG_CODE" : "VNR03",
@@ -9458,9 +9196,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1571.030567155,
-				"SHAPE.LEN" : 179.99564584919
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9509,7 +9245,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 313,
 				"BLDG_UID" : "VBL10313",
 				"NAME" : "Panhellenic House",
 				"BLDG_CODE" : "PANH",
@@ -9539,9 +9274,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 835.008121855,
-				"SHAPE.LEN" : 153.185872011714
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9580,7 +9313,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 243,
 				"BLDG_UID" : "VBL10243",
 				"NAME" : "NRC Institute for Fuel Cell Innovation",
 				"BLDG_CODE" : "NRC",
@@ -9610,9 +9342,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3020.0709628,
-				"SHAPE.LEN" : 302.498246695583
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9645,7 +9375,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 99,
 				"BLDG_UID" : "VBL10099",
 				"NAME" : "Hector J. MacLeod Building",
 				"BLDG_CODE" : "MCLD",
@@ -9675,9 +9404,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1751.865314155,
-				"SHAPE.LEN" : 243.639773801091
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9696,7 +9423,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 109,
 				"BLDG_UID" : "VBL10109",
 				"NAME" : "Indian Residential School History and Dialogue Centre",
 				"BLDG_CODE" : "IRSC",
@@ -9726,9 +9452,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 462.39571144,
-				"SHAPE.LEN" : 95.508162130216
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -9764,7 +9488,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 110,
 				"BLDG_UID" : "VBL10110",
 				"NAME" : "Pharmaceutical Sciences Building",
 				"BLDG_CODE" : "PHRM",
@@ -9794,9 +9517,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3306.03961647,
-				"SHAPE.LEN" : 267.174222245754
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -10057,7 +9778,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 111,
 				"BLDG_UID" : "VBL10111",
 				"NAME" : "Life Sciences Centre",
 				"BLDG_CODE" : "LSC",
@@ -10087,9 +9807,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 10028.333761785,
-				"SHAPE.LEN" : 560.894109002531
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -10115,7 +9833,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 100,
 				"BLDG_UID" : "VBL10100",
 				"NAME" : "Lower Mall Research Station",
 				"BLDG_CODE" : "LMRS",
@@ -10145,9 +9862,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1958.462593365,
-				"SHAPE.LEN" : 286.77435479195503
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -10165,7 +9880,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 101,
 				"BLDG_UID" : "VBL10101",
 				"NAME" : "Music Building",
 				"BLDG_CODE" : "MUSC",
@@ -10195,9 +9909,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1421.9770441,
-				"SHAPE.LEN" : 154.66546609769
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -10253,7 +9965,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 113,
 				"BLDG_UID" : "VBL10113",
 				"NAME" : "Thunderbird Parkade",
 				"BLDG_CODE" : "PART",
@@ -10283,9 +9994,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 10259.057581985002,
-				"SHAPE.LEN" : 447.87054487576205
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -10695,7 +10404,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 116,
 				"BLDG_UID" : "VBL10116",
 				"NAME" : "St. John's College",
 				"BLDG_CODE" : "STJC",
@@ -10725,9 +10433,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4178.01793708,
-				"SHAPE.LEN" : 799.7816296471831
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11067,7 +10773,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 119,
 				"BLDG_UID" : "VBL10119",
 				"NAME" : "Forest Sciences Centre",
 				"BLDG_CODE" : "FSC",
@@ -11097,9 +10802,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 8164.61353107,
-				"SHAPE.LEN" : 671.735112235141
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11135,7 +10838,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 120,
 				"BLDG_UID" : "VBL10120",
 				"NAME" : "Friedman Building",
 				"BLDG_CODE" : "FRDM",
@@ -11165,9 +10867,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1522.123024295,
-				"SHAPE.LEN" : 242.28414686946002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11279,7 +10979,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 121,
 				"BLDG_UID" : "VBL10121",
 				"NAME" : "Thunderbird Residence - Building 2",
 				"BLDG_CODE" : "THR2",
@@ -11309,9 +11008,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1702.54928912,
-				"SHAPE.LEN" : 309.17269821766797
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11404,7 +11101,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 125,
 				"BLDG_UID" : "VBL10125",
 				"NAME" : "Student Recreation Centre",
 				"BLDG_CODE" : "SRC",
@@ -11434,9 +11130,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2535.966520065,
-				"SHAPE.LEN" : 251.132980198301
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11582,7 +11276,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 126,
 				"BLDG_UID" : "VBL10126",
 				"NAME" : "Totem Park Residence - Building 2",
 				"BLDG_CODE" : "TPR2",
@@ -11612,9 +11305,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1779.6433343,
-				"SHAPE.LEN" : 385.920053646768
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11760,7 +11451,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 127,
 				"BLDG_UID" : "VBL10127",
 				"NAME" : "Totem Park Residence - Building 3",
 				"BLDG_CODE" : "TPR3",
@@ -11790,9 +11480,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1779.644453005,
-				"SHAPE.LEN" : 385.92009477579
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11870,7 +11558,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 122,
 				"BLDG_UID" : "VBL10122",
 				"NAME" : "Thunderbird Residence - Building 1",
 				"BLDG_CODE" : "THR1",
@@ -11900,9 +11587,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1951.4684597550001,
-				"SHAPE.LEN" : 351.13254979042097
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -11950,7 +11635,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 128,
 				"BLDG_UID" : "VBL10128",
 				"NAME" : "Totem Park Residence - Building 5",
 				"BLDG_CODE" : "TPR5",
@@ -11980,9 +11664,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1646.192426365,
-				"SHAPE.LEN" : 250.80381399428103
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12040,7 +11722,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 123,
 				"BLDG_UID" : "VBL10123",
 				"NAME" : "Staging Environmental Research Centre",
 				"BLDG_CODE" : "SERC",
@@ -12070,9 +11751,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 218.56270339,
-				"SHAPE.LEN" : 145.152973982909
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12098,7 +11777,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 124,
 				"BLDG_UID" : "VBL10124",
 				"NAME" : "Stores Road Annex",
 				"BLDG_CODE" : "STRX",
@@ -12128,9 +11806,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 271.93650803,
-				"SHAPE.LEN" : 82.460251029314
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12148,7 +11824,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 130,
 				"BLDG_UID" : "VBL10130",
 				"NAME" : "Dorothy Somerset Studios",
 				"BLDG_CODE" : "DSOM",
@@ -12178,9 +11853,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1124.038539555,
-				"SHAPE.LEN" : 157.64738393298
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12206,7 +11879,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 134,
 				"BLDG_UID" : "VBL10134",
 				"NAME" : "B.C. Binning Studios",
 				"BLDG_CODE" : "BINN",
@@ -12236,9 +11908,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 897.852587725,
-				"SHAPE.LEN" : 150.70223830769402
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12312,7 +11982,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 260,
 				"BLDG_UID" : "VBL10260",
 				"NAME" : "Acadia Park Residence - Highrise",
 				"BLDG_CODE" : "APRH",
@@ -12342,9 +12011,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 717.0615720650001,
-				"SHAPE.LEN" : 179.768867477128
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12383,7 +12050,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 262,
 				"BLDG_UID" : "VBL10262",
 				"NAME" : "Woodward Library",
 				"BLDG_CODE" : "WLIB",
@@ -12413,9 +12079,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1995.6551202350001,
-				"SHAPE.LEN" : 189.701780574063
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12477,7 +12141,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 263,
 				"BLDG_UID" : "VBL10263",
 				"NAME" : "Walter H. Gage Residence - Commonsblock",
 				"BLDG_CODE" : "WGR1",
@@ -12507,9 +12170,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1997.133226285,
-				"SHAPE.LEN" : 241.708068466083
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12543,7 +12204,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 269,
 				"BLDG_UID" : "VBL10269",
 				"NAME" : "Place Vanier Residence - Korea House",
 				"BLDG_CODE" : "VNR06",
@@ -12573,9 +12233,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 835.107106595,
-				"SHAPE.LEN" : 188.137856062809
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12605,7 +12263,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 270,
 				"BLDG_UID" : "VBL10270",
 				"NAME" : "Place Vanier Residence - Okanagan House",
 				"BLDG_CODE" : "VNR08",
@@ -12635,9 +12292,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 447.087398895,
-				"SHAPE.LEN" : 117.37428205781501
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12671,7 +12326,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 251,
 				"BLDG_UID" : "VBL10251",
 				"NAME" : "Robert F. Osborne Centre - Unit 1",
 				"BLDG_CODE" : "OSB1",
@@ -12701,9 +12355,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2479.25698201,
-				"SHAPE.LEN" : 247.189041164378
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12741,7 +12393,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 252,
 				"BLDG_UID" : "VBL10252",
 				"NAME" : "The Leonard S. Klinck Building",
 				"BLDG_CODE" : "LSK",
@@ -12771,9 +12422,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2442.852976405,
-				"SHAPE.LEN" : 262.70148201814004
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12799,7 +12448,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 272,
 				"BLDG_UID" : "VBL10272",
 				"NAME" : "Child Care Services - Acadia",
 				"BLDG_CODE" : "CCS1",
@@ -12829,9 +12477,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 237.48982362,
-				"SHAPE.LEN" : 68.561151619232
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12899,7 +12545,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 266,
 				"BLDG_UID" : "VBL10266",
 				"NAME" : "Wesbrook Building",
 				"BLDG_CODE" : "WESB",
@@ -12929,9 +12574,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2958.346804785,
-				"SHAPE.LEN" : 324.39140063487804
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -12971,7 +12614,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 273,
 				"BLDG_UID" : "VBL10273",
 				"NAME" : "Child Care Services - Kittiwake/Salal",
 				"BLDG_CODE" : "CCS2",
@@ -13001,9 +12643,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 470.719205545,
-				"SHAPE.LEN" : 125.54507215112301
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13038,7 +12678,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 267,
 				"BLDG_UID" : "VBL10267",
 				"NAME" : "Place Vanier Residence - Dorothy Mawdsley House",
 				"BLDG_CODE" : "VNR04",
@@ -13068,9 +12707,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 448.101137175,
-				"SHAPE.LEN" : 116.10952325673601
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13100,7 +12737,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 268,
 				"BLDG_UID" : "VBL10268",
 				"NAME" : "Place Vanier Residence - Kootenay House",
 				"BLDG_CODE" : "VNR05",
@@ -13130,9 +12766,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 447.08889956499996,
-				"SHAPE.LEN" : 117.373835001991
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13172,7 +12806,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 274,
 				"BLDG_UID" : "VBL10274",
 				"NAME" : "Child Care Services - Little Goslings/Coho",
 				"BLDG_CODE" : "CCS3",
@@ -13202,9 +12835,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 263.38073898,
-				"SHAPE.LEN" : 100.584047750846
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13252,7 +12883,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 275,
 				"BLDG_UID" : "VBL10275",
 				"NAME" : "Child Care Services - Little Raven/Pacific Spirit",
 				"BLDG_CODE" : "CCS4",
@@ -13282,9 +12912,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 530.1040858,
-				"SHAPE.LEN" : 146.304193381631
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13324,7 +12952,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 276,
 				"BLDG_UID" : "VBL10276",
 				"NAME" : "Child Care Services - Sandpiper/Auklet",
 				"BLDG_CODE" : "CCS5",
@@ -13354,9 +12981,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 478.296483135,
-				"SHAPE.LEN" : 125.76148479015
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13799,7 +13424,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 278,
 				"BLDG_UID" : "VBL10278",
 				"NAME" : "David Lam Management Research Centre",
 				"BLDG_CODE" : "DLAM",
@@ -13829,9 +13453,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1705.84781941,
-				"SHAPE.LEN" : 194.607080929404
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -13963,7 +13585,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 41,
 				"BLDG_UID" : "VBL10041",
 				"NAME" : "Sumac House",
 				"BLDG_CODE" : "SUMA",
@@ -13993,9 +13614,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 892.33619016,
-				"SHAPE.LEN" : 196.393263824399
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14155,7 +13774,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 282,
 				"BLDG_UID" : "VBL10282",
 				"NAME" : "Chan Centre for the Performing Arts",
 				"BLDG_CODE" : "CHAN",
@@ -14185,9 +13803,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3301.2266304,
-				"SHAPE.LEN" : 306.04304460258203
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14205,7 +13821,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 283,
 				"BLDG_UID" : "VBL10283",
 				"NAME" : "West Mall Annex",
 				"BLDG_CODE" : "WMAX",
@@ -14235,9 +13850,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 988.76273905,
-				"SHAPE.LEN" : 185.86157944643202
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14276,7 +13889,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 284,
 				"BLDG_UID" : "VBL10284",
 				"NAME" : "West Parkade",
 				"BLDG_CODE" : "PARW",
@@ -14306,9 +13918,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6316.28591073,
-				"SHAPE.LEN" : 342.232002999536
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14326,7 +13936,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 285,
 				"BLDG_UID" : "VBL10285",
 				"NAME" : "Wood Drying Laboratory",
 				"BLDG_CODE" : "WDL",
@@ -14356,9 +13965,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 198.3756321,
-				"SHAPE.LEN" : 58.24041449938049
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14378,7 +13985,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 310,
 				"BLDG_UID" : "VBL10310",
 				"NAME" : "Ponderosa Commons West - Arbutus/Maple House",
 				"BLDG_CODE" : "PCW",
@@ -14408,9 +14014,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1522.308029185,
-				"SHAPE.LEN" : 262.712367707596
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14499,7 +14103,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 292,
 				"BLDG_UID" : "VBL10292",
 				"NAME" : "Iona Building",
 				"BLDG_CODE" : "IONA",
@@ -14529,9 +14132,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1537.63464245,
-				"SHAPE.LEN" : 280.77932231815805
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14594,7 +14195,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 295,
 				"BLDG_UID" : "VBL10295",
 				"NAME" : "Acadia Park Residence - President's Row",
 				"BLDG_CODE" : "APRP",
@@ -14624,9 +14224,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1093.601563895,
-				"SHAPE.LEN" : 372.61757123366
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14658,7 +14256,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 296,
 				"BLDG_UID" : "VBL10296",
 				"NAME" : "Robert F. Osborne Centre - Unit 2",
 				"BLDG_CODE" : "OSB2",
@@ -14688,9 +14285,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2500.08038575,
-				"SHAPE.LEN" : 246.554011903868
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14783,7 +14378,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 301,
 				"BLDG_UID" : "VBL10301",
 				"NAME" : "Walter H. Gage Residence - Apartment",
 				"BLDG_CODE" : "WGR2",
@@ -14813,9 +14407,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1763.18322283,
-				"SHAPE.LEN" : 312.576760137085
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14848,7 +14440,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 304,
 				"BLDG_UID" : "VBL10304",
 				"NAME" : "West Mall Swing Space Building",
 				"BLDG_CODE" : "SWNG",
@@ -14878,9 +14469,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1733.1102778450002,
-				"SHAPE.LEN" : 212.91982628358002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14935,7 +14524,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 306,
 				"BLDG_UID" : "VBL10306",
 				"NAME" : "Child Care Services Administration Building",
 				"BLDG_CODE" : "CCSA",
@@ -14965,9 +14553,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1147.16795624,
-				"SHAPE.LEN" : 195.681811744855
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -14989,7 +14575,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 311,
 				"BLDG_UID" : "VBL10311",
 				"NAME" : "Ponderosa Commons East - Audain Art Centre/Spruce House",
 				"BLDG_CODE" : "PCE",
@@ -15019,9 +14604,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1258.96914793,
-				"SHAPE.LEN" : 210.83114740871702
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15043,7 +14626,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 312,
 				"BLDG_UID" : "VBL10312",
 				"NAME" : "Ponderosa Commons North - Oak/Cedar House",
 				"BLDG_CODE" : "PCN",
@@ -15073,9 +14655,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2674.14309621,
-				"SHAPE.LEN" : 396.786075104814
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15105,7 +14685,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 315,
 				"BLDG_UID" : "VBL10315",
 				"NAME" : "Morris and Helen Belkin Art Gallery",
 				"BLDG_CODE" : "BART",
@@ -15135,9 +14714,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 919.332747925,
-				"SHAPE.LEN" : 155.042679150301
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15229,7 +14806,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 317,
 				"BLDG_UID" : "VBL10317",
 				"NAME" : "Marine Drive Residence - 2",
 				"BLDG_CODE" : "MAR2",
@@ -15259,9 +14835,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1446.44197444,
-				"SHAPE.LEN" : 258.061323750231
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15307,7 +14881,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 319,
 				"BLDG_UID" : "VBL10319",
 				"NAME" : "Marine Drive Residence - 1 Simon Lee",
 				"BLDG_CODE" : "MAR1",
@@ -15337,9 +14910,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 846.43385765,
-				"SHAPE.LEN" : 148.61199438297302
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15390,7 +14961,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 323,
 				"BLDG_UID" : "VBL10323",
 				"NAME" : "Buchanan Building",
 				"BLDG_CODE" : "BUCH",
@@ -15420,9 +14990,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6136.248710344999,
-				"SHAPE.LEN" : 779.5686899266091
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15456,7 +15024,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 324,
 				"BLDG_UID" : "VBL10324",
 				"NAME" : "Buchanan Tower",
 				"BLDG_CODE" : "BUTO",
@@ -15486,9 +15053,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 810.537146585,
-				"SHAPE.LEN" : 135.276277015313
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15653,7 +15218,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 308,
 				"BLDG_UID" : "VBL10308",
 				"NAME" : "Acadia House",
 				"BLDG_CODE" : "ACAH",
@@ -15683,9 +15247,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1437.5024963,
-				"SHAPE.LEN" : 434.29094673081704
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15715,7 +15277,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 201,
 				"BLDG_UID" : "VBL10201",
 				"NAME" : "Mary Bollert Hall",
 				"BLDG_CODE" : "MBOL",
@@ -15745,9 +15306,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 552.578632415,
-				"SHAPE.LEN" : 139.185464854449
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15795,7 +15354,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 204,
 				"BLDG_UID" : "VBL10204",
 				"NAME" : "Anthropology and Sociology Building",
 				"BLDG_CODE" : "ANSO",
@@ -15825,9 +15383,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2609.920017405,
-				"SHAPE.LEN" : 451.578621459994
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15862,7 +15418,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 325,
 				"BLDG_UID" : "VBL10325",
 				"NAME" : "Place Vanier Residence - Aldyen Hamber House",
 				"BLDG_CODE" : "VNR01",
@@ -15892,9 +15447,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 448.10248039,
-				"SHAPE.LEN" : 116.10915848963002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15929,7 +15482,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 326,
 				"BLDG_UID" : "VBL10326",
 				"NAME" : "Place Vanier Residence - Margaret Mackenzie House",
 				"BLDG_CODE" : "VNR07",
@@ -15959,9 +15511,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 448.09997665,
-				"SHAPE.LEN" : 116.109605546247
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -15989,7 +15539,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 207,
 				"BLDG_UID" : "VBL10207",
 				"NAME" : "Building Operations Storage Shed",
 				"BLDG_CODE" : "BOSS",
@@ -16019,9 +15568,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 680.98539001,
-				"SHAPE.LEN" : 207.999823634404
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16049,7 +15596,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 209,
 				"BLDG_UID" : "VBL10209",
 				"NAME" : "Theatre-Film Production Building",
 				"BLDG_CODE" : "TFPB",
@@ -16079,9 +15625,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 462.10064252,
-				"SHAPE.LEN" : 131.67783561818803
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16136,7 +15680,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 307,
 				"BLDG_UID" : "VBL10307",
 				"NAME" : "Doug Mitchell Thunderbird Sports Centre",
 				"BLDG_CODE" : "THUN",
@@ -16166,9 +15709,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 13705.739530114999,
-				"SHAPE.LEN" : 532.342401660039
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16194,7 +15735,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 212,
 				"BLDG_UID" : "VBL10212",
 				"NAME" : "Brock Commons - Tallwood House",
 				"BLDG_CODE" : "BRCE",
@@ -16224,9 +15764,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 838.7442933250001,
-				"SHAPE.LEN" : 143.530455972965
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16315,7 +15853,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 218,
 				"BLDG_UID" : "VBL10218",
 				"NAME" : "Marine Drive Residence - 6",
 				"BLDG_CODE" : "MAR6",
@@ -16345,9 +15882,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2193.77634009,
-				"SHAPE.LEN" : 360.671362384392
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16373,7 +15908,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 221,
 				"BLDG_UID" : "VBL10221",
 				"NAME" : "Michael Smith Laboratories",
 				"BLDG_CODE" : "MSL",
@@ -16403,9 +15937,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2876.613232705,
-				"SHAPE.LEN" : 235.466366070122
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16454,7 +15986,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 223,
 				"BLDG_UID" : "VBL10223",
 				"NAME" : "Totem Field Studios",
 				"BLDG_CODE" : "TFS",
@@ -16484,9 +16015,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 780.86358645,
-				"SHAPE.LEN" : 213.93403361797
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16702,7 +16231,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 214,
 				"BLDG_UID" : "VBL10214",
 				"NAME" : "Thunderbird Stadium",
 				"BLDG_CODE" : "STAD",
@@ -16732,9 +16260,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1975.70171957,
-				"SHAPE.LEN" : 387.195292813781
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16804,7 +16330,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 215,
 				"BLDG_UID" : "VBL10215",
 				"NAME" : "Thunderbird Residence - Building 3",
 				"BLDG_CODE" : "THR3",
@@ -16834,9 +16359,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1683.1043057650002,
-				"SHAPE.LEN" : 311.161604705061
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16868,7 +16391,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 227,
 				"BLDG_UID" : "VBL10227",
 				"NAME" : "Asian Centre",
 				"BLDG_CODE" : "ACEN",
@@ -16898,9 +16420,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1384.69889032,
-				"SHAPE.LEN" : 155.17273218644803
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -16938,7 +16458,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 216,
 				"BLDG_UID" : "VBL10216",
 				"NAME" : "Mathematics Annex",
 				"BLDG_CODE" : "MATX",
@@ -16968,9 +16487,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 866.716740825,
-				"SHAPE.LEN" : 148.856307152516
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17044,7 +16561,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 217,
 				"BLDG_UID" : "VBL10217",
 				"NAME" : "Marine Drive Residence - 4",
 				"BLDG_CODE" : "MAR4",
@@ -17074,9 +16590,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1183.475086995,
-				"SHAPE.LEN" : 211.507737241879
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17107,7 +16621,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 228,
 				"BLDG_UID" : "VBL10228",
 				"NAME" : "Auditorium Annexes",
 				"BLDG_CODE" : "AUDX",
@@ -17137,9 +16650,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1200.896771285,
-				"SHAPE.LEN" : 220.67883983290903
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17171,7 +16682,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 229,
 				"BLDG_UID" : "VBL10229",
 				"NAME" : "Mathematics Building",
 				"BLDG_CODE" : "MATH",
@@ -17201,9 +16711,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1484.1134448,
-				"SHAPE.LEN" : 251.823764840834
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17514,7 +17022,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 409,
 				"BLDG_UID" : "VBL10409",
 				"NAME" : "Biological Sciences Building",
 				"BLDG_CODE" : "BIOL",
@@ -17544,9 +17051,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6320.981022085,
-				"SHAPE.LEN" : 819.444370787135
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17589,7 +17094,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 234,
 				"BLDG_UID" : "VBL10234",
 				"NAME" : "North Parkade",
 				"BLDG_CODE" : "PARN",
@@ -17619,9 +17123,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6009.718485155,
-				"SHAPE.LEN" : 348.383757789606
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17671,7 +17173,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 230,
 				"BLDG_UID" : "VBL10230",
 				"NAME" : "Nitobe Memorial Garden",
 				"BLDG_CODE" : "NITO",
@@ -17701,9 +17202,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 86.90250436,
-				"SHAPE.LEN" : 64.95190788715679
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17889,7 +17388,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 235,
 				"BLDG_UID" : "VBL10235",
 				"NAME" : "Museum of Anthropology",
 				"BLDG_CODE" : "MOA",
@@ -17919,9 +17417,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 8637.938832475,
-				"SHAPE.LEN" : 694.1258830981091
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -17951,7 +17447,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 237,
 				"BLDG_UID" : "VBL10237",
 				"NAME" : "UBC Baseball Rose Indoor Training Centre",
 				"BLDG_CODE" : "BTC",
@@ -17981,9 +17476,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1108.76409396,
-				"SHAPE.LEN" : 163.09614835455102
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18030,7 +17523,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 231,
 				"BLDG_UID" : "VBL10231",
 				"NAME" : "Totem Park Residence - Commonsblock 1",
 				"BLDG_CODE" : "TPR1",
@@ -18060,9 +17552,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2419.9347935849996,
-				"SHAPE.LEN" : 257.117193288879
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18088,7 +17578,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 302,
 				"BLDG_UID" : "VBL10302",
 				"NAME" : "Vancouver School of Theology",
 				"BLDG_CODE" : "VST",
@@ -18118,9 +17607,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 888.74633626,
-				"SHAPE.LEN" : 138.212995950165
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18265,7 +17752,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 245,
 				"BLDG_UID" : "VBL10245",
 				"NAME" : "UBC Farm - Harvest Hut / Market",
 				"BLDG_CODE" : "FRM2",
@@ -18295,9 +17781,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 198.688393195,
-				"SHAPE.LEN" : 74.6012543947305
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18319,7 +17803,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 246,
 				"BLDG_UID" : "VBL10246",
 				"NAME" : "UBC Football Academic Centre",
 				"BLDG_CODE" : "FOOT",
@@ -18349,9 +17832,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 160.791476615,
-				"SHAPE.LEN" : 56.2852307543734
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18398,7 +17879,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 248,
 				"BLDG_UID" : "VBL10248",
 				"NAME" : "UBC Life Building",
 				"BLDG_CODE" : "LIFE",
@@ -18428,9 +17908,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6258.68548011,
-				"SHAPE.LEN" : 364.586775742472
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18590,7 +18068,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 387,
 				"BLDG_UID" : "VBL10387",
 				"NAME" : "Chancellor House - Apartment",
 				"BLDG_CODE" : "CHOA",
@@ -18620,9 +18097,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1763.74450769,
-				"SHAPE.LEN" : 287.172786753416
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18660,7 +18135,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 249,
 				"BLDG_UID" : "VBL10249",
 				"NAME" : "Thea Koerner House Graduate Student Centre",
 				"BLDG_CODE" : "THEA",
@@ -18690,9 +18164,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1338.472273155,
-				"SHAPE.LEN" : 225.519634248182
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18883,7 +18355,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 250,
 				"BLDG_UID" : "VBL10250",
 				"NAME" : "Ritsumeikan-UBC House",
 				"BLDG_CODE" : "RITS",
@@ -18913,9 +18384,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2279.5548175450003,
-				"SHAPE.LEN" : 515.952283028461
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -18991,7 +18460,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 309,
 				"BLDG_UID" : "VBL10309",
 				"NAME" : "Folio - Apartment",
 				"BLDG_CODE" : "FOL1",
@@ -19021,9 +18489,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1562.93590948,
-				"SHAPE.LEN" : 226.57057334762902
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19061,7 +18527,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 83,
 				"BLDG_UID" : "VBL10083",
 				"NAME" : "Continuing Studies Building",
 				"BLDG_CODE" : "CSB",
@@ -19091,9 +18556,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1596.57040355,
-				"SHAPE.LEN" : 237.910538524797
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19390,7 +18853,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 129,
 				"BLDG_UID" : "VBL10129",
 				"NAME" : "Donald Rix Building",
 				"BLDG_CODE" : "RIX",
@@ -19420,9 +18882,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1175.790987725,
-				"SHAPE.LEN" : 163.18894496334002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19476,7 +18936,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 257,
 				"BLDG_UID" : "VBL10257",
 				"NAME" : "Carey Centre",
 				"BLDG_CODE" : "CRYC",
@@ -19506,9 +18965,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 995.49152329,
-				"SHAPE.LEN" : 201.219358382932
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19540,7 +18997,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 85,
 				"BLDG_UID" : "VBL10085",
 				"NAME" : "Fred Kaiser Building",
 				"BLDG_CODE" : "KAIS",
@@ -19570,9 +19026,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2980.985608255,
-				"SHAPE.LEN" : 272.244386887021
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19594,7 +19048,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 87,
 				"BLDG_UID" : "VBL10087",
 				"NAME" : "Aquatic Ecosystems Research Laboratory",
 				"BLDG_CODE" : "AERL",
@@ -19624,9 +19077,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1384.996877145,
-				"SHAPE.LEN" : 179.399826192332
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19654,7 +19105,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 88,
 				"BLDG_UID" : "VBL10088",
 				"NAME" : "Marine Drive Residence - 3 Commonsblock",
 				"BLDG_CODE" : "MAR3",
@@ -19684,9 +19134,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1350.59839825,
-				"SHAPE.LEN" : 173.28753698604498
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19748,7 +19196,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 89,
 				"BLDG_UID" : "VBL10089",
 				"NAME" : "Marine Drive Residence - 5",
 				"BLDG_CODE" : "MAR5",
@@ -19778,9 +19225,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 914.865805515,
-				"SHAPE.LEN" : 168.47417651435902
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19827,7 +19272,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 90,
 				"BLDG_UID" : "VBL10090",
 				"NAME" : "UBC Tennis Centre",
 				"BLDG_CODE" : "TENN",
@@ -19857,9 +19301,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 9603.89517788,
-				"SHAPE.LEN" : 618.1996300107501
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -19909,7 +19351,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 80,
 				"BLDG_UID" : "VBL10080",
 				"NAME" : "Irving K. Barber Learning Centre",
 				"BLDG_CODE" : "IBLC",
@@ -19939,9 +19380,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6235.486758545,
-				"SHAPE.LEN" : 406.006667141665
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20017,7 +19456,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 81,
 				"BLDG_UID" : "VBL10081",
 				"NAME" : "Jack Bell Building for the School of Social Work",
 				"BLDG_CODE" : "SOWK",
@@ -20047,9 +19485,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 738.82784425,
-				"SHAPE.LEN" : 141.473737840424
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20087,7 +19523,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 186,
 				"BLDG_UID" : "VBL10186",
 				"NAME" : "Ambulance Station",
 				"BLDG_CODE" : "AMBS",
@@ -20117,9 +19552,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 210.6158787,
-				"SHAPE.LEN" : 70.58980109596149
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20188,7 +19621,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 98,
 				"BLDG_UID" : "VBL10098",
 				"NAME" : "Thunderbird Residence - Building 4",
 				"BLDG_CODE" : "THR4",
@@ -20218,9 +19650,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1688.04798404,
-				"SHAPE.LEN" : 312.108705212448
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20269,7 +19699,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 82,
 				"BLDG_UID" : "VBL10082",
 				"NAME" : "Food, Nutrition and Health Building",
 				"BLDG_CODE" : "FNH",
@@ -20299,9 +19728,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1603.21230832,
-				"SHAPE.LEN" : 256.313191390724
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20327,7 +19754,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 91,
 				"BLDG_UID" : "VBL10091",
 				"NAME" : "National Soccer Development Centre",
 				"BLDG_CODE" : "NSDC",
@@ -20357,9 +19783,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1345.07553506,
-				"SHAPE.LEN" : 227.19664261325403
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20422,7 +19846,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 93,
 				"BLDG_UID" : "VBL10093",
 				"NAME" : "Leon and Thea Koerner University Centre",
 				"BLDG_CODE" : "UCEN",
@@ -20452,9 +19875,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2255.5062176,
-				"SHAPE.LEN" : 326.62907156817704
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20478,7 +19899,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 94,
 				"BLDG_UID" : "VBL10094",
 				"NAME" : "Medical Sciences Block C",
 				"BLDG_CODE" : "MEDC",
@@ -20508,9 +19928,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 751.27682349,
-				"SHAPE.LEN" : 132.10664151607702
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20605,7 +20023,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 95,
 				"BLDG_UID" : "VBL10095",
 				"NAME" : "Neville Scarfe Building",
 				"BLDG_CODE" : "SCRF",
@@ -20635,9 +20052,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4783.54403173,
-				"SHAPE.LEN" : 711.208455088955
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20675,7 +20090,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 97,
 				"BLDG_UID" : "VBL10097",
 				"NAME" : "Lower Mall Header House",
 				"BLDG_CODE" : "LMHH",
@@ -20705,9 +20119,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 614.720459315,
-				"SHAPE.LEN" : 186.95742071459702
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20747,7 +20159,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 176,
 				"BLDG_UID" : "VBL10176",
 				"NAME" : "Green College - Coach House",
 				"BLDG_CODE" : "GRN6",
@@ -20777,9 +20188,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 103.74571904,
-				"SHAPE.LEN" : 47.6270126226847
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -20940,7 +20349,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 281,
 				"BLDG_UID" : "VBL10281",
 				"NAME" : "West Hampstead - Building 1",
 				"BLDG_CODE" : "WHM1",
@@ -20970,9 +20378,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1373.04340346,
-				"SHAPE.LEN" : 246.070762320622
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21088,7 +20494,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 177,
 				"BLDG_UID" : "VBL10177",
 				"NAME" : "Liu Institute for Global Issues",
 				"BLDG_CODE" : "LIU",
@@ -21118,9 +20523,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 796.317437205,
-				"SHAPE.LEN" : 193.010397918313
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21150,7 +20553,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 180,
 				"BLDG_UID" : "VBL10180",
 				"NAME" : "Green College - Guest House",
 				"BLDG_CODE" : "GRN9",
@@ -21180,9 +20582,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 82.164813875,
-				"SHAPE.LEN" : 45.8895068084762
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21253,7 +20653,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 185,
 				"BLDG_UID" : "VBL10185",
 				"NAME" : "Acadia Community Centre",
 				"BLDG_CODE" : "ACOM",
@@ -21283,9 +20682,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 782.61075982,
-				"SHAPE.LEN" : 133.472600121742
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21355,7 +20752,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 189,
 				"BLDG_UID" : "VBL10189",
 				"NAME" : "Green College - Graham House",
 				"BLDG_CODE" : "GRN7",
@@ -21385,9 +20781,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 459.578605745,
-				"SHAPE.LEN" : 164.960326618228
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21433,7 +20827,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 190,
 				"BLDG_UID" : "VBL10190",
 				"NAME" : "Green College - Principal's Residence",
 				"BLDG_CODE" : "GRN10",
@@ -21463,9 +20856,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 206.218740335,
-				"SHAPE.LEN" : 91.3113251899058
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21519,7 +20910,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 195,
 				"BLDG_UID" : "VBL10195",
 				"NAME" : "UBC Botanical Garden Nursery - Workshop",
 				"BLDG_CODE" : "BON2",
@@ -21549,9 +20939,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 612.682794625,
-				"SHAPE.LEN" : 228.09688498977602
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21580,7 +20968,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 196,
 				"BLDG_UID" : "VBL10196",
 				"NAME" : "UBC Botanical Garden Nursery - Greenhouses",
 				"BLDG_CODE" : "BON1",
@@ -21610,9 +20997,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1003.35144866,
-				"SHAPE.LEN" : 187.75671674558498
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -21633,7 +21018,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 192,
 				"BLDG_UID" : "VBL10192",
 				"NAME" : "Main Substation",
 				"BLDG_CODE" : "MSUB",
@@ -21663,9 +21047,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 358.82983898,
-				"SHAPE.LEN" : 87.0262159853468
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22027,7 +21409,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 193,
 				"BLDG_UID" : "VBL10193",
 				"NAME" : "Fairview Crescent Residence - Building 1",
 				"BLDG_CODE" : "FAR1",
@@ -22057,9 +21438,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4084.18755861,
-				"SHAPE.LEN" : 1042.65196820348
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22125,7 +21504,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 194,
 				"BLDG_UID" : "VBL10194",
 				"NAME" : "Green College - A North + Kitchen/Laundry",
 				"BLDG_CODE" : "GRN1",
@@ -22155,9 +21533,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 314.4098059,
-				"SHAPE.LEN" : 137.08801651349
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22399,7 +21775,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 224,
 				"BLDG_UID" : "VBL10224",
 				"NAME" : "Gardenia House",
 				"BLDG_CODE" : "GARD",
@@ -22429,9 +21804,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1470.894972705,
-				"SHAPE.LEN" : 283.81032167324804
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22453,7 +21826,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 1922,
 				"BLDG_UID" : "VBL10421",
 				"NAME" : "Under Construction - Counselling Services",
 				"BLDG_CODE" : "CNSL",
@@ -22483,9 +21855,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 487.981439205,
-				"SHAPE.LEN" : 90.4528724757846
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22507,7 +21877,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 152,
 				"BLDG_UID" : "VBL10152",
 				"NAME" : "Ponderosa Office Annex F",
 				"BLDG_CODE" : "PONF",
@@ -22537,9 +21906,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 384.00374277,
-				"SHAPE.LEN" : 84.14715104446559
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22603,7 +21970,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 153,
 				"BLDG_UID" : "VBL10153",
 				"NAME" : "Ponderosa Office Annex G",
 				"BLDG_CODE" : "PONG",
@@ -22633,9 +21999,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 596.987412485,
-				"SHAPE.LEN" : 183.23166349062203
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22664,7 +22028,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 305,
 				"BLDG_UID" : "VBL10305",
 				"NAME" : "Westpoint",
 				"BLDG_CODE" : "WSPT",
@@ -22694,9 +22057,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1308.51361489,
-				"SHAPE.LEN" : 182.090243249558
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22773,7 +22134,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 154,
 				"BLDG_UID" : "VBL10154",
 				"NAME" : "Walter C. Koerner Library",
 				"BLDG_CODE" : "KLIB",
@@ -22803,9 +22163,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1497.964377945,
-				"SHAPE.LEN" : 201.203017417107
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22872,7 +22230,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 155,
 				"BLDG_UID" : "VBL10155",
 				"NAME" : "Berwick Child Development Centre",
 				"BLDG_CODE" : "BERW",
@@ -22902,9 +22259,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1483.953564055,
-				"SHAPE.LEN" : 352.546173971154
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -22926,7 +22281,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 161,
 				"BLDG_UID" : "VBL10161",
 				"NAME" : "War Memorial Gymnasium",
 				"BLDG_CODE" : "MGYM",
@@ -22956,9 +22310,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3373.916332385,
-				"SHAPE.LEN" : 247.820058832015
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23002,7 +22354,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 316,
 				"BLDG_UID" : "VBL10316",
 				"NAME" : "Folio - Townhouses",
 				"BLDG_CODE" : "FOL2",
@@ -23032,9 +22383,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 181.621748445,
-				"SHAPE.LEN" : 63.8447182039796
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23063,7 +22412,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 163,
 				"BLDG_UID" : "VBL10163",
 				"NAME" : "Abdul Ladha Science Student Centre",
 				"BLDG_CODE" : "ALSC",
@@ -23093,9 +22441,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 285.15443221,
-				"SHAPE.LEN" : 75.83044013165079
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23159,7 +22505,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 174,
 				"BLDG_UID" : "VBL10174",
 				"NAME" : "Green College - B East",
 				"BLDG_CODE" : "GRN5",
@@ -23189,9 +22534,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 389.31102998,
-				"SHAPE.LEN" : 142.34116709915
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23233,7 +22576,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 327,
 				"BLDG_UID" : "VBL10327",
 				"NAME" : "Chemistry Physics Building",
 				"BLDG_CODE" : "CHPH",
@@ -23263,9 +22605,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1619.671709935,
-				"SHAPE.LEN" : 223.894219138534
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23366,7 +22706,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 328,
 				"BLDG_UID" : "VBL10328",
 				"NAME" : "Chemistry Building",
 				"BLDG_CODE" : "CHEM",
@@ -23396,9 +22735,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4639.742129515,
-				"SHAPE.LEN" : 712.7660527376801
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23656,7 +22993,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 399,
 				"BLDG_UID" : "VBL10399",
 				"NAME" : "Coast - Duplexes",
 				"BLDG_CODE" : "COSD",
@@ -23686,9 +23022,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1192.78267141,
-				"SHAPE.LEN" : 358.58491479405603
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23838,7 +23172,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 286,
 				"BLDG_UID" : "VBL10286",
 				"NAME" : "The Bristol",
 				"BLDG_CODE" : "BRIS",
@@ -23868,9 +23201,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4042.1675863850005,
-				"SHAPE.LEN" : 476.994867307834
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23888,7 +23219,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 287,
 				"BLDG_UID" : "VBL10287",
 				"NAME" : "The Regency",
 				"BLDG_CODE" : "REGE",
@@ -23918,9 +23248,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 770.000345425,
-				"SHAPE.LEN" : 111.600018947519
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -23970,7 +23298,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 293,
 				"BLDG_UID" : "VBL10293",
 				"NAME" : "Wyndham Hall",
 				"BLDG_CODE" : "WYND",
@@ -24000,9 +23327,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1537.76269755,
-				"SHAPE.LEN" : 211.019608760083
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24157,7 +23482,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 962,
 				"BLDG_UID" : "VBL10417",
 				"NAME" : "Thames Court - Building 1",
 				"BLDG_CODE" : "THAC1",
@@ -24187,9 +23511,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 925.64166593,
-				"SHAPE.LEN" : 260.959571223689
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24217,7 +23539,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 361,
 				"BLDG_UID" : "VBL10361",
 				"NAME" : "Hillel House - Diamond Foundation Centre for Jewish Campus Life",
 				"BLDG_CODE" : "HILL",
@@ -24247,9 +23568,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 338.22486128,
-				"SHAPE.LEN" : 101.16021653710901
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24297,7 +23616,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 241,
 				"BLDG_UID" : "VBL10241",
 				"NAME" : "The Laureates - Highrise",
 				"BLDG_CODE" : "LAR1",
@@ -24327,9 +23645,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 822.96021184,
-				"SHAPE.LEN" : 146.029794477931
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24382,7 +23698,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 244,
 				"BLDG_UID" : "VBL10244",
 				"NAME" : "Eton - Townhouses",
 				"BLDG_CODE" : "ETN3",
@@ -24412,9 +23727,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 700.9479354050001,
-				"SHAPE.LEN" : 212.685061349951
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24432,7 +23745,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 371,
 				"BLDG_UID" : "VBL10371",
 				"NAME" : "International House",
 				"BLDG_CODE" : "INTL",
@@ -24462,9 +23774,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 436.5676114,
-				"SHAPE.LEN" : 84.6622569681272
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24565,7 +23875,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 96,
 				"BLDG_UID" : "VBL10096",
 				"NAME" : "Dahlia House",
 				"BLDG_CODE" : "DAHL",
@@ -24595,9 +23904,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1352.3371943949999,
-				"SHAPE.LEN" : 236.061960010977
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24653,7 +23960,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 261,
 				"BLDG_UID" : "VBL10261",
 				"NAME" : "The Laureates - Apartment",
 				"BLDG_CODE" : "LAR2",
@@ -24683,9 +23989,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1163.65824601,
-				"SHAPE.LEN" : 193.801144448806
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24714,7 +24018,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 362,
 				"BLDG_UID" : "VBL10362",
 				"NAME" : "Horticulture Building",
 				"BLDG_CODE" : "HORT",
@@ -24744,9 +24047,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1579.0900178450001,
-				"SHAPE.LEN" : 177.028390721968
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24764,7 +24065,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 374,
 				"BLDG_UID" : "VBL10374",
 				"NAME" : "Kids Club",
 				"BLDG_CODE" : "KIDS",
@@ -24794,9 +24094,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 456.774344285,
-				"SHAPE.LEN" : 90.4240984457016
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24840,7 +24138,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 376,
 				"BLDG_UID" : "VBL10376",
 				"NAME" : "Ladner Clock Tower",
 				"BLDG_CODE" : "CLCK",
@@ -24870,9 +24167,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 26.52931201,
-				"SHAPE.LEN" : 30.786415248241198
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -24908,7 +24203,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 377,
 				"BLDG_UID" : "VBL10377",
 				"NAME" : "Landscape Architecture Annex",
 				"BLDG_CODE" : "LAX",
@@ -24938,9 +24232,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 245.310118665,
-				"SHAPE.LEN" : 73.1522682143569
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -25294,7 +24586,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 386,
 				"BLDG_UID" : "VBL10386",
 				"NAME" : "First Nations Longhouse",
 				"BLDG_CODE" : "FNLH",
@@ -25324,9 +24615,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1921.17184202,
-				"SHAPE.LEN" : 340.49280062404597
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -25346,7 +24635,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 402,
 				"BLDG_UID" : "VBL10402",
 				"NAME" : "Environmental Services Facility - Incinerator",
 				"BLDG_CODE" : "ENV2",
@@ -25376,9 +24664,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 104.12796068,
-				"SHAPE.LEN" : 51.638085627459496
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -25488,7 +24774,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 264,
 				"BLDG_UID" : "VBL10264",
 				"NAME" : "Ivy on the Park - Townhouses",
 				"BLDG_CODE" : "IVYT",
@@ -25518,9 +24803,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1364.954814555,
-				"SHAPE.LEN" : 340.74728462565105
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -25588,7 +24871,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 390,
 				"BLDG_UID" : "VBL10390",
 				"NAME" : "Sail - Building 2",
 				"BLDG_CODE" : "SAL2",
@@ -25618,9 +24900,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1043.563148895,
-				"SHAPE.LEN" : 180.28067141576003
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -25780,7 +25060,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 340,
 				"BLDG_UID" : "VBL10340",
 				"NAME" : "Ultima",
 				"BLDG_CODE" : "ULTM",
@@ -25810,9 +25089,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1392.218444775,
-				"SHAPE.LEN" : 287.530814564032
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -25846,7 +25123,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 265,
 				"BLDG_UID" : "VBL10265",
 				"NAME" : "Ivy on the Park - Highrise",
 				"BLDG_CODE" : "IVYH",
@@ -25876,9 +25152,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 939.82161588,
-				"SHAPE.LEN" : 150.54605347706203
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26002,7 +25276,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 144,
 				"BLDG_UID" : "VBL10144",
 				"NAME" : "Hawthorn Green",
 				"BLDG_CODE" : "HAWT",
@@ -26032,9 +25305,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 758.64247535,
-				"SHAPE.LEN" : 159.181784854585
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26182,7 +25453,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 143,
 				"BLDG_UID" : "VBL10143",
 				"NAME" : "Clement's Green",
 				"BLDG_CODE" : "CLEM",
@@ -26212,9 +25482,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1771.11255395,
-				"SHAPE.LEN" : 313.548320902376
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26280,7 +25548,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 334,
 				"BLDG_UID" : "VBL10334",
 				"NAME" : "UBC Hospital - Detwiller Pavilion",
 				"BLDG_CODE" : "DPAV",
@@ -26310,9 +25577,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "Shared",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3489.104502455,
-				"SHAPE.LEN" : 406.705866459084
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26341,7 +25606,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5,
 				"BLDG_UID" : "VBL10005",
 				"NAME" : "UBC Botanical Garden - Workshop (Trailer)",
 				"BLDG_CODE" : "BOT6",
@@ -26371,9 +25635,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 123.557959885,
-				"SHAPE.LEN" : 64.61640895491159
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26391,7 +25653,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 6,
 				"BLDG_UID" : "VBL10006",
 				"NAME" : "UBC Botanical Garden - Admin/Campbell Building",
 				"BLDG_CODE" : "BOT2",
@@ -26421,9 +25682,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 304.056307,
-				"SHAPE.LEN" : 69.8600362728884
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26477,7 +25736,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 158,
 				"BLDG_UID" : "VBL10158",
 				"NAME" : "Nine on the Park",
 				"BLDG_CODE" : "NINE",
@@ -26507,9 +25765,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 794.17876961,
-				"SHAPE.LEN" : 137.972636032161
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -26945,7 +26201,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 147,
 				"BLDG_UID" : "VBL10147",
 				"NAME" : "Somerset",
 				"BLDG_CODE" : "SOMS",
@@ -26975,9 +26230,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3410.012319635,
-				"SHAPE.LEN" : 801.17560552166
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -27791,7 +27044,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 391,
 				"BLDG_UID" : "VBL10391",
 				"NAME" : "UBC Farm - Yurt",
 				"BLDG_CODE" : "YURT",
@@ -27821,9 +27073,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 65.66857083,
-				"SHAPE.LEN" : 28.7266587689384
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -27868,7 +27118,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 393,
 				"BLDG_UID" : "VBL10393",
 				"NAME" : "Walter H. Gage Residence - East Highrise",
 				"BLDG_CODE" : "WGR4",
@@ -27898,9 +27147,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 545.818649315,
-				"SHAPE.LEN" : 106.47793066457001
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -27940,7 +27187,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 394,
 				"BLDG_UID" : "VBL10394",
 				"NAME" : "Walter H. Gage Residence - North Highrise",
 				"BLDG_CODE" : "WGR5",
@@ -27970,9 +27216,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 542.555859825,
-				"SHAPE.LEN" : 105.29026377331999
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -28116,7 +27360,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 148,
 				"BLDG_UID" : "VBL10148",
 				"NAME" : "Reflections",
 				"BLDG_CODE" : "REFL",
@@ -28146,9 +27389,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2232.481892855,
-				"SHAPE.LEN" : 409.922357042271
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -28190,7 +27431,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 397,
 				"BLDG_UID" : "VBL10397",
 				"NAME" : "Fraser River Parkade",
 				"BLDG_CODE" : "PARF",
@@ -28220,9 +27460,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4260.769793815,
-				"SHAPE.LEN" : 269.654089191572
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -28264,7 +27502,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 149,
 				"BLDG_UID" : "VBL10149",
 				"NAME" : "Promontory",
 				"BLDG_CODE" : "PROM",
@@ -28294,9 +27531,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 683.326484755,
-				"SHAPE.LEN" : 134.751660797056
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -28443,7 +27678,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 160,
 				"BLDG_UID" : "VBL10160",
 				"NAME" : "Legacy",
 				"BLDG_CODE" : "LGCY",
@@ -28473,9 +27707,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1943.78376575,
-				"SHAPE.LEN" : 345.844287227172
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -28511,7 +27743,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 112,
 				"BLDG_UID" : "VBL10112",
 				"NAME" : "Sitka",
 				"BLDG_CODE" : "SITK",
@@ -28541,9 +27772,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 869.010263285,
-				"SHAPE.LEN" : 139.96704175440001
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -28938,7 +28167,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 220,
 				"BLDG_UID" : "VBL10220",
 				"NAME" : "Westchester",
 				"BLDG_CODE" : "WSTR",
@@ -28968,9 +28196,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2488.618454945,
-				"SHAPE.LEN" : 595.193732479619
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29016,7 +28242,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 395,
 				"BLDG_UID" : "VBL10395",
 				"NAME" : "Walter H. Gage Residence - South Highrise",
 				"BLDG_CODE" : "WGR6",
@@ -29046,9 +28271,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 542.125361245,
-				"SHAPE.LEN" : 103.975252680032
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29136,7 +28359,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 396,
 				"BLDG_UID" : "VBL10396",
 				"NAME" : "Walter H. Gage Residence - Court (West Coast Suites)",
 				"BLDG_CODE" : "WGR3",
@@ -29166,9 +28388,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1002.384206745,
-				"SHAPE.LEN" : 224.56710913490602
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29303,7 +28523,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 225,
 				"BLDG_UID" : "VBL10225",
 				"NAME" : "Journey",
 				"BLDG_CODE" : "JOUR",
@@ -29333,9 +28552,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2198.09352983,
-				"SHAPE.LEN" : 370.28069465506996
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29817,7 +29034,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 226,
 				"BLDG_UID" : "VBL10226",
 				"NAME" : "Logan Lane",
 				"BLDG_CODE" : "LOGN",
@@ -29847,9 +29063,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3362.159416555,
-				"SHAPE.LEN" : 668.366641310782
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29887,7 +29101,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 277,
 				"BLDG_UID" : "VBL10277",
 				"NAME" : "Coast - Townhouses",
 				"BLDG_CODE" : "COST",
@@ -29917,9 +29130,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 429.47257454500004,
-				"SHAPE.LEN" : 118.681501030942
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29937,7 +29148,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 400,
 				"BLDG_UID" : "VBL10400",
 				"NAME" : "Environmental Services Facility - Office",
 				"BLDG_CODE" : "ENV4",
@@ -29967,9 +29177,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 29.59675424,
-				"SHAPE.LEN" : 25.6287542927915
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -29987,7 +29195,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 401,
 				"BLDG_UID" : "VBL10401",
 				"NAME" : "Environmental Services Facility - Lab",
 				"BLDG_CODE" : "ENV1",
@@ -30017,9 +29224,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 39.06509136,
-				"SHAPE.LEN" : 26.8731333404703
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30051,7 +29256,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 407,
 				"BLDG_UID" : "VBL10407",
 				"NAME" : "AMS Nest",
 				"BLDG_CODE" : "NEST",
@@ -30081,9 +29285,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 5411.649619715,
-				"SHAPE.LEN" : 377.77487999707
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30103,7 +29305,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 408,
 				"BLDG_UID" : "VBL10408",
 				"NAME" : "Environmental Services Facility - Natural Gas Station",
 				"BLDG_CODE" : "ENV3",
@@ -30133,9 +29334,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 65.31303185,
-				"SHAPE.LEN" : 39.4778882996075
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30182,7 +29381,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 132,
 				"BLDG_UID" : "VBL10132",
 				"NAME" : "TRIUMF - Offices, Laboratory & Workshops",
 				"BLDG_CODE" : "TRF14",
@@ -30212,9 +29410,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1938.480220935,
-				"SHAPE.LEN" : 277.55142227918
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30263,7 +29459,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 405,
 				"BLDG_UID" : "VBL10405",
 				"NAME" : "Frederic Wood Theatre",
 				"BLDG_CODE" : "FRWO",
@@ -30293,9 +29488,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1365.97316696,
-				"SHAPE.LEN" : 228.124328539082
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30313,7 +29506,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 410,
 				"BLDG_UID" : "VBL10410",
 				"NAME" : "Gas Gun Facility",
 				"BLDG_CODE" : "GASG",
@@ -30343,9 +29535,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 194.365618745,
-				"SHAPE.LEN" : 57.5949027200392
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30367,7 +29557,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2565,
 				"BLDG_UID" : "VBL10423",
 				"NAME" : "Under Construction - Brock Commons North",
 				"BLDG_CODE" : null,
@@ -30397,9 +29586,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1274.520007185,
-				"SHAPE.LEN" : 149.62602702415
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30485,7 +29672,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3202,
 				"BLDG_UID" : "VBL10426",
 				"NAME" : "Under Construction - Arts Student Centre",
 				"BLDG_CODE" : null,
@@ -30515,9 +29701,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 343.44597087,
-				"SHAPE.LEN" : 65.77886116180179
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30535,7 +29719,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2564,
 				"BLDG_UID" : "VBL10424",
 				"NAME" : "Under Construction - Brock Commons South",
 				"BLDG_CODE" : null,
@@ -30565,9 +29748,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2203.65928227,
-				"SHAPE.LEN" : 221.16623698050802
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30714,7 +29895,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 40,
 				"BLDG_UID" : "VBL10040",
 				"NAME" : "Keenleyside",
 				"BLDG_CODE" : "KEEN",
@@ -30744,9 +29924,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2038.6091119450002,
-				"SHAPE.LEN" : 409.40655343073
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30778,7 +29956,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 135,
 				"BLDG_UID" : "VBL10135",
 				"NAME" : "Eton - Highrise",
 				"BLDG_CODE" : "ETN1",
@@ -30808,9 +29985,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1312.828493175,
-				"SHAPE.LEN" : 175.672105752223
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30846,7 +30021,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 136,
 				"BLDG_UID" : "VBL10136",
 				"NAME" : "Eton - Apartment",
 				"BLDG_CODE" : "ETN2",
@@ -30876,9 +30050,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1671.6510930450002,
-				"SHAPE.LEN" : 223.464841669431
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -30942,7 +30114,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 167,
 				"BLDG_UID" : "VBL10167",
 				"NAME" : "Yu",
 				"BLDG_CODE" : "YU",
@@ -30972,9 +30143,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2472.16931255,
-				"SHAPE.LEN" : 246.10480221202002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31104,7 +30273,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 159,
 				"BLDG_UID" : "VBL10159",
 				"NAME" : "Tamarack House",
 				"BLDG_CODE" : "TAMK",
@@ -31134,9 +30302,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1919.6703738850001,
-				"SHAPE.LEN" : 348.992587296951
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31300,7 +30466,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 169,
 				"BLDG_UID" : "VBL10169",
 				"NAME" : "Pacific",
 				"BLDG_CODE" : "PACC",
@@ -31330,9 +30495,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2141.8540301049998,
-				"SHAPE.LEN" : 373.72508489179
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31424,7 +30587,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 172,
 				"BLDG_UID" : "VBL10172",
 				"NAME" : "Sail - Building 1",
 				"BLDG_CODE" : "SAL1",
@@ -31454,9 +30616,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1317.2723901049999,
-				"SHAPE.LEN" : 235.597590138662
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31496,7 +30656,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 183,
 				"BLDG_UID" : "VBL10183",
 				"NAME" : "Academy - Highrise",
 				"BLDG_CODE" : "ACD1",
@@ -31526,9 +30685,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 659.77145424,
-				"SHAPE.LEN" : 127.197938737314
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31613,7 +30770,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 199,
 				"BLDG_UID" : "VBL10199",
 				"NAME" : "Academy - Townhouses",
 				"BLDG_CODE" : "ACD2",
@@ -31643,9 +30799,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 385.42771914,
-				"SHAPE.LEN" : 173.54514007611903
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31760,7 +30914,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 240,
 				"BLDG_UID" : "VBL10240",
 				"NAME" : "Pathways - West Building",
 				"BLDG_CODE" : "PTHW",
@@ -31790,9 +30943,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1630.54335331,
-				"SHAPE.LEN" : 298.76939929145396
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31850,7 +31001,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 411,
 				"BLDG_UID" : "VBL10411",
 				"NAME" : "Geography Building",
 				"BLDG_CODE" : "GEOG",
@@ -31880,9 +31030,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2639.29627335,
-				"SHAPE.LEN" : 318.74360927591
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -31916,7 +31064,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 412,
 				"BLDG_UID" : "VBL10412",
 				"NAME" : "Gerald McGavin UBC Rugby Centre",
 				"BLDG_CODE" : "RUGC",
@@ -31946,9 +31093,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 234.79946657,
-				"SHAPE.LEN" : 92.2307691753817
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32004,7 +31149,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 406,
 				"BLDG_UID" : "VBL10406",
 				"NAME" : "Environmental Services Facility - PCB Equipment Storage",
 				"BLDG_CODE" : "ENV5",
@@ -32034,9 +31178,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 150.4606116,
-				"SHAPE.LEN" : 146.042795534985
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32083,7 +31225,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 413,
 				"BLDG_UID" : "VBL10413",
 				"NAME" : "Environmental Services Facility - Solvent Storage Area",
 				"BLDG_CODE" : "ENV6",
@@ -32113,9 +31254,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 182.98438920499999,
-				"SHAPE.LEN" : 113.872559602325
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32237,7 +31376,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 238,
 				"BLDG_UID" : "VBL10238",
 				"NAME" : "Spirit",
 				"BLDG_CODE" : "SPRT",
@@ -32267,9 +31405,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1415.22224992,
-				"SHAPE.LEN" : 275.53598402544804
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32364,7 +31500,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 239,
 				"BLDG_UID" : "VBL10239",
 				"NAME" : "Pathways - East Building",
 				"BLDG_CODE" : "PTHE",
@@ -32394,9 +31529,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1191.61409417,
-				"SHAPE.LEN" : 227.862036144904
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32474,7 +31607,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 642,
 				"BLDG_UID" : "VBL10415",
 				"NAME" : "Green College - A South",
 				"BLDG_CODE" : "GRN3",
@@ -32504,9 +31636,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 453.58552199499997,
-				"SHAPE.LEN" : 177.323201893221
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32524,7 +31654,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 961,
 				"BLDG_UID" : "VBL10416",
 				"NAME" : "Vanier Pump Station",
 				"BLDG_CODE" : "VNRP",
@@ -32554,9 +31683,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 14.931558405,
-				"SHAPE.LEN" : 16.6941185473216
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32574,7 +31701,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 1281,
 				"BLDG_UID" : "VBL10418",
 				"NAME" : "Cecil Green Squash Court",
 				"BLDG_CODE" : "CGSQ",
@@ -32604,9 +31730,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 83.560849125,
-				"SHAPE.LEN" : 39.4208912851707
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32628,7 +31752,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 1602,
 				"BLDG_UID" : "VBL10419",
 				"NAME" : "UBC Botanical Garden - Shop/Gatehouse Entrance",
 				"BLDG_CODE" : "BOT1",
@@ -32658,9 +31781,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 152.80563102500003,
-				"SHAPE.LEN" : 53.0198244583906
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32682,7 +31803,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 92,
 				"BLDG_UID" : "VBL10092",
 				"NAME" : "Chan Gunn Pavilion",
 				"BLDG_CODE" : "GUNN",
@@ -32712,9 +31832,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1568.7247577150001,
-				"SHAPE.LEN" : 186.265956131746
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32744,7 +31862,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 105,
 				"BLDG_UID" : "VBL10105",
 				"NAME" : "Totem Park Residence - Building 7",
 				"BLDG_CODE" : "TPR7",
@@ -32774,9 +31891,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2243.00108579,
-				"SHAPE.LEN" : 382.588716429595
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32800,7 +31915,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 103,
 				"BLDG_UID" : "VBL10103",
 				"NAME" : "Djavad Mowafaghian Centre for Brain Health",
 				"BLDG_CODE" : "CBH",
@@ -32830,9 +31944,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "Shared",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3282.51528891,
-				"SHAPE.LEN" : 263.570076733472
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -32932,7 +32044,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 318,
 				"BLDG_UID" : "VBL10318",
 				"NAME" : "UBC Hospital - Koerner Pavilion",
 				"BLDG_CODE" : "KPAV",
@@ -32962,9 +32073,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "Shared",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 8752.4685417,
-				"SHAPE.LEN" : 501.191309246131
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33089,7 +32198,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 388,
 				"BLDG_UID" : "VBL10388",
 				"NAME" : "UBC Hospital - Purdy Pavilion",
 				"BLDG_CODE" : "PPAV",
@@ -33119,9 +32227,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "Shared",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2722.903219005,
-				"SHAPE.LEN" : 295.918586576514
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33189,7 +32295,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 329,
 				"BLDG_UID" : "VBL10329",
 				"NAME" : "Civil and Mechanical Engineering Building",
 				"BLDG_CODE" : "CEME",
@@ -33219,9 +32324,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4749.885933375,
-				"SHAPE.LEN" : 506.53840120765705
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33261,7 +32364,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 20,
 				"BLDG_UID" : "VBL10020",
 				"NAME" : "FERIC",
 				"BLDG_CODE" : "FERC",
@@ -33291,9 +32393,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 919.28601953,
-				"SHAPE.LEN" : 163.081577757894
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33348,7 +32448,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 21,
 				"BLDG_UID" : "VBL10021",
 				"NAME" : "FPInnovations",
 				"BLDG_CODE" : "FPIN",
@@ -33378,9 +32477,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6946.63319934,
-				"SHAPE.LEN" : 371.09302470191403
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33454,7 +32551,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 118,
 				"BLDG_UID" : "VBL10118",
 				"NAME" : "St. Mark's College",
 				"BLDG_CODE" : "STMK",
@@ -33484,9 +32580,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 934.1989837450001,
-				"SHAPE.LEN" : 225.678390902471
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33559,7 +32653,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 346,
 				"BLDG_UID" : "VBL10346",
 				"NAME" : "Technology Enterprise Facility 3",
 				"BLDG_CODE" : "TEF3",
@@ -33589,9 +32682,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1876.90454569,
-				"SHAPE.LEN" : 208.921874382644
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33655,7 +32746,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 330,
 				"BLDG_UID" : "VBL10330",
 				"NAME" : "Civil and Mechanical Engineering Laboratories",
 				"BLDG_CODE" : "CEML",
@@ -33685,9 +32775,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4700.859597695,
-				"SHAPE.LEN" : 482.722120043488
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33750,7 +32838,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 236,
 				"BLDG_UID" : "VBL10236",
 				"NAME" : "3800 Wesbrook Mall",
 				"BLDG_CODE" : "3800",
@@ -33780,9 +32867,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3744.13537872,
-				"SHAPE.LEN" : 349.472590310751
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33841,7 +32926,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 333,
 				"BLDG_UID" : "VBL10333",
 				"NAME" : "D.H. Copp Building",
 				"BLDG_CODE" : "COPP",
@@ -33871,9 +32955,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2272.62119246,
-				"SHAPE.LEN" : 363.321455397245
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33911,7 +32993,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 335,
 				"BLDG_UID" : "VBL10335",
 				"NAME" : "Old Auditorium",
 				"BLDG_CODE" : "AUDI",
@@ -33941,9 +33022,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1158.520368195,
-				"SHAPE.LEN" : 187.069533410922
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -33990,7 +33069,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 337,
 				"BLDG_UID" : "VBL10337",
 				"NAME" : "Building Operations Nursery",
 				"BLDG_CODE" : "BONR",
@@ -34020,9 +33098,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1319.6302701850002,
-				"SHAPE.LEN" : 275.93187012978
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34042,7 +33118,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 339,
 				"BLDG_UID" : "VBL10339",
 				"NAME" : "Campus Energy Centre",
 				"BLDG_CODE" : "CEC",
@@ -34072,9 +33147,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1409.90104723,
-				"SHAPE.LEN" : 153.195652369147
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34092,7 +33165,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 341,
 				"BLDG_UID" : "VBL10341",
 				"NAME" : "Cecil Green Park Coach House",
 				"BLDG_CODE" : "CGPC",
@@ -34122,9 +33194,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 136.2687706,
-				"SHAPE.LEN" : 48.096245106302
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34173,7 +33243,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 342,
 				"BLDG_UID" : "VBL10342",
 				"NAME" : "Cecil Green Park House",
 				"BLDG_CODE" : "CGPH",
@@ -34203,9 +33272,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 547.956756015,
-				"SHAPE.LEN" : 137.541187170043
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34227,7 +33294,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 343,
 				"BLDG_UID" : "VBL10343",
 				"NAME" : "Ponderosa Office Annex B",
 				"BLDG_CODE" : "PONB",
@@ -34257,9 +33323,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 482.422734365,
-				"SHAPE.LEN" : 112.40858176778501
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34285,7 +33349,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 344,
 				"BLDG_UID" : "VBL10344",
 				"NAME" : "Ponderosa Office Annex C",
 				"BLDG_CODE" : "PONC",
@@ -34315,9 +33378,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 321.433689085,
-				"SHAPE.LEN" : 83.79905102929709
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34347,7 +33408,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 348,
 				"BLDG_UID" : "VBL10348",
 				"NAME" : "Sing Tao Building",
 				"BLDG_CODE" : "STAO",
@@ -34377,9 +33437,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 465.09713960500005,
-				"SHAPE.LEN" : 105.454371084874
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34413,7 +33471,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 351,
 				"BLDG_UID" : "VBL10351",
 				"NAME" : "Library PARC@UBC",
 				"BLDG_CODE" : "PARC",
@@ -34443,9 +33500,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1996.433136465,
-				"SHAPE.LEN" : 238.529496720968
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34485,7 +33540,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 354,
 				"BLDG_UID" : "VBL10354",
 				"NAME" : "UBC Exchange",
 				"BLDG_CODE" : "TRAN",
@@ -34515,9 +33569,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4368.74316737,
-				"SHAPE.LEN" : 437.93647868682706
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34569,7 +33621,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 357,
 				"BLDG_UID" : "VBL10357",
 				"NAME" : "Health Sciences Parkade",
 				"BLDG_CODE" : "PARH",
@@ -34599,9 +33650,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6924.208141794999,
-				"SHAPE.LEN" : 375.819196317854
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34631,7 +33680,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 358,
 				"BLDG_UID" : "VBL10358",
 				"NAME" : "Place Vanier Residence - Robson House",
 				"BLDG_CODE" : "VNR10",
@@ -34661,9 +33709,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 447.08690894,
-				"SHAPE.LEN" : 117.373835001947
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34715,7 +33761,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 359,
 				"BLDG_UID" : "VBL10359",
 				"NAME" : "Hennings Building",
 				"BLDG_CODE" : "HENN",
@@ -34745,9 +33790,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3864.86363106,
-				"SHAPE.LEN" : 285.618396753047
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34783,7 +33826,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 254,
 				"BLDG_UID" : "VBL10254",
 				"NAME" : "The Chatham",
 				"BLDG_CODE" : "CHAT",
@@ -34813,9 +33855,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 910.212546005,
-				"SHAPE.LEN" : 130.603324555959
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34851,7 +33891,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 360,
 				"BLDG_UID" : "VBL10360",
 				"NAME" : "Place Vanier Residence - Cariboo House",
 				"BLDG_CODE" : "VNR02",
@@ -34881,9 +33920,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 443.67242328500004,
-				"SHAPE.LEN" : 119.699446797708
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34913,7 +33950,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 363,
 				"BLDG_UID" : "VBL10363",
 				"NAME" : "Hugh Dempster Pavilion",
 				"BLDG_CODE" : "DMP",
@@ -34943,9 +33979,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 566.47819313,
-				"SHAPE.LEN" : 103.77094913487801
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -34965,7 +33999,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 364,
 				"BLDG_UID" : "VBL10364",
 				"NAME" : "In-Vessel Composting Facility",
 				"BLDG_CODE" : "COMP",
@@ -34995,9 +34028,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 287.01895461,
-				"SHAPE.LEN" : 79.85847208712389
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35027,7 +34058,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 365,
 				"BLDG_UID" : "VBL10365",
 				"NAME" : "Place Vanier Residence - Sherwood Lett House",
 				"BLDG_CODE" : "VNR11",
@@ -35057,9 +34087,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 447.089106185,
-				"SHAPE.LEN" : 117.373835002615
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35089,7 +34117,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 366,
 				"BLDG_UID" : "VBL10366",
 				"NAME" : "John Barfoot Macdonald Building",
 				"BLDG_CODE" : "MCDN",
@@ -35119,9 +34146,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2443.194582965,
-				"SHAPE.LEN" : 260.253423703965
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35157,7 +34182,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 367,
 				"BLDG_UID" : "VBL10367",
 				"NAME" : "Place Vanier Residence - Tec De Monterrey House",
 				"BLDG_CODE" : "VNR12",
@@ -35187,9 +34211,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 784.503396375,
-				"SHAPE.LEN" : 180.23077748277802
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35264,7 +34286,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 191,
 				"BLDG_UID" : "VBL10191",
 				"NAME" : "Magnolia House",
 				"BLDG_CODE" : "MAGN",
@@ -35294,9 +34315,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1060.536492355,
-				"SHAPE.LEN" : 196.46466473732502
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35331,7 +34350,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 368,
 				"BLDG_UID" : "VBL10368",
 				"NAME" : "Place Vanier Residence - Phyllis Ross House",
 				"BLDG_CODE" : "VNR09",
@@ -35361,9 +34379,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 448.100966565,
-				"SHAPE.LEN" : 116.109334966009
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35399,7 +34415,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 369,
 				"BLDG_UID" : "VBL10369",
 				"NAME" : "Place Vanier Residence - Tweedsmuir House",
 				"BLDG_CODE" : "VNR13",
@@ -35429,9 +34444,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 443.670905945,
-				"SHAPE.LEN" : 119.69940566124401
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35495,7 +34508,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 370,
 				"BLDG_UID" : "VBL10370",
 				"NAME" : "Exchange Residence",
 				"BLDG_CODE" : "EXCH",
@@ -35525,9 +34537,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3159.444730655,
-				"SHAPE.LEN" : 497.67522211682603
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35551,7 +34561,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 138,
 				"BLDG_UID" : "VBL10138",
 				"NAME" : "Old Administration Building",
 				"BLDG_CODE" : "OAB",
@@ -35581,9 +34590,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1001.34382942,
-				"SHAPE.LEN" : 131.339312107973
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35656,7 +34663,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 150,
 				"BLDG_UID" : "VBL10150",
 				"NAME" : "University Services Building",
 				"BLDG_CODE" : "USB",
@@ -35686,9 +34692,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6929.1558206,
-				"SHAPE.LEN" : 523.1406656317661
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35718,7 +34722,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 151,
 				"BLDG_UID" : "VBL10151",
 				"NAME" : "Ponderosa Office Annex E",
 				"BLDG_CODE" : "PONE",
@@ -35748,9 +34751,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 520.73038535,
-				"SHAPE.LEN" : 124.253824233946
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35780,7 +34781,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 139,
 				"BLDG_UID" : "VBL10139",
 				"NAME" : "Old Fire Hall",
 				"BLDG_CODE" : "FIRE",
@@ -35810,9 +34810,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 288.290852755,
-				"SHAPE.LEN" : 74.6564742284232
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -35893,7 +34891,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 140,
 				"BLDG_UID" : "VBL10140",
 				"NAME" : "Child Care Services - Sitka/Discovery",
 				"BLDG_CODE" : "CCS6",
@@ -35923,9 +34920,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 374.064033765,
-				"SHAPE.LEN" : 111.95114444361302
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -36006,7 +35001,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 141,
 				"BLDG_UID" : "VBL10141",
 				"NAME" : "Child Care Services - Summer of 73/Lilliput",
 				"BLDG_CODE" : "CCS7",
@@ -36036,9 +35030,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 374.06362517,
-				"SHAPE.LEN" : 111.950789497295
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -36119,7 +35111,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 142,
 				"BLDG_UID" : "VBL10142",
 				"NAME" : "Child Care Services - Tillicum/Canada Goose",
 				"BLDG_CODE" : "CCS8",
@@ -36149,9 +35140,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 374.0643639,
-				"SHAPE.LEN" : 111.950978984239
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -36258,7 +35247,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 145,
 				"BLDG_UID" : "VBL10145",
 				"NAME" : "Point Grey Apartments",
 				"BLDG_CODE" : "PGRA",
@@ -36288,9 +35276,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1807.291812365,
-				"SHAPE.LEN" : 341.80635155903803
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -36316,7 +35302,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 146,
 				"BLDG_UID" : "VBL10146",
 				"NAME" : "Ponderosa Office Annex A",
 				"BLDG_CODE" : "PONA",
@@ -36346,9 +35331,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 298.17916914,
-				"SHAPE.LEN" : 80.12040384284501
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -36901,7 +35884,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 106,
 				"BLDG_UID" : "VBL10106",
 				"NAME" : "Sandringham",
 				"BLDG_CODE" : "SAND",
@@ -36931,9 +35913,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 5201.901846085,
-				"SHAPE.LEN" : 1216.96272799952
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -36959,7 +35939,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 206,
 				"BLDG_UID" : "VBL10206",
 				"NAME" : "The Stratford",
 				"BLDG_CODE" : "STRA",
@@ -36989,9 +35968,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 724.47677135,
-				"SHAPE.LEN" : 109.566969638594
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38146,7 +37123,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 253,
 				"BLDG_UID" : "VBL10253",
 				"NAME" : "Thames Court - Townhouses",
 				"BLDG_CODE" : "THAC2",
@@ -38176,9 +37152,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4408.832251165,
-				"SHAPE.LEN" : 1357.1364281666902
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38220,7 +37194,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 314,
 				"BLDG_UID" : "VBL10314",
 				"NAME" : "Axis",
 				"BLDG_CODE" : "AXIS",
@@ -38250,9 +37223,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 634.223886245,
-				"SHAPE.LEN" : 113.20144608784501
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38352,7 +37323,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 303,
 				"BLDG_UID" : "VBL10303",
 				"NAME" : "Corus",
 				"BLDG_CODE" : "CORS",
@@ -38382,9 +37352,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1172.4382706850001,
-				"SHAPE.LEN" : 191.420956670428
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38548,7 +37516,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 133,
 				"BLDG_UID" : "VBL10133",
 				"NAME" : "Azalea House",
 				"BLDG_CODE" : "AZAL",
@@ -38578,9 +37545,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 614.7047080750001,
-				"SHAPE.LEN" : 162.326349656634
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38742,7 +37707,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 74,
 				"BLDG_UID" : "VBL10074",
 				"NAME" : "Spirit Park Apartments",
 				"BLDG_CODE" : "SPPA",
@@ -38772,9 +37736,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1549.58955791,
-				"SHAPE.LEN" : 406.961077507565
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38876,7 +37838,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 75,
 				"BLDG_UID" : "VBL10075",
 				"NAME" : "Sopron House",
 				"BLDG_CODE" : "SOPR",
@@ -38906,9 +37867,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1787.23486991,
-				"SHAPE.LEN" : 338.860504427798
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -38968,7 +37927,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 289,
 				"BLDG_UID" : "VBL10289",
 				"NAME" : "Stirling House",
 				"BLDG_CODE" : "STIR",
@@ -38998,9 +37956,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 891.76033612,
-				"SHAPE.LEN" : 158.925625935501
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39106,7 +38062,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 280,
 				"BLDG_UID" : "VBL10280",
 				"NAME" : "Esse",
 				"BLDG_CODE" : "ESSE",
@@ -39136,9 +38091,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 866.78774334,
-				"SHAPE.LEN" : 181.772982632802
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39181,7 +38134,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 288,
 				"BLDG_UID" : "VBL10288",
 				"NAME" : "Argyll House East",
 				"BLDG_CODE" : "ARGE",
@@ -39211,9 +38163,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1072.58569066,
-				"SHAPE.LEN" : 158.63411101878103
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39314,7 +38264,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 291,
 				"BLDG_UID" : "VBL10291",
 				"NAME" : "Folio - Duplexes",
 				"BLDG_CODE" : "FOL3",
@@ -39344,9 +38293,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1381.86033372,
-				"SHAPE.LEN" : 358.216844264583
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39364,7 +38311,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 77,
 				"BLDG_UID" : "VBL10077",
 				"NAME" : "South Campus Warehouse",
 				"BLDG_CODE" : "SCWH",
@@ -39394,9 +38340,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1683.336424975,
-				"SHAPE.LEN" : 166.733391456811
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39474,7 +38418,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 78,
 				"BLDG_UID" : "VBL10078",
 				"NAME" : "Institute for Computing Information and Cognitive Systems / Computer Science",
 				"BLDG_CODE" : "ICCS",
@@ -39504,9 +38447,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4394.774009885001,
-				"SHAPE.LEN" : 373.40370266874504
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39616,7 +38557,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 79,
 				"BLDG_UID" : "VBL10079",
 				"NAME" : "Thunderbird Residence - Building 5",
 				"BLDG_CODE" : "THR5",
@@ -39646,9 +38586,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1693.45540012,
-				"SHAPE.LEN" : 308.26015367212403
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39782,7 +38720,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 10,
 				"BLDG_UID" : "VBL10010",
 				"NAME" : "Greenwood Commons",
 				"BLDG_CODE" : "GRWC",
@@ -39812,9 +38749,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2717.785850315,
-				"SHAPE.LEN" : 646.8651993719039
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39851,7 +38786,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 11,
 				"BLDG_UID" : "VBL10011",
 				"NAME" : "Vista Point",
 				"BLDG_CODE" : "VIST",
@@ -39881,9 +38815,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 663.803809085,
-				"SHAPE.LEN" : 119.264634192897
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -39949,7 +38881,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 117,
 				"BLDG_UID" : "VBL10117",
 				"NAME" : "Fraser Hall",
 				"BLDG_CODE" : "FRAS",
@@ -39979,9 +38910,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 989.4204565750001,
-				"SHAPE.LEN" : 176.802118250755
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40014,7 +38943,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 320,
 				"BLDG_UID" : "VBL10320",
 				"NAME" : "TRIUMF House",
 				"BLDG_CODE" : "TRFH",
@@ -40044,9 +38972,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 328.033160785,
-				"SHAPE.LEN" : 83.8340145390776
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40138,7 +39064,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 322,
 				"BLDG_UID" : "VBL10322",
 				"NAME" : "Cypress House",
 				"BLDG_CODE" : "CYPR",
@@ -40168,9 +39093,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1249.35368422,
-				"SHAPE.LEN" : 225.67469080181598
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40192,7 +39115,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 294,
 				"BLDG_UID" : "VBL10294",
 				"NAME" : "AYO Smart Home",
 				"BLDG_CODE" : "AYOH",
@@ -40222,9 +39144,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 186.893263085,
-				"SHAPE.LEN" : 61.557869530334294
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40303,7 +39223,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 321,
 				"BLDG_UID" : "VBL10321",
 				"NAME" : "Pine House",
 				"BLDG_CODE" : "PINE",
@@ -40333,9 +39252,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1430.335050225,
-				"SHAPE.LEN" : 230.810854420579
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40434,7 +39351,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 345,
 				"BLDG_UID" : "VBL10345",
 				"NAME" : "Virtuoso",
 				"BLDG_CODE" : "VIRT",
@@ -40464,9 +39380,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1749.2270125750001,
-				"SHAPE.LEN" : 287.90888460092606
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40500,7 +39414,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 171,
 				"BLDG_UID" : "VBL10171",
 				"NAME" : "Webber House",
 				"BLDG_CODE" : "WEBH",
@@ -40530,9 +39443,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 932.77581497,
-				"SHAPE.LEN" : 129.75764672472098
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40577,7 +39488,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 208,
 				"BLDG_UID" : "VBL10208",
 				"NAME" : "Carey Hall (Carey Theological College)",
 				"BLDG_CODE" : "CRYH",
@@ -40607,9 +39517,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 514.900814125,
-				"SHAPE.LEN" : 141.76004205271303
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40742,7 +39650,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 279,
 				"BLDG_UID" : "VBL10279",
 				"NAME" : "St. Mark's Duplexes",
 				"BLDG_CODE" : "STMD",
@@ -40772,9 +39679,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1096.14751336,
-				"SHAPE.LEN" : 311.92241165394705
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -40892,7 +39797,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 385,
 				"BLDG_UID" : "VBL10385",
 				"NAME" : "Chancellor House - Duplexes",
 				"BLDG_CODE" : "CHOD",
@@ -40922,9 +39826,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 709.916384795,
-				"SHAPE.LEN" : 230.63080505046602
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41171,7 +40073,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 404,
 				"BLDG_UID" : "VBL10404",
 				"NAME" : "Fraternity Village",
 				"BLDG_CODE" : "FRAT",
@@ -41201,9 +40102,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2539.77210735,
-				"SHAPE.LEN" : 683.934995306443
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41406,7 +40305,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 1,
 				"BLDG_UID" : "VBL10001",
 				"NAME" : "Earth and Ocean Sciences",
 				"BLDG_CODE" : "EOS",
@@ -41436,9 +40334,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2909.536536775,
-				"SHAPE.LEN" : 318.197256439382
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41585,7 +40481,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2,
 				"BLDG_UID" : "VBL10002",
 				"NAME" : "Totem Park Residence - Building 6",
 				"BLDG_CODE" : "TPR6",
@@ -41615,9 +40510,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1779.64349599,
-				"SHAPE.LEN" : 385.920336158138
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41642,7 +40535,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3,
 				"BLDG_UID" : "VBL10003",
 				"NAME" : "UBC Botanical Garden - Garden Pavilion",
 				"BLDG_CODE" : "BOT4",
@@ -41672,9 +40564,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 118.91552214,
-				"SHAPE.LEN" : 97.53596933783659
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41698,7 +40588,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 13,
 				"BLDG_UID" : "VBL10013",
 				"NAME" : "Orchard Commons",
 				"BLDG_CODE" : "ORCH",
@@ -41728,9 +40617,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 4772.299061895,
-				"SHAPE.LEN" : 482.848722169074
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41849,7 +40736,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 331,
 				"BLDG_UID" : "VBL10331",
 				"NAME" : "Brock Hall",
 				"BLDG_CODE" : "BRCK",
@@ -41879,9 +40765,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3459.031865895,
-				"SHAPE.LEN" : 311.20959114107796
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41919,7 +40803,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 14,
 				"BLDG_UID" : "VBL10014",
 				"NAME" : "UBC Farm - Farm Centre",
 				"BLDG_CODE" : "FRM1",
@@ -41949,9 +40832,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 235.41515547,
-				"SHAPE.LEN" : 99.60468287342779
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -41997,7 +40878,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 7,
 				"BLDG_UID" : "VBL10007",
 				"NAME" : "UBC Botanical Garden - Ting Lookout",
 				"BLDG_CODE" : "BOT7",
@@ -42027,9 +40907,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 25.376276375,
-				"SHAPE.LEN" : 24.557911732416798
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42047,7 +40925,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 15,
 				"BLDG_UID" : "VBL10015",
 				"NAME" : "UBC Farm - Children's Greenhouse",
 				"BLDG_CODE" : "FRM3",
@@ -42077,9 +40954,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 118.018010555,
-				"SHAPE.LEN" : 46.4311952320749
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42097,7 +40972,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 8,
 				"BLDG_UID" : "VBL10008",
 				"NAME" : "UBC Botanical Garden - Reception Centre",
 				"BLDG_CODE" : "BOT3",
@@ -42127,9 +41001,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 271.589887425,
-				"SHAPE.LEN" : 65.91993779461708
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42230,7 +41102,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 17,
 				"BLDG_UID" : "VBL10017",
 				"NAME" : "Centre for Comparative Medicine",
 				"BLDG_CODE" : "CCM",
@@ -42260,9 +41131,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 8844.0698697,
-				"SHAPE.LEN" : 669.610107011227
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42284,7 +41153,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 9,
 				"BLDG_UID" : "VBL10009",
 				"NAME" : "UBC Farm - Greenhouse 1",
 				"BLDG_CODE" : "FRM4",
@@ -42314,9 +41182,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 104.09773085,
-				"SHAPE.LEN" : 46.0249105399666
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42334,7 +41200,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 12,
 				"BLDG_UID" : "VBL10012",
 				"NAME" : "UBC Farm - Greenhouse 2",
 				"BLDG_CODE" : "FRM5",
@@ -42364,9 +41229,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 143.07088104,
-				"SHAPE.LEN" : 52.222357636928
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42426,7 +41289,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 16,
 				"BLDG_UID" : "VBL10016",
 				"NAME" : "Totem Park Residence - Building 4",
 				"BLDG_CODE" : "TPR4",
@@ -42456,9 +41318,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1098.58634488,
-				"SHAPE.LEN" : 180.712952821869
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42516,7 +41376,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 60,
 				"BLDG_UID" : "VBL10060",
 				"NAME" : "HR MacMillan Building",
 				"BLDG_CODE" : "MCML",
@@ -42546,9 +41405,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3577.818856845,
-				"SHAPE.LEN" : 502.551388576922
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42588,7 +41445,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 403,
 				"BLDG_UID" : "VBL10403",
 				"NAME" : "MBA House",
 				"BLDG_CODE" : "MBAH",
@@ -42618,9 +41474,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1049.8384528049999,
-				"SHAPE.LEN" : 137.45238714731002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42682,7 +41536,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 165,
 				"BLDG_UID" : "VBL10165",
 				"NAME" : "The Mews",
 				"BLDG_CODE" : "MEWS",
@@ -42712,9 +41565,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1947.6281327250001,
-				"SHAPE.LEN" : 225.334756109172
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42732,7 +41583,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 42,
 				"BLDG_UID" : "VBL10042",
 				"NAME" : "Frederic Lasserre Building",
 				"BLDG_CODE" : "LASR",
@@ -42762,9 +41612,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1049.003744005,
-				"SHAPE.LEN" : 140.239783157212
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42804,7 +41652,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 44,
 				"BLDG_UID" : "VBL10044",
 				"NAME" : "Frank Forward Building",
 				"BLDG_CODE" : "FORW",
@@ -42834,9 +41681,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1265.6777218,
-				"SHAPE.LEN" : 201.624503649306
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42869,7 +41714,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 45,
 				"BLDG_UID" : "VBL10045",
 				"NAME" : "Pulp and Paper Centre",
 				"BLDG_CODE" : "PAPC",
@@ -42899,9 +41743,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1483.4157778150002,
-				"SHAPE.LEN" : 179.61950654322
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -42955,7 +41797,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 47,
 				"BLDG_UID" : "VBL10047",
 				"NAME" : "Hebb Building",
 				"BLDG_CODE" : "HEBB",
@@ -42985,9 +41826,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1329.1690646250001,
-				"SHAPE.LEN" : 211.24264529065002
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43005,7 +41844,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 19,
 				"BLDG_UID" : "VBL10019",
 				"NAME" : "Environmental Services Facility - Waste Processing & Storage",
 				"BLDG_CODE" : "ENV7",
@@ -43035,9 +41873,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 238.53406595,
-				"SHAPE.LEN" : 65.8368636293546
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43108,7 +41944,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 24,
 				"BLDG_UID" : "VBL10024",
 				"NAME" : "Power House",
 				"BLDG_CODE" : "POWR",
@@ -43138,9 +41973,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1582.59093221,
-				"SHAPE.LEN" : 274.483246823418
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43180,7 +42013,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 39,
 				"BLDG_UID" : "VBL10039",
 				"NAME" : "George Cunningham Building",
 				"BLDG_CODE" : "CUNN",
@@ -43210,9 +42042,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1102.659222725,
-				"SHAPE.LEN" : 223.476292807132
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43265,7 +42095,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 54,
 				"BLDG_UID" : "VBL10054",
 				"NAME" : "Rose Garden Parkade",
 				"BLDG_CODE" : "PARR",
@@ -43295,9 +42124,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 5307.918132164999,
-				"SHAPE.LEN" : 345.03253648222505
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43323,7 +42150,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 55,
 				"BLDG_UID" : "VBL10055",
 				"NAME" : "Rugby Pavilion",
 				"BLDG_CODE" : "RUGB",
@@ -43353,9 +42179,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 355.54221534500005,
-				"SHAPE.LEN" : 78.3223743977278
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43373,7 +42197,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 51,
 				"BLDG_UID" : "VBL10051",
 				"NAME" : "Rodney Graham Millennium Sculpture Pavilion",
 				"BLDG_CODE" : "RSCU",
@@ -43403,9 +42226,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 78.04994611,
-				"SHAPE.LEN" : 36.9061498772467
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43507,7 +42328,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 297,
 				"BLDG_UID" : "VBL10297",
 				"NAME" : "Coast - Apartment West",
 				"BLDG_CODE" : "COSW",
@@ -43537,9 +42357,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1087.57158468,
-				"SHAPE.LEN" : 187.445230875916
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43594,7 +42412,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 298,
 				"BLDG_UID" : "VBL10298",
 				"NAME" : "Argyll House West",
 				"BLDG_CODE" : "ARGW",
@@ -43624,9 +42441,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1070.33620611,
-				"SHAPE.LEN" : 162.28699247350102
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43756,7 +42571,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 300,
 				"BLDG_UID" : "VBL10300",
 				"NAME" : "Coast - Apartment East",
 				"BLDG_CODE" : "COSE",
@@ -43786,9 +42600,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1475.005206265,
-				"SHAPE.LEN" : 219.06563295964003
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -43806,7 +42618,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 166,
 				"BLDG_UID" : "VBL10166",
 				"NAME" : "Wesbrook Professional Centre",
 				"BLDG_CODE" : "WPRO",
@@ -43836,9 +42647,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 622.018249595,
-				"SHAPE.LEN" : 102.71529044329802
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44170,7 +42979,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 115,
 				"BLDG_UID" : "VBL10115",
 				"NAME" : "St. James House",
 				"BLDG_CODE" : "STJA",
@@ -44200,9 +43008,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3845.45073217,
-				"SHAPE.LEN" : 573.864122789499
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44263,7 +43069,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 175,
 				"BLDG_UID" : "VBL10175",
 				"NAME" : "The Balmoral",
 				"BLDG_CODE" : "BALM",
@@ -44293,9 +43098,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 794.1919895950001,
-				"SHAPE.LEN" : 150.935736960983
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44333,7 +43136,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 205,
 				"BLDG_UID" : "VBL10205",
 				"NAME" : "The Pemberley",
 				"BLDG_CODE" : "PEMB",
@@ -44363,9 +43165,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2015.5955702350002,
-				"SHAPE.LEN" : 332.91816499237905
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44389,7 +43189,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 64,
 				"BLDG_UID" : "VBL10064",
 				"NAME" : "Wayne and William White Engineering Design Centre",
 				"BLDG_CODE" : "EDC",
@@ -44419,9 +43218,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 696.3983579449999,
-				"SHAPE.LEN" : 118.554619722945
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44456,7 +43253,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 65,
 				"BLDG_UID" : "VBL10065",
 				"NAME" : "UBC Bookstore",
 				"BLDG_CODE" : "BOOK",
@@ -44486,9 +43282,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 2748.449261025,
-				"SHAPE.LEN" : 232.227978346197
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44524,7 +43318,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 356,
 				"BLDG_UID" : "VBL10356",
 				"NAME" : "Central",
 				"BLDG_CODE" : "CNTL",
@@ -44554,9 +43347,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1391.005348775,
-				"SHAPE.LEN" : 186.20276889924403
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44589,7 +43380,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2561,
 				"BLDG_UID" : "VBL10422",
 				"NAME" : "Under Construction - Wesbrook Place Lot BCR 8",
 				"BLDG_CODE" : null,
@@ -44619,9 +43409,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1611.363691535,
-				"SHAPE.LEN" : 209.73438491772103
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44647,7 +43435,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 37,
 				"BLDG_UID" : "VBL10037",
 				"NAME" : "TRIUMF - Stores Building",
 				"BLDG_CODE" : "TRF17",
@@ -44677,9 +43464,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : null,
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 343.48875803,
-				"SHAPE.LEN" : 89.94682772739901
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44724,7 +43509,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 66,
 				"BLDG_UID" : "VBL10066",
 				"NAME" : "The Brimacombe Building",
 				"BLDG_CODE" : "BRIM",
@@ -44754,9 +43538,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3466.4013557450003,
-				"SHAPE.LEN" : 333.98424179932005
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44816,7 +43598,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 67,
 				"BLDG_UID" : "VBL10067",
 				"NAME" : "Henry Angus Building",
 				"BLDG_CODE" : "ANGU",
@@ -44846,9 +43627,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3844.6835634,
-				"SHAPE.LEN" : 397.10689749869704
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44867,7 +43646,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 68,
 				"BLDG_UID" : "VBL10068",
 				"NAME" : "Coal and Mineral Processing Laboratory",
 				"BLDG_CODE" : "MINL",
@@ -44897,9 +43675,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1008.66723405,
-				"SHAPE.LEN" : 128.52813148966598
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44931,7 +43707,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 69,
 				"BLDG_UID" : "VBL10069",
 				"NAME" : "Bioenergy Research and Demonstration Facility",
 				"BLDG_CODE" : "BRDF",
@@ -44961,9 +43736,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 1528.52088601,
-				"SHAPE.LEN" : 183.160886615495
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -44995,7 +43768,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 70,
 				"BLDG_UID" : "VBL10070",
 				"NAME" : "David Strangway Building",
 				"BLDG_CODE" : "STRG",
@@ -45025,9 +43797,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3501.0259496,
-				"SHAPE.LEN" : 288.889258493549
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -45055,7 +43825,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 71,
 				"BLDG_UID" : "VBL10071",
 				"NAME" : "UBC Aquatic Centre",
 				"BLDG_CODE" : "AQUA",
@@ -45085,9 +43854,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 6041.783489665,
-				"SHAPE.LEN" : 334.314365085674
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -45108,7 +43875,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 72,
 				"BLDG_UID" : "VBL10072",
 				"NAME" : "Earth Sciences Building",
 				"BLDG_CODE" : "ESB",
@@ -45138,9 +43904,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 3285.28455713,
-				"SHAPE.LEN" : 300.87339176100903
+				"PROPERTY_TYPE" : null
 			}
 		},
 		{
@@ -45162,7 +43926,6 @@
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 73,
 				"BLDG_UID" : "VBL10073",
 				"NAME" : "Engineering Student Centre",
 				"BLDG_CODE" : "ESC",
@@ -45192,9 +43955,7 @@
 				"ACCESSIBILITY_RATING" : null,
 				"BLDG_MAINTENANCE" : "UBC",
 				"BLDG_CLASS" : null,
-				"PROPERTY_TYPE" : null,
-				"SHAPE.AREA" : 662.80427113,
-				"SHAPE.LEN" : 110.419760755303
+				"PROPERTY_TYPE" : null
 			}
 		}
 	]
