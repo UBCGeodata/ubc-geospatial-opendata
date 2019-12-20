@@ -1,0 +1,17 @@
+Fieldname,Description,FieldValues,Type
+BLDG_UID,,,char(10)
+PLACENAME,,,char(500)
+PLACENAME2,,,char(50)
+PLACENAME3,,,char(50)
+PLACENAME4,,,char(50)
+ABBREVIATEDPLACENAME,,,char(50)
+BUILDING_SHORTCODE,,,char(6)
+STATUS,,,char(30)
+ROT,,,double
+ACCESSIBLE,,,integer
+POWER_DOOR,,,integer
+BL_CLASS,,,char(10)
+CREATED_USER,,,char(255)
+CREATED_DATE,,,date
+LAST_EDITED_USER,,,char(255)
+LAST_EDITED_DATE,,,date
