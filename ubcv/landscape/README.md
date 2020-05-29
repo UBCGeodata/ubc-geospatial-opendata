@@ -12,12 +12,13 @@ Data
 - Locations are taken from 2019 orthophotho
 - Species ID done by Egan Davis
 - Tree measurements taken by students of UFOR101 class.
-
+### ubcv_softlandscape
+- Lawn, planting bed, and wild areas of soft landscape.
+- Some of the attributes in this dataset are no longer maintained.
 Files Provided
 --------------
-* Data on git are geojson and csv (text) only. File geodatabase download [here](https://maps.gis.ubc.ca/data/ubcv/ubcv_locations.gdb.zip).
-* FGDB is UTM10N(ESPG:26910), geojson is LL84(ESPG:4326).
-* csv data has lat/long columns in LL84.
+* GeoJSON data provided in WGS84 / EPSG:4326.
+* CSV data may have lat/long in WGS84 /EPSG:4326. For polygon data these represent centroids.
 
 Metadata
 --------
