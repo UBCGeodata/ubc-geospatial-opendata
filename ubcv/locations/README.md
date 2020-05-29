@@ -3,27 +3,28 @@ UBC Vancouver Locations
 
 Datasets
 --------
-### ubcv_buildings_full
+### ubcv_buildings
  - An export of the buildings data as stored in our geodatabase. In general, a building is defined by a distinct buliding envelope, construction material, or construction form.
-### ubcv_buildings_simple
- - a simplified, flattened version of the data with address, alias and main entrance information.
-### ubcv_address_full
+### ubcv_buildings_simple (CSV only)
+ - A simplified, version of the data with the most basic attributes.
+### ubcv_address
  - The geocode/address dataset for UBC Vancouver
  - This is based on the [BC Physical Address Exchange Schema](https://github.com/bcgov/api-specs/blob/master/geocoder/BCAddressExchangeSchema.md)
-### ubcv_address_mailing
- - A CSV only dataset that has simplified fields and only mailing addresses.
+### ubcv_address_mailing (CSV only)
+ - A dataset with simplified fields and only mailing addresses.
+### ubcv_poi
+ - Campus points of interest: food outlets, attractions, services, etc.
 
 
 
 Files Provided
 --------------
-* Data on git are geojson and csv (text) only. File geodatabase download [here](https://maps.gis.ubc.ca/data/ubcv/ubcv_locations.gdb.zip).
-* FGDB is UTM10N(ESPG:26910), geojson is LL84(ESPG:4326).
-* csv data has lat/long columns.
+* GeoJSON data provided in WGS84 / EPSG:4326.
+* CSV data has lat/long in WGS84 /EPSG:4326. For polygon data these represent centroids.
 
 Metadata
 --------
-* there is a CSV data dictionary in the metadata folder with a list of attributes.
+* There is a CSV data dictionary in the metadata folder with a list of attributes for each dataset.
 
 License
 -------

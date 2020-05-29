@@ -9,7 +9,7 @@ BLDG_SEC_USAGE,"Indicates a secondary usage of a building, if a building has mul
 BLDG_STATE,Physical state of the occupancy in the building.,"Temporary,Unoccupied,UnderRenovation,Occupied",char(30)
 BLDG_UID,Unique ID of the building.,,char(10)
 BLDG_USAGE,Classification of building based on its main usage.,"Academic,Administrative,Athletics,Commons,Housing,Operations,Other,Parking,Research,StudentHousing,Commercial",char(20)
-CONSTR_STATUS,Status of Building indicated by the type of Permit received.,"Complete,Complete,UnderConstruction,UnderConstruction",char(20)
+CONSTR_STATUS,Status of Building indicated by the type of Permit received.,"Complete,UnderConstruction,PreConstruction",char(20)
 CONSTR_TYPE,Classification of building based on construction material type.,"Concrete,Wood,Steel,OtherMixed",char(20)
 CREATED_DATE,,,date
 CREATED_USER,,,char(255)
@@ -27,3 +27,7 @@ NEIGHBOURHOOD,Areas identified in the Land Use Plan for Point Grey Campus.,"Acad
 NOTES,,,char(500)
 OCCU_DATE,The date on which Occupancy Permit was issued.,,date
 REC_IDS,A semicolon delimited list of record IDs are part of this building.,,char(300)
+BLDG_CLASS,,,
+PROPERTY_TYPE,"A description of the type of ownership or contractual relationship of UBC’s with respect to buildings, lands, or sites (Real Property).  ","FeeSimple, LeasedToUBC, LeasedFromUBC, LicensedToUBC, LicensedFromUBC, Other",
+LABEL_NAME,Name used for cartographic labels,,
+LABEL_CLASS,Label class for cartographic purposes,,

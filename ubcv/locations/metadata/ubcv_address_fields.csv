@@ -1,5 +1,5 @@
 Fieldname,Description,FieldValues,Type
-ADDRESS_DESCRIPTOR,Describes the address usage at all levels of the hierarchy.,"CampusBuildingEmergencyCommercial,Outdoor,Complex,OtherBuilding,Occupant,IndoorArea,Residentiall,NeighbourhoodBldg",char(30)
+ADDRESS_DESCRIPTOR,Describes the address usage at all levels of the hierarchy.,"CampusBuildingEmergencyCommercial,Outdoor,Complex,OtherBuilding,Occupant,IndoorArea,Residential,NeighbourhoodBldg",char(30)
 ADDRESS_NOTES,Notes about this address location.,,char(400)
 ADD_UID,Unique identifier,,char(10)
 BLDG_UID,Foreign key to building table.,,char(10)

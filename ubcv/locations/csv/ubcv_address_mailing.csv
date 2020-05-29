@@ -1,4 +1,6 @@
 ﻿ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
+VAD10108,Biological Archive Centre,Vancouver,V6T 1W5,BC,,CampusBuilding,,4000 Wesbrook Mall,-123.229622,49.248853
+VAD10683,UBC Aquatic Centre (Old),Vancouver,V6T 1Z1,BC,,CampusBuilding,,6121 University Boulevard,-123.249362,49.266554
 VAD10906,Chemistry Physics Building,Vancouver,V6T 1Z1,BC,VBL10327,CampusBuilding,,6221 University Boulevard,-123.25128,49.265738
 VAD10038,Logan Lane (B1),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2559 East Mall,-123.245228,49.258838
 VAD10123,Logan Lane (E7),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6284 Logan Lane,-123.246619,49.258966
@@ -521,8 +523,6 @@ VAD10441,Staging Environmental Research Centre (SERC),Vancouver,V6T 1W5,BC,VBL10
 VAD10863,Spirit Park Apartments - Huckleberry Daycare,Vancouver,V6T 1X7,BC,VBL10074,Occupant,,2735 Osoyoos Crescent,-123.239447,49.261151
 VAD11022,Logan Lane (B5),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2551 East Mall,-123.245311,49.258939
 VAD11165,BCR8,Vancouver,,BC,VBL10422,NeighbourhoodBldg,CanadaPost,3508 Wesbrook Mall,-123.233453,49.252343
-VAD10108,Biological Archive Centre,Vancouver,V6T 1W5,BC,,CampusBuilding,,4000 Wesbrook Mall,-123.229622,49.248853
-VAD10683,UBC Aquatic Centre (Old),Vancouver,V6T 1Z1,BC,,CampusBuilding,,6121 University Boulevard,-123.249362,49.266554
 VAD10778,Westchester (G1),Vancouver,V6T 2K1,BC,VBL10220,Residential,CanadaPost,6381 Larkin Drive,-123.248847,49.257386
 VAD10779,Westchester (G2),Vancouver,V6T 2K1,BC,VBL10220,Residential,CanadaPost,6383 Larkin Drive,-123.248859,49.257361
 VAD10140,Logan Lane (D7),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6248 Logan Lane,-123.245756,49.258711
