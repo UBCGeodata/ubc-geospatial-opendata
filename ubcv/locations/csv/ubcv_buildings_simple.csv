@@ -59,7 +59,6 @@ Services,Acadia Community Centre,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5
 Other,University Hill Secondary School,UHIL,3228 Ross Drive,V6S 0C6,VBL10242,Complete,-123.238748,49.254251
 Other,Vancouver School of Theology,VST,6015 Walter Gage Road,V6T 1Z1,VBL10302,Complete,-123.251063,49.270385
 Operations,University Services Building,USB,2329 West Mall,V6T 1Z4,VBL10150,Complete,-123.253783,49.261305
-Parking,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248957,49.266712
 Academic,Wesbrook Building,WESB,6174 University Boulevard,V6T 1Z3,VBL10266,Complete,-123.249162,49.265247
 Housing,The Pemberley,PEMB,5605 Hampton Place,V6T 2H2,VBL10205,Complete,-123.232204,49.258019
 Housing,The Stratford,STRA,5657 Hampton Place,V6T 2H4,VBL10206,Complete,-123.233453,49.259631
@@ -253,7 +252,6 @@ Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234392,49.
 Administrative,Cecil Green Park House,CGPH,6251 Cecil Green Park Road,V6T 1Z1,VBL10342,Complete,-123.257677,49.271375
 Research,TRIUMF - Institute of Advanced Medical Isotopes (IAMI),TRF29,"4004 Wesbrook Mall, Building 28",V6T 2A3,VBL10425,UnderConstruction,-123.228275,49.246796
 Housing,Virtuoso,VIRT,3581 Ross Drive,V6S 0K5,VBL10345,Complete,-123.23395,49.250717
-Parking,UBC Exchange,TRAN,1985 Wesbrook Mall,V6T 2C9,VBL10354,Complete,-123.247729,49.268347
 Housing,Central,CNTL,6015 University Boulevard,V6T 0C4,VBL10356,Complete,-123.247244,49.266347
 Academic,Library PARC@UBC,PARC,6049 Nurseries Road,V6T 1W5,VBL10351,Complete,-123.229679,49.245095
 Services,Kids Club,KIDS,2855 Acadia Road,V6T 1S1,VBL10374,Complete,-123.234812,49.26173
@@ -396,6 +394,8 @@ Services,Abdul Ladha Science Student Centre,ALSC,2055 East Mall,V6T 1Z1,VBL10163
 Housing,Academy - Highrise,ACD1,5728 Berton Avenue,V6S 0E5,VBL10183,Complete,-123.233049,49.25559
 Housing,Academy - Townhouses,ACD2,"5728 Berton Avenue, Building 1",V6S 0E5,VBL10199,Complete,-123.232779,49.255182
 Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.240037,49.257119
+Parking,UBC Exchange,TRAN,1985 Wesbrook Mall,V6T 2C9,VBL10354,Complete,-123.247729,49.268347
+Academic,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248957,49.266712
 Services,Acadia Modular Child Care - Building 1,MCC1,,,VBL10372,Complete,-123.236533,49.260392
 Services,Acadia Modular Child Care - Building 2,MCC2,,,VBL10373,Complete,-123.235488,49.260488
 Services,Acadia Modular Child Care - Building 3,MCC3,,,VBL10375,Complete,-123.235332,49.26084
