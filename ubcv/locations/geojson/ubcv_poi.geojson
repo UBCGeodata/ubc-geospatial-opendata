@@ -5894,38 +5894,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2352923855, 49.2618621839 ]
-			},
-			"properties" : {
-				"OBJECTID" : 274,
-				"POI_ID" : "POI-284",
-				"ADD_ID" : "AD-6",
-				"PLACENAME" : "Kids Club Jr. Child Care",
-				"PLACENAME2" : "Kids Club Jr. ",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Sopron House",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "child_care",
-				"PHOTOURL" : null,
-				"URL" : "https://childcare.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : "<p>Kids Club Jr. Child Care Services Centre</p>",
-				"GLOBALID" : "{1998222A-E16A-43F4-A4DA-2BDEC0A9B56D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "GISSTUD2",
-				"LAST_EDITED_DATE" : "20200306193617"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2390421149, 49.2511674555 ]
 			},
 			"properties" : {
@@ -13888,6 +13856,38 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "GISSTUD2",
 				"LAST_EDITED_DATE" : "20200326190814"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2354449103, 49.2621503111 ]
+			},
+			"properties" : {
+				"OBJECTID" : 274,
+				"POI_ID" : "POI-284",
+				"ADD_ID" : "AD-6",
+				"PLACENAME" : "Kids Club Jr. Child Care",
+				"PLACENAME2" : "Kids Club Jr. ",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Sopron House",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "child_care",
+				"PHOTOURL" : null,
+				"URL" : "https://childcare.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : "<p>Kids Club Jr. Child Care Services Centre</p>",
+				"GLOBALID" : "{1998222A-E16A-43F4-A4DA-2BDEC0A9B56D}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200623191628"
 			}
 		}
 	]
