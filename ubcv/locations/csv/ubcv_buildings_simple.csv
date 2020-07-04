@@ -10,7 +10,7 @@ Services,UBC Botanical Garden - Reception Centre,BOT3,"6804 SW Marine Drive, Bui
 Housing,Greenwood Commons,GRWC,2660 Wesbrook Mall,V6T 0A5,VBL10010,Complete,-123.240073,49.260949
 Housing,Vista Point,VIST,5828 Thunderbird Boulevard,V6T 0B8,VBL10011,Complete,-123.240257,49.261695
 Operations,UBC Farm - Greenhouse 2,FRM5,"3461 Ross Drive, Building 4",V6T 1W5,VBL10012,Complete,-123.239035,49.251033
-Commons,Orchard Commons,ORCH,6363 Agronomy Road,V6T 1Z4,VBL10013,Complete,-123.251377,49.260502
+Commons,"Orchard Commons - Vantage College, Bartlett/Braeburn House",ORCH,6363 Agronomy Road,V6T 1Z4,VBL10013,Complete,-123.251377,49.260502
 Academic,UBC Farm - Farm Centre,FRM1,"3461 Ross Drive, Building 1",V6T 1W5,VBL10014,Complete,-123.240131,49.251577
 Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V6T 1W5,VBL10015,Complete,-123.23981,49.251464
 StudentHousing,Totem Park Residence - Building 4,TPR4,"2525 West Mall, Building 4",V6T 1W9,VBL10016,Complete,-123.251552,49.259171
@@ -347,7 +347,7 @@ StudentHousing,Place Vanier Residence - Tweedsmuir House,VNR13,"1935 Lower Mall,
 StudentHousing,Exchange Residence,EXCH,5960 Student Union Boulevard,V6T 2C9,VBL10370,Complete,-123.247698,49.268598
 Administrative,International House,INTL,1783 West Mall,V6T 1Z2,VBL10371,Complete,-123.258963,49.267805
 Services,Child Care Services - Saw-Whet,MCC1,2850 Salmo Court,V6T 1S1,VBL10372,Complete,-123.236533,49.260392
-Services,Child Care Services - Building 2,MCC2,2865 Revelstoke Court,V6T 1S1,VBL10373,Complete,-123.235488,49.260488
+Services,Child Care Services - Barish,MCC2,2835 Revelstoke Court,V6T 1S1,VBL10373,Complete,-123.235488,49.260488
 Services,Kids Club,KIDS,2855 Acadia Road,V6T 1S1,VBL10374,Complete,-123.234812,49.26173
 Services,Child Care Services - Willow,MCC3,2845 Revelstoke Court,V6T 1S1,VBL10375,Complete,-123.235332,49.26084
 Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253632,49.267397
@@ -389,11 +389,10 @@ Commercial,Granite Terrace - Commercial,GRT2,5923 Berton Avenue,V6S 0B3,VBL10414
 Housing,Granite Terrace,GRT1,3233 Wesbrook Mall,V6S 0B4,VBL10164,Complete,-123.236985,49.254825
 StudentHousing,Green College - A South,GRN3,"6201 Cecil Green Park Road, Building 6",V6T 1Z1,VBL10415,Complete,-123.25524,49.270939
 Operations,Vanier Pump Station,VNRP,"1935 Lower Mall, Building 14",V6T 1X1,VBL10416,Complete,-123.260266,49.26482
-Housing,Thames Court - Building 1,THAC1,"5880 Hampton Place, Building 1",V6T 2E9,VBL10417,Complete,-123.235779,49.25725
 Athletics,Cecil Green Squash Court,CGSQ,"6251 Cecil Green Park Road, Building 1",V6T 1Z1,VBL10418,Complete,-123.257056,49.271418
 Services,UBC Botanical Garden - Shop/Gatehouse Entrance,BOT1,"6804 SW Marine Drive, Building 1",V6T 1Z4,VBL10419,Complete,-123.250531,49.254029
 Services,Counselling Services,CNSL,1930 East Mall,,VBL10421,UnderConstruction,-123.251994,49.268231
-Operations,Pump House Replacement,PUMP,6355 University Boulevard,,VBL10420,PreConstruction,-123.254161,49.264621
+Operations,Pump House,PUMP,6355 University Boulevard,,VBL10420,PreConstruction,-123.254161,49.264621
 Research,TRIUMF - Institute of Advanced Medical Isotopes (IAMI),TRF29,"4004 Wesbrook Mall, Building 28",V6T 2A3,VBL10425,UnderConstruction,-123.228275,49.246796
 Housing,Evolve,EVLV,3508 Wesbrook Mall,,VBL10422,PreConstruction,-123.233231,49.252338
 Commons,Brock Commons South,BRCS,6180 Walter Gage Road,,VBL10424,PreConstruction,-123.252366,49.269083
@@ -420,4 +419,5 @@ Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231609,49.25526
 Housing,Folio - Townhouses,FOL2,,,VBL10316,Complete,-123.2502,49.272247
 Housing,Chancellor House - Duplexes,CHOD,,,VBL10385,Complete,-123.251863,49.271978
 Housing,Coast - Duplexes,COSD,,,VBL10399,Complete,-123.253238,49.271304
+Housing,Thames Court - Building 1,THAC1,,,VBL10417,Complete,-123.235779,49.25725
 Housing,Conservatory - Townhouses,CSY1,,,VBL10428,PreConstruction,-123.232102,49.255838

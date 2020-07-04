@@ -30592,7 +30592,7 @@
 				"UNIT_NUMBER_SUFFIX" : null,
 				"SITE_NAME" : "Acadia Modular Child Care 2",
 				"SUPER_FULL_SITE_DESCRIPTOR" : null,
-				"CIVIC_NUMBER" : 2865,
+				"CIVIC_NUMBER" : 2835,
 				"CIVIC_NUMBER_SUFFIX" : null,
 				"STREET_NAME" : "Revelstoke",
 				"STREET_TYPE" : "Court",
@@ -30620,11 +30620,11 @@
 				"NEIGHBOURHOOD" : "Academic",
 				"ADDRESS_NOTES" : null,
 				"PARENT_UID" : null,
-				"FULL_ADDRESS" : "2865 Revelstoke Court",
+				"FULL_ADDRESS" : "2835 Revelstoke Court",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200618211751"
+				"LAST_EDITED_DATE" : "20200702163344"
 			}
 		},
 		{
@@ -32545,7 +32545,7 @@
 				"coordinates" : [ -123.2556337145, 49.2709623845 ]
 			},
 			"properties" : {
-				"ADD_UID" : "VAD10523",
+				"ADD_UID" : "VAD10570",
 				"UNIT_DESIGNATOR" : "Building",
 				"UNIT_NUMBER_PREFIX" : null,
 				"UNIT_NUMBER" : "9",
@@ -32584,7 +32584,7 @@
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200626210741"
+				"LAST_EDITED_DATE" : "20200630204412"
 			}
 		},
 		{
@@ -57535,7 +57535,7 @@
 				"coordinates" : [ -123.2485666007, 49.2705675721 ]
 			},
 			"properties" : {
-				"ADD_UID" : "VAD10217",
+				"ADD_UID" : "VAD10218",
 				"UNIT_DESIGNATOR" : null,
 				"UNIT_NUMBER_PREFIX" : null,
 				"UNIT_NUMBER" : null,
@@ -57574,7 +57574,7 @@
 				"CREATED_USER" : "RACHELW",
 				"CREATED_DATE" : "20200618215559",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200618215949"
+				"LAST_EDITED_DATE" : "20200630204502"
 			}
 		},
 		{
@@ -57624,55 +57624,6 @@
 				"CREATED_DATE" : "20200618223225",
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200618223700"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2359563757, 49.2572253017 ]
-			},
-			"properties" : {
-				"ADD_UID" : "VAD11198",
-				"UNIT_DESIGNATOR" : "Building",
-				"UNIT_NUMBER_PREFIX" : null,
-				"UNIT_NUMBER" : "1",
-				"UNIT_NUMBER_SUFFIX" : null,
-				"SITE_NAME" : "Thames Court - Building 1",
-				"SUPER_FULL_SITE_DESCRIPTOR" : "Thames Court",
-				"CIVIC_NUMBER" : 5880,
-				"CIVIC_NUMBER_SUFFIX" : null,
-				"STREET_NAME" : "Hampton",
-				"STREET_TYPE" : "Place",
-				"IS_STREET_TYPE_PREFIX" : 0,
-				"STREET_DIRECTION" : null,
-				"IS_STREET_DIRECTION_PREFIX" : 0,
-				"LOCALITY" : "Vancouver",
-				"LOCALITY_DESCRIPTOR" : "Municipality",
-				"POSTAL_CODE" : "V6T 2E9",
-				"PROVINCE_CODE" : "BC",
-				"STATUS" : "Current",
-				"IS_OFFICIAL_ADDRESS" : 1,
-				"IS_PRIMARY" : 1,
-				"BLDG_UID" : "VBL10417",
-				"ADDRESS_DESCRIPTOR" : "NeighbourhoodBldg",
-				"SITE_POINT_DESCRIPTOR" : "FrontDoor",
-				"FOOTPRINT_DESCRIPTOR" : "Building",
-				"FOOTPRINT_ID" : "VBL10417",
-				"IS_NON_CIVIC_ADDRESS" : 0,
-				"NARRITIVE_LOCATION" : null,
-				"IS_MAILING_ADDRESS" : 0,
-				"MAIL_PROVIDER" : null,
-				"IS_ANNUNCIATOR" : null,
-				"NUM_OF_UNITS" : 0,
-				"NEIGHBOURHOOD" : "Hampton Place",
-				"ADDRESS_NOTES" : null,
-				"PARENT_UID" : "VAD11071",
-				"FULL_ADDRESS" : "5880 Hampton Place, Building 1",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200618225919",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200618230128"
 			}
 		},
 		{
