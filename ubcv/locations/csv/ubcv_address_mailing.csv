@@ -1,7 +1,7 @@
 ﻿ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
 VAD10683,UBC Aquatic Centre (Old),Vancouver,V6T 1Z1,BC,,CampusBuilding,CampusMail,6121 University Boulevard,-123.249362,49.266554
 VAD10108,Biological Archive Centre,Vancouver,V6T 1W5,BC,,CampusBuilding,CampusMail,4000 Wesbrook Mall,-123.229622,49.248853
-VAD10145,Robert F. Osborne Centre,Vancouver,V6T 1Z3,BC,,Complex,CampusMail,6108 Thunderbird Boulevard,-123.243988,49.260195
+VAD10145,Robert F. Osborne Centre,Vancouver,V6T 1Z3,BC,,Complex,CampusMail,6108 Thunderbird Boulevard,-123.243991,49.260199
 VAD10038,Logan Lane (B1),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2559 East Mall,-123.245228,49.258838
 VAD10123,Logan Lane (E7),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6284 Logan Lane,-123.246619,49.258966
 VAD10125,Logan Lane (C11),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6224 Logan Lane,-123.24599,49.259179
