@@ -12516,6 +12516,58 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
+						[ -123.2428941415, 49.2646553532 ],
+						[ -123.2435192089, 49.2644361563 ],
+						[ -123.2430193822, 49.2638256996 ],
+						[ -123.2423943216, 49.2640448938 ],
+						[ -123.2428941415, 49.2646553532 ]
+					]
+				]
+			},
+			"properties" : {
+				"BLDG_UID" : "VBL90901",
+				"NAME" : "Test Building",
+				"BLDG_CODE" : "TACA",
+				"SHORTNAME" : "Test Academic",
+				"POSTAL_CODE" : "V6T 1Z3",
+				"PRIMARY_ADDRESS" : "1234 Wesbrook Mall",
+				"CONSTR_STATUS" : "Complete",
+				"OCCU_DATE" : "20200819",
+				"BLDG_USAGE" : "Academic",
+				"BLDG_SEC_USAGE" : null,
+				"JURISDICTION" : "UBC",
+				"NEIGHBOURHOOD" : "Academic",
+				"MANAGE_ORG" : "UBC",
+				"BLDG_STATE" : "Occupied",
+				"GREEN_STATUS" : null,
+				"CONSTR_TYPE" : null,
+				"MAX_FLOORS" : null,
+				"BLDG_HEIGHT" : null,
+				"GBA" : null,
+				"REC_IDS" : null,
+				"HAS_SUBBLDGS" : null,
+				"GEOM_SOURCE" : null,
+				"NOTES" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200819164658",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200821192258",
+				"BLDG_FORM" : "Unspecified",
+				"BLDG_CONDITION" : null,
+				"ACCESSIBILITY_RATING" : null,
+				"BLDG_MAINTENANCE" : null,
+				"BLDG_CLASS" : null,
+				"PROPERTY_TYPE" : null,
+				"LABEL_NAME" : null,
+				"LABEL_CLASS" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
 						[ -123.2558745492, 49.271239564 ],
 						[ -123.2558943734, 49.2711834683 ],
 						[ -123.2558696676, 49.2711797297 ],
@@ -42703,6 +42755,58 @@
 				"BLDG_CLASS" : "L5",
 				"PROPERTY_TYPE" : null,
 				"LABEL_NAME" : "<Null>",
+				"LABEL_CLASS" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.2422919555, 49.2639349846 ],
+						[ -123.2429408299, 49.2637131619 ],
+						[ -123.2424609387, 49.2631119178 ],
+						[ -123.2418120713, 49.2633337369 ],
+						[ -123.2422919555, 49.2639349846 ]
+					]
+				]
+			},
+			"properties" : {
+				"BLDG_UID" : "VBL90900",
+				"NAME" : "Test Parkade",
+				"BLDG_CODE" : "TPAR",
+				"SHORTNAME" : "Test Parkade",
+				"POSTAL_CODE" : "V6T 1Z3",
+				"PRIMARY_ADDRESS" : "1234 Thunderbird Boulevard",
+				"CONSTR_STATUS" : "UnderConstruction",
+				"OCCU_DATE" : null,
+				"BLDG_USAGE" : "Parking",
+				"BLDG_SEC_USAGE" : null,
+				"JURISDICTION" : "UBC",
+				"NEIGHBOURHOOD" : "Academic",
+				"MANAGE_ORG" : "Parking",
+				"BLDG_STATE" : null,
+				"GREEN_STATUS" : null,
+				"CONSTR_TYPE" : null,
+				"MAX_FLOORS" : null,
+				"BLDG_HEIGHT" : null,
+				"GBA" : null,
+				"REC_IDS" : null,
+				"HAS_SUBBLDGS" : null,
+				"GEOM_SOURCE" : null,
+				"NOTES" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200819164935",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200819165342",
+				"BLDG_FORM" : "Parking",
+				"BLDG_CONDITION" : null,
+				"ACCESSIBILITY_RATING" : null,
+				"BLDG_MAINTENANCE" : null,
+				"BLDG_CLASS" : null,
+				"PROPERTY_TYPE" : null,
+				"LABEL_NAME" : null,
 				"LABEL_CLASS" : null
 			}
 		},

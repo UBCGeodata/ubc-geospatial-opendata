@@ -111,6 +111,7 @@ VBL10185,Acadia Commonsblock,ACOM,Complete,19890101,Services,StudentHousing,UBC,
 VBL10435,Green College - D Commons,GRN8,Complete,19300101,Services,Other,UBC,Academic,SHHS,Occupied,,Wood,3,,1473,412,0,,,GISSTUD2,20190606173848,RACHELW,20200724231544,Unspecified,,,UBC,L5,,-123.256697,49.271296
 VBL10190,Green College - Principal's Residence,GRN10,Complete,19940101,StudentHousing,Other,UBC,Academic,SHHS,Occupied,,Wood,3,,302,419,0,,,GISSTUD2,20190514204818,RACHELW,20200724231544,Duplex/Townhouse,,,UBC,L5,,-123.256959,49.270906
 VBL10191,Magnolia House,MAGN,Complete,20120101,Housing,,UNA,Wesbrook,UBCPT,Occupied,REAP Gold,Wood,5,,7617,713,0,,new GBA taken from spreadsheet,,,RACHELW,20200724231544,AptLess5Storey,,,,L5,,-123.233538,49.251536
+VBL90901,Test Building,TACA,Complete,20200819,Academic,,UBC,Academic,UBC,Occupied,,,,,,,,,,RACHELW,20200819164658,RACHELW,20200821192258,Unspecified,,,,,,-123.242957,49.264241
 VBL10194,Green College - A North,GRN1,Complete,19940101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,,794,413;414,0,,,GISSTUD2,20190514204242,RACHELW,20200724231544,AptLess5Storey,,,UBC,L5,,-123.255639,49.271156
 VBL10122,Thunderbird Residence - Cassiar,THR1,Complete,19950101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,4,,5615,784;784-1,0,,,GISSTUD2,20190514200510,RACHELW,20200724231543,AptLess5Storey,,,UBC,L5,,-123.250862,49.259566
 VBL10124,Stores Road Annex,STRX,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,3,,383,669,0,,,,,RACHELW,20200724231543,Unspecified,,,UBC,L2,,-123.25235,49.261674
@@ -411,6 +412,7 @@ VBL10239,Pathways - East Building,PTHE,Complete,20080227,Housing,,UNA,Wesbrook,P
 VBL10240,Pathways - West Building,PTHW,Complete,20080227,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Steel,5,,7095,588-1,0,,,GISSTUD2,20190514233510,RACHELW,20200806172513,AptLess5Storey,,,,L5,,-123.233782,49.254396
 VBL10076,The Wesbrook - Townhouses,WSB2,Complete,20090101,Housing,,UNA,Wesbrook,Private,Occupied,REAP Silver,Concrete,3,,1249,594,0,,new GBA taken from spreadsheet,GISSTUD2,20190514231851,RACHELW,20200806172531,Duplex/Townhouse,,,,L5,,-123.234202,49.254725
 VBL10135,Eton - Highrise,ETN1,Complete,20190226,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Concrete,20,59,22008,592,0,RW - PDF from Approved DP,,GISSTUD2,20190516182139,RACHELW,20200806172531,Apt5StoreyPlus,,,,L5,,-123.230573,49.253427
+VBL90900,Test Parkade,TPAR,UnderConstruction,,Parking,,UBC,Academic,Parking,,,,,,,,,,,RACHELW,20200819164935,RACHELW,20200819165342,Parking,,,,,,-123.242376,49.263523
 VBL10432,Plant Science Garage,PLS2,Complete,19630101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,,317,667,0,,,RACHELW,20200619232634,RACHELW,20200806172641,Unspecified,,,UBC,L2,,-123.249256,49.256425
 VBL10251,Robert F. Osborne Centre - Unit 1,OSB1,Complete,19700101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,0,3439,430,0,,,RACHELW,20200707200849,RACHELW,20200806172641,Unspecified,,,UBC,L2,,-123.243723,49.260289
 VBL10433,Plant Science Field Station,PLS1,Complete,19910101,Academic,,UBC,Academic,UBC,Occupied,,Wood,1,,74,666,0,,,RACHELW,20200619232634,RACHELW,20200806172641,Unspecified,,,UBC,L2,,-123.249415,49.256215

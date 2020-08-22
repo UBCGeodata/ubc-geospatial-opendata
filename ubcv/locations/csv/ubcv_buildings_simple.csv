@@ -112,6 +112,7 @@ Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL
 Services,Green College - D Commons,GRN8,"6201 Cecil Green Park Road, Building 3",V6T 1Z1,VBL10435,Complete,-123.256697,49.271296
 StudentHousing,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,V6T 1Z1,VBL10190,Complete,-123.256959,49.270906
 Housing,Magnolia House,MAGN,3565 Wesbrook Mall,V6S 0H1,VBL10191,Complete,-123.233538,49.251536
+Academic,Test Building,TACA,1234 Wesbrook Mall,V6T 1Z3,VBL90901,Complete,-123.242957,49.264241
 StudentHousing,Green College - A North,GRN1,"6201 Cecil Green Park Road, Building 5",V6T 1Z1,VBL10194,Complete,-123.255639,49.271156
 StudentHousing,Thunderbird Residence - Cassiar,THR1,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250862,49.259566
 Academic,Stores Road Annex,STRX,6368 Stores Road,V6T 1Z4,VBL10124,Complete,-123.25235,49.261674
@@ -398,6 +399,7 @@ Housing,Pathways - East Building,PTHE,5779 Birney Avenue,V6S 0A3,VBL10239,Comple
 Housing,Pathways - West Building,PTHW,5777 Birney Avenue,V6S 0A4,VBL10240,Complete,-123.233782,49.254396
 Housing,The Wesbrook - Townhouses,WSB2,"5838 Berton Avenue, Building 1",V6S 0A5,VBL10076,Complete,-123.234202,49.254725
 Housing,Eton - Highrise,ETN1,3487 Binning Road,,VBL10135,Complete,-123.230573,49.253427
+Parking,Test Parkade,TPAR,1234 Thunderbird Boulevard,V6T 1Z3,VBL90900,UnderConstruction,-123.242376,49.263523
 Academic,Plant Science Garage,PLS2,"2613 West Mall, Building 1",V6T 1Z4,VBL10432,Complete,-123.249256,49.256425
 Academic,Robert F. Osborne Centre - Unit 1,OSB1,"6108 Thunderbird Boulevard, Building 1",V6T 1Z3,VBL10251,Complete,-123.243723,49.260289
 Academic,Plant Science Field Station,PLS1,"2613 West Mall, Building 2",V6T 1Z4,VBL10433,Complete,-123.249415,49.256215
