@@ -230,1638 +230,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.246341005, 49.2659080089 ]
-			},
-			"properties" : {
-				"OBJECTID" : 38,
-				"POI_ID" : "POI-132",
-				"ADD_ID" : "VAD11031",
-				"PLACENAME" : "Family Practice Teaching Unit/Clinic",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "David Strangway",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "http://clinic.familymed.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-5431; Email: family.clinic@familymed.ubc.ca; Fax: (604) 822-4089",
-				"HOURS" : "M-F: 9am - 5pm",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{A122A0A9-0F78-48D6-ADDF-CE2B4138962A}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2428252059, 49.2659548899 ]
-			},
-			"properties" : {
-				"OBJECTID" : 39,
-				"POI_ID" : "POI-205",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Pacific Spirit Dental",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "medical",
-				"PHOTOURL" : null,
-				"URL" : "http://www.pacificspiritdental.ca/",
-				"CONTACT" : "Phone: (604) 224-2411",
-				"HOURS" : "M-F: 8am - 5pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{CDB9BF92-DF4A-445E-BB76-D877C99F7185}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2578362235, 49.2683703277 ]
-			},
-			"properties" : {
-				"OBJECTID" : 43,
-				"POI_ID" : "POI-51",
-				"ADD_ID" : "VAD11083",
-				"PLACENAME" : "Graduate Student Society",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Thea Koerner House",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "https://gss.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-3203; Email: info@gss.ubc.ca",
-				"HOURS" : "M-F: 9am - 5pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{5FCB3108-ED75-4F8B-BA78-521447673A71}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2554541791, 49.2642301714 ]
-			},
-			"properties" : {
-				"OBJECTID" : 45,
-				"POI_ID" : "POI-305",
-				"ADD_ID" : "VAD10210",
-				"PLACENAME" : "Ponderosa Commons Residence Front Desk",
-				"PLACENAME2" : "Front Desk",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Ponderosa Commons",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "housing_student",
-				"PHOTOURL" : null,
-				"URL" : "http://vancouver.housing.ubc.ca/residences/ponderosa-commons/",
-				"CONTACT" : "Phone: (604) 822-2708; Email: yearround@housing.ubc.ca",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Anchor",
-				"HTML" : null,
-				"GLOBALID" : "{DA2E8B87-E876-4A3B-AB9E-18C8967F8B90}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2348124103, 49.2617299817 ]
-			},
-			"properties" : {
-				"OBJECTID" : 46,
-				"POI_ID" : "POI-381",
-				"ADD_ID" : "VAD10138",
-				"PLACENAME" : "Kids Club Child Care",
-				"PLACENAME2" : "Kids Club",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Kids Club",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "child_care",
-				"PHOTOURL" : null,
-				"URL" : "https://childcare.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : "<p>Kids Club Child Care Services Centre</p>",
-				"GLOBALID" : "{DA9C668E-C6DB-410E-BD7A-1381D75CC9CC}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.255131415, 49.2666545082 ]
-			},
-			"properties" : {
-				"OBJECTID" : 47,
-				"POI_ID" : "POI-360",
-				"ADD_ID" : "VAD11146",
-				"PLACENAME" : "Humanities & Social Sciences",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Walter C. Koerner Library",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "libraries",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg",
-				"URL" : "http://www.library.ubc.ca/koerner",
-				"CONTACT" : "Information Desk: (604) 822-2725; Email: hssd.library@ubc.ca",
-				"HOURS" : "M-Th: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "Library",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{AD7BB9F3-24EC-48EF-9C42-BC0DBAA624AD}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.255131415, 49.2666545082 ]
-			},
-			"properties" : {
-				"OBJECTID" : 48,
-				"POI_ID" : "POI-361",
-				"ADD_ID" : "VAD11146",
-				"PLACENAME" : "Microforms & Journals ",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Walter C. Koerner Library",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "libraries",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg",
-				"URL" : "http://www.library.ubc.ca/koerner",
-				"CONTACT" : "Information Desk: (604) 822-2725; Email: hssd.library@ubc.ca",
-				"HOURS" : "M-Th: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "Library",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{BA568A75-8108-45E7-AF33-981297BD70D0}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2511838219, 49.2620064885 ]
-			},
-			"properties" : {
-				"OBJECTID" : 49,
-				"POI_ID" : "POI-289",
-				"ADD_ID" : "VAD10063",
-				"PLACENAME" : "Owl Child Care",
-				"PLACENAME2" : "Owl",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "The Barn",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "child_care",
-				"PHOTOURL" : null,
-				"URL" : "https://childcare.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : "<p>Owl at the Barn Child Care Services Centre</p>",
-				"GLOBALID" : "{A3B3F504-0D0C-4136-AA99-72F3DAB5A3B9}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2361512865, 49.2551060266 ]
-			},
-			"properties" : {
-				"OBJECTID" : 50,
-				"POI_ID" : "POI-88",
-				"ADD_ID" : "VAD10226",
-				"PLACENAME" : "Xerox Canada",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Granite Terrace Office",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.xeroxprintservicesubc.ca/",
-				"CONTACT" : "Phone: (604) 221-4244; Email: dms@xerox.com",
-				"HOURS" : "M-F: 7:30am - 5pm",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{B9314A24-A157-4C3A-A81E-C57F1BCEFF80}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2564072856, 49.2709220595 ]
-			},
-			"properties" : {
-				"OBJECTID" : 51,
-				"POI_ID" : "POI-78",
-				"ADD_ID" : "VAD10127",
-				"PLACENAME" : "Green College Front Desk",
-				"PLACENAME2" : "Front Desk",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Green College",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "housing_student",
-				"PHOTOURL" : null,
-				"URL" : "http://www.greencollege.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-8660; Email: gc.reception@ubc.ca; Fax: (604) 822-8742",
-				"HOURS" : "M-F: 9am - 12pm & 1pm - 4pm",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Anchor",
-				"HTML" : null,
-				"GLOBALID" : "{8059EC2C-EE73-4478-8CF1-02458425F86E}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2509323543, 49.260071912 ]
-			},
-			"properties" : {
-				"OBJECTID" : 52,
-				"POI_ID" : "POI-79",
-				"ADD_ID" : "VAD10103",
-				"PLACENAME" : "Orchard Commons Residence Front Desk",
-				"PLACENAME2" : "Front Desk",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Orchard Commons",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "housing_student",
-				"PHOTOURL" : null,
-				"URL" : "http://vancouver.housing.ubc.ca/residences/orchard-commons/",
-				"CONTACT" : "Email: information@housing.ubc.ca",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{DEEA5DB0-266B-40C2-BDCA-AFBCB2484959}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2501393821, 49.2565376933 ]
-			},
-			"properties" : {
-				"OBJECTID" : 56,
-				"POI_ID" : "POI-282",
-				"ADD_ID" : "VAD11093",
-				"PLACENAME" : "Totem Field",
-				"PLACENAME2" : "Totem",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden-l",
-				"SERVICE_TYPE" : "field",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{8E001D8B-646E-4C2B-BBD4-128D952626A4}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2398727969, 49.2623549988 ]
-			},
-			"properties" : {
-				"OBJECTID" : 58,
-				"POI_ID" : "POI-159",
-				"ADD_ID" : "VAD10040",
-				"PLACENAME" : "East Campus Park",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{727712D5-E121-41E1-8DEE-C5E59E93DDDC}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2430715866, 49.2552142182 ]
-			},
-			"properties" : {
-				"OBJECTID" : 60,
-				"POI_ID" : "POI-285",
-				"ADD_ID" : "VAD11092",
-				"PLACENAME" : "Whit Matthews Field",
-				"PLACENAME2" : "Whit Matthews",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "field",
-				"SERVICE_TYPE" : "field",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Athletics",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{25D0C742-DC51-4DCE-8D13-5A0C9E4C5AE8}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2468618545, 49.2566776454 ]
-			},
-			"properties" : {
-				"OBJECTID" : 61,
-				"POI_ID" : "POI-267",
-				"ADD_ID" : "VAD10116",
-				"PLACENAME" : "Rhododendron Wood",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden-l",
-				"SERVICE_TYPE" : "wood",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{D4180CE1-50C8-4626-B8FE-34B754855D53}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2561663781, 49.268883607 ]
-			},
-			"properties" : {
-				"OBJECTID" : 62,
-				"POI_ID" : "POI-243",
-				"ADD_ID" : "VAD10409",
-				"PLACENAME" : "Flag Pole Plaza",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "plaza",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{B9A69572-38BE-44F9-857A-061B3CC52380}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2452486258, 49.2667118142 ]
-			},
-			"properties" : {
-				"OBJECTID" : 63,
-				"POI_ID" : "POI-155",
-				"ADD_ID" : "VAD10562",
-				"PLACENAME" : "Lutheran Campus Centre",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Lutheran Campus Centre",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "worship",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "Phone: (604) 224-1614",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{E517453C-07E6-4B2B-AF6E-277F23594CC7}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.244417588, 49.2496105919 ]
-			},
-			"properties" : {
-				"OBJECTID" : 64,
-				"POI_ID" : "POI-186",
-				"ADD_ID" : "VAD11122",
-				"PLACENAME" : "Greenheart TreeWalk",
-				"PLACENAME2" : "TreeWalk",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Botanical Garden",
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/099.jpg",
-				"URL" : "http://www.botanicalgarden.ubc.ca/canopy-walkway",
-				"CONTACT" : "Phone: (604) 822-4208; Email: info@greenheart.ca",
-				"HOURS" : "Daily: 10am - 4pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{669772DF-F9D4-4DFC-9FBF-F03369F2201B}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2522568125, 49.2715809711 ]
-			},
-			"properties" : {
-				"OBJECTID" : 65,
-				"POI_ID" : "POI-165",
-				"ADD_ID" : "VAD10706",
-				"PLACENAME" : "Epiphany Chapel",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Epiphany Chapel",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "worship",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "Phone: (604) 822-9815",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{8F3B4519-0EEE-4881-AB79-41034A2AA5F6}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2432112207, 49.2657125017 ]
-			},
-			"properties" : {
-				"OBJECTID" : 1,
-				"POI_ID" : "POI-225",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Red Burrito",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.redburrito.ca/",
-				"CONTACT" : "Phone: (604) 569-1313",
-				"HOURS" : "M-F: 11am - 9:30pm; Sat/Sun: 11am - 9pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{289824F6-BEEC-4E88-997E-FC23B51ED4F8}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2431761784, 49.2658699179 ]
-			},
-			"properties" : {
-				"OBJECTID" : 2,
-				"POI_ID" : "POI-226",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Pearl Fever Tea House ",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.pearlfever.ca/",
-				"CONTACT" : "Phone: (604) 221-9882",
-				"HOURS" : "Daily: 11am - 11pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{82405A7A-0F07-4F8C-B8A6-CCAA0F9C2796}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2354111823, 49.2549525339 ]
-			},
-			"properties" : {
-				"OBJECTID" : 17,
-				"POI_ID" : "POI-244",
-				"ADD_ID" : "VAD10064",
-				"PLACENAME" : "Running Room",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Tapestry",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "retail",
-				"PHOTOURL" : null,
-				"URL" : "http://www.runningroom.com/hm/inside.php?id=4442",
-				"CONTACT" : "Phone (604) 221-1685",
-				"HOURS" : "M-F: 9.30am - 9pm; Sat: 9.30am - 6pm; Sun: 8.30am - 5pm",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{5F62866A-5FD3-4BC1-8547-F939AA19862D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2458113463, 49.266108416 ]
-			},
-			"properties" : {
-				"OBJECTID" : 18,
-				"POI_ID" : "POI-245",
-				"ADD_ID" : "VAD10562",
-				"PLACENAME" : "Shoppers Drug Mart",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Strangway",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "pharmacy",
-				"PHOTOURL" : "http://farm2.staticflickr.com/1393/801765508_a8ee553937.jpg",
-				"URL" : "www.shoppersdrugmart.ca/",
-				"CONTACT" : "(604) 228-1533",
-				"HOURS" : "Daily: 8am - 10pm",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{5F3342A8-09C0-4B0C-82EC-2E19CA9D141F}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2385413459, 49.2590202878 ]
-			},
-			"properties" : {
-				"OBJECTID" : 19,
-				"POI_ID" : "POI-246",
-				"ADD_ID" : "VAD10724",
-				"PLACENAME" : "Royal Canadian Mounted Police",
-				"PLACENAME2" : "RCMP",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Public Safety",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : "http://ubyssey.ca/wp-content/uploads/2011/06/wpid-RCMP-office_20101003_Colin-Chia.jpg",
-				"URL" : "http://university.bc.rcmp-grc.gc.ca/",
-				"CONTACT" : "Non Emergency Phone: (604) 224-1322; Fax: (604) 224-4759",
-				"HOURS" : "M-F: 8am - 4pm",
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{3E6E652D-DAD3-4320-AC47-FE146500134C}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2382423992, 49.2586997059 ]
-			},
-			"properties" : {
-				"OBJECTID" : 20,
-				"POI_ID" : "POI-247",
-				"ADD_ID" : "VAD10725",
-				"PLACENAME" : "University Fire Hall #10",
-				"PLACENAME2" : "Fire",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Public Safety",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.vanffcpr.org/location/location.php?id=10",
-				"CONTACT" : "Non Emergency Line (604) 665-6000",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{C0D3FF44-5B5C-4A8D-8EB0-20B0DE650259}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2353744098, 49.2539875818 ]
-			},
-			"properties" : {
-				"OBJECTID" : 21,
-				"POI_ID" : "POI-248",
-				"ADD_ID" : "VAD10221",
-				"PLACENAME" : "Togo Sushi",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "MBA House",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.togosushi.ca/ubc.html",
-				"CONTACT" : "Phone: (604) 222-9288",
-				"HOURS" : "M-W: 10:30am - 8pm; Thurs-Fri: 10:30am - 9pm; Sat: 10:30am - 8pm; Sun: 11:30am -",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{F7D6F84D-E989-4212-B878-5824F7B4681B}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2496853145, 49.2666088785 ]
-			},
-			"properties" : {
-				"OBJECTID" : 22,
-				"POI_ID" : "POI-254",
-				"ADD_ID" : "VAD10616",
-				"PLACENAME" : "Merit Travel",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "AMS Nest",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://merittravel.ca",
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{F5B6D34A-79F3-4792-AFD5-7E8FE3CC0FBD}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.249823723, 49.2666113022 ]
-			},
-			"properties" : {
-				"OBJECTID" : 23,
-				"POI_ID" : "POI-255",
-				"ADD_ID" : "VAD10616",
-				"PLACENAME" : "i Campus Vision",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "AMS Nest",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "retail",
-				"PHOTOURL" : null,
-				"URL" : "https://www.campusvision.com/",
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{B7B657D5-272C-47E1-B563-99B2F39BFE44}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2496505763, 49.2665684292 ]
-			},
-			"properties" : {
-				"OBJECTID" : 24,
-				"POI_ID" : "POI-256",
-				"ADD_ID" : "VAD10616",
-				"PLACENAME" : "On the Fringe",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "AMS Nest",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.onthefringehairdesign.com/",
-				"CONTACT" : "Phone: (604) 221-0320; Email: otfubc@onthefringehairdesign.com",
-				"HOURS" : "M,T,F: 10am -6pm; Wed/Thurs: 10am - 8pm; Sat: 10am - 5pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{2FB8BB6E-9925-4DF4-B2CF-8EC230723B66}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2500313202, 49.2666639464 ]
-			},
-			"properties" : {
-				"OBJECTID" : 25,
-				"POI_ID" : "POI-257",
-				"ADD_ID" : "VAD10616",
-				"PLACENAME" : "Blooming Gift Shop",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "AMS Nest",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "retail",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "Phone: (778) 883-2464",
-				"HOURS" : "M-Thurs: 10:30am - 6:30pm; Fri: 10:30am - 6:00pm: Sat/Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{0738AF40-80B0-4F6B-955B-8C45ECF955D9}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2499176459, 49.2669874173 ]
-			},
-			"properties" : {
-				"OBJECTID" : 26,
-				"POI_ID" : "POI-258",
-				"ADD_ID" : "VAD10616",
-				"PLACENAME" : "Wireless Wave",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "AMS Nest",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "retail",
-				"PHOTOURL" : null,
-				"URL" : "http://www.wirelesswave.ca",
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{E76A7753-6047-4848-A5AB-E9AECB5FE9B1}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2436357601, 49.2662262431 ]
-			},
-			"properties" : {
-				"OBJECTID" : 91,
-				"POI_ID" : "POI-197",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Hannah and Samuel Flower Shop",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village Pharmacy",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.hsflowers.ca/",
-				"CONTACT" : "Phone: (604) 228-0113",
-				"HOURS" : "M-F: 9:30am - 6:30pm; Sat: 10am - 6pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{BCFD2C0A-F37C-4E19-AE77-2548C744EC5F}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.242749305, 49.2658502192 ]
-			},
-			"properties" : {
-				"OBJECTID" : 3,
-				"POI_ID" : "POI-227",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Starbucks",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.food.ubc.ca/place/starbucks/",
-				"CONTACT" : "Phone: (604) 221-0200",
-				"HOURS" : "M-F: 6am - 10:30pm; Sat/Sun: 7am - 10pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{F2A4C522-5B97-4C4F-BE74-C8B16750B0CF}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2536535038, 49.2699518555 ]
-			},
-			"properties" : {
-				"OBJECTID" : 4,
-				"POI_ID" : "POI-330",
-				"ADD_ID" : "VAD10490",
-				"PLACENAME" : "Law Cafe",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Allard Hall, Second floor",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.food.ubc.ca/place/law-cafe/",
-				"CONTACT" : "Phone: (604) 827-1524",
-				"HOURS" : "M-F: 7:30am - 7:30pm",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{956F1C39-BFB2-4019-96BD-556649DAFA3E}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2473153092, 49.2646661227 ]
-			},
-			"properties" : {
-				"OBJECTID" : 5,
-				"POI_ID" : "POI-331",
-				"ADD_ID" : "VAD10479",
-				"PLACENAME" : "IRC Snack Bar",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Woodward - IRC",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.food.ubc.ca/place/irc-snackbar/",
-				"CONTACT" : " Phone: (604) 822-4291",
-				"HOURS" : "M-F: 7:30am - 3pm; Sat/Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{38EFB5E5-04F5-4278-A012-CDFC7CEA18E1}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2527653958, 49.2672017005 ]
-			},
-			"properties" : {
-				"OBJECTID" : 6,
-				"POI_ID" : "POI-332",
-				"ADD_ID" : "VAD10023",
-				"PLACENAME" : "Ike's Cafe",
-				"PLACENAME2" : "Ike's",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Irving K. Barber",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.food.ubc.ca/place/ikes/",
-				"CONTACT" : "Phone: (604) 827-3926",
-				"HOURS" : "M,Thurs,F: 6:30am - 4pm; Tues/Wed: 6:30am - 7:30pm; Sat/Sun: 6:30am - 9:30am",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{62B02A23-0702-4BCE-9BE7-5B4E46438375}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.250735365, 49.2700784044 ]
-			},
-			"properties" : {
-				"OBJECTID" : 7,
-				"POI_ID" : "POI-333",
-				"ADD_ID" : "VAD10474",
-				"PLACENAME" : "Great Dane Coffee",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Westpoint",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.greatdanecoffee.com/",
-				"CONTACT" : "Phone: (604) 558-2190; Email: andrew@greatdanecoffee.com",
-				"HOURS" : "M-F: 7:30am - 5pm; Sat/Sun: Closed",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{37DC4E18-4397-4631-9ED9-C81A9FBAD09D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2430474563, 49.2624998581 ]
-			},
-			"properties" : {
-				"OBJECTID" : 8,
-				"POI_ID" : "POI-334",
-				"ADD_ID" : "VAD10106",
-				"PLACENAME" : "Daily Dose Cafe",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Pharmaceutical Sciences Building",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.food.ubc.ca/place/daily-dose/",
-				"CONTACT" : "Phone: (604) 827-1521",
-				"HOURS" : "M-F: 7:30am - 3pm",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{53D6ACB2-99C5-43C2-89B6-9931288BBB82}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2480477706, 49.2588539262 ]
-			},
-			"properties" : {
-				"OBJECTID" : 9,
-				"POI_ID" : "POI-340",
-				"ADD_ID" : "VAD10100",
-				"PLACENAME" : "Bean Around The World",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Old Barn Community Centre",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "https://batwcoffee.com/pages/bean-around-the-world-ubc",
-				"CONTACT" : "Phone: (604) 568-8893",
-				"HOURS" : "M-F: 7am - 7pm; Sat/Sun: 8am - 6pm",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{6B7C2FFD-5573-4A1B-A3AD-406A04374D91}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2421242375, 49.2660902988 ]
-			},
-			"properties" : {
-				"OBJECTID" : 11,
-				"POI_ID" : "POI-228",
-				"ADD_ID" : "VAD10891",
-				"PLACENAME" : "Pita Pit",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://pitapit.ca/",
-				"CONTACT" : "Phone: (604) 221-7488; Email: info@pitapit.com; Fax: (604) 221-7487",
-				"HOURS" : "M-Thurs: 10:30am - 1:00am; Fri-Sat: 10:30am - 2:00am; Sun: 11am - 1am",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{8F03320C-B319-4B50-9D27-12288651806B}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2432707732, 49.2657986098 ]
-			},
-			"properties" : {
-				"OBJECTID" : 14,
-				"POI_ID" : "POI-233",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Vera's Burger Shack",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.verasburgershack.com/",
-				"CONTACT" : "Phone: (604) 221-8372",
-				"HOURS" : "Daily: 10:30am - 10:30pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{8258A070-4A57-41EB-84B9-A7C6DD54416C}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2434678573, 49.2660373153 ]
-			},
-			"properties" : {
-				"OBJECTID" : 15,
-				"POI_ID" : "POI-234",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Oven Fresh Bakery",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "Phone: (604) 222-8886",
-				"HOURS" : "M-F: 8am - 7pm; Sat: 9am - 6pm; Sun: 9:30am - 6pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{7A6B3B77-CE3E-4BDE-9CB6-3606F1B089E3}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210716"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2434448152, 49.2660097558 ]
-			},
-			"properties" : {
-				"OBJECTID" : 16,
-				"POI_ID" : "POI-235",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Maurya Express",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "https://mauryaexpress.ca/",
-				"CONTACT" : "Phone: (604) 225-2288",
-				"HOURS" : "Daily: 11am - 9pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{BC26F0EF-57F7-4063-835D-1D616F18FB84}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210717"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2358771336, 49.2544657881 ]
-			},
-			"properties" : {
-				"OBJECTID" : 27,
-				"POI_ID" : "POI-259",
-				"ADD_ID" : "VAD11068",
-				"PLACENAME" : "More Bikes",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Mews",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "retail",
-				"PHOTOURL" : null,
-				"URL" : "http://www.morebikes.ca/",
-				"CONTACT" : "Phone: (604) 558-1528",
-				"HOURS" : "M-Sat: 10am - 6pm; Sun: 11am - 5pm",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{0E30F013-7F82-4BDA-BF20-F96FEF6EE2D6}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210712"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2352550344, 49.2537127922 ]
-			},
-			"properties" : {
-				"OBJECTID" : 28,
-				"POI_ID" : "POI-260",
-				"ADD_ID" : "VAD10197",
-				"PLACENAME" : "Mozart School of Music",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "MBA House",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.msmvan.com/",
-				"CONTACT" : "Phone: (604) 345-9680",
-				"HOURS" : "For Hours Please See: http://msmvan.com/classes/schedule/",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{0B22B875-45EF-4332-AC4E-2EF9F4BF3F0F}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.244937955, 49.2597540266 ]
-			},
-			"properties" : {
-				"OBJECTID" : 29,
-				"POI_ID" : "POI-263",
-				"ADD_ID" : "VAD10147",
-				"PLACENAME" : "UBC Tennis Centre",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "UBC Tennis Centre",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "athletics",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/432.jpg",
-				"URL" : "http://www.recreation.ubc.ca/tennis/",
-				"CONTACT" : "Phone: (604) 822-2505; Email: tennis.centre@ubc.ca",
-				"HOURS" : "M-F: 8am - 10pm; Sat/Sun: 8am - 10pm",
-				"LICENSE" : "N",
-				"MANAGE" : "Athletics",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{E53164C4-BA70-44E1-934E-99BBDDAEBE3C}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2483943838, 49.2590135556 ]
-			},
-			"properties" : {
-				"OBJECTID" : 30,
-				"POI_ID" : "POI-265",
-				"ADD_ID" : "VAD10100",
-				"PLACENAME" : "Old Barn Community Centre Exercise Room",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Old Barn Community Centre",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "athletics",
-				"PHOTOURL" : "http://www.oldbarn.ca/wp-content/uploads/Gym5858.jpg",
-				"URL" : "https://wearecommunityvan.ca/",
-				"CONTACT" : "reception@oldbarn.ca</br>Phone: (604) 827-4469",
-				"HOURS" : "Daily: 7am - 7pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{A90505AF-E471-4E96-944A-B0190517B9C1}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2454639409, 49.2656067917 ]
-			},
-			"properties" : {
-				"OBJECTID" : 32,
-				"POI_ID" : "POI-42",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Dental Speciality Clinics",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "J.B. Macdonald Building",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{E9878400-D207-4B0C-AC30-7FB20639364E}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2457176854, 49.2639844279 ]
-			},
-			"properties" : {
-				"OBJECTID" : 34,
-				"POI_ID" : "POI-48",
-				"ADD_ID" : "VAD11126",
-				"PLACENAME" : "Student Health Services",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "UBC Hospital - Koerner Pavilion",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "https://students.ubc.ca/health-wellness/student-health-service",
-				"CONTACT" : "Phone: (604) 822-7011; Email: student.health@ubc.ca; Fax: 1 855 822-7212",
-				"HOURS" : "Mon, Tues, Wed, Fri: 8am - 4pm; Thurs: 9am - 4pm; Sat/Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{1CC900B4-A8A5-4D7B-BA97-4D7C24CE04FA}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2352938927, 49.2547603559 ]
-			},
-			"properties" : {
-				"OBJECTID" : 36,
-				"POI_ID" : "POI-96",
-				"ADD_ID" : "VAD10069",
-				"PLACENAME" : "Wesbrook Village Dental Ctr",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Tapestry",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.wesbrookvillagedental.com/",
-				"CONTACT" : "Phone: (604) 221-7600; Email: info@wesbrookvillagedental.com",
-				"HOURS" : "Mon, Tues, Thurs: 8:30am - 5pm; Wed: 9am - 6pm; Fri: 7:30am - 2pm; Sat/Sun: Clos",
-				"LICENSE" : "Y",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{495F81CE-F541-42DC-BE3C-2BA725C82928}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2578774144, 49.2684193397 ]
-			},
-			"properties" : {
-				"OBJECTID" : 37,
-				"POI_ID" : "POI-120",
-				"ADD_ID" : "VAD11083",
-				"PLACENAME" : "Graduate and Postdoctoral Studies",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Thea Koerner House",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "faculty/school",
-				"PHOTOURL" : null,
-				"URL" : "https://www.grad.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-2848; Fax: (604) 822-5802",
-				"HOURS" : "M-F: 8:30am - 4pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{13081F70-7F1E-4902-A996-86A368C29BA0}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2448225185, 49.2622520207 ]
 			},
 			"properties" : {
@@ -2342,6 +710,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2495529047, 49.2664500393 ]
+			},
+			"properties" : {
+				"OBJECTID" : 262,
+				"POI_ID" : "POI-280",
+				"ADD_ID" : "VAD10616",
+				"PLACENAME" : "The Aviary",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "AMS Nest, Level 2",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.facebook.com/aviaryUBC",
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "AMS",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{026CC965-90D4-4894-B4EA-EF81C89BCE1E}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210725"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2501049002, 49.2674338825 ]
 			},
 			"properties" : {
@@ -2428,38 +828,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{08C9BB9A-33B0-41EA-9D62-AA050F035C7D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210725"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2495529047, 49.2664500393 ]
-			},
-			"properties" : {
-				"OBJECTID" : 262,
-				"POI_ID" : "POI-280",
-				"ADD_ID" : "VAD10616",
-				"PLACENAME" : "The Aviary",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "AMS Nest, Level 2",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.facebook.com/aviaryUBC",
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "AMS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{026CC965-90D4-4894-B4EA-EF81C89BCE1E}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -2822,6 +1190,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2505368249, 49.2653012542 ]
+			},
+			"properties" : {
+				"OBJECTID" : 116,
+				"POI_ID" : "POI-82",
+				"ADD_ID" : "VAD11103",
+				"PLACENAME" : "UBC Bookstore",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Bookstore",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "retail",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/081.jpg",
+				"URL" : "http://www.bookstore.ubc.ca/home",
+				"CONTACT" : "Phone: 1 800 661-3889",
+				"HOURS" : "M-F: 9.30am - 5.30pm; Sat: 11:00am - 5pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{4C6A9126-866C-47AF-A09E-DCC2F7E2EDEE}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210720"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2484577787, 49.2602714641 ]
 			},
 			"properties" : {
@@ -2876,38 +1276,6 @@
 				"LEED" : "Retail",
 				"HTML" : null,
 				"GLOBALID" : "{B409A3D5-C316-4060-ACE5-F86EC20D04E1}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210720"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2505368249, 49.2653012542 ]
-			},
-			"properties" : {
-				"OBJECTID" : 116,
-				"POI_ID" : "POI-82",
-				"ADD_ID" : "VAD11103",
-				"PLACENAME" : "UBC Bookstore",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Bookstore",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "retail",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/081.jpg",
-				"URL" : "http://www.bookstore.ubc.ca/home",
-				"CONTACT" : "Phone: 1 800 661-3889",
-				"HOURS" : "M-F: 9.30am - 5.30pm; Sat: 11:00am - 5pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{4C6A9126-866C-47AF-A09E-DCC2F7E2EDEE}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -3142,6 +1510,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2506212643, 49.2650470543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 128,
+				"POI_ID" : "POI-14",
+				"ADD_ID" : "VAD10831",
+				"PLACENAME" : "Building Access (Key Desk)",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "UBC Bookstore",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "https://parking.ubc.ca/building-access-0",
+				"CONTACT" : "Phone: (604) 822-6786; Fax: (604) 827-2509; Email: parking.support@ubc.ca",
+				"HOURS" : "M-F: 9:30am-5:30pm (Wed until 7pm); Sat: 11am-5pm; 3rd Thurs/month: 11am-5:30pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{7C2024FF-4109-4C88-A844-3E6C1789886A}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210721"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2531954273, 49.2623696441 ]
 			},
 			"properties" : {
@@ -3228,38 +1628,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{E68CC851-FC4B-4396-B49B-E391952B0C94}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210721"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2506212643, 49.2650470543 ]
-			},
-			"properties" : {
-				"OBJECTID" : 128,
-				"POI_ID" : "POI-14",
-				"ADD_ID" : "VAD10831",
-				"PLACENAME" : "Building Access (Key Desk)",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "UBC Bookstore",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "https://parking.ubc.ca/building-access-0",
-				"CONTACT" : "Phone: (604) 822-6786; Fax: (604) 827-2509; Email: parking.support@ubc.ca",
-				"HOURS" : "M-F: 9:30am-5:30pm (Wed until 7pm); Sat: 11am-5pm; 3rd Thurs/month: 11am-5:30pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{7C2024FF-4109-4C88-A844-3E6C1789886A}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -4422,32 +2790,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.256322466, 49.269158937 ]
+				"coordinates" : [ -123.25428278, 49.2657796399 ]
 			},
 			"properties" : {
-				"OBJECTID" : 190,
-				"POI_ID" : "POI-152",
-				"ADD_ID" : "VAD10409",
-				"PLACENAME" : "Rose Garden",
+				"OBJECTID" : 255,
+				"POI_ID" : "POI-117",
+				"ADD_ID" : "VAD11030",
+				"PLACENAME" : "TBD",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Rose Garden Parkade",
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : "http://www.maps.ubc.ca/PROD/images/photos/N014_a.jpg",
+				"BL_NAME" : "David Lam",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
 				"URL" : null,
 				"CONTACT" : "<Null>",
 				"HOURS" : null,
 				"LICENSE" : "N",
-				"MANAGE" : "UBC",
+				"MANAGE" : "SHHS",
 				"STATUS" : "Current",
-				"LEED" : "Civic",
+				"LEED" : "Services",
 				"HTML" : null,
-				"GLOBALID" : "{3B66D902-61EF-4DD3-A766-8F619C86BE34}",
+				"GLOBALID" : "{323242F3-FC10-48A8-A362-32DE6EEBEA01}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730232522"
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210732"
 			}
 		},
 		{
@@ -4540,38 +2908,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{02DA7E22-B492-4785-96BB-04C23EF2144F}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210732"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.25428278, 49.2657796399 ]
-			},
-			"properties" : {
-				"OBJECTID" : 255,
-				"POI_ID" : "POI-117",
-				"ADD_ID" : "VAD11030",
-				"PLACENAME" : "TBD",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "David Lam",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "<Null>",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{323242F3-FC10-48A8-A362-32DE6EEBEA01}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -4838,6 +3174,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2520223629, 49.2629998655 ]
+			},
+			"properties" : {
+				"OBJECTID" : 310,
+				"POI_ID" : "POI-126",
+				"ADD_ID" : "VAD11040",
+				"PLACENAME" : "Science, Faculty of",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Earth Sciences Building",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "faculty/school",
+				"PHOTOURL" : null,
+				"URL" : "https://science.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-3820; Email: advising@science.ubc.ca; Fax: (604) 822-4282",
+				"HOURS" : "M-F: 9:30am - 4pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{FAAF0F3D-CED3-47F7-9513-4E86521533D6}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210733"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2567587375, 49.2614406043 ]
 			},
 			"properties" : {
@@ -4924,38 +3292,6 @@
 				"LEED" : "Civic",
 				"HTML" : null,
 				"GLOBALID" : "{B9216E90-CABC-4B86-AD74-8F3DB7DB89A3}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210733"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2520223629, 49.2629998655 ]
-			},
-			"properties" : {
-				"OBJECTID" : 310,
-				"POI_ID" : "POI-126",
-				"ADD_ID" : "VAD11040",
-				"PLACENAME" : "Science, Faculty of",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Earth Sciences Building",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "faculty/school",
-				"PHOTOURL" : null,
-				"URL" : "https://science.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-3820; Email: advising@science.ubc.ca; Fax: (604) 822-4282",
-				"HOURS" : "M-F: 9:30am - 4pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{FAAF0F3D-CED3-47F7-9513-4E86521533D6}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -5062,38 +3398,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.254611172, 49.265777822 ]
-			},
-			"properties" : {
-				"OBJECTID" : 173,
-				"POI_ID" : "POI-17",
-				"ADD_ID" : "VAD10827",
-				"PLACENAME" : "David Lam Management Research Library",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "David Lam",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "libraries",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/490.jpg",
-				"URL" : "http://lam.library.ubc.ca/",
-				"CONTACT" : "Information Desk: (604) 822-9400",
-				"HOURS" : "M-F: 9am - 5pm; Sat/Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "Library",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{68466833-EF22-45F5-9364-1B85BF614879}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210726"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2361590728, 49.2550267942 ]
 			},
 			"properties" : {
@@ -5116,6 +3420,38 @@
 				"LEED" : "Civic",
 				"HTML" : null,
 				"GLOBALID" : "{F5FD1EEF-7400-49CD-81FA-B4CD5FE716AD}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210726"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.254611172, 49.265777822 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173,
+				"POI_ID" : "POI-17",
+				"ADD_ID" : "VAD10827",
+				"PLACENAME" : "David Lam Management Research Library",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "David Lam",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "libraries",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/490.jpg",
+				"URL" : "http://lam.library.ubc.ca/",
+				"CONTACT" : "Information Desk: (604) 822-9400",
+				"HOURS" : "M-F: 9am - 5pm; Sat/Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "Library",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{68466833-EF22-45F5-9364-1B85BF614879}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -5318,6 +3654,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2444712561, 49.2608421478 ]
+			},
+			"properties" : {
+				"OBJECTID" : 185,
+				"POI_ID" : "POI-237",
+				"ADD_ID" : "VAD10029",
+				"PLACENAME" : "UBC Skate Park",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "park",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{FD2D86A3-885F-493E-9493-38EF39246E83}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210727"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2359524157, 49.254184699 ]
 			},
 			"properties" : {
@@ -5404,38 +3772,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{DD7ECD96-7E73-4243-95D5-3A020662862D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210727"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2444712561, 49.2608421478 ]
-			},
-			"properties" : {
-				"OBJECTID" : 185,
-				"POI_ID" : "POI-237",
-				"ADD_ID" : "VAD10029",
-				"PLACENAME" : "UBC Skate Park",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{FD2D86A3-885F-493E-9493-38EF39246E83}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -5638,6 +3974,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2374311025, 49.2537148523 ]
+			},
+			"properties" : {
+				"OBJECTID" : 195,
+				"POI_ID" : "POI-192",
+				"ADD_ID" : "VAD10781",
+				"PLACENAME" : "Brockhouse Park",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "park",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{0A709BA6-8801-4ED6-B9E4-B7ADFEBC6573}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210728"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2353275576, 49.2541852367 ]
 			},
 			"properties" : {
@@ -5734,6 +4102,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2326529713, 49.2536406663 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202,
+				"POI_ID" : "POI-194",
+				"ADD_ID" : "VAD10149",
+				"PLACENAME" : "Michael Smith Park",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "park",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{9C502DE4-AF35-4D4E-AAC9-F2E3E8BB6977}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210728"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2410737187, 49.2566382748 ]
 			},
 			"properties" : {
@@ -5820,38 +4220,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{DD3CC4A7-C039-4516-BCAE-39B78ACA854D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210728"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2326529713, 49.2536406663 ]
-			},
-			"properties" : {
-				"OBJECTID" : 202,
-				"POI_ID" : "POI-194",
-				"ADD_ID" : "VAD10149",
-				"PLACENAME" : "Michael Smith Park",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{9C502DE4-AF35-4D4E-AAC9-F2E3E8BB6977}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -6310,6 +4678,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2527801804, 49.267556281 ]
+			},
+			"properties" : {
+				"OBJECTID" : 224,
+				"POI_ID" : "POI-316",
+				"ADD_ID" : "VAD10023",
+				"PLACENAME" : "The Chung Collection Exhibition",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Irving K. Barber",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "attractions",
+				"PHOTOURL" : null,
+				"URL" : "http://chung.library.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-2521; Email: chung.collection@ubc.ca",
+				"HOURS" : "M-F: 10am - 4pm; Sat: 12pm - 5pm (Sept - Apr)",
+				"LICENSE" : "N",
+				"MANAGE" : "Library",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{29CFE08B-954B-49AE-BB36-9213615AA945}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210729"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2525587001, 49.2690342815 ]
 			},
 			"properties" : {
@@ -6396,38 +4796,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{E3F475BD-F6D3-4D9E-8192-5ECA9063DB72}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210729"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2527801804, 49.267556281 ]
-			},
-			"properties" : {
-				"OBJECTID" : 224,
-				"POI_ID" : "POI-316",
-				"ADD_ID" : "VAD10023",
-				"PLACENAME" : "The Chung Collection Exhibition",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Irving K. Barber",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "attractions",
-				"PHOTOURL" : null,
-				"URL" : "http://chung.library.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-2521; Email: chung.collection@ubc.ca",
-				"HOURS" : "M-F: 10am - 4pm; Sat: 12pm - 5pm (Sept - Apr)",
-				"LICENSE" : "N",
-				"MANAGE" : "Library",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{29CFE08B-954B-49AE-BB36-9213615AA945}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -6566,32 +4934,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2596814475, 49.2663858906 ]
+				"coordinates" : [ -123.2434969126, 49.2664647767 ]
 			},
 			"properties" : {
-				"OBJECTID" : 86,
-				"POI_ID" : "POI-176",
-				"ADD_ID" : "VAD10128",
-				"PLACENAME" : "Nitobe Memorial Garden",
-				"PLACENAME2" : "Nitobe Garden",
+				"OBJECTID" : 12,
+				"POI_ID" : "POI-230",
+				"ADD_ID" : null,
+				"PLACENAME" : "Pizza Garden",
+				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Japanese Tea House - Nitobe Garden",
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/476.jpg",
-				"URL" : "http://www.botanicalgarden.ubc.ca/nitobe",
-				"CONTACT" : "Phone: (604) 822-6038; Email: garden.nitobe@ubc.ca",
-				"HOURS" : "March 13 - May 31: Daily 11am - 4:30am; June 1 - Sept 16: Sun-Wed 11am - 4:30pm,",
+				"BL_NAME" : "University Village Pharmacy",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.pizzagarden.ca/",
+				"CONTACT" : null,
+				"HOURS" : null,
 				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
 				"HTML" : null,
-				"GLOBALID" : "{A1A19D09-2848-44D9-A9FA-33CDE1564FA4}",
+				"GLOBALID" : "{A280DB19-D7B2-41A8-8144-912C30EDDE08}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730231158"
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181320"
 			}
 		},
 		{
@@ -6688,38 +5056,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
 				"LAST_EDITED_DATE" : "20200708210731"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2434969126, 49.2664647767 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12,
-				"POI_ID" : "POI-230",
-				"ADD_ID" : null,
-				"PLACENAME" : "Pizza Garden",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village Pharmacy",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "cafe",
-				"PHOTOURL" : null,
-				"URL" : "http://www.pizzagarden.ca/",
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{A280DB19-D7B2-41A8-8144-912C30EDDE08}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181320"
 			}
 		},
 		{
@@ -6886,32 +5222,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2560894141, 49.2664966152 ]
+				"coordinates" : [ -123.2478491479, 49.2667016685 ]
 			},
 			"properties" : {
-				"OBJECTID" : 437,
-				"POI_ID" : null,
-				"ADD_ID" : null,
-				"PLACENAME" : "First Tree Plaza",
+				"OBJECTID" : 323,
+				"POI_ID" : "POI-45",
+				"ADD_ID" : "VAD11052",
+				"PLACENAME" : "Kinesiology, School of",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
+				"BL_NAME" : "War Memorial Gymnasium",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "faculty/school",
 				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
+				"URL" : "http://kin.educ.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-9192; Email: ubc.kin@ubc.ca; Fax: (604) 822-6842",
 				"HOURS" : null,
 				"LICENSE" : "N",
 				"MANAGE" : "UBC",
 				"STATUS" : "Current",
 				"LEED" : "Civic",
 				"HTML" : null,
-				"GLOBALID" : "{50525351-96F7-48DD-AD64-5224D26934CE}",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200730232257",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730232357"
+				"GLOBALID" : "{26A582A1-AD64-4162-AF5E-237F70428690}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210735"
 			}
 		},
 		{
@@ -7004,38 +5340,6 @@
 				"LEED" : "Civic",
 				"HTML" : null,
 				"GLOBALID" : "{2E36930C-8F95-4C07-8313-3B89F11A61B8}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210735"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2478491479, 49.2667016685 ]
-			},
-			"properties" : {
-				"OBJECTID" : 323,
-				"POI_ID" : "POI-45",
-				"ADD_ID" : "VAD11052",
-				"PLACENAME" : "Kinesiology, School of",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "War Memorial Gymnasium",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "faculty/school",
-				"PHOTOURL" : null,
-				"URL" : "http://kin.educ.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-9192; Email: ubc.kin@ubc.ca; Fax: (604) 822-6842",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{26A582A1-AD64-4162-AF5E-237F70428690}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -7334,6 +5638,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2550982752, 49.2644786905 ]
+			},
+			"properties" : {
+				"OBJECTID" : 301,
+				"POI_ID" : "POI-148",
+				"ADD_ID" : "VAD10210",
+				"PLACENAME" : "Social Work, School of",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Jack Bell Building",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "faculty/school",
+				"PHOTOURL" : null,
+				"URL" : "http://socialwork.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-2255; Fax: (604) 822-8656",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{FFA20459-9444-4D57-8C27-32CD5F2C6E3D}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210740"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.24931566, 49.2594401954 ]
 			},
 			"properties" : {
@@ -7420,38 +5756,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{66970B61-FBF2-4E68-8649-A78A70791729}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210740"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2550982752, 49.2644786905 ]
-			},
-			"properties" : {
-				"OBJECTID" : 301,
-				"POI_ID" : "POI-148",
-				"ADD_ID" : "VAD10210",
-				"PLACENAME" : "Social Work, School of",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Jack Bell Building",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "faculty/school",
-				"PHOTOURL" : null,
-				"URL" : "http://socialwork.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-2255; Fax: (604) 822-8656",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{FFA20459-9444-4D57-8C27-32CD5F2C6E3D}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -7622,6 +5926,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2528121004, 49.2578796099 ]
+			},
+			"properties" : {
+				"OBJECTID" : 388,
+				"POI_ID" : "POI-309",
+				"ADD_ID" : "VAD11095",
+				"PLACENAME" : "Totem Park Dining Room",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Totem Park Residence",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "restaurant",
+				"PHOTOURL" : null,
+				"URL" : "http://www.food.ubc.ca/place/totem-park-dining-room/",
+				"CONTACT" : "Phone: (604) 822-6828",
+				"HOURS" : "http://www.food.ubc.ca/place/totem-park-dining-room/",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{4FD92E04-74DF-426F-BFF9-BF46912ACEF3}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210741"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2568117211, 49.2688506067 ]
 			},
 			"properties" : {
@@ -7676,38 +6012,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{0EBF457A-9705-47D1-976A-53C528BA0C34}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210741"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2528121004, 49.2578796099 ]
-			},
-			"properties" : {
-				"OBJECTID" : 388,
-				"POI_ID" : "POI-309",
-				"ADD_ID" : "VAD11095",
-				"PLACENAME" : "Totem Park Dining Room",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Totem Park Residence",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "restaurant",
-				"PHOTOURL" : null,
-				"URL" : "http://www.food.ubc.ca/place/totem-park-dining-room/",
-				"CONTACT" : "Phone: (604) 822-6828",
-				"HOURS" : "http://www.food.ubc.ca/place/totem-park-dining-room/",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{4FD92E04-74DF-426F-BFF9-BF46912ACEF3}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -7942,6 +6246,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.252197352, 49.2686318354 ]
+			},
+			"properties" : {
+				"OBJECTID" : 336,
+				"POI_ID" : "POI-71",
+				"ADD_ID" : "VAD10840",
+				"PLACENAME" : "Equity and Inclusion Office",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Brock Hall",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "http://equity.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-6353; Email: info@equity.ubc.ca; Fax: (604) 822-3260",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{0E241587-ABF9-414F-A03E-D161C3C16329}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210736"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2454509947, 49.2655115608 ]
 			},
 			"properties" : {
@@ -8028,38 +6364,6 @@
 				"LEED" : null,
 				"HTML" : null,
 				"GLOBALID" : "{D3230AAB-A36C-42DF-A72C-73197600D35F}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210736"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.252197352, 49.2686318354 ]
-			},
-			"properties" : {
-				"OBJECTID" : 336,
-				"POI_ID" : "POI-71",
-				"ADD_ID" : "VAD10840",
-				"PLACENAME" : "Equity and Inclusion Office",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Brock Hall",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "http://equity.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-6353; Email: info@equity.ubc.ca; Fax: (604) 822-3260",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{0E241587-ABF9-414F-A03E-D161C3C16329}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -8294,6 +6598,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.252197352, 49.2686318354 ]
+			},
+			"properties" : {
+				"OBJECTID" : 351,
+				"POI_ID" : "POI-65",
+				"ADD_ID" : "VAD10840",
+				"PLACENAME" : "Admissions (Undergraduate) ",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Brock Hall",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "http://you.ubc.ca/applying-ubc/",
+				"CONTACT" : "Phone: (604) 822-8999; Fax: (604) 822-9888",
+				"HOURS" : "M-F: 9:00am - 4pm; Sat: 9:30am - 2:30pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{FFAF09AC-4820-46BC-9CE1-49ED035AB379}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210737"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2526871994, 49.2676183022 ]
 			},
 			"properties" : {
@@ -8384,38 +6720,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "NIKT",
 				"LAST_EDITED_DATE" : "20200716181320"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.252197352, 49.2686318354 ]
-			},
-			"properties" : {
-				"OBJECTID" : 351,
-				"POI_ID" : "POI-65",
-				"ADD_ID" : "VAD10840",
-				"PLACENAME" : "Admissions (Undergraduate) ",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Brock Hall",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "http://you.ubc.ca/applying-ubc/",
-				"CONTACT" : "Phone: (604) 822-8999; Fax: (604) 822-9888",
-				"HOURS" : "M-F: 9:00am - 4pm; Sat: 9:30am - 2:30pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{FFAF09AC-4820-46BC-9CE1-49ED035AB379}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210737"
 			}
 		},
 		{
@@ -9286,6 +7590,1926 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2432717389, 49.2664949397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 344,
+				"POI_ID" : "POI-199",
+				"ADD_ID" : null,
+				"PLACENAME" : "University Pharmacy",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village Pharmacy",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "pharmacy",
+				"PHOTOURL" : null,
+				"URL" : "https://www.universitypharmacy.net/?utm_source=Google&utm_medium=maps&utm_campaign=Local_Presence",
+				"CONTACT" : "Phone: (604) 224-3202",
+				"HOURS" : "M-F: 9am - 8pm; Sat/Sun: 10am - 6pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{B2342FB8-672A-4CB7-8286-C61C42710B87}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181319"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2437812482, 49.2664101744 ]
+			},
+			"properties" : {
+				"OBJECTID" : 164,
+				"POI_ID" : "POI-198",
+				"ADD_ID" : null,
+				"PLACENAME" : "CIBC",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village Pharmacy",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "bank",
+				"PHOTOURL" : null,
+				"URL" : "https://locations.cibc.com/bc/vancouver/05800?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib",
+				"CONTACT" : "Phone: (604) 221-3550; Fax: (604) 224-5781; Toll-free: 1-800-465-2422",
+				"HOURS" : "Mon, Tues: 9am - 5pm; Wed-Fri: 9am - 7pm; Sat: 9am - 4pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{40AA7547-784E-4092-97DE-8C4A189D08C9}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181320"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2517464808, 49.2699556539 ]
+			},
+			"properties" : {
+				"OBJECTID" : 192,
+				"POI_ID" : "POI-158",
+				"ADD_ID" : null,
+				"PLACENAME" : "St. Andrew's Quad",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "park",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{5BDBC9BF-E6B5-4BB5-BF31-BC1C87CC840E}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181320"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2322726435, 49.2553529097 ]
+			},
+			"properties" : {
+				"OBJECTID" : 203,
+				"POI_ID" : "POI-195",
+				"ADD_ID" : null,
+				"PLACENAME" : "Khorana Park",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "park",
+				"PHOTOURL" : null,
+				"URL" : "http://wesbrook.app2.thoughtshop.com/posts/khorana-park#.VYm4W_m4S70",
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{EDA25446-318E-4BDB-AFEB-5E123072CF70}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181320"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2431961447, 49.2665092393 ]
+			},
+			"properties" : {
+				"OBJECTID" : 354,
+				"POI_ID" : "POI-502",
+				"ADD_ID" : null,
+				"PLACENAME" : "Canada Post",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village Pharmacy",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "https://www.canadapost.ca/cpotools/apps/fpo/personal/findPostOfficeDetail?outletId=%20g96d22b232dff9697_0000104776",
+				"CONTACT" : "Phone: 1 (800) 267-1177",
+				"HOURS" : "M-F: 9am - 8pm; Sat: 10am - 6pm; Sun: 12pm - 4pm",
+				"LICENSE" : null,
+				"MANAGE" : null,
+				"STATUS" : "UEL",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{11425FA7-EA43-48FC-9A2A-B10A0EEBECC3}",
+				"CREATED_USER" : "GISSTUD1",
+				"CREATED_DATE" : "20180117190927",
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181319"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2428617047, 49.2666580282 ]
+			},
+			"properties" : {
+				"OBJECTID" : 399,
+				"POI_ID" : "POI-200",
+				"ADD_ID" : null,
+				"PLACENAME" : "Copiesmart",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Plaza",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.copiesmart.com/",
+				"CONTACT" : "Phone: (604) 222-3189; Email: info@copiesmart.com; Fax: (604)",
+				"HOURS" : "M-F: 8:30am - 5pm; Sat: 10am - 5pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{47D5AF31-F760-4417-BC4A-CB0AC6333FB5}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181320"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2429837996, 49.2666354742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 400,
+				"POI_ID" : "POI-201",
+				"ADD_ID" : null,
+				"PLACENAME" : "University Drycleaners",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Plaza",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.universitydrycleaners.org/",
+				"CONTACT" : "Phone: (604) 228-9414; Email: universityubcdc1@yahoo.com",
+				"HOURS" : "Mon, Tues, Thurs: 9am - 5pm; Wed, Fri: 9am - 3pm; Sat: 10am - 1pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{8C9AE050-27A3-4E1D-A6D1-78D2CD1F4613}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181320"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2602931374, 49.269865012 ]
+			},
+			"properties" : {
+				"OBJECTID" : 433,
+				"POI_ID" : "POI-276",
+				"ADD_ID" : null,
+				"PLACENAME" : "Yosef Wosk Reflecting Pool",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{15860B58-C4AF-4C81-89A7-264AB0244EBF}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200716181319"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2578362235, 49.2683703277 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"POI_ID" : "POI-51",
+				"ADD_ID" : "VAD11083",
+				"PLACENAME" : "Graduate Student Society",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Thea Koerner House",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "https://gss.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-3203; Email: info@gss.ubc.ca",
+				"HOURS" : "M-F: 9am - 5pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{5FCB3108-ED75-4F8B-BA78-521447673A71}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.246341005, 49.2659080089 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"POI_ID" : "POI-132",
+				"ADD_ID" : "VAD11031",
+				"PLACENAME" : "Family Practice Teaching Unit/Clinic",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "David Strangway",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "http://clinic.familymed.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-5431; Email: family.clinic@familymed.ubc.ca; Fax: (604) 822-4089",
+				"HOURS" : "M-F: 9am - 5pm",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{A122A0A9-0F78-48D6-ADDF-CE2B4138962A}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2428252059, 49.2659548899 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"POI_ID" : "POI-205",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Pacific Spirit Dental",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "medical",
+				"PHOTOURL" : null,
+				"URL" : "http://www.pacificspiritdental.ca/",
+				"CONTACT" : "Phone: (604) 224-2411",
+				"HOURS" : "M-F: 8am - 5pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{CDB9BF92-DF4A-445E-BB76-D877C99F7185}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2554541791, 49.2642301714 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"POI_ID" : "POI-305",
+				"ADD_ID" : "VAD10210",
+				"PLACENAME" : "Ponderosa Commons Residence Front Desk",
+				"PLACENAME2" : "Front Desk",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Ponderosa Commons",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "housing_student",
+				"PHOTOURL" : null,
+				"URL" : "http://vancouver.housing.ubc.ca/residences/ponderosa-commons/",
+				"CONTACT" : "Phone: (604) 822-2708; Email: yearround@housing.ubc.ca",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Anchor",
+				"HTML" : null,
+				"GLOBALID" : "{DA2E8B87-E876-4A3B-AB9E-18C8967F8B90}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2348124103, 49.2617299817 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"POI_ID" : "POI-381",
+				"ADD_ID" : "VAD10138",
+				"PLACENAME" : "Kids Club Child Care",
+				"PLACENAME2" : "Kids Club",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Kids Club",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "child_care",
+				"PHOTOURL" : null,
+				"URL" : "https://childcare.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : "<p>Kids Club Child Care Services Centre</p>",
+				"GLOBALID" : "{DA9C668E-C6DB-410E-BD7A-1381D75CC9CC}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255131415, 49.2666545082 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"POI_ID" : "POI-360",
+				"ADD_ID" : "VAD11146",
+				"PLACENAME" : "Humanities & Social Sciences",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Walter C. Koerner Library",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "libraries",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg",
+				"URL" : "http://www.library.ubc.ca/koerner",
+				"CONTACT" : "Information Desk: (604) 822-2725; Email: hssd.library@ubc.ca",
+				"HOURS" : "M-Th: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "Library",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{AD7BB9F3-24EC-48EF-9C42-BC0DBAA624AD}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.255131415, 49.2666545082 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"POI_ID" : "POI-361",
+				"ADD_ID" : "VAD11146",
+				"PLACENAME" : "Microforms & Journals ",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Walter C. Koerner Library",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "libraries",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/515-1.jpg",
+				"URL" : "http://www.library.ubc.ca/koerner",
+				"CONTACT" : "Information Desk: (604) 822-2725; Email: hssd.library@ubc.ca",
+				"HOURS" : "M-Th: 8am - 8pm; Fri: 8am - 5pm; Sat:10am - 5pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "Library",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{BA568A75-8108-45E7-AF33-981297BD70D0}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2511838219, 49.2620064885 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"POI_ID" : "POI-289",
+				"ADD_ID" : "VAD10063",
+				"PLACENAME" : "Owl Child Care",
+				"PLACENAME2" : "Owl",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "The Barn",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "child_care",
+				"PHOTOURL" : null,
+				"URL" : "https://childcare.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : "<p>Owl at the Barn Child Care Services Centre</p>",
+				"GLOBALID" : "{A3B3F504-0D0C-4136-AA99-72F3DAB5A3B9}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2361512865, 49.2551060266 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"POI_ID" : "POI-88",
+				"ADD_ID" : "VAD10226",
+				"PLACENAME" : "Xerox Canada",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Granite Terrace Office",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.xeroxprintservicesubc.ca/",
+				"CONTACT" : "Phone: (604) 221-4244; Email: dms@xerox.com",
+				"HOURS" : "M-F: 7:30am - 5pm",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{B9314A24-A157-4C3A-A81E-C57F1BCEFF80}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2564072856, 49.2709220595 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"POI_ID" : "POI-78",
+				"ADD_ID" : "VAD10127",
+				"PLACENAME" : "Green College Front Desk",
+				"PLACENAME2" : "Front Desk",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Green College",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "housing_student",
+				"PHOTOURL" : null,
+				"URL" : "http://www.greencollege.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-8660; Email: gc.reception@ubc.ca; Fax: (604) 822-8742",
+				"HOURS" : "M-F: 9am - 12pm & 1pm - 4pm",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Anchor",
+				"HTML" : null,
+				"GLOBALID" : "{8059EC2C-EE73-4478-8CF1-02458425F86E}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2509323543, 49.260071912 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"POI_ID" : "POI-79",
+				"ADD_ID" : "VAD10103",
+				"PLACENAME" : "Orchard Commons Residence Front Desk",
+				"PLACENAME2" : "Front Desk",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Orchard Commons",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "housing_student",
+				"PHOTOURL" : null,
+				"URL" : "http://vancouver.housing.ubc.ca/residences/orchard-commons/",
+				"CONTACT" : "Email: information@housing.ubc.ca",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{DEEA5DB0-266B-40C2-BDCA-AFBCB2484959}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2501393821, 49.2565376933 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"POI_ID" : "POI-282",
+				"ADD_ID" : "VAD11093",
+				"PLACENAME" : "Totem Field",
+				"PLACENAME2" : "Totem",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden-l",
+				"SERVICE_TYPE" : "field",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{8E001D8B-646E-4C2B-BBD4-128D952626A4}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2398727969, 49.2623549988 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"POI_ID" : "POI-159",
+				"ADD_ID" : "VAD10040",
+				"PLACENAME" : "East Campus Park",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "park",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{727712D5-E121-41E1-8DEE-C5E59E93DDDC}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2430715866, 49.2552142182 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"POI_ID" : "POI-285",
+				"ADD_ID" : "VAD11092",
+				"PLACENAME" : "Whit Matthews Field",
+				"PLACENAME2" : "Whit Matthews",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "field",
+				"SERVICE_TYPE" : "field",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "Athletics",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{25D0C742-DC51-4DCE-8D13-5A0C9E4C5AE8}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2468618545, 49.2566776454 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"POI_ID" : "POI-267",
+				"ADD_ID" : "VAD10116",
+				"PLACENAME" : "Rhododendron Wood",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden-l",
+				"SERVICE_TYPE" : "wood",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{D4180CE1-50C8-4626-B8FE-34B754855D53}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2561663781, 49.268883607 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"POI_ID" : "POI-243",
+				"ADD_ID" : "VAD10409",
+				"PLACENAME" : "Flag Pole Plaza",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "plaza",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{B9A69572-38BE-44F9-857A-061B3CC52380}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2452486258, 49.2667118142 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"POI_ID" : "POI-155",
+				"ADD_ID" : "VAD10562",
+				"PLACENAME" : "Lutheran Campus Centre",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Lutheran Campus Centre",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "worship",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : "Phone: (604) 224-1614",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{E517453C-07E6-4B2B-AF6E-277F23594CC7}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.244417588, 49.2496105919 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"POI_ID" : "POI-186",
+				"ADD_ID" : "VAD11122",
+				"PLACENAME" : "Greenheart TreeWalk",
+				"PLACENAME2" : "TreeWalk",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Botanical Garden",
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/099.jpg",
+				"URL" : "http://www.botanicalgarden.ubc.ca/canopy-walkway",
+				"CONTACT" : "Phone: (604) 822-4208; Email: info@greenheart.ca",
+				"HOURS" : "Daily: 10am - 4pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{669772DF-F9D4-4DFC-9FBF-F03369F2201B}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2522568125, 49.2715809711 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"POI_ID" : "POI-165",
+				"ADD_ID" : "VAD10706",
+				"PLACENAME" : "Epiphany Chapel",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Epiphany Chapel",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "worship",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : "Phone: (604) 822-9815",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{8F3B4519-0EEE-4881-AB79-41034A2AA5F6}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2432112207, 49.2657125017 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"POI_ID" : "POI-225",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Red Burrito",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.redburrito.ca/",
+				"CONTACT" : "Phone: (604) 569-1313",
+				"HOURS" : "M-F: 11am - 9:30pm; Sat/Sun: 11am - 9pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{289824F6-BEEC-4E88-997E-FC23B51ED4F8}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2431761784, 49.2658699179 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"POI_ID" : "POI-226",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Pearl Fever Tea House ",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.pearlfever.ca/",
+				"CONTACT" : "Phone: (604) 221-9882",
+				"HOURS" : "Daily: 11am - 11pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{82405A7A-0F07-4F8C-B8A6-CCAA0F9C2796}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2354111823, 49.2549525339 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"POI_ID" : "POI-244",
+				"ADD_ID" : "VAD10064",
+				"PLACENAME" : "Running Room",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Tapestry",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "retail",
+				"PHOTOURL" : null,
+				"URL" : "http://www.runningroom.com/hm/inside.php?id=4442",
+				"CONTACT" : "Phone (604) 221-1685",
+				"HOURS" : "M-F: 9.30am - 9pm; Sat: 9.30am - 6pm; Sun: 8.30am - 5pm",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{5F62866A-5FD3-4BC1-8547-F939AA19862D}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2458113463, 49.266108416 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"POI_ID" : "POI-245",
+				"ADD_ID" : "VAD10562",
+				"PLACENAME" : "Shoppers Drug Mart",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Strangway",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "pharmacy",
+				"PHOTOURL" : "http://farm2.staticflickr.com/1393/801765508_a8ee553937.jpg",
+				"URL" : "www.shoppersdrugmart.ca/",
+				"CONTACT" : "(604) 228-1533",
+				"HOURS" : "Daily: 8am - 10pm",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{5F3342A8-09C0-4B0C-82EC-2E19CA9D141F}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2385413459, 49.2590202878 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"POI_ID" : "POI-246",
+				"ADD_ID" : "VAD10724",
+				"PLACENAME" : "Royal Canadian Mounted Police",
+				"PLACENAME2" : "RCMP",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Public Safety",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : "http://ubyssey.ca/wp-content/uploads/2011/06/wpid-RCMP-office_20101003_Colin-Chia.jpg",
+				"URL" : "http://university.bc.rcmp-grc.gc.ca/",
+				"CONTACT" : "Non Emergency Phone: (604) 224-1322; Fax: (604) 224-4759",
+				"HOURS" : "M-F: 8am - 4pm",
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{3E6E652D-DAD3-4320-AC47-FE146500134C}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2382423992, 49.2586997059 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"POI_ID" : "POI-247",
+				"ADD_ID" : "VAD10725",
+				"PLACENAME" : "University Fire Hall #10",
+				"PLACENAME2" : "Fire",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Public Safety",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.vanffcpr.org/location/location.php?id=10",
+				"CONTACT" : "Non Emergency Line (604) 665-6000",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{C0D3FF44-5B5C-4A8D-8EB0-20B0DE650259}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2353744098, 49.2539875818 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"POI_ID" : "POI-248",
+				"ADD_ID" : "VAD10221",
+				"PLACENAME" : "Togo Sushi",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "MBA House",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.togosushi.ca/ubc.html",
+				"CONTACT" : "Phone: (604) 222-9288",
+				"HOURS" : "M-W: 10:30am - 8pm; Thurs-Fri: 10:30am - 9pm; Sat: 10:30am - 8pm; Sun: 11:30am -",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{F7D6F84D-E989-4212-B878-5824F7B4681B}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2496853145, 49.2666088785 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"POI_ID" : "POI-254",
+				"ADD_ID" : "VAD10616",
+				"PLACENAME" : "Merit Travel",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "AMS Nest",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://merittravel.ca",
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{F5B6D34A-79F3-4792-AFD5-7E8FE3CC0FBD}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.249823723, 49.2666113022 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"POI_ID" : "POI-255",
+				"ADD_ID" : "VAD10616",
+				"PLACENAME" : "i Campus Vision",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "AMS Nest",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "retail",
+				"PHOTOURL" : null,
+				"URL" : "https://www.campusvision.com/",
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{B7B657D5-272C-47E1-B563-99B2F39BFE44}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2496505763, 49.2665684292 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"POI_ID" : "POI-256",
+				"ADD_ID" : "VAD10616",
+				"PLACENAME" : "On the Fringe",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "AMS Nest",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.onthefringehairdesign.com/",
+				"CONTACT" : "Phone: (604) 221-0320; Email: otfubc@onthefringehairdesign.com",
+				"HOURS" : "M,T,F: 10am -6pm; Wed/Thurs: 10am - 8pm; Sat: 10am - 5pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{2FB8BB6E-9925-4DF4-B2CF-8EC230723B66}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2500313202, 49.2666639464 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"POI_ID" : "POI-257",
+				"ADD_ID" : "VAD10616",
+				"PLACENAME" : "Blooming Gift Shop",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "AMS Nest",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "retail",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : "Phone: (778) 883-2464",
+				"HOURS" : "M-Thurs: 10:30am - 6:30pm; Fri: 10:30am - 6:00pm: Sat/Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{0738AF40-80B0-4F6B-955B-8C45ECF955D9}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2499176459, 49.2669874173 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"POI_ID" : "POI-258",
+				"ADD_ID" : "VAD10616",
+				"PLACENAME" : "Wireless Wave",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "AMS Nest",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "retail",
+				"PHOTOURL" : null,
+				"URL" : "http://www.wirelesswave.ca",
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{E76A7753-6047-4848-A5AB-E9AECB5FE9B1}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2436357601, 49.2662262431 ]
+			},
+			"properties" : {
+				"OBJECTID" : 91,
+				"POI_ID" : "POI-197",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Hannah and Samuel Flower Shop",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village Pharmacy",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.hsflowers.ca/",
+				"CONTACT" : "Phone: (604) 228-0113",
+				"HOURS" : "M-F: 9:30am - 6:30pm; Sat: 10am - 6pm; Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{BCFD2C0A-F37C-4E19-AE77-2548C744EC5F}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2527653958, 49.2672017005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"POI_ID" : "POI-332",
+				"ADD_ID" : "VAD10023",
+				"PLACENAME" : "Ike's Cafe",
+				"PLACENAME2" : "Ike's",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Irving K. Barber",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.food.ubc.ca/place/ikes/",
+				"CONTACT" : "Phone: (604) 827-3926",
+				"HOURS" : "M,Thurs,F: 6:30am - 4pm; Tues/Wed: 6:30am - 7:30pm; Sat/Sun: 6:30am - 9:30am",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{62B02A23-0702-4BCE-9BE7-5B4E46438375}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.242749305, 49.2658502192 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"POI_ID" : "POI-227",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Starbucks",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.food.ubc.ca/place/starbucks/",
+				"CONTACT" : "Phone: (604) 221-0200",
+				"HOURS" : "M-F: 6am - 10:30pm; Sat/Sun: 7am - 10pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{F2A4C522-5B97-4C4F-BE74-C8B16750B0CF}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2536535038, 49.2699518555 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"POI_ID" : "POI-330",
+				"ADD_ID" : "VAD10490",
+				"PLACENAME" : "Law Cafe",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Allard Hall, Second floor",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.food.ubc.ca/place/law-cafe/",
+				"CONTACT" : "Phone: (604) 827-1524",
+				"HOURS" : "M-F: 7:30am - 7:30pm",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{956F1C39-BFB2-4019-96BD-556649DAFA3E}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2473153092, 49.2646661227 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"POI_ID" : "POI-331",
+				"ADD_ID" : "VAD10479",
+				"PLACENAME" : "IRC Snack Bar",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Woodward - IRC",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.food.ubc.ca/place/irc-snackbar/",
+				"CONTACT" : " Phone: (604) 822-4291",
+				"HOURS" : "M-F: 7:30am - 3pm; Sat/Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{38EFB5E5-04F5-4278-A012-CDFC7CEA18E1}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.250735365, 49.2700784044 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"POI_ID" : "POI-333",
+				"ADD_ID" : "VAD10474",
+				"PLACENAME" : "Great Dane Coffee",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Westpoint",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.greatdanecoffee.com/",
+				"CONTACT" : "Phone: (604) 558-2190; Email: andrew@greatdanecoffee.com",
+				"HOURS" : "M-F: 7:30am - 5pm; Sat/Sun: Closed",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{37DC4E18-4397-4631-9ED9-C81A9FBAD09D}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2430474563, 49.2624998581 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"POI_ID" : "POI-334",
+				"ADD_ID" : "VAD10106",
+				"PLACENAME" : "Daily Dose Cafe",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Pharmaceutical Sciences Building",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.food.ubc.ca/place/daily-dose/",
+				"CONTACT" : "Phone: (604) 827-1521",
+				"HOURS" : "M-F: 7:30am - 3pm",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{53D6ACB2-99C5-43C2-89B6-9931288BBB82}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2480477706, 49.2588539262 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"POI_ID" : "POI-340",
+				"ADD_ID" : "VAD10100",
+				"PLACENAME" : "Bean Around The World",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Old Barn Community Centre",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "https://batwcoffee.com/pages/bean-around-the-world-ubc",
+				"CONTACT" : "Phone: (604) 568-8893",
+				"HOURS" : "M-F: 7am - 7pm; Sat/Sun: 8am - 6pm",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{6B7C2FFD-5573-4A1B-A3AD-406A04374D91}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2421242375, 49.2660902988 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"POI_ID" : "POI-228",
+				"ADD_ID" : "VAD10891",
+				"PLACENAME" : "Pita Pit",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://pitapit.ca/",
+				"CONTACT" : "Phone: (604) 221-7488; Email: info@pitapit.com; Fax: (604) 221-7487",
+				"HOURS" : "M-Thurs: 10:30am - 1:00am; Fri-Sat: 10:30am - 2:00am; Sun: 11am - 1am",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{8F03320C-B319-4B50-9D27-12288651806B}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2432707732, 49.2657986098 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"POI_ID" : "POI-233",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Vera's Burger Shack",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "http://www.verasburgershack.com/",
+				"CONTACT" : "Phone: (604) 221-8372",
+				"HOURS" : "Daily: 10:30am - 10:30pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{8258A070-4A57-41EB-84B9-A7C6DD54416C}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2434678573, 49.2660373153 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"POI_ID" : "POI-234",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Oven Fresh Bakery",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : "Phone: (604) 222-8886",
+				"HOURS" : "M-F: 8am - 7pm; Sat: 9am - 6pm; Sun: 9:30am - 6pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{7A6B3B77-CE3E-4BDE-9CB6-3606F1B089E3}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2434448152, 49.2660097558 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"POI_ID" : "POI-235",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Maurya Express",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "cafe",
+				"PHOTOURL" : null,
+				"URL" : "https://mauryaexpress.ca/",
+				"CONTACT" : "Phone: (604) 225-2288",
+				"HOURS" : "Daily: 11am - 9pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{BC26F0EF-57F7-4063-835D-1D616F18FB84}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2483943838, 49.2590135556 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"POI_ID" : "POI-265",
+				"ADD_ID" : "VAD10100",
+				"PLACENAME" : "Old Barn Community Centre Exercise Room",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Old Barn Community Centre",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "athletics",
+				"PHOTOURL" : "http://www.oldbarn.ca/wp-content/uploads/Gym5858.jpg",
+				"URL" : "https://wearecommunityvan.ca/",
+				"CONTACT" : "reception@oldbarn.ca</br>Phone: (604) 827-4469",
+				"HOURS" : "Daily: 7am - 7pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{A90505AF-E471-4E96-944A-B0190517B9C1}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2358771336, 49.2544657881 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"POI_ID" : "POI-259",
+				"ADD_ID" : "VAD11068",
+				"PLACENAME" : "More Bikes",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Mews",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "retail",
+				"PHOTOURL" : null,
+				"URL" : "http://www.morebikes.ca/",
+				"CONTACT" : "Phone: (604) 558-1528",
+				"HOURS" : "M-Sat: 10am - 6pm; Sun: 11am - 5pm",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Retail",
+				"HTML" : null,
+				"GLOBALID" : "{0E30F013-7F82-4BDA-BF20-F96FEF6EE2D6}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210712"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2352550344, 49.2537127922 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"POI_ID" : "POI-260",
+				"ADD_ID" : "VAD10197",
+				"PLACENAME" : "Mozart School of Music",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "MBA House",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.msmvan.com/",
+				"CONTACT" : "Phone: (604) 345-9680",
+				"HOURS" : "For Hours Please See: http://msmvan.com/classes/schedule/",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{0B22B875-45EF-4332-AC4E-2EF9F4BF3F0F}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.244937955, 49.2597540266 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"POI_ID" : "POI-263",
+				"ADD_ID" : "VAD10147",
+				"PLACENAME" : "UBC Tennis Centre",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "UBC Tennis Centre",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "athletics",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/432.jpg",
+				"URL" : "http://www.recreation.ubc.ca/tennis/",
+				"CONTACT" : "Phone: (604) 822-2505; Email: tennis.centre@ubc.ca",
+				"HOURS" : "M-F: 8am - 10pm; Sat/Sun: 8am - 10pm",
+				"LICENSE" : "N",
+				"MANAGE" : "Athletics",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{E53164C4-BA70-44E1-934E-99BBDDAEBE3C}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2454639409, 49.2656067917 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"POI_ID" : "POI-42",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Dental Speciality Clinics",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "J.B. Macdonald Building",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{E9878400-D207-4B0C-AC30-7FB20639364E}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2457176854, 49.2639844279 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"POI_ID" : "POI-48",
+				"ADD_ID" : "VAD11126",
+				"PLACENAME" : "Student Health Services",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "UBC Hospital - Koerner Pavilion",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "https://students.ubc.ca/health-wellness/student-health-service",
+				"CONTACT" : "Phone: (604) 822-7011; Email: student.health@ubc.ca; Fax: 1 855 822-7212",
+				"HOURS" : "Mon, Tues, Wed, Fri: 8am - 4pm; Thurs: 9am - 4pm; Sat/Sun: Closed",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{1CC900B4-A8A5-4D7B-BA97-4D7C24CE04FA}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2352938927, 49.2547603559 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"POI_ID" : "POI-96",
+				"ADD_ID" : "VAD10069",
+				"PLACENAME" : "Wesbrook Village Dental Ctr",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Tapestry",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.wesbrookvillagedental.com/",
+				"CONTACT" : "Phone: (604) 221-7600; Email: info@wesbrookvillagedental.com",
+				"HOURS" : "Mon, Tues, Thurs: 8:30am - 5pm; Wed: 9am - 6pm; Fri: 7:30am - 2pm; Sat/Sun: Clos",
+				"LICENSE" : "Y",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{495F81CE-F541-42DC-BE3C-2BA725C82928}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2578774144, 49.2684193397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"POI_ID" : "POI-120",
+				"ADD_ID" : "VAD11083",
+				"PLACENAME" : "Graduate and Postdoctoral Studies",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Thea Koerner House",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "faculty/school",
+				"PHOTOURL" : null,
+				"URL" : "https://www.grad.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-2848; Fax: (604) 822-5802",
+				"HOURS" : "M-F: 8:30am - 4pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{13081F70-7F1E-4902-A996-86A368C29BA0}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210713"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2483292211, 49.2589270078 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"POI_ID" : "POI-511",
+				"ADD_ID" : "VAD10100",
+				"PLACENAME" : "Old Barn Community Centre",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Old Barn Community Centre",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "https://www.myuna.ca/recreation/",
+				"CONTACT" : "Phone: (604) 827-4469",
+				"HOURS" : "M-F: 7am - 9:30pm; Sat-Sun: 8:30am - 10pm",
+				"LICENSE" : null,
+				"MANAGE" : null,
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{0048CC7B-47BE-454A-B3A2-C48A0D88F8BF}",
+				"CREATED_USER" : "GISSTUD1",
+				"CREATED_DATE" : "20180117190927",
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200713231308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2498647443, 49.2664456638 ]
 			},
 			"properties" : {
@@ -9376,38 +9600,6 @@
 				"CREATED_DATE" : "20180116231731",
 				"LAST_EDITED_USER" : "NIKT",
 				"LAST_EDITED_DATE" : "20200713231309"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2483292211, 49.2589270078 ]
-			},
-			"properties" : {
-				"OBJECTID" : 42,
-				"POI_ID" : "POI-511",
-				"ADD_ID" : "VAD10100",
-				"PLACENAME" : "Old Barn Community Centre",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Old Barn Community Centre",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "https://www.myuna.ca/recreation/",
-				"CONTACT" : "Phone: (604) 827-4469",
-				"HOURS" : "M-F: 7am - 9:30pm; Sat-Sun: 8:30am - 10pm",
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{0048CC7B-47BE-454A-B3A2-C48A0D88F8BF}",
-				"CREATED_USER" : "GISSTUD1",
-				"CREATED_DATE" : "20180117190927",
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200713231308"
 			}
 		},
 		{
@@ -9574,70 +9766,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.257651154, 49.2668552346 ]
-			},
-			"properties" : {
-				"OBJECTID" : 439,
-				"POI_ID" : null,
-				"ADD_ID" : null,
-				"PLACENAME" : "Stone Garden",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{5234A87F-AA90-4CC9-B00C-5F5DF3490F2A}",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200730232855",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730232912"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2557913874, 49.2696385106 ]
-			},
-			"properties" : {
-				"OBJECTID" : 438,
-				"POI_ID" : null,
-				"ADD_ID" : null,
-				"PLACENAME" : "Dorothy Somerset Grove",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{DB16D2B0-0D0A-448D-AD3A-B6BAA04E183C}",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200730232558",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730233147"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.2463832319, 49.2612847368 ]
 			},
 			"properties" : {
@@ -9664,70 +9792,6 @@
 				"CREATED_DATE" : "20180704225743",
 				"LAST_EDITED_USER" : "NIKT",
 				"LAST_EDITED_DATE" : "20200713231309"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2374311025, 49.2537148523 ]
-			},
-			"properties" : {
-				"OBJECTID" : 195,
-				"POI_ID" : "POI-192",
-				"ADD_ID" : "VAD10781",
-				"PLACENAME" : "Brockhouse Park",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{0A709BA6-8801-4ED6-B9E4-B7ADFEBC6573}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210728"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2484273558, 49.2715289615 ]
-			},
-			"properties" : {
-				"OBJECTID" : 382,
-				"POI_ID" : "POI-80",
-				"ADD_ID" : "VAD10828",
-				"PLACENAME" : "Carey Theological College",
-				"PLACENAME2" : "Carey Theological College",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Carey Hall (Carey Theological College)",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "worship",
-				"PHOTOURL" : null,
-				"URL" : "http://www.carey-edu.ca",
-				"CONTACT" : "Phone: (604) 225-5920; Email: info@carey-edu.ca; Toll-free: 1-844-862-2739",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{99DCE7D1-8CF3-4ED5-8EC7-2BACE97E3050}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723230006"
 			}
 		},
 		{
@@ -10022,6 +10086,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2430022072, 49.2657520724 ]
+			},
+			"properties" : {
+				"OBJECTID" : 402,
+				"POI_ID" : "POI-203",
+				"ADD_ID" : "VAD11023",
+				"PLACENAME" : "Granville Island Produce at University",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "University Village",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "grocery",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : "Phone: (604) 677-3388",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UEL",
+				"STATUS" : "UEL",
+				"LEED" : "Food",
+				"HTML" : null,
+				"GLOBALID" : "{25BDA999-7AD3-4761-8D8B-B9B1A3572D9E}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210742"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2518364393, 49.2627836489 ]
 			},
 			"properties" : {
@@ -10108,38 +10204,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{03D825B4-91EA-44E2-861C-6C8F6E6FC4C4}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210742"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2430022072, 49.2657520724 ]
-			},
-			"properties" : {
-				"OBJECTID" : 402,
-				"POI_ID" : "POI-203",
-				"ADD_ID" : "VAD11023",
-				"PLACENAME" : "Granville Island Produce at University",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "grocery",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "Phone: (604) 677-3388",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Food",
-				"HTML" : null,
-				"GLOBALID" : "{25BDA999-7AD3-4761-8D8B-B9B1A3572D9E}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -10374,6 +10438,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2556819459, 49.263527886 ]
+			},
+			"properties" : {
+				"OBJECTID" : 415,
+				"POI_ID" : "POI-275",
+				"ADD_ID" : "VAD10168",
+				"PLACENAME" : "Ponderosa Commons Studio",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Ponderosa Commons Arbutus House",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "athletics",
+				"PHOTOURL" : null,
+				"URL" : "http://www.recreation.ubc.ca/home-page/contact-us/contact-info-ponderosa-commons/",
+				"CONTACT" : "Phone: (604) 822-6000; Email: src.operations@ubc.ca ",
+				"HOURS" : "http://www.recreation.ubc.ca/drop-in/",
+				"LICENSE" : "N",
+				"MANAGE" : "Athletics",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{666F68FE-A5B2-4803-AAB1-C4C2B4D8CB86}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "PLAN",
+				"LAST_EDITED_DATE" : "20200708210743"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2513846879, 49.2605851432 ]
 			},
 			"properties" : {
@@ -10460,38 +10556,6 @@
 				"LEED" : "Services",
 				"HTML" : null,
 				"GLOBALID" : "{E8503EC0-D1F6-4781-998D-60832C733285}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200708210743"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2556819459, 49.263527886 ]
-			},
-			"properties" : {
-				"OBJECTID" : 415,
-				"POI_ID" : "POI-275",
-				"ADD_ID" : "VAD10168",
-				"PLACENAME" : "Ponderosa Commons Studio",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Ponderosa Commons Arbutus House",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "athletics",
-				"PHOTOURL" : null,
-				"URL" : "http://www.recreation.ubc.ca/home-page/contact-us/contact-info-ponderosa-commons/",
-				"CONTACT" : "Phone: (604) 822-6000; Email: src.operations@ubc.ca ",
-				"HOURS" : "http://www.recreation.ubc.ca/drop-in/",
-				"LICENSE" : "N",
-				"MANAGE" : "Athletics",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{666F68FE-A5B2-4803-AAB1-C4C2B4D8CB86}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
@@ -10694,6 +10758,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2309142583, 49.2500505797 ]
+			},
+			"properties" : {
+				"OBJECTID" : 356,
+				"POI_ID" : "POI-538",
+				"ADD_ID" : "VAD10033",
+				"PLACENAME" : "Canadian Kailuan Dehua Mines Co. Ltd.",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "3800 Wesbrook Mall",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial services",
+				"PHOTOURL" : null,
+				"URL" : "https://ckdmines.com/",
+				"CONTACT" : "Phone: (604) 697-9212; Fax: (604) 633-0342; Email: info@ckdmines.com",
+				"HOURS" : null,
+				"LICENSE" : null,
+				"MANAGE" : null,
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{10920F70-DEC5-41E5-A57D-3A58C136ED16}",
+				"CREATED_USER" : "GISSTUD1",
+				"CREATED_DATE" : "20180713172055",
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200714213611"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2529795414, 49.2700365981 ]
 			},
 			"properties" : {
@@ -10784,38 +10880,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "PLAN",
 				"LAST_EDITED_DATE" : "20200708210744"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2309142583, 49.2500505797 ]
-			},
-			"properties" : {
-				"OBJECTID" : 356,
-				"POI_ID" : "POI-538",
-				"ADD_ID" : "VAD10033",
-				"PLACENAME" : "Canadian Kailuan Dehua Mines Co. Ltd.",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "3800 Wesbrook Mall",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial services",
-				"PHOTOURL" : null,
-				"URL" : "https://ckdmines.com/",
-				"CONTACT" : "Phone: (604) 697-9212; Fax: (604) 633-0342; Email: info@ckdmines.com",
-				"HOURS" : null,
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{10920F70-DEC5-41E5-A57D-3A58C136ED16}",
-				"CREATED_USER" : "GISSTUD1",
-				"CREATED_DATE" : "20180713172055",
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200714213611"
 			}
 		},
 		{
@@ -11174,6 +11238,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2464608869, 49.262032126 ]
+			},
+			"properties" : {
+				"OBJECTID" : 232,
+				"POI_ID" : "POI-544",
+				"ADD_ID" : "VAD11034",
+				"PLACENAME" : "Convergent Manufacturing Technologies",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Donald Rix",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial services",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : null,
+				"MANAGE" : null,
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{4FEC893A-4ACB-4CB8-B54E-994F48A9AC24}",
+				"CREATED_USER" : "GISSTUD1",
+				"CREATED_DATE" : "20180719232313",
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200714213743"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2463224175, 49.2613007565 ]
 			},
 			"properties" : {
@@ -11264,38 +11360,6 @@
 				"CREATED_DATE" : "20180712230205",
 				"LAST_EDITED_USER" : "NIKT",
 				"LAST_EDITED_DATE" : "20200714213740"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2464608869, 49.262032126 ]
-			},
-			"properties" : {
-				"OBJECTID" : 232,
-				"POI_ID" : "POI-544",
-				"ADD_ID" : "VAD11034",
-				"PLACENAME" : "Convergent Manufacturing Technologies",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Donald Rix",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial services",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{4FEC893A-4ACB-4CB8-B54E-994F48A9AC24}",
-				"CREATED_USER" : "GISSTUD1",
-				"CREATED_DATE" : "20180719232313",
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200714213743"
 			}
 		},
 		{
@@ -11686,6 +11750,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2518964184, 49.2703568848 ]
+			},
+			"properties" : {
+				"OBJECTID" : 85,
+				"POI_ID" : "POI-175",
+				"ADD_ID" : "VAD10436",
+				"PLACENAME" : "St. Andrew's Hall",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "St. Andrew's Hall",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "worship",
+				"PHOTOURL" : null,
+				"URL" : "http://www.standrews.edu/",
+				"CONTACT" : "Phone: (604) 822-9720; Email: bpaul@standrews.edu",
+				"HOURS" : "M-F: 9am - 5pm",
+				"LICENSE" : "N",
+				"MANAGE" : "Non-UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{C5AC2B4C-6144-49D7-ACC3-4F8FB76D7E6B}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "NIKT",
+				"LAST_EDITED_DATE" : "20200715214911"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2591703878, 49.2694148601 ]
 			},
 			"properties" : {
@@ -11744,134 +11840,6 @@
 				"CREATED_DATE" : "20180117190435",
 				"LAST_EDITED_USER" : "NIKT",
 				"LAST_EDITED_DATE" : "20200715214802"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2518964184, 49.2703568848 ]
-			},
-			"properties" : {
-				"OBJECTID" : 85,
-				"POI_ID" : "POI-175",
-				"ADD_ID" : "VAD10436",
-				"PLACENAME" : "St. Andrew's Hall",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "St. Andrew's Hall",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "worship",
-				"PHOTOURL" : null,
-				"URL" : "http://www.standrews.edu/",
-				"CONTACT" : "Phone: (604) 822-9720; Email: bpaul@standrews.edu",
-				"HOURS" : "M-F: 9am - 5pm",
-				"LICENSE" : "N",
-				"MANAGE" : "Non-UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{C5AC2B4C-6144-49D7-ACC3-4F8FB76D7E6B}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200715214911"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2353999162, 49.254159506 ]
-			},
-			"properties" : {
-				"OBJECTID" : 440,
-				"POI_ID" : null,
-				"ADD_ID" : null,
-				"PLACENAME" : "Norman MacKenzie Square",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "plaza",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{A6611A1D-D87D-4F3B-A812-C311E40B1D6D}",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200730233130",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730233207"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2487193055, 49.2668105603 ]
-			},
-			"properties" : {
-				"OBJECTID" : 436,
-				"POI_ID" : "POI-547",
-				"ADD_ID" : null,
-				"PLACENAME" : "Macinnes Field",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{7306859F-3927-4A6A-8F15-5C9B6FA8DA07}",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200724165032",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200724165140"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2503019769, 49.2706742582 ]
-			},
-			"properties" : {
-				"OBJECTID" : 435,
-				"POI_ID" : "POI-546",
-				"ADD_ID" : null,
-				"PLACENAME" : "Iona Green",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "garden",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : null,
-				"HTML" : null,
-				"GLOBALID" : "{1C4E2A0A-7732-4006-BE7A-B9161DF6BFB4}",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200724164150",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200724164428"
 			}
 		},
 		{
@@ -11974,38 +11942,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2455550333, 49.2658938081 ]
-			},
-			"properties" : {
-				"OBJECTID" : 31,
-				"POI_ID" : "POI-27",
-				"ADD_ID" : "VAD10865",
-				"PLACENAME" : "Nobel Biocare Oral Health Centre",
-				"PLACENAME2" : "Nobel Biocare",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "David Strangway",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.dentistry.ubc.ca/the-nobel-biocare-oral-health-centre/",
-				"CONTACT" : "Phone: (604) 822-2112; Fax: (604) 822-3708",
-				"HOURS" : "M-F: 8am - 12:30pm & 2pm - 5pm; Tues/Thurs: 6pm - 9pm; Sat: 9am - 12pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{1721B4C3-3AB3-49D7-B257-567188D1179D}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723215219"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.246580429, 49.2604206931 ]
 			},
 			"properties" : {
@@ -12038,6 +11974,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2455550333, 49.2658938081 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"POI_ID" : "POI-27",
+				"ADD_ID" : "VAD10865",
+				"PLACENAME" : "Nobel Biocare Oral Health Centre",
+				"PLACENAME2" : "Nobel Biocare",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "David Strangway",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "commercial_services",
+				"PHOTOURL" : null,
+				"URL" : "http://www.dentistry.ubc.ca/the-nobel-biocare-oral-health-centre/",
+				"CONTACT" : "Phone: (604) 822-2112; Fax: (604) 822-3708",
+				"HOURS" : "M-F: 8am - 12:30pm & 2pm - 5pm; Tues/Thurs: 6pm - 9pm; Sat: 9am - 12pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Services",
+				"HTML" : null,
+				"GLOBALID" : "{1721B4C3-3AB3-49D7-B257-567188D1179D}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200723215219"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2416878134, 49.2599325224 ]
 			},
 			"properties" : {
@@ -12064,6 +12032,38 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200723221000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2509323543, 49.260071912 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158,
+				"POI_ID" : "POI-147",
+				"ADD_ID" : "VAD10103",
+				"PLACENAME" : "UBC Vantage College",
+				"PLACENAME2" : "Vantage College",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Orchard Commons",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "faculty/school",
+				"PHOTOURL" : null,
+				"URL" : "https://vantagecollege.ubc.ca/",
+				"CONTACT" : "Phone: (604) 827-0337; Email: info@vantagecollege.ubc.ca",
+				"HOURS" : "Daily: 9am - 4pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{C0D0B6B5-3BFE-4CC7-8026-4023DE7EE2E4}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200723215113"
 			}
 		},
 		{
@@ -12160,38 +12160,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200723221332"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2509323543, 49.260071912 ]
-			},
-			"properties" : {
-				"OBJECTID" : 158,
-				"POI_ID" : "POI-147",
-				"ADD_ID" : "VAD10103",
-				"PLACENAME" : "UBC Vantage College",
-				"PLACENAME2" : "Vantage College",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Orchard Commons",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "faculty/school",
-				"PHOTOURL" : null,
-				"URL" : "https://vantagecollege.ubc.ca/",
-				"CONTACT" : "Phone: (604) 827-0337; Email: info@vantagecollege.ubc.ca",
-				"HOURS" : "Daily: 9am - 4pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{C0D0B6B5-3BFE-4CC7-8026-4023DE7EE2E4}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723215113"
 			}
 		},
 		{
@@ -12422,6 +12390,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2485573353, 49.2695543028 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115,
+				"POI_ID" : "POI-81",
+				"ADD_ID" : "VAD11148",
+				"PLACENAME" : "West Coast Suites",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Walter Gage Residence",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "campus_services",
+				"PHOTOURL" : null,
+				"URL" : "http://suitesatubc.com/accommodations/west-coast-suites/",
+				"CONTACT" : "Phone: (604) 395-2540; Email: reservations@housing.ubc.ca; Fax: (604) 822-1001",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{2EF1F6BB-FA3D-49F6-B0C3-37469D695881}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200723201716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2460207389, 49.264183725 ]
 			},
 			"properties" : {
@@ -12486,32 +12486,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2485573353, 49.2695543028 ]
+				"coordinates" : [ -123.2343151496, 49.2607969502 ]
 			},
 			"properties" : {
-				"OBJECTID" : 115,
-				"POI_ID" : "POI-81",
-				"ADD_ID" : "VAD11148",
-				"PLACENAME" : "West Coast Suites",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Walter Gage Residence",
+				"OBJECTID" : 362,
+				"POI_ID" : "POI-425",
+				"ADD_ID" : "VAD10709",
+				"PLACENAME" : "Lluvia Child Care",
+				"PLACENAME2" : "Lluvia",
+				"ABBREVIATEDPLACENAME" : "CCAB",
+				"BL_NAME" : "Child Care Admin Building",
 				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
+				"SERVICE_TYPE" : "child_care",
 				"PHOTOURL" : null,
-				"URL" : "http://suitesatubc.com/accommodations/west-coast-suites/",
-				"CONTACT" : "Phone: (604) 395-2540; Email: reservations@housing.ubc.ca; Fax: (604) 822-1001",
-				"HOURS" : null,
+				"URL" : "https://childcare.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
+				"HOURS" : "Office Hours, M-F: 8:30am - 4:30pm",
 				"LICENSE" : "N",
 				"MANAGE" : "SHHS",
 				"STATUS" : "Current",
-				"LEED" : null,
+				"LEED" : "Civic",
 				"HTML" : null,
-				"GLOBALID" : "{2EF1F6BB-FA3D-49F6-B0C3-37469D695881}",
+				"GLOBALID" : "{A588131C-0372-46E9-B69F-CD1E394631ED}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723201716"
+				"LAST_EDITED_DATE" : "20200723221435"
 			}
 		},
 		{
@@ -12608,38 +12608,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200723221437"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2343151496, 49.2607969502 ]
-			},
-			"properties" : {
-				"OBJECTID" : 362,
-				"POI_ID" : "POI-425",
-				"ADD_ID" : "VAD10709",
-				"PLACENAME" : "Lluvia Child Care",
-				"PLACENAME2" : "Lluvia",
-				"ABBREVIATEDPLACENAME" : "CCAB",
-				"BL_NAME" : "Child Care Admin Building",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "child_care",
-				"PHOTOURL" : null,
-				"URL" : "https://childcare.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
-				"HOURS" : "Office Hours, M-F: 8:30am - 4:30pm",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{A588131C-0372-46E9-B69F-CD1E394631ED}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723221435"
 			}
 		},
 		{
@@ -12838,6 +12806,38 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.2344300791, 49.2609395647 ]
+			},
+			"properties" : {
+				"OBJECTID" : 372,
+				"POI_ID" : "POI-371",
+				"ADD_ID" : "VAD10709",
+				"PLACENAME" : "Pioggia Child Care",
+				"PLACENAME2" : "Pioggia",
+				"ABBREVIATEDPLACENAME" : "CCAB",
+				"BL_NAME" : "Child Care Admin Building",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "child_care",
+				"PHOTOURL" : null,
+				"URL" : "https://childcare.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
+				"HOURS" : "Office Hours, M-F: 8:30am - 4:30pm",
+				"LICENSE" : "N",
+				"MANAGE" : "SHHS",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{7D52DF31-C57A-43C5-B5A8-E39A024C9BC4}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200723221417"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2351648254, 49.259521758 ]
 			},
 			"properties" : {
@@ -12928,38 +12928,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200723221422"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2344300791, 49.2609395647 ]
-			},
-			"properties" : {
-				"OBJECTID" : 372,
-				"POI_ID" : "POI-371",
-				"ADD_ID" : "VAD10709",
-				"PLACENAME" : "Pioggia Child Care",
-				"PLACENAME2" : "Pioggia",
-				"ABBREVIATEDPLACENAME" : "CCAB",
-				"BL_NAME" : "Child Care Admin Building",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "child_care",
-				"PHOTOURL" : null,
-				"URL" : "https://childcare.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-5343; Email: childcare@housing.ubc.ca; Fax: (604) 822-9195",
-				"HOURS" : "Office Hours, M-F: 8:30am - 4:30pm",
-				"LICENSE" : "N",
-				"MANAGE" : "SHHS",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{7D52DF31-C57A-43C5-B5A8-E39A024C9BC4}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723221417"
 			}
 		},
 		{
@@ -13190,237 +13158,45 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2437812482, 49.2664101744 ]
+				"coordinates" : [ -123.2484273558, 49.2715289615 ]
 			},
 			"properties" : {
-				"OBJECTID" : 164,
-				"POI_ID" : "POI-198",
-				"ADD_ID" : null,
-				"PLACENAME" : "CIBC",
-				"PLACENAME2" : null,
+				"OBJECTID" : 382,
+				"POI_ID" : "POI-80",
+				"ADD_ID" : "VAD10828",
+				"PLACENAME" : "Carey Theological College",
+				"PLACENAME2" : "Carey Theological College",
 				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village Pharmacy",
+				"BL_NAME" : "Carey Hall (Carey Theological College)",
 				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "bank",
+				"SERVICE_TYPE" : "worship",
 				"PHOTOURL" : null,
-				"URL" : "https://locations.cibc.com/bc/vancouver/05800?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib",
-				"CONTACT" : "Phone: (604) 221-3550; Fax: (604) 224-5781; Toll-free: 1-800-465-2422",
-				"HOURS" : "Mon, Tues: 9am - 5pm; Wed-Fri: 9am - 7pm; Sat: 9am - 4pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{40AA7547-784E-4092-97DE-8C4A189D08C9}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181320"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2517464808, 49.2699556539 ]
-			},
-			"properties" : {
-				"OBJECTID" : 192,
-				"POI_ID" : "POI-158",
-				"ADD_ID" : null,
-				"PLACENAME" : "St. Andrew's Quad",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
+				"URL" : "http://www.carey-edu.ca",
+				"CONTACT" : "Phone: (604) 225-5920; Email: info@carey-edu.ca; Toll-free: 1-844-862-2739",
 				"HOURS" : null,
 				"LICENSE" : "N",
-				"MANAGE" : "UNA",
+				"MANAGE" : "Non-UBC",
 				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{5BDBC9BF-E6B5-4BB5-BF31-BC1C87CC840E}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181320"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2322726435, 49.2553529097 ]
-			},
-			"properties" : {
-				"OBJECTID" : 203,
-				"POI_ID" : "POI-195",
-				"ADD_ID" : null,
-				"PLACENAME" : "Khorana Park",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : "http://wesbrook.app2.thoughtshop.com/posts/khorana-park#.VYm4W_m4S70",
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{EDA25446-318E-4BDB-AFEB-5E123072CF70}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181320"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2432717389, 49.2664949397 ]
-			},
-			"properties" : {
-				"OBJECTID" : 344,
-				"POI_ID" : "POI-199",
-				"ADD_ID" : null,
-				"PLACENAME" : "University Pharmacy",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village Pharmacy",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "pharmacy",
-				"PHOTOURL" : null,
-				"URL" : "https://www.universitypharmacy.net/?utm_source=Google&utm_medium=maps&utm_campaign=Local_Presence",
-				"CONTACT" : "Phone: (604) 224-3202",
-				"HOURS" : "M-F: 9am - 8pm; Sat/Sun: 10am - 6pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Retail",
-				"HTML" : null,
-				"GLOBALID" : "{B2342FB8-672A-4CB7-8286-C61C42710B87}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181319"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2431961447, 49.2665092393 ]
-			},
-			"properties" : {
-				"OBJECTID" : 354,
-				"POI_ID" : "POI-502",
-				"ADD_ID" : null,
-				"PLACENAME" : "Canada Post",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Village Pharmacy",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "campus_services",
-				"PHOTOURL" : null,
-				"URL" : "https://www.canadapost.ca/cpotools/apps/fpo/personal/findPostOfficeDetail?outletId=%20g96d22b232dff9697_0000104776",
-				"CONTACT" : "Phone: 1 (800) 267-1177",
-				"HOURS" : "M-F: 9am - 8pm; Sat: 10am - 6pm; Sun: 12pm - 4pm",
-				"LICENSE" : null,
-				"MANAGE" : null,
-				"STATUS" : "UEL",
 				"LEED" : null,
 				"HTML" : null,
-				"GLOBALID" : "{11425FA7-EA43-48FC-9A2A-B10A0EEBECC3}",
-				"CREATED_USER" : "GISSTUD1",
-				"CREATED_DATE" : "20180117190927",
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181319"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2428617047, 49.2666580282 ]
-			},
-			"properties" : {
-				"OBJECTID" : 399,
-				"POI_ID" : "POI-200",
-				"ADD_ID" : null,
-				"PLACENAME" : "Copiesmart",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Plaza",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.copiesmart.com/",
-				"CONTACT" : "Phone: (604) 222-3189; Email: info@copiesmart.com; Fax: (604)",
-				"HOURS" : "M-F: 8:30am - 5pm; Sat: 10am - 5pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{47D5AF31-F760-4417-BC4A-CB0AC6333FB5}",
+				"GLOBALID" : "{99DCE7D1-8CF3-4ED5-8EC7-2BACE97E3050}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181320"
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200723230006"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2429837996, 49.2666354742 ]
+				"coordinates" : [ -123.2487193055, 49.2668105603 ]
 			},
 			"properties" : {
-				"OBJECTID" : 400,
-				"POI_ID" : "POI-201",
+				"OBJECTID" : 436,
+				"POI_ID" : "POI-547",
 				"ADD_ID" : null,
-				"PLACENAME" : "University Drycleaners",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "University Plaza",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "commercial_services",
-				"PHOTOURL" : null,
-				"URL" : "http://www.universitydrycleaners.org/",
-				"CONTACT" : "Phone: (604) 228-9414; Email: universityubcdc1@yahoo.com",
-				"HOURS" : "Mon, Tues, Thurs: 9am - 5pm; Wed, Fri: 9am - 3pm; Sat: 10am - 1pm; Sun: Closed",
-				"LICENSE" : "N",
-				"MANAGE" : "UEL",
-				"STATUS" : "UEL",
-				"LEED" : "Services",
-				"HTML" : null,
-				"GLOBALID" : "{8C9AE050-27A3-4E1D-A6D1-78D2CD1F4613}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181320"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2602931374, 49.269865012 ]
-			},
-			"properties" : {
-				"OBJECTID" : 433,
-				"POI_ID" : "POI-276",
-				"ADD_ID" : null,
-				"PLACENAME" : "Yosef Wosk Reflecting Pool",
+				"PLACENAME" : "Macinnes Field",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
 				"BL_NAME" : null,
@@ -13435,139 +13211,75 @@
 				"STATUS" : "Current",
 				"LEED" : null,
 				"HTML" : null,
-				"GLOBALID" : "{15860B58-C4AF-4C81-89A7-264AB0244EBF}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "NIKT",
-				"LAST_EDITED_DATE" : "20200716181319"
+				"GLOBALID" : "{7306859F-3927-4A6A-8F15-5C9B6FA8DA07}",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200724165032",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200724165140"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2467898982, 49.2529551503 ]
+				"coordinates" : [ -123.2503019769, 49.2706742582 ]
 			},
 			"properties" : {
-				"OBJECTID" : 97,
-				"POI_ID" : "POI-270",
-				"ADD_ID" : "VAD11122",
-				"PLACENAME" : "Taylor Plaza",
+				"OBJECTID" : 435,
+				"POI_ID" : "POI-546",
+				"ADD_ID" : null,
+				"PLACENAME" : "Iona Green",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Botanical Garden",
+				"BL_NAME" : null,
 				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "plaza",
+				"SERVICE_TYPE" : "garden",
 				"PHOTOURL" : null,
 				"URL" : null,
 				"CONTACT" : null,
 				"HOURS" : null,
 				"LICENSE" : "N",
-				"MANAGE" : "UBC",
+				"MANAGE" : "UNA",
 				"STATUS" : "Current",
 				"LEED" : null,
 				"HTML" : null,
-				"GLOBALID" : "{2C705B03-08F1-471D-9B4C-3FAD8845E593}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
+				"GLOBALID" : "{1C4E2A0A-7732-4006-BE7A-B9161DF6BFB4}",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200724164150",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200804181936"
+				"LAST_EDITED_DATE" : "20200724164428"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2510624633, 49.2633567401 ]
+				"coordinates" : [ -123.2440442665, 49.2609744256 ]
 			},
 			"properties" : {
-				"OBJECTID" : 10,
-				"POI_ID" : "POI-178",
-				"ADD_ID" : "VAD10815",
-				"PLACENAME" : "Beaty Biodiversity Museum",
+				"OBJECTID" : 373,
+				"POI_ID" : "POI-238",
+				"ADD_ID" : "VAD11076",
+				"PLACENAME" : "Basketball Court",
 				"PLACENAME2" : null,
 				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "Beaty Biodiversity Centre",
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "museum",
-				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/314.jpg",
-				"URL" : "http://biodiversity.ubc.ca/",
-				"CONTACT" : "Phone: (604) 822-0862; Email: biodiversity.centre@ubc.ca; Fax: (604) 827-5350",
-				"HOURS" : "Tues-Sun: 10am - 5pm",
-				"LICENSE" : "N",
-				"MANAGE" : "UBC",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{D5508BB2-D633-4195-8CB4-AC19915E5202}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200807210506"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2474491131, 49.2674430459 ]
-			},
-			"properties" : {
-				"OBJECTID" : 40,
-				"POI_ID" : "POI-239",
-				"ADD_ID" : "VAD11063",
-				"PLACENAME" : "UBC Exchange",
-				"PLACENAME2" : "Diesel Bus Loop",
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : "UBC Exchange",
-				"BL_CLASS" : "Transit",
-				"SERVICE_TYPE" : "transit",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : null,
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "TransLink",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{A191FB2E-99A3-47D2-B6B8-5ED4692D2B7F}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200807212432"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2482231207, 49.2657862973 ]
-			},
-			"properties" : {
-				"OBJECTID" : 41,
-				"POI_ID" : "POI-240",
-				"ADD_ID" : null,
-				"PLACENAME" : "Trolley Bus Loop",
-				"PLACENAME2" : "UBC Loop",
-				"ABBREVIATEDPLACENAME" : null,
 				"BL_NAME" : null,
-				"BL_CLASS" : null,
-				"SERVICE_TYPE" : "transit",
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "park",
 				"PHOTOURL" : null,
 				"URL" : null,
-				"CONTACT" : null,
+				"CONTACT" : "Department of Athletics & Rec, Phone: (604) 827-2764; Fax: (604) 822-6011",
 				"HOURS" : null,
 				"LICENSE" : "N",
-				"MANAGE" : "TransLink",
+				"MANAGE" : "UNA",
 				"STATUS" : "Current",
 				"LEED" : "Civic",
 				"HTML" : null,
-				"GLOBALID" : "{B3367DAD-678D-4DD9-B8F8-A4FB71301867}",
+				"GLOBALID" : "{17D6BD30-E214-490C-9ABA-4DAC69D16179}",
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200807212012"
+				"LAST_EDITED_DATE" : "20200723232649"
 			}
 		},
 		{
@@ -13606,6 +13318,230 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.256322466, 49.269158937 ]
+			},
+			"properties" : {
+				"OBJECTID" : 190,
+				"POI_ID" : "POI-152",
+				"ADD_ID" : "VAD10409",
+				"PLACENAME" : "Rose Garden",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Rose Garden Parkade",
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : "http://www.maps.ubc.ca/PROD/images/photos/N014_a.jpg",
+				"URL" : null,
+				"CONTACT" : "<Null>",
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{3B66D902-61EF-4DD3-A766-8F619C86BE34}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200730232522"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2596814475, 49.2663858906 ]
+			},
+			"properties" : {
+				"OBJECTID" : 86,
+				"POI_ID" : "POI-176",
+				"ADD_ID" : "VAD10128",
+				"PLACENAME" : "Nitobe Memorial Garden",
+				"PLACENAME2" : "Nitobe Garden",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Japanese Tea House - Nitobe Garden",
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/476.jpg",
+				"URL" : "http://www.botanicalgarden.ubc.ca/nitobe",
+				"CONTACT" : "Phone: (604) 822-6038; Email: garden.nitobe@ubc.ca",
+				"HOURS" : "March 13 - May 31: Daily 11am - 4:30am; June 1 - Sept 16: Sun-Wed 11am - 4:30pm,",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{A1A19D09-2848-44D9-A9FA-33CDE1564FA4}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200730231158"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2560894141, 49.2664966152 ]
+			},
+			"properties" : {
+				"OBJECTID" : 437,
+				"POI_ID" : null,
+				"ADD_ID" : null,
+				"PLACENAME" : "First Tree Plaza",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{50525351-96F7-48DD-AD64-5224D26934CE}",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200730232257",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200730232357"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.257651154, 49.2668552346 ]
+			},
+			"properties" : {
+				"OBJECTID" : 439,
+				"POI_ID" : null,
+				"ADD_ID" : null,
+				"PLACENAME" : "Stone Garden",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{5234A87F-AA90-4CC9-B00C-5F5DF3490F2A}",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200730232855",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200730232912"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2557913874, 49.2696385106 ]
+			},
+			"properties" : {
+				"OBJECTID" : 438,
+				"POI_ID" : null,
+				"ADD_ID" : null,
+				"PLACENAME" : "Dorothy Somerset Grove",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "garden",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{DB16D2B0-0D0A-448D-AD3A-B6BAA04E183C}",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200730232558",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200730233147"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2353999162, 49.254159506 ]
+			},
+			"properties" : {
+				"OBJECTID" : 440,
+				"POI_ID" : null,
+				"ADD_ID" : null,
+				"PLACENAME" : "Norman MacKenzie Square",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "plaza",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UNA",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{A6611A1D-D87D-4F3B-A812-C311E40B1D6D}",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200730233130",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200730233207"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2482231207, 49.2657862973 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"POI_ID" : "POI-240",
+				"ADD_ID" : null,
+				"PLACENAME" : "Trolley Bus Loop",
+				"PLACENAME2" : "UBC Loop",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : null,
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "transit",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "TransLink",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{B3367DAD-678D-4DD9-B8F8-A4FB71301867}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200807212012"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.2413711069, 49.2581446689 ]
 			},
 			"properties" : {
@@ -13632,38 +13568,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200807211305"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2440442665, 49.2609744256 ]
-			},
-			"properties" : {
-				"OBJECTID" : 373,
-				"POI_ID" : "POI-238",
-				"ADD_ID" : "VAD11076",
-				"PLACENAME" : "Basketball Court",
-				"PLACENAME2" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BL_NAME" : null,
-				"BL_CLASS" : "garden",
-				"SERVICE_TYPE" : "park",
-				"PHOTOURL" : null,
-				"URL" : null,
-				"CONTACT" : "Department of Athletics & Rec, Phone: (604) 827-2764; Fax: (604) 822-6011",
-				"HOURS" : null,
-				"LICENSE" : "N",
-				"MANAGE" : "UNA",
-				"STATUS" : "Current",
-				"LEED" : "Civic",
-				"HTML" : null,
-				"GLOBALID" : "{17D6BD30-E214-490C-9ABA-4DAC69D16179}",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200723232649"
 			}
 		},
 		{
@@ -13760,6 +13664,102 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20200807211734"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2474491131, 49.2674430459 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"POI_ID" : "POI-239",
+				"ADD_ID" : "VAD11063",
+				"PLACENAME" : "UBC Exchange",
+				"PLACENAME2" : "Diesel Bus Loop",
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "UBC Exchange",
+				"BL_CLASS" : "Transit",
+				"SERVICE_TYPE" : "transit",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "TransLink",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{A191FB2E-99A3-47D2-B6B8-5ED4692D2B7F}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200807212432"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2467898982, 49.2529551503 ]
+			},
+			"properties" : {
+				"OBJECTID" : 97,
+				"POI_ID" : "POI-270",
+				"ADD_ID" : "VAD11122",
+				"PLACENAME" : "Taylor Plaza",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Botanical Garden",
+				"BL_CLASS" : "garden",
+				"SERVICE_TYPE" : "plaza",
+				"PHOTOURL" : null,
+				"URL" : null,
+				"CONTACT" : null,
+				"HOURS" : null,
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : null,
+				"HTML" : null,
+				"GLOBALID" : "{2C705B03-08F1-471D-9B4C-3FAD8845E593}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200804181936"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2510624633, 49.2633567401 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"POI_ID" : "POI-178",
+				"ADD_ID" : "VAD10815",
+				"PLACENAME" : "Beaty Biodiversity Museum",
+				"PLACENAME2" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BL_NAME" : "Beaty Biodiversity Centre",
+				"BL_CLASS" : null,
+				"SERVICE_TYPE" : "museum",
+				"PHOTOURL" : "http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/314.jpg",
+				"URL" : "http://biodiversity.ubc.ca/",
+				"CONTACT" : "Phone: (604) 822-0862; Email: biodiversity.centre@ubc.ca; Fax: (604) 827-5350",
+				"HOURS" : "Tues-Sun: 10am - 5pm",
+				"LICENSE" : "N",
+				"MANAGE" : "UBC",
+				"STATUS" : "Current",
+				"LEED" : "Civic",
+				"HTML" : null,
+				"GLOBALID" : "{D5508BB2-D633-4195-8CB4-AC19915E5202}",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200807210506"
 			}
 		}
 	]
