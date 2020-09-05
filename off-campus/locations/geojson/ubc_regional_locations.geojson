@@ -9691,6 +9691,176 @@
 				"LOC_ADD_ID" : "ARLC10417",
 				"ADDRESS2" : null
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2431604809, 49.2650402866 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4162,
+				"LOC_ID" : "RLC90901",
+				"NAME" : "Test Regional Location",
+				"UNIT" : null,
+				"ADDRESS" : "1234 Toronto Road",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6T 1W6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200829050941",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200902162707",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC90901",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2435868091, 49.2657625205 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4164,
+				"LOC_ID" : "RLC90902",
+				"NAME" : "Test Regional Site",
+				"UNIT" : null,
+				"ADDRESS" : "1234 Allison Road",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6T 1W6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200902151655",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200902151659",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC90902",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2430887662, 49.2649338045 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4165,
+				"LOC_ID" : "RLC90903",
+				"NAME" : "Test Hospital Site",
+				"UNIT" : null,
+				"ADDRESS" : "4500 Oak Street",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6T 1W6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200902151747",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200903171424",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10408",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2435958056, 49.2656412352 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4166,
+				"LOC_ID" : "RLC90904",
+				"NAME" : "Test Regional Site 2",
+				"UNIT" : null,
+				"ADDRESS" : "4567 Allison Road",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6T 1W6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200903170632",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200903170804",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC90904",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.2435243485, 49.2655539678 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4167,
+				"LOC_ID" : "RLC90905",
+				"NAME" : "Test Hospital Site 2",
+				"UNIT" : null,
+				"ADDRESS" : "4500 Oak Street",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6T 1W6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20200903170632",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200903170751",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10408",
+				"ADDRESS2" : null
+			}
 		}
 	]
 }
