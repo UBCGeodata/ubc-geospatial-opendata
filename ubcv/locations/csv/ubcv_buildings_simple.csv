@@ -1,10 +1,110 @@
 ﻿BLDG_USAGE,NAME,BLDG_CODE,PRIMARY_ADDRESS,POSTAL_CODE,BLDG_UID,CONSTR_STATUS,LAT,LONG
+StudentHousing,Place Vanier Residence - Phyllis Ross House,VNR09,"1935 Lower Mall, Building 11",V6T 1X1,VBL10368,Complete,-123.259613,49.265321
+StudentHousing,Place Vanier Residence - Tweedsmuir House,VNR13,"1935 Lower Mall, Building 5",V6T 1X1,VBL10369,Complete,-123.258307,49.263479
+StudentHousing,Exchange Residence,EXCH,5960 Student Union Boulevard,V6T 2C9,VBL10370,Complete,-123.247698,49.268598
+Services,Child Care Services - Saw-Whet,MCC1,2850 Salmo Court,V6T 1S1,VBL10372,Complete,-123.236533,49.260392
+Services,Child Care Services - Barish,MCC2,2835 Revelstoke Court,V6T 1S1,VBL10373,Complete,-123.235488,49.260488
+Services,Kids Club,KIDS,2855 Acadia Road,V6T 1S1,VBL10374,Complete,-123.234812,49.26173
+Services,Child Care Services - Willow,MCC3,2845 Revelstoke Court,V6T 1S1,VBL10375,Complete,-123.235332,49.26084
+Academic,Landscape Architecture Annex,LAX,2371 Main Mall,V6T 1Z4,VBL10377,Complete,-123.250073,49.260647
+StudentHousing,Place Vanier Residence - Tec De Monterrey House,VNR12,"1935 Lower Mall, Building 8",V6T 1X1,VBL10367,Complete,-123.259536,49.264033
+Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.233198,49.25083
+Academic,First Nations Longhouse,FNLH,1985 West Mall,V6T 1Z2,VBL10386,Complete,-123.257199,49.26555
+Academic,UBC Farm - Yurt,YURT,3465 Ross Drive,V6T 1W5,VBL10391,Complete,-123.239894,49.251271
+StudentHousing,Walter H. Gage Residence - East Highrise,WGR4,"5959 Student Union Boulevard, Building 3",V6T 1K2,VBL10393,Complete,-123.24916,49.269644
+StudentHousing,Walter H. Gage Residence - North Highrise,WGR5,"5959 Student Union Boulevard, Building 4",V6T 1K2,VBL10394,Complete,-123.250038,49.269834
+StudentHousing,Walter H. Gage Residence - South Highrise,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.249716,49.269202
+Parking,Fraser River Parkade,PARF,6440 Memorial Road,V6T 1Z2,VBL10397,Complete,-123.258053,49.266067
+StudentHousing,MBA House,MBAH,3385 Wesbrook Mall,V6T 1Z4,VBL10403,Complete,-123.235168,49.253864
+StudentHousing,Fraternity Village,FRAT,2880 Wesbrook Mall,V6T 2J3,VBL10404,Complete,-123.238861,49.259666
+Services,Frederic Wood Theatre,FRWO,6354 Crescent Road,V6T 1Z2,VBL10405,Complete,-123.256998,49.268043
+Services,AMS Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Complete,-123.249792,49.266536
+Academic,Biological Sciences Building,BIOL,6270 University Boulevard,V6T 1Z4,VBL10409,Complete,-123.251333,49.264452
+Academic,Geography Building,GEOG,1984 West Mall,V6T 1Z2,VBL10411,Complete,-123.256138,49.265987
+Housing,Granite Terrace,GRT1,3233 Wesbrook Mall,V6S 0B4,VBL10164,Complete,-123.236985,49.254825
+StudentHousing,Green College - A South,GRN3,"6201 Cecil Green Park Road, Building 6",V6T 1Z1,VBL10415,Complete,-123.25524,49.270939
+Housing,Coast - Apartment East,COSE,6063 Iona Drive,V6T 0B1,VBL10300,Complete,-123.252559,49.271039
+StudentHousing,Walter H. Gage Residence - Apartment,WGR2,5980 Walter Gage Road,V6T 1K2,VBL10301,Complete,-123.24901,49.270138
+Housing,Corus,CORS,5989 Walter Gage Road,V6T 0A8,VBL10303,Complete,-123.249362,49.270655
+Academic,West Mall Swing Space Building,SWNG,2175 West Mall,V6T 1Z4,VBL10304,Complete,-123.254389,49.26279
+Housing,Westpoint,WSPT,6005 Walter Gage Road,V6T 0B3,VBL10305,Complete,-123.250441,49.270246
+Services,Child Care Services Administration Building,CCSA,2881 Acadia Road,V6T 1S1,VBL10306,Complete,-123.234229,49.26092
+Athletics,Doug Mitchell Thunderbird Sports Centre,THUN,6066 Thunderbird Boulevard,V6T 1Z3,VBL10307,Complete,-123.241947,49.260342
+StudentHousing,Acadia House,ACAH,2700 Acadia Road,V6T 1R9,VBL10308,Complete,-123.235913,49.262883
+Commons,Ponderosa Commons West - Arbutus/Maple House,PCW,6488 University Boulevard,V6T 1Z4,VBL10310,Complete,-123.255609,49.263451
+Commons,Ponderosa Commons East - Audain Art Centre/Spruce House,PCE,6398 University Boulevard,V6T 1Z4,VBL10311,Complete,-123.254422,49.263787
+Commons,Ponderosa Commons North - Oak/Cedar House,PCN,6445 University Boulevard,V6T 1Z2,VBL10312,Complete,-123.256182,49.264086
+StudentHousing,Panhellenic House,PANH,2770 Wesbrook Mall,V6T 2B7,VBL10313,Complete,-123.239585,49.260111
+Housing,Axis,AXIS,6090 Iona Drive,V6T 0B6,VBL10314,Complete,-123.252236,49.270004
+Services,Morris and Helen Belkin Art Gallery,BART,1825 Main Mall,V6T 1Z2,VBL10315,Complete,-123.256225,49.268172
+StudentHousing,Marine Drive Residence - 2,MAR2,"2205 Lower Mall, Building 2",V6T 1Z4,VBL10317,Complete,-123.256768,49.261875
+StudentHousing,Marine Drive Residence - 1 Simon Lee,MAR1,"2205 Lower Mall, Building 1",V6T 1Z4,VBL10319,Complete,-123.255886,49.262002
+Housing,TRIUMF House,TRFH,5835 Thunderbird Boulevard,V6T 2L6,VBL10320,Complete,-123.241234,49.262043
+Housing,Pine House,PINE,3588 Ross Drive,V6S 0K3,VBL10321,Complete,-123.234275,49.251427
+Housing,Cypress House,CYPR,5988 Gray Avenue,V6S 0K4,VBL10322,Complete,-123.234693,49.251928
+Academic,Buchanan Building,BUCH,1866 Main Mall,V6T 1Z1,VBL10323,Complete,-123.25447,49.268693
+Academic,Buchanan Tower,BUTO,1873 East Mall,V6T 1Z1,VBL10324,Complete,-123.253504,49.268575
+StudentHousing,Place Vanier Residence - Aldyen Hamber House,VNR01,"1935 Lower Mall, Building 13",V6T 1X1,VBL10325,Complete,-123.258794,49.265267
+StudentHousing,Place Vanier Residence - Margaret Mackenzie House,VNR07,"1935 Lower Mall, Building 12",V6T 1X1,VBL10326,Complete,-123.259142,49.26569
+Academic,Chemistry Physics Building,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251534,49.265728
+Academic,Chemistry Building,CHEM,2036 Main Mall,V6T 1Z1,VBL10328,Complete,-123.252684,49.265806
+Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249351,49.263122
+Academic,D.H. Copp Building,COPP,2146 Health Sciences Mall,V6T 1Z3,VBL10333,Complete,-123.247549,49.265533
+Services,Old Auditorium,AUDI,6344 Memorial Road,V6T 1Z2,VBL10335,Complete,-123.256101,49.266897
+Academic,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,V6T 1Z4,VBL10329,Complete,-123.248891,49.262558
+Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234392,49.252732
+Academic,C.K. Choi Building,CHOI,1855 West Mall,V6T 1Z2,VBL10338,Complete,-123.257957,49.267268
+Housing,Virtuoso,VIRT,3581 Ross Drive,V6S 0K5,VBL10345,Complete,-123.23395,49.250717
+Housing,Cascara House,CASC,6385 Hawthorn Lane,V6T 0C1,VBL10347,Complete,-123.249669,49.258465
+Academic,Sing Tao Building,STAO,6388 Crescent Road,V6T 1Z2,VBL10348,Complete,-123.257746,49.267826
+Academic,Library PARC@UBC,PARC,6049 Nurseries Road,V6T 1W5,VBL10351,Complete,-123.229679,49.245095
+Parking,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248957,49.266712
+Housing,Central,CNTL,6015 University Boulevard,V6T 0C4,VBL10356,Complete,-123.247244,49.266347
+Parking,Health Sciences Parkade,PARH,2250 Health Sciences Mall,V6T 1Z3,VBL10357,Complete,-123.247851,49.2634
+StudentHousing,Place Vanier Residence - Robson House,VNR10,"1935 Lower Mall, Building 7",V6T 1X1,VBL10358,Complete,-123.258437,49.263908
+Academic,Hennings Building,HENN,6224 Agricultural Road,V6T 1Z1,VBL10359,Complete,-123.252206,49.266441
+StudentHousing,Place Vanier Residence - Cariboo House,VNR02,"1935 Lower Mall, Building 6",V6T 1X1,VBL10360,Complete,-123.258973,49.26374
+Academic,Academic,WDAC3,2045 East Mall,V6T 1Z1,VBL90916,Complete,-123.245287,49.266786
+Academic,Horticulture Building,HORT,6394 Stores Road,V6T 1Z4,VBL10362,Complete,-123.252772,49.261395
+StudentHousing,Place Vanier Residence - Sherwood Lett House,VNR11,"1935 Lower Mall, Building 4",V6T 1X1,VBL10365,Complete,-123.257533,49.263393
+Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.240037,49.257119
+Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255519,49.260542
+StudentHousing,Acadia Park Residence - Highrise,APRH,2725 Melfa Road,V6T 1N4,VBL10260,Complete,-123.236861,49.262313
+Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,PreConstruction,-123.253078,49.269288
+Administrative,International House,INTL,1783 West Mall,V6T 1Z2,VBL10371,Complete,-123.258963,49.267805
+Services,Museum of Anthropology,MOA,6393 NW Marine Drive,V6T 1Z2,VBL10235,Complete,-123.259431,49.269501
+Administrative,FERIC,FERC,2601 East Mall,V6T 1Z4,VBL10020,Complete,-123.244548,49.257744
+Housing,Evolve,EVLV,3508 Wesbrook Mall,,VBL10422,UnderConstruction,-123.233231,49.252338
+Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,PreConstruction,-123.252366,49.269083
+Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,PreConstruction,-123.252618,49.269569
+StudentHousing,Green College - Kitchen/Laundry,GRN2,"6201 Cecil Green Park Road, Building 9",V6T 1Z1,VBL10434,Complete,-123.255577,49.270994
+Services,Green College - D Graham House,GRN7,"6201 Cecil Green Park Road, Building 4",V6T 1Z1,VBL10189,Complete,-123.256254,49.271282
+StudentHousing,Acadia Park Residence - Tennis Crescent,APR5,2621 Tennis Crescent,V6T 2C1,VBL10436,Complete,-123.237717,49.263488
+StudentHousing,Acadia Park Residence - Fairview Place,APR3,5501 Fairview Place,V6T 2E2,VBL10437,Complete,-123.236836,49.263268
+StudentHousing,Acadia Park Residence - Montgomery Place,APR2,5501 Montgomery Place,V6T 2C8,VBL10439,Complete,-123.238727,49.264807
+StudentHousing,Acadia Park Residence - Yalta Place,APR6,5501 Yalta Place,V6T 1L7,VBL10438,Complete,-123.23823,49.264156
+StudentHousing,Acadia Park Residence - Pearkes Lane,APR4,2500 Pearkes Lane,V6T 2C4,VBL10440,Complete,-123.239433,49.264278
+StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.237102,49.264236
+Administrative,Gerald McGavin Building,GMCG,2386 East Mall,V6T 1Z3,VBL10043,Complete,-123.246766,49.261788
+Services,Public Safety Building - RCMP + Fire,PSAB,2990 Wesbrook Mall,V6T 2B7,VBL10046,Complete,-123.238156,49.258948
+Athletics,Rugby Pavilion,RUGB,2584 East Mall,V6T 1Z3,VBL10055,Complete,-123.244018,49.258669
+Operations,Bioenergy Research and Demonstration Facility,BRDF,2337 Lower Mall,V6T 1Z4,VBL10069,Complete,-123.254573,49.260277
+Administrative,David Strangway Building,STRG,5950 University Boulevard,V6T 1Z3,VBL10070,Complete,-123.246187,49.265847
+Housing,The Mews,MEWS,3333 Wesbrook Mall,V6S 0E3,VBL10165,Complete,-123.235704,49.254536
+Housing,Yu,YU,5955 Birney Avenue,V6S 0C5,VBL10167,Complete,-123.236055,49.253554
+Housing,Legacy,LGCY,6333 Larkin Drive,V6T 0A7,VBL10160,Complete,-123.248016,49.257457
+Academic,Centre for Interactive Research on Sustainability,CIRS,2260 West Mall,V6T 1Z4,VBL10162,Complete,-123.253079,49.26205
+Housing,Pacific,PACC,5928 Birney Avenue,V6S 0B5,VBL10169,Complete,-123.23499,49.253273
+Housing,Village Square,VSQU,3338 Webber Lane,V6S 0J7,VBL10170,Complete,-123.236368,49.253967
+Housing,Webber House,WEBH,3388 Webber Lane,V6S 0J8,VBL10171,Complete,-123.236769,49.2533
+StudentHousing,Green College - B East,GRN5,"6201 Cecil Green Park Road, Building 7",V6T 1Z1,VBL10174,Complete,-123.256004,49.270833
+Housing,The Balmoral,BALM,5615 Hampton Place,V6T 2H1,VBL10175,Complete,-123.232724,49.258484
+StudentHousing,Green College - D Coach House,GRN6,"6201 Cecil Green Park Road, Building 2",V6T 1Z1,VBL10176,Complete,-123.256545,49.271146
 Academic,Liu Institute for Global Issues,LIU,6476 NW Marine Drive,V6T 1Z2,VBL10177,Complete,-123.259278,49.267555
-Academic,Academic,WDAC1,2045 East Mall,V6T 1Z1,VBL90916,Complete,-123.245287,49.266786
 StudentHousing,Green College - Guest House,GRN9,"6201 Cecil Green Park Road, Building 1",V6T 1Z1,VBL10180,Complete,-123.256523,49.270857
 Services,The Barn - Owl Child Care,BARN,2323 Main Mall,V6T 1Z4,VBL10181,Complete,-123.251122,49.261931
 Parking,UBC Exchange,TRAN,1985 Wesbrook Mall,V6T 2C9,VBL10354,Complete,-123.247729,49.268347
-Administrative,WD Test Admin,WDAD,6348 Memorial Road,V6T 1Z2,VBL90917,Complete,-123.245482,49.267042
+Administrative,WD Test Admin,WDAD,6328 Memorial Road,V6T 1Z2,VBL90917,Complete,-123.245482,49.267042
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.26263
 Services,Green College - D Commons,GRN8,"6201 Cecil Green Park Road, Building 3",V6T 1Z1,VBL10435,Complete,-123.256697,49.271296
 StudentHousing,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,V6T 1Z1,VBL10190,Complete,-123.256959,49.270906
@@ -29,64 +129,6 @@ Housing,Reflections,REFL,6279 Eagles Drive,V6T 2K7,VBL10148,Complete,-123.246897
 Housing,Promontory,PROM,2688 West Mall,V6T 2J8,VBL10149,Complete,-123.247566,49.255945
 Administrative,Berwick Child Development Centre,BERW,2765 Osoyoos Crescent,V6T 1X7,VBL10155,Complete,-123.238955,49.260598
 Housing,Tamarack House,TAMK,6230 Thunderbird Boulevard,V6T 0C3,VBL10159,Complete,-123.246339,49.259593
-Administrative,Technology Enterprise Facility 3,TEF3,6190 Agronomy Road,V6T 1Z3,VBL10346,Complete,-123.246304,49.26115
-Other,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 Student Union Boulevard,V6T 1Z1,VBL10361,Complete,-123.251328,49.268616
-Administrative,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Complete,-123.248044,49.261251
-Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253632,49.267397
-Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,Complete,-123.245952,49.263267
-Other,Chapel of the Epiphany,CHPL,6030 Chancellor Boulevard,V6T 1X3,VBL10392,Complete,-123.252259,49.271559
-StudentHousing,Walter H. Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248584,49.269593
-Athletics,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,V6T 1Z3,VBL10412,Complete,-123.241322,49.259584
-Services,Counselling Services,CNSL,1930 East Mall,V6T 1Z1,VBL10421,UnderConstruction,-123.251994,49.268231
-Administrative,Technology Enterprise Facility 4,TEF4,2425 Health Sciences Mall,V6T 1Z3,VBL10429,UnderConstruction,-123.245773,49.261291
-Research,TRIUMF - Trailer A,TRF18,"4004 Wesbrook Mall, Building 21",V6T 2A3,VBL10038,Complete,-123.230343,49.246578
-Services,Rodney Graham Millennium Sculpture Pavilion,RSCU,1940 Main Mall,V6T 1Z1,VBL10051,Complete,-123.254508,49.267523
-Research,TRIUMF - Trailer PP,TRF24,"4004 Wesbrook Mall, Building 25",V6T 2A3,VBL10053,Complete,-123.229145,49.246359
-Research,TRIUMF - Trailer HH & FF,TRF21,"4004 Wesbrook Mall, Building 3",V6T 2A3,VBL10049,Complete,-123.230638,49.248306
-Research,TRIUMF - Trailer Q,TRF25,"4004 Wesbrook Mall, Building 19",V6T 2A3,VBL10056,Complete,-123.230628,49.246812
-Research,TRIUMF - Trailer RR,TRF26,"4004 Wesbrook Mall, Building 16",V6T 2A3,VBL10057,Complete,-123.230826,49.247133
-Research,TRIUMF - Shipping / Workshop,TRF28,6095 Nurseries Road,V6T 2A3,VBL10059,Complete,-123.230074,49.246236
-Research,TRIUMF - Machine Shop Materials,TRF12,"4004 Wesbrook Mall, Building 24",V6T 2A3,VBL10061,Complete,-123.229845,49.246373
-Research,TRIUMF - Trailer GG,TRF20,"4004 Wesbrook Mall, Building 26",V6T 2A3,VBL10063,Complete,-123.229348,49.246181
-Operations,South Campus Warehouse,SCWH,6116 Nurseries Road,V6T 1W5,VBL10077,Complete,-123.231866,49.24625
-Operations,Lower Mall Header House,LMHH,2331 Lower Mall,V6T 1Z4,VBL10097,Complete,-123.254818,49.260524
-Research,TRIUMF - Trailer LL,TRF22,"4004 Wesbrook Mall, Building 17",V6T 2A3,VBL10050,Complete,-123.230961,49.24689
-Operations,Staging Environmental Research Centre,SERC,6045 Nurseries Road,V6T 1W5,VBL10123,Complete,-123.228068,49.245484
-Research,"TRIUMF - Offices, Laboratory & Workshops",TRF14,4004 Wesbrook Mall,V6T 2A3,VBL10132,Complete,-123.230613,49.247642
-Services,Ambulance Station,AMBS,2333 Wesbrook Mall,V6T 1Z3,VBL10186,Complete,-123.243605,49.263238
-Operations,Old Fire Hall,FIRE,2038 West Mall,V6T 1Z2,VBL10139,Complete,-123.255572,49.265027
-Operations,Main Substation,MSUB,2446 Health Sciences Mall,V6T 1Z3,VBL10192,Complete,-123.244362,49.261352
-Operations,Materials Recovery Facility,MARF,6055 Nurseries Road,V6T 1W5,VBL10203,Complete,-123.228539,49.245784
-Operations,Building Operations Storage Shed,BOSS,2214 Lower Mall,V6T 1Z4,VBL10207,Complete,-123.254414,49.262185
-Services,Nitobe Memorial Garden,NITO,1895 Lower Mall,V6T 1Z2,VBL10230,Complete,-123.259227,49.266162
-Other,Telus Hub,TELS,5895 Berton Avenue,V6T 1W5,VBL10179,Complete,-123.235473,49.255225
-Other,AYO Smart Home,AYOH,5935 Agronomy Road,V6T 1Z3,VBL10294,Complete,-123.243428,49.263035
-Academic,Robert F. Osborne Centre - Unit 2,OSB2,"6108 Thunderbird Boulevard, Building 2",V6T 1Z3,VBL10296,Complete,-123.24432,49.259969
-Operations,Building Operations Nursery,BONR,6029 Nurseries Road,V6T 1W5,VBL10337,Complete,-123.22922,49.244449
-Operations,In-Vessel Composting Facility,COMP,6035 Nurseries Road,V6T 1W5,VBL10364,Complete,-123.228013,49.244844
-Operations,Environmental Services Facility - Office,ENV4,"6025 Nurseries Road, Building 1",V6T 1W5,VBL10400,Complete,-123.228955,49.243459
-Operations,Environmental Services Facility - Lab,ENV1,"6025 Nurseries Road, Building 5",V6T 1W5,VBL10401,Complete,-123.228625,49.243329
-Housing,West Hampstead - Building 1,WHM1,5760 Hampton Place,V6T 2G1,VBL10281,Complete,-123.235245,49.257589
-Housing,Chancellor Hall - Apartment,CHHA,5989 Iona Drive,V6T 2L7,VBL10290,Complete,-123.250472,49.271899
-Housing,Folio - Apartment,FOL1,5955 Iona Drive,V6T 2L4,VBL10309,Complete,-123.249755,49.272103
-Housing,Prodigy - Building 2,PRD2,3462 Ross Drive,V6S 0H6,VBL10336,Complete,-123.236616,49.251621
-Housing,Prodigy - Building 1,PRD1,6033 Gray Avenue,V6S 0G3,VBL10349,Complete,-123.235956,49.251652
-Housing,The Residences at Nobel Park - Townhouses,REN2,3483 Ross Drive,,VBL10352,UnderConstruction,-123.236412,49.250912
-Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,,VBL10353,UnderConstruction,-123.234997,49.250616
-Housing,Chancellor House - Apartment,CHOA,6015 Iona Drive,V6T 2J4,VBL10387,Complete,-123.251446,49.271562
-Housing,Sail - Building 2,SAL2,5981 Gray Avenue,V6S 0G1,VBL10390,Complete,-123.235195,49.252597
-Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234586,49.2575
-Housing,Thames Court - Building 1,THAC1,"5880 Hampton Place, Building 1",V6T 2E9,VBL10417,Complete,-123.235779,49.25725
-Operations,UBC Botanical Garden - Workshop (Trailer),BOT6,6450 Stadium Road,V6T 1Z4,VBL10005,Complete,-123.247635,49.254767
-Services,UBC Botanical Garden - Admin/Campbell Building,BOT2,"6804 SW Marine Drive, Building 3",V6T 1Z4,VBL10006,Complete,-123.251106,49.253884
-Services,UBC Botanical Garden - Ting Lookout,BOT7,"6804 SW Marine Drive, Building 4",V6T 1Z4,VBL10007,Complete,-123.251644,49.254077
-Services,UBC Botanical Garden - Reception Centre,BOT3,"6804 SW Marine Drive, Building 2",V6T 1Z4,VBL10008,Complete,-123.25124,49.254142
-Operations,UBC Farm - Greenhouse 2,FRM5,"3461 Ross Drive, Building 4",V6T 1W5,VBL10012,Complete,-123.239035,49.251033
-Services,UBC Botanical Garden - Garden Pavilion,BOT4,"6804 SW Marine Drive, Building 5",V6T 1Z4,VBL10003,Complete,-123.247123,49.253249
-Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V6T 1W5,VBL10015,Complete,-123.23981,49.251464
-Operations,Environmental Services Facility - Waste Processing & Storage,ENV7,"6025 Nurseries Road, Building 6",V6T 1W5,VBL10019,Complete,-123.228693,49.243437
-Research,TRIUMF - Accelerator,TRF02,"4004 Wesbrook Mall, Building 7",V6T 2A3,VBL10022,Complete,-123.229307,49.247241
-Services,UBC Botanical Garden - Scholar's Retreat,BOT5,6380 Stadium Road,V6T 1Z4,VBL10004,Complete,-123.246918,49.254974
 Housing,Sumac House,SUMA,6395 Hawthorn Lane,V6T 0C1,VBL10041,Complete,-123.250055,49.258277
 Academic,Frederic Lasserre Building,LASR,6333 Memorial Road,V6T 1Z2,VBL10042,Complete,-123.255992,49.267592
 Academic,Frank Forward Building,FORW,6350 Stores Road,V6T 1Z4,VBL10044,Complete,-123.251707,49.261686
@@ -146,26 +188,6 @@ Academic,UBC Farm - Farm Centre,FRM1,"3461 Ross Drive, Building 1",V6T 1W5,VBL10
 StudentHousing,Totem Park Residence - Building 4,TPR4,"2525 West Mall, Building 4",V6T 1W9,VBL10016,Complete,-123.251552,49.259171
 Academic,George Cunningham Building,CUNN,2146 East Mall,V6T 1Z3,VBL10039,Complete,-123.248748,49.26479
 Housing,Keenleyside,KEEN,5788 Birney Avenue,V6S 0A2,VBL10040,Complete,-123.233177,49.253955
-StudentHousing,Place Vanier Residence - Phyllis Ross House,VNR09,"1935 Lower Mall, Building 11",V6T 1X1,VBL10368,Complete,-123.259613,49.265321
-StudentHousing,Place Vanier Residence - Tweedsmuir House,VNR13,"1935 Lower Mall, Building 5",V6T 1X1,VBL10369,Complete,-123.258307,49.263479
-StudentHousing,Exchange Residence,EXCH,5960 Student Union Boulevard,V6T 2C9,VBL10370,Complete,-123.247698,49.268598
-Services,Child Care Services - Saw-Whet,MCC1,2850 Salmo Court,V6T 1S1,VBL10372,Complete,-123.236533,49.260392
-Services,Child Care Services - Barish,MCC2,2835 Revelstoke Court,V6T 1S1,VBL10373,Complete,-123.235488,49.260488
-Services,Kids Club,KIDS,2855 Acadia Road,V6T 1S1,VBL10374,Complete,-123.234812,49.26173
-Services,Child Care Services - Willow,MCC3,2845 Revelstoke Court,V6T 1S1,VBL10375,Complete,-123.235332,49.26084
-Academic,Landscape Architecture Annex,LAX,2371 Main Mall,V6T 1Z4,VBL10377,Complete,-123.250073,49.260647
-StudentHousing,Place Vanier Residence - Tec De Monterrey House,VNR12,"1935 Lower Mall, Building 8",V6T 1X1,VBL10367,Complete,-123.259536,49.264033
-Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.233198,49.25083
-Academic,First Nations Longhouse,FNLH,1985 West Mall,V6T 1Z2,VBL10386,Complete,-123.257199,49.26555
-Academic,UBC Farm - Yurt,YURT,3465 Ross Drive,V6T 1W5,VBL10391,Complete,-123.239894,49.251271
-StudentHousing,Walter H. Gage Residence - East Highrise,WGR4,"5959 Student Union Boulevard, Building 3",V6T 1K2,VBL10393,Complete,-123.24916,49.269644
-StudentHousing,Walter H. Gage Residence - North Highrise,WGR5,"5959 Student Union Boulevard, Building 4",V6T 1K2,VBL10394,Complete,-123.250038,49.269834
-StudentHousing,Walter H. Gage Residence - South Highrise,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.249716,49.269202
-Parking,Fraser River Parkade,PARF,6440 Memorial Road,V6T 1Z2,VBL10397,Complete,-123.258053,49.266067
-StudentHousing,MBA House,MBAH,3385 Wesbrook Mall,V6T 1Z4,VBL10403,Complete,-123.235168,49.253864
-StudentHousing,Fraternity Village,FRAT,2880 Wesbrook Mall,V6T 2J3,VBL10404,Complete,-123.238861,49.259666
-Services,Frederic Wood Theatre,FRWO,6354 Crescent Road,V6T 1Z2,VBL10405,Complete,-123.256998,49.268043
-Services,AMS Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Complete,-123.249792,49.266536
 Research,TRIUMF - Accelerator Trailer,TRF03,"4004 Wesbrook Mall, Building 15",V6T 2A3,VBL10023,Complete,-123.230129,49.246851
 Operations,Power House,POWR,2040 West Mall,V6T 1Z2,VBL10024,Complete,-123.2548,49.265211
 Research,TRIUMF - ARIEL,TRF01,"4004 Wesbrook Mall, Building 4",V6T 2A3,VBL10025,Complete,-123.229956,49.247688
@@ -221,85 +243,64 @@ Services,UBC Hospital - Detwiller Pavilion,DPAV,2255 Wesbrook Mall,V6T 1Z3,VBL10
 Operations,Campus Energy Centre,CEC,6130 Agronomy Road,V6T 1Z3,VBL10339,Complete,-123.245092,49.261645
 Administrative,Cecil Green Park Coach House,CGPC,6323 Cecil Green Park Road,V6T 1Z1,VBL10341,Complete,-123.258473,49.270999
 Administrative,Cecil Green Park House,CGPH,6251 Cecil Green Park Road,V6T 1Z1,VBL10342,Complete,-123.257677,49.271375
-Academic,Biological Sciences Building,BIOL,6270 University Boulevard,V6T 1Z4,VBL10409,Complete,-123.251333,49.264452
-Academic,Geography Building,GEOG,1984 West Mall,V6T 1Z2,VBL10411,Complete,-123.256138,49.265987
-Housing,Granite Terrace,GRT1,3233 Wesbrook Mall,V6S 0B4,VBL10164,Complete,-123.236985,49.254825
-StudentHousing,Green College - A South,GRN3,"6201 Cecil Green Park Road, Building 6",V6T 1Z1,VBL10415,Complete,-123.25524,49.270939
-Housing,Coast - Apartment East,COSE,6063 Iona Drive,V6T 0B1,VBL10300,Complete,-123.252559,49.271039
-StudentHousing,Walter H. Gage Residence - Apartment,WGR2,5980 Walter Gage Road,V6T 1K2,VBL10301,Complete,-123.24901,49.270138
-Housing,Corus,CORS,5989 Walter Gage Road,V6T 0A8,VBL10303,Complete,-123.249362,49.270655
-Academic,West Mall Swing Space Building,SWNG,2175 West Mall,V6T 1Z4,VBL10304,Complete,-123.254389,49.26279
-Housing,Westpoint,WSPT,6005 Walter Gage Road,V6T 0B3,VBL10305,Complete,-123.250441,49.270246
-Services,Child Care Services Administration Building,CCSA,2881 Acadia Road,V6T 1S1,VBL10306,Complete,-123.234229,49.26092
-Athletics,Doug Mitchell Thunderbird Sports Centre,THUN,6066 Thunderbird Boulevard,V6T 1Z3,VBL10307,Complete,-123.241947,49.260342
-StudentHousing,Acadia House,ACAH,2700 Acadia Road,V6T 1R9,VBL10308,Complete,-123.235913,49.262883
-Commons,Ponderosa Commons West - Arbutus/Maple House,PCW,6488 University Boulevard,V6T 1Z4,VBL10310,Complete,-123.255609,49.263451
-Commons,Ponderosa Commons East - Audain Art Centre/Spruce House,PCE,6398 University Boulevard,V6T 1Z4,VBL10311,Complete,-123.254422,49.263787
-Commons,Ponderosa Commons North - Oak/Cedar House,PCN,6445 University Boulevard,V6T 1Z2,VBL10312,Complete,-123.256182,49.264086
-StudentHousing,Panhellenic House,PANH,2770 Wesbrook Mall,V6T 2B7,VBL10313,Complete,-123.239585,49.260111
-Housing,Axis,AXIS,6090 Iona Drive,V6T 0B6,VBL10314,Complete,-123.252236,49.270004
-Services,Morris and Helen Belkin Art Gallery,BART,1825 Main Mall,V6T 1Z2,VBL10315,Complete,-123.256225,49.268172
-StudentHousing,Marine Drive Residence - 2,MAR2,"2205 Lower Mall, Building 2",V6T 1Z4,VBL10317,Complete,-123.256768,49.261875
-StudentHousing,Marine Drive Residence - 1 Simon Lee,MAR1,"2205 Lower Mall, Building 1",V6T 1Z4,VBL10319,Complete,-123.255886,49.262002
-Housing,TRIUMF House,TRFH,5835 Thunderbird Boulevard,V6T 2L6,VBL10320,Complete,-123.241234,49.262043
-Housing,Pine House,PINE,3588 Ross Drive,V6S 0K3,VBL10321,Complete,-123.234275,49.251427
-Housing,Cypress House,CYPR,5988 Gray Avenue,V6S 0K4,VBL10322,Complete,-123.234693,49.251928
-Academic,Buchanan Building,BUCH,1866 Main Mall,V6T 1Z1,VBL10323,Complete,-123.25447,49.268693
-Academic,Buchanan Tower,BUTO,1873 East Mall,V6T 1Z1,VBL10324,Complete,-123.253504,49.268575
-StudentHousing,Place Vanier Residence - Aldyen Hamber House,VNR01,"1935 Lower Mall, Building 13",V6T 1X1,VBL10325,Complete,-123.258794,49.265267
-StudentHousing,Place Vanier Residence - Margaret Mackenzie House,VNR07,"1935 Lower Mall, Building 12",V6T 1X1,VBL10326,Complete,-123.259142,49.26569
-Academic,Chemistry Physics Building,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251534,49.265728
-Academic,Chemistry Building,CHEM,2036 Main Mall,V6T 1Z1,VBL10328,Complete,-123.252684,49.265806
-Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249351,49.263122
-Academic,D.H. Copp Building,COPP,2146 Health Sciences Mall,V6T 1Z3,VBL10333,Complete,-123.247549,49.265533
-Services,Old Auditorium,AUDI,6344 Memorial Road,V6T 1Z2,VBL10335,Complete,-123.256101,49.266897
-Academic,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,V6T 1Z4,VBL10329,Complete,-123.248891,49.262558
-Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234392,49.252732
-Academic,C.K. Choi Building,CHOI,1855 West Mall,V6T 1Z2,VBL10338,Complete,-123.257957,49.267268
-Housing,Virtuoso,VIRT,3581 Ross Drive,V6S 0K5,VBL10345,Complete,-123.23395,49.250717
-Housing,Cascara House,CASC,6385 Hawthorn Lane,V6T 0C1,VBL10347,Complete,-123.249669,49.258465
-Academic,Sing Tao Building,STAO,6388 Crescent Road,V6T 1Z2,VBL10348,Complete,-123.257746,49.267826
-Academic,Library PARC@UBC,PARC,6049 Nurseries Road,V6T 1W5,VBL10351,Complete,-123.229679,49.245095
-Parking,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248957,49.266712
-Housing,Central,CNTL,6015 University Boulevard,V6T 0C4,VBL10356,Complete,-123.247244,49.266347
-Parking,Health Sciences Parkade,PARH,2250 Health Sciences Mall,V6T 1Z3,VBL10357,Complete,-123.247851,49.2634
-StudentHousing,Place Vanier Residence - Robson House,VNR10,"1935 Lower Mall, Building 7",V6T 1X1,VBL10358,Complete,-123.258437,49.263908
-Academic,Hennings Building,HENN,6224 Agricultural Road,V6T 1Z1,VBL10359,Complete,-123.252206,49.266441
-StudentHousing,Place Vanier Residence - Cariboo House,VNR02,"1935 Lower Mall, Building 6",V6T 1X1,VBL10360,Complete,-123.258973,49.26374
-Academic,Horticulture Building,HORT,6394 Stores Road,V6T 1Z4,VBL10362,Complete,-123.252772,49.261395
-StudentHousing,Place Vanier Residence - Sherwood Lett House,VNR11,"1935 Lower Mall, Building 4",V6T 1X1,VBL10365,Complete,-123.257533,49.263393
-Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.240037,49.257119
-Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255519,49.260542
-StudentHousing,Acadia Park Residence - Highrise,APRH,2725 Melfa Road,V6T 1N4,VBL10260,Complete,-123.236861,49.262313
-Administrative,International House,INTL,1783 West Mall,V6T 1Z2,VBL10371,Complete,-123.258963,49.267805
-Services,Museum of Anthropology,MOA,6393 NW Marine Drive,V6T 1Z2,VBL10235,Complete,-123.259431,49.269501
-Administrative,FERIC,FERC,2601 East Mall,V6T 1Z4,VBL10020,Complete,-123.244548,49.257744
-Housing,Evolve,EVLV,3508 Wesbrook Mall,,VBL10422,UnderConstruction,-123.233231,49.252338
-Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,PreConstruction,-123.252366,49.269083
-Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,PreConstruction,-123.252618,49.269569
-StudentHousing,Green College - Kitchen/Laundry,GRN2,"6201 Cecil Green Park Road, Building 9",V6T 1Z1,VBL10434,Complete,-123.255577,49.270994
-Services,Green College - D Graham House,GRN7,"6201 Cecil Green Park Road, Building 4",V6T 1Z1,VBL10189,Complete,-123.256254,49.271282
-StudentHousing,Acadia Park Residence - Tennis Crescent,APR5,2621 Tennis Crescent,V6T 2C1,VBL10436,Complete,-123.237717,49.263488
-StudentHousing,Acadia Park Residence - Fairview Place,APR3,5501 Fairview Place,V6T 2E2,VBL10437,Complete,-123.236836,49.263268
-StudentHousing,Acadia Park Residence - Montgomery Place,APR2,5501 Montgomery Place,V6T 2C8,VBL10439,Complete,-123.238727,49.264807
-StudentHousing,Acadia Park Residence - Yalta Place,APR6,5501 Yalta Place,V6T 1L7,VBL10438,Complete,-123.23823,49.264156
-StudentHousing,Acadia Park Residence - Pearkes Lane,APR4,2500 Pearkes Lane,V6T 2C4,VBL10440,Complete,-123.239433,49.264278
-StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.237102,49.264236
-Administrative,Gerald McGavin Building,GMCG,2386 East Mall,V6T 1Z3,VBL10043,Complete,-123.246766,49.261788
-Services,Public Safety Building - RCMP + Fire,PSAB,2990 Wesbrook Mall,V6T 2B7,VBL10046,Complete,-123.238156,49.258948
-Athletics,Rugby Pavilion,RUGB,2584 East Mall,V6T 1Z3,VBL10055,Complete,-123.244018,49.258669
-Operations,Bioenergy Research and Demonstration Facility,BRDF,2337 Lower Mall,V6T 1Z4,VBL10069,Complete,-123.254573,49.260277
-Administrative,David Strangway Building,STRG,5950 University Boulevard,V6T 1Z3,VBL10070,Complete,-123.246187,49.265847
-Housing,The Mews,MEWS,3333 Wesbrook Mall,V6S 0E3,VBL10165,Complete,-123.235704,49.254536
-Housing,Yu,YU,5955 Birney Avenue,V6S 0C5,VBL10167,Complete,-123.236055,49.253554
-Housing,Legacy,LGCY,6333 Larkin Drive,V6T 0A7,VBL10160,Complete,-123.248016,49.257457
-Academic,Centre for Interactive Research on Sustainability,CIRS,2260 West Mall,V6T 1Z4,VBL10162,Complete,-123.253079,49.26205
-Housing,Pacific,PACC,5928 Birney Avenue,V6S 0B5,VBL10169,Complete,-123.23499,49.253273
-Housing,Village Square,VSQU,3338 Webber Lane,V6S 0J7,VBL10170,Complete,-123.236368,49.253967
-Housing,Webber House,WEBH,3388 Webber Lane,V6S 0J8,VBL10171,Complete,-123.236769,49.2533
-StudentHousing,Green College - B East,GRN5,"6201 Cecil Green Park Road, Building 7",V6T 1Z1,VBL10174,Complete,-123.256004,49.270833
-Housing,The Balmoral,BALM,5615 Hampton Place,V6T 2H1,VBL10175,Complete,-123.232724,49.258484
-StudentHousing,Green College - D Coach House,GRN6,"6201 Cecil Green Park Road, Building 2",V6T 1Z1,VBL10176,Complete,-123.256545,49.271146
+Administrative,Technology Enterprise Facility 3,TEF3,6190 Agronomy Road,V6T 1Z3,VBL10346,Complete,-123.246304,49.26115
+Other,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 Student Union Boulevard,V6T 1Z1,VBL10361,Complete,-123.251328,49.268616
+Administrative,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Complete,-123.248044,49.261251
+Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253632,49.267397
+Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,Complete,-123.245952,49.263267
+Other,Chapel of the Epiphany,CHPL,6030 Chancellor Boulevard,V6T 1X3,VBL10392,Complete,-123.252259,49.271559
+StudentHousing,Walter H. Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248584,49.269593
+Athletics,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,V6T 1Z3,VBL10412,Complete,-123.241322,49.259584
+Services,Counselling Services,CNSL,1930 East Mall,V6T 1Z1,VBL10421,UnderConstruction,-123.251994,49.268231
+Administrative,Technology Enterprise Facility 4,TEF4,2425 Health Sciences Mall,V6T 1Z3,VBL10429,UnderConstruction,-123.245773,49.261291
+Research,TRIUMF - Trailer A,TRF18,"4004 Wesbrook Mall, Building 21",V6T 2A3,VBL10038,Complete,-123.230343,49.246578
+Services,Rodney Graham Millennium Sculpture Pavilion,RSCU,1940 Main Mall,V6T 1Z1,VBL10051,Complete,-123.254508,49.267523
+Research,TRIUMF - Trailer PP,TRF24,"4004 Wesbrook Mall, Building 25",V6T 2A3,VBL10053,Complete,-123.229145,49.246359
+Research,TRIUMF - Trailer HH & FF,TRF21,"4004 Wesbrook Mall, Building 3",V6T 2A3,VBL10049,Complete,-123.230638,49.248306
+Research,TRIUMF - Trailer Q,TRF25,"4004 Wesbrook Mall, Building 19",V6T 2A3,VBL10056,Complete,-123.230628,49.246812
+Research,TRIUMF - Trailer RR,TRF26,"4004 Wesbrook Mall, Building 16",V6T 2A3,VBL10057,Complete,-123.230826,49.247133
+Research,TRIUMF - Shipping / Workshop,TRF28,6095 Nurseries Road,V6T 2A3,VBL10059,Complete,-123.230074,49.246236
+Research,TRIUMF - Machine Shop Materials,TRF12,"4004 Wesbrook Mall, Building 24",V6T 2A3,VBL10061,Complete,-123.229845,49.246373
+Research,TRIUMF - Trailer GG,TRF20,"4004 Wesbrook Mall, Building 26",V6T 2A3,VBL10063,Complete,-123.229348,49.246181
+Operations,South Campus Warehouse,SCWH,6116 Nurseries Road,V6T 1W5,VBL10077,Complete,-123.231866,49.24625
+Operations,Lower Mall Header House,LMHH,2331 Lower Mall,V6T 1Z4,VBL10097,Complete,-123.254818,49.260524
+Research,TRIUMF - Trailer LL,TRF22,"4004 Wesbrook Mall, Building 17",V6T 2A3,VBL10050,Complete,-123.230961,49.24689
+Operations,Staging Environmental Research Centre,SERC,6045 Nurseries Road,V6T 1W5,VBL10123,Complete,-123.228068,49.245484
+Research,"TRIUMF - Offices, Laboratory & Workshops",TRF14,4004 Wesbrook Mall,V6T 2A3,VBL10132,Complete,-123.230613,49.247642
+Services,Ambulance Station,AMBS,2333 Wesbrook Mall,V6T 1Z3,VBL10186,Complete,-123.243605,49.263238
+Operations,Old Fire Hall,FIRE,2038 West Mall,V6T 1Z2,VBL10139,Complete,-123.255572,49.265027
+Operations,Main Substation,MSUB,2446 Health Sciences Mall,V6T 1Z3,VBL10192,Complete,-123.244362,49.261352
+Operations,Materials Recovery Facility,MARF,6055 Nurseries Road,V6T 1W5,VBL10203,Complete,-123.228539,49.245784
+Operations,Building Operations Storage Shed,BOSS,2214 Lower Mall,V6T 1Z4,VBL10207,Complete,-123.254414,49.262185
+Services,Nitobe Memorial Garden,NITO,1895 Lower Mall,V6T 1Z2,VBL10230,Complete,-123.259227,49.266162
+Other,Telus Hub,TELS,5895 Berton Avenue,V6T 1W5,VBL10179,Complete,-123.235473,49.255225
+Other,AYO Smart Home,AYOH,5935 Agronomy Road,V6T 1Z3,VBL10294,Complete,-123.243428,49.263035
+Academic,Robert F. Osborne Centre - Unit 2,OSB2,"6108 Thunderbird Boulevard, Building 2",V6T 1Z3,VBL10296,Complete,-123.24432,49.259969
+Operations,Building Operations Nursery,BONR,6029 Nurseries Road,V6T 1W5,VBL10337,Complete,-123.22922,49.244449
+Operations,In-Vessel Composting Facility,COMP,6035 Nurseries Road,V6T 1W5,VBL10364,Complete,-123.228013,49.244844
+Operations,Environmental Services Facility - Office,ENV4,"6025 Nurseries Road, Building 1",V6T 1W5,VBL10400,Complete,-123.228955,49.243459
+Operations,Environmental Services Facility - Lab,ENV1,"6025 Nurseries Road, Building 5",V6T 1W5,VBL10401,Complete,-123.228625,49.243329
+Housing,West Hampstead - Building 1,WHM1,5760 Hampton Place,V6T 2G1,VBL10281,Complete,-123.235245,49.257589
+Housing,Chancellor Hall - Apartment,CHHA,5989 Iona Drive,V6T 2L7,VBL10290,Complete,-123.250472,49.271899
+Housing,Folio - Apartment,FOL1,5955 Iona Drive,V6T 2L4,VBL10309,Complete,-123.249755,49.272103
+Housing,Prodigy - Building 2,PRD2,3462 Ross Drive,V6S 0H6,VBL10336,Complete,-123.236616,49.251621
+Housing,Prodigy - Building 1,PRD1,6033 Gray Avenue,V6S 0G3,VBL10349,Complete,-123.235956,49.251652
+Housing,The Residences at Nobel Park - Townhouses,REN2,3483 Ross Drive,,VBL10352,UnderConstruction,-123.236412,49.250912
+Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,,VBL10353,UnderConstruction,-123.234997,49.250616
+Housing,Chancellor House - Apartment,CHOA,6015 Iona Drive,V6T 2J4,VBL10387,Complete,-123.251446,49.271562
+Housing,Sail - Building 2,SAL2,5981 Gray Avenue,V6S 0G1,VBL10390,Complete,-123.235195,49.252597
+Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234586,49.2575
+Housing,Thames Court - Building 1,THAC1,"5880 Hampton Place, Building 1",V6T 2E9,VBL10417,Complete,-123.235779,49.25725
+Operations,UBC Botanical Garden - Workshop (Trailer),BOT6,6450 Stadium Road,V6T 1Z4,VBL10005,Complete,-123.247635,49.254767
+Services,UBC Botanical Garden - Admin/Campbell Building,BOT2,"6804 SW Marine Drive, Building 3",V6T 1Z4,VBL10006,Complete,-123.251106,49.253884
+Services,UBC Botanical Garden - Ting Lookout,BOT7,"6804 SW Marine Drive, Building 4",V6T 1Z4,VBL10007,Complete,-123.251644,49.254077
+Services,UBC Botanical Garden - Reception Centre,BOT3,"6804 SW Marine Drive, Building 2",V6T 1Z4,VBL10008,Complete,-123.25124,49.254142
+Operations,UBC Farm - Greenhouse 2,FRM5,"3461 Ross Drive, Building 4",V6T 1W5,VBL10012,Complete,-123.239035,49.251033
+Services,UBC Botanical Garden - Garden Pavilion,BOT4,"6804 SW Marine Drive, Building 5",V6T 1Z4,VBL10003,Complete,-123.247123,49.253249
+Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V6T 1W5,VBL10015,Complete,-123.23981,49.251464
+Operations,Environmental Services Facility - Waste Processing & Storage,ENV7,"6025 Nurseries Road, Building 6",V6T 1W5,VBL10019,Complete,-123.228693,49.243437
+Research,TRIUMF - Accelerator,TRF02,"4004 Wesbrook Mall, Building 7",V6T 2A3,VBL10022,Complete,-123.229307,49.247241
+Services,UBC Botanical Garden - Scholar's Retreat,BOT5,6380 Stadium Road,V6T 1Z4,VBL10004,Complete,-123.246918,49.254974
 Housing,Tapestry at Wesbrook Village - Building 1,TAP1,3338 Wesbrook Mall,V6S 0A6,VBL10137,Complete,-123.235007,49.254742
 Academic,UBC Farm - Harvest Hut / Market,FRM2,"3461 Ross Drive, Building 5",V6T 1W5,VBL10245,Complete,-123.237944,49.250754
 Housing,Sail - Building 1,SAL1,5983 Gray Avenue,V6S 0G8,VBL10172,Complete,-123.23523,49.252234
@@ -383,7 +384,7 @@ Administrative,Ponderosa Office Annex G,PONG,2044 Lower Mall,V6T 1Z2,VBL10153,Co
 Administrative,Ponderosa Office Annex B,PONB,2029 West Mall,V6T 1Z2,VBL10343,Complete,-123.255964,49.264843
 Administrative,Ponderosa Office Annex C,PONC,2021 West Mall,V6T 1Z2,VBL10344,Complete,-123.256263,49.264858
 Housing,Eton - Apartment,ETN2,5687 Gray Avenue,,VBL10136,Complete,-123.231391,49.253188
-Research,3800 Wesbrook Mall,3800,3800 Wesbrook Mall,V6T 1W5,VBL10236,Complete,-123.2303,49.2502
+Research,3800 Wesbrook Mall,3800,3800 Wesbrook Mall,V6S 2L9,VBL10236,Complete,-123.2303,49.2502
 Operations,UBC Botanical Garden Nursery - Workshop,BON2,"3929 Wesbrook Mall, Building 1",V6T 1W5,VBL10195,Complete,-123.234451,49.249521
 Housing,Spirit,SPRT,3478 Wesbrook Mall,V6S 0B6,VBL10238,Complete,-123.233615,49.252974
 Operations,UBC Botanical Garden Nursery - Greenhouses,BON1,"3929 Wesbrook Mall, Building 2",V6T 1W5,VBL10196,Complete,-123.234953,49.249455
@@ -409,17 +410,13 @@ StudentHousing,Pacific Residences - Building 3 - Orcas House,PAR3,"5955 Student 
 StudentHousing,Pacific Residences - Building 2 - Sword Fern House,PAR2,"5955 Student Union Boulevard, Building 2",V6T 1K2,VBL10378,UnderConstruction,-123.248522,49.269215
 StudentHousing,Pacific Residences - Building 1 - Driftwood House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249656,49.268817
 StudentHousing,Pacific Residences - Building 5 - Sandpiper House,PAR5,"5955 Student Union Boulevard, Building 5",V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
-Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,PreConstruction,-123.253078,49.269288
+Administrative,Test WD Admin,TADM,,,VBL90904,UnderConstruction,-123.243342,49.264936
+Academic,Test WD Academic,TACD,,,VBL90905,Complete,-123.243706,49.264842
 Academic,Academic WD Test,TWAC,,,VBL90912,Complete,-123.244691,49.265996
 Administrative,Admin WD Test,TWAD,,,VBL90913,UnderConstruction,-123.244287,49.266111
 Housing,Hawthorn Green,HAWT,,,VBL10144,Complete,-123.248583,49.258173
 Housing,Somerset,SOMS,,,VBL10147,Complete,-123.248143,49.256497
 Housing,Nine on the Park,NINE,,,VBL10158,Complete,-123.247043,49.259322
-Housing,Folio - Duplexes,FOL3,,,VBL10291,Complete,-123.250607,49.272418
-Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231609,49.25526
-Housing,Folio - Townhouses,FOL2,,,VBL10316,Complete,-123.2502,49.272247
-Housing,Chancellor House - Duplexes,CHOD,,,VBL10385,Complete,-123.251863,49.271978
-Housing,Coast - Duplexes,COSD,,,VBL10399,Complete,-123.253238,49.271304
 Academic,Hebb Building,HEBB,,,VBL10047,Complete,-123.251648,49.266132
 Administrative,Test Admin Building,TSAD,,,VBL90911,UnderConstruction,-123.244337,49.265688
 Commercial,Test WD Commercial,TCOM,,,VBL90906,Complete,-123.244034,49.265164
@@ -427,8 +424,11 @@ Academic,Test Academic Building,TSAC,,,VBL90910,Complete,-123.244802,49.266829
 Academic,Academic WD Test 2,TWAC2,,,VBL90914,Complete,-123.243726,49.265484
 Administrative,Admin WD Test 2,TWAD2,,,VBL90915,UnderConstruction,-123.243921,49.26574
 Administrative,Old Administration Building,OAB,,,VBL10138,Complete,-123.255508,49.267103
-Administrative,Test WD Admin,TADM,,,VBL90904,UnderConstruction,-123.243342,49.264936
-Academic,Test WD Academic,TACD,,,VBL90905,Complete,-123.243706,49.264842
+Housing,Folio - Duplexes,FOL3,,,VBL10291,Complete,-123.250607,49.272418
+Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231609,49.25526
+Housing,Folio - Townhouses,FOL2,,,VBL10316,Complete,-123.2502,49.272247
+Housing,Chancellor House - Duplexes,CHOD,,,VBL10385,Complete,-123.251863,49.271978
+Housing,Coast - Duplexes,COSD,,,VBL10399,Complete,-123.253238,49.271304
 Housing,Chancellor Hall - Townhouses,CHHT,,,VBL10271,Complete,-123.250356,49.272193
 Housing,Coast - Townhouses,COST,,,VBL10277,Complete,-123.253052,49.271064
 Housing,Conservatory - Townhouses,CSY1,,,VBL10428,PreConstruction,-123.232102,49.255838
