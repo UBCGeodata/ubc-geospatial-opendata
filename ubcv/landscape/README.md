@@ -6,12 +6,13 @@ Data
 ----
 ### ubcv_campus_trees
 - The current tree dataset. These data are currently being updated and features are in three states:
- - Trees with location, species ID and a full set of attribute measurements. 
+ - Trees with location, species ID and a full set of attribute measurements
  - Location and species ID only
- - Locations only.
-- Locations are taken from 2019 orthophotho
-- Species ID done by Egan Davis
+ - Locations only
+- Locations are taken from 2019 orthophotho.
+- Species ID done by Egan Davis.
 - Tree measurements taken by students of UFOR101 class.
+- Tree heights for some trees have been derived from 2018 lidar and have varied accuracies.
 ### ubcv_softlandscape
 - Lawn, planting bed, and wild areas of soft landscape.
 - Some of the attributes in this dataset are no longer maintained.
