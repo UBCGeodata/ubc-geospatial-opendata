@@ -50,6 +50,7 @@ Academic,Chemistry Physics Building,CHPH,6221 University Boulevard,V6T 1Z1,VBL10
 Academic,Chemistry Building,CHEM,2036 Main Mall,V6T 1Z1,VBL10328,Complete,-123.252684,49.265806
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249351,49.263122
 Academic,D.H. Copp Building,COPP,2146 Health Sciences Mall,V6T 1Z3,VBL10333,Complete,-123.247549,49.265533
+Services,Old Auditorium,AUDI,6344 Memorial Road,V6T 1Z2,VBL10335,Complete,-123.256101,49.266897
 Academic,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,V6T 1Z4,VBL10329,Complete,-123.248891,49.262558
 Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234392,49.252732
 Academic,C.K. Choi Building,CHOI,1855 West Mall,V6T 1Z2,VBL10338,Complete,-123.257957,49.267268
@@ -63,9 +64,7 @@ Parking,Health Sciences Parkade,PARH,2250 Health Sciences Mall,V6T 1Z3,VBL10357,
 StudentHousing,Place Vanier Residence - Robson House,VNR10,"1935 Lower Mall, Building 7",V6T 1X1,VBL10358,Complete,-123.258437,49.263908
 Academic,Hennings Building,HENN,6224 Agricultural Road,V6T 1Z1,VBL10359,Complete,-123.252206,49.266441
 StudentHousing,Place Vanier Residence - Cariboo House,VNR02,"1935 Lower Mall, Building 6",V6T 1X1,VBL10360,Complete,-123.258973,49.26374
-Academic,Academic,WDAC3,2045 East Mall,V6T 1Z1,VBL90916,Complete,-123.245287,49.266786
 Academic,Horticulture Building,HORT,6394 Stores Road,V6T 1Z4,VBL10362,Complete,-123.252772,49.261395
-Administrative,WD Test Admin,WDAD2,6388 Memorial Road,V6T 1Z2,VBL90917,Complete,-123.245482,49.267042
 StudentHousing,Place Vanier Residence - Sherwood Lett House,VNR11,"1935 Lower Mall, Building 4",V6T 1X1,VBL10365,Complete,-123.257533,49.263393
 Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.240037,49.257119
 Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255519,49.260542
@@ -108,7 +107,6 @@ Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL
 Services,Green College - D Commons,GRN8,"6201 Cecil Green Park Road, Building 3",V6T 1Z1,VBL10435,Complete,-123.256697,49.271296
 StudentHousing,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,V6T 1Z1,VBL10190,Complete,-123.256959,49.270906
 Housing,Magnolia House,MAGN,3565 Wesbrook Mall,V6S 0H1,VBL10191,Complete,-123.233538,49.251536
-Academic,Academic Workday,ACW1,6344 Memorial Road,V6T 1Z2,VBL90920,Complete,-123.245757,49.26736
 StudentHousing,Green College - A North,GRN1,"6201 Cecil Green Park Road, Building 5",V6T 1Z1,VBL10194,Complete,-123.255639,49.271156
 StudentHousing,Thunderbird Residence - Cassiar,THR1,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250862,49.259566
 Academic,Stores Road Annex,STRX,6368 Stores Road,V6T 1Z4,VBL10124,Complete,-123.25235,49.261674
@@ -133,6 +131,7 @@ Housing,Sumac House,SUMA,6395 Hawthorn Lane,V6T 0C1,VBL10041,Complete,-123.25005
 Academic,Frederic Lasserre Building,LASR,6333 Memorial Road,V6T 1Z2,VBL10042,Complete,-123.255992,49.267592
 Academic,Frank Forward Building,FORW,6350 Stores Road,V6T 1Z4,VBL10044,Complete,-123.251707,49.261686
 Research,Pulp and Paper Centre,PAPC,2385 East Mall,V6T 1Z4,VBL10045,Complete,-123.247581,49.261414
+Academic,Hebb Building,HEBB,2045 East Mall,V6T 1Z1,VBL10047,Complete,-123.251648,49.266132
 Academic,HR MacMillan Building,MCML,2357 Main Mall,V6T 1Z4,VBL10060,Complete,-123.250752,49.261068
 Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247072,49.262478
 Academic,Wayne and William White Engineering Design Centre,EDC,2345 East Mall,V6T 1Z4,VBL10064,Complete,-123.248167,49.262339
@@ -217,6 +216,7 @@ Operations,Pump House,PUMP,6355 University Boulevard,V6T 1Z2,VBL10420,UnderConst
 Other,St. Mark's College,STMK,5935 Iona Drive,V6T 1J7,VBL10118,Complete,-123.249156,49.272273
 Athletics,Student Recreation Centre,SRC,6000 Student Union Boulevard,V6T 1Z1,VBL10125,Complete,-123.248948,49.268316
 Administrative,Donald Rix Building,RIX,2389 Health Sciences Mall,V6T 1Z3,VBL10129,Complete,-123.246302,49.26197
+Administrative,Old Administration Building,OAB,6328 Memorial Road,V6T 1Z2,VBL10138,Complete,-123.255508,49.267103
 Services,Djavad Mowafaghian Centre for Brain Health,CBH,2215 Wesbrook Mall,V6T 1Z3,VBL10103,Complete,-123.244565,49.264273
 Operations,University Services Building,USB,2329 West Mall,V6T 1Z4,VBL10150,Complete,-123.253783,49.261305
 Administrative,Walter C. Koerner Library,KLIB,1958 Main Mall,V6T 1Z2,VBL10154,Complete,-123.255134,49.266655
@@ -410,22 +410,9 @@ StudentHousing,Pacific Residences - Building 3 - Orcas House,PAR3,"5955 Student 
 StudentHousing,Pacific Residences - Building 2 - Sword Fern House,PAR2,"5955 Student Union Boulevard, Building 2",V6T 1K2,VBL10378,UnderConstruction,-123.248522,49.269215
 StudentHousing,Pacific Residences - Building 1 - Driftwood House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249656,49.268817
 StudentHousing,Pacific Residences - Building 5 - Sandpiper House,PAR5,"5955 Student Union Boulevard, Building 5",V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
-Services,Old Auditorium,AUDI,,,VBL10335,Complete,-123.256101,49.266897
-Administrative,Test WD Admin,TADM,,,VBL90904,UnderConstruction,-123.243342,49.264936
-Academic,Test WD Academic,TACD,,,VBL90905,Complete,-123.243706,49.264842
-Academic,Academic WD Test,TWAC,,,VBL90912,Complete,-123.244691,49.265996
-Administrative,Admin WD Test,TWAD,,,VBL90913,UnderConstruction,-123.244287,49.266111
 Housing,Hawthorn Green,HAWT,,,VBL10144,Complete,-123.248583,49.258173
 Housing,Somerset,SOMS,,,VBL10147,Complete,-123.248143,49.256497
 Housing,Nine on the Park,NINE,,,VBL10158,Complete,-123.247043,49.259322
-Academic,Hebb Building,HEBB,,,VBL10047,Complete,-123.251648,49.266132
-Administrative,Test Admin Building,TSAD,,,VBL90911,UnderConstruction,-123.244337,49.265688
-Commercial,Test WD Commercial,TCOM,,,VBL90906,Complete,-123.244034,49.265164
-Academic,Test Academic Building,TSAC,,,VBL90910,Complete,-123.244802,49.266829
-Academic,Academic WD Test 2,TWAC2,,,VBL90914,Complete,-123.243726,49.265484
-Administrative,Admin WD Test 2,TWAD2,,,VBL90915,UnderConstruction,-123.243921,49.26574
-Academic,Workday Academic,WAC,,,VBL90918,Complete,-123.24504,49.267152
-Administrative,Old Administration Building,OAB,,,VBL10138,Complete,-123.255508,49.267103
 Housing,Folio - Duplexes,FOL3,,,VBL10291,Complete,-123.250607,49.272418
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231609,49.25526
 Housing,Folio - Townhouses,FOL2,,,VBL10316,Complete,-123.2502,49.272247
@@ -435,6 +422,5 @@ Housing,Chancellor Hall - Townhouses,CHHT,,,VBL10271,Complete,-123.250356,49.272
 Housing,Coast - Townhouses,COST,,,VBL10277,Complete,-123.253052,49.271064
 Housing,Conservatory - Townhouses,CSY1,,,VBL10428,PreConstruction,-123.232102,49.255838
 Housing,St. Mark's Duplexes,STMD,,,VBL10279,Complete,-123.249411,49.272726
-Administrative,Workday Admin,WAD,,,VBL90919,Complete,-123.245325,49.267486
 Housing,Westchester,WSTR,,,VBL10220,Complete,-123.24911,49.257371
 Housing,Logan Lane,LOGN,,,VBL10226,Complete,-123.245758,49.258904

@@ -1,5 +1,4 @@
 ﻿ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-VAD10145,Robert F. Osborne Centre,Vancouver,V6T 1Z3,BC,,Complex,CampusMail,6108 Thunderbird Boulevard,-123.243991,49.260199
 VAD10683,UBC Aquatic Centre (Old),Vancouver,V6T 1Z1,BC,,CampusBuilding,CampusMail,6121 University Boulevard,-123.249362,49.266554
 VAD10108,Biological Archive Centre,Vancouver,V6T 1W5,BC,,CampusBuilding,CampusMail,4000 Wesbrook Mall,-123.229622,49.248853
 VAD10038,Logan Lane (B1),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2559 East Mall,-123.245228,49.258838
@@ -341,6 +340,10 @@ VAD11127,Focal - Retail,Vancouver,V6T 0C7,BC,VBL10232,Commercial,CanadaPost,"611
 VAD11129,Focal,Vancouver,V6T 0C7,BC,VBL10232,NeighbourhoodBldg,CanadaPost,6111 University Boulevard,-123.24817,49.266121
 VAD11193,Focal - Retail,Vancouver,V6T 0C7,BC,VBL10232,Commercial,CanadaPost,"6111 University Boulevard, Unit 105",-123.248271,49.266295
 VAD11192,Focal - Retail,Vancouver,V6T 0C7,BC,VBL10232,Commercial,CanadaPost,"6111 University Boulevard, Unit 104",-123.248383,49.266304
+VAD10145,Robert F. Osborne Centre,Vancouver,V6T 1Z3,BC,VBL10251,Complex,CampusMail,6108 Thunderbird Boulevard,-123.243991,49.260199
+VAD10097,Old Administration Building,Vancouver,V6T 1Z2,BC,VBL10138,CampusBuilding,CampusMail,6328 Memorial Road,-123.255529,49.267252
+VAD10012,Hebb Building,Vancouver,V6T 1Z1,BC,VBL10047,CampusBuilding,CampusMail,2045 East Mall,-123.251824,49.26617
+VAD10099,Old Auditorium,Vancouver,V6T 1Z2,BC,VBL10335,CampusBuilding,CampusMail,6344 Memorial Road,-123.255824,49.266996
 VAD10100,Old Barn Community Centre,Vancouver,V6T 1Z4,BC,VBL10157,NeighbourhoodBldg,CanadaPost,6308 Thunderbird Boulevard,-123.248274,49.259014
 VAD10134,MBA House,Vancouver,V6T 1Z4,BC,VBL10403,CampusBuilding,CanadaPost,3385 Wesbrook Mall,-123.235018,49.253948
 VAD10223,Gerald McGavin Building,Vancouver,V6T 1Z3,BC,VBL10043,OtherBuilding,CampusMail,2386 East Mall,-123.246826,49.261635
@@ -403,7 +406,6 @@ VAD10722,Civil and Mechanical Engineering Building,Vancouver,V6T 1Z4,BC,VBL10329
 VAD10816,Berwick Child Development Centre,Vancouver,V6T 1X7,BC,VBL10155,CampusBuilding,CampusMail,2765 Osoyoos Crescent,-123.238824,49.260906
 VAD10840,Brock Hall,Vancouver,V6T 1Z1,BC,VBL10331,CampusBuilding,CampusMail,1874 East Mall,-123.251856,49.268518
 VAD11165,Evolve,Vancouver,,BC,VBL10422,NeighbourhoodBldg,CanadaPost,3508 Wesbrook Mall,-123.233453,49.252343
-VAD10097,Old Administration Building,Vancouver,V6T 1Z2,BC,VBL90917,CampusBuilding,CampusMail,6388 Memorial Road,-123.255529,49.267252
 VAD10482,Acadia House - 3 (106-110),Vancouver,V6T 1R9,BC,VBL10308,Residential,CampusMail,2720 Acadia Road,-123.235502,49.262682
 VAD10743,Spirit Park Apartments - 3,Vancouver,V6T 1X7,BC,VBL10074,Residential,CampusMail,2725 Osoyoos Crescent,-123.239276,49.261272
 VAD10742,Spirit Park Apartments - 2,Vancouver,V6T 1X7,BC,VBL10074,Residential,CampusMail,2715 Osoyoos Crescent,-123.239355,49.261499
@@ -417,8 +419,6 @@ VAD11203,Technology Enterprise Facility (TEF) 4 - Retail,Vancouver,V6T 1Z3,BC,VB
 VAD11204,Technology Enterprise Facility (TEF) 4 - Retail,Vancouver,V6T 1Z3,BC,VBL10429,Commercial,,6180 Agronomy Road,-123.246058,49.261488
 VAD11205,Arts Student Centre,Vancouver,V6T 1Z1,BC,VBL10426,CampusBuilding,CampusMail,1860 East Mall,-123.253147,49.269206
 VAD11206,Technology Enterprise Facility (TEF) 4 - Retail,Vancouver,V6T 1Z3,BC,VBL10429,Commercial,,6160 Agronomy Road,-123.245864,49.261556
-VAD10099,Old Auditorium,Vancouver,V6T 1Z2,BC,VBL90920,CampusBuilding,CampusMail,6344 Memorial Road,-123.255824,49.266996
-VAD10012,Hebb Building,Vancouver,V6T 1Z1,BC,VBL90916,CampusBuilding,CampusMail,2045 East Mall,-123.251824,49.26617
 VAD10817,Binning Tower,Vancouver,V6S 0J1,BC,VBL10210,NeighbourhoodBldg,CanadaPost,3355 Binning Road,-123.231218,49.255501
 VAD10627,Abdul Ladha Science Student Centre,Vancouver,V6T 1Z1,BC,VBL10163,CampusBuilding,CampusMail,2055 East Mall,-123.251254,49.266062
 VAD10886,Chan Centre for the Performing Arts,Vancouver,V6T 1Z1,BC,VBL10282,CampusBuilding,CampusMail,6265 Crescent Road,-123.255374,49.26946

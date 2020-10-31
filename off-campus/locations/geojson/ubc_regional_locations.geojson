@@ -108,40 +108,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.2434473402, 49.2654662172 ]
-			},
-			"properties" : {
-				"OBJECTID" : 4801,
-				"LOC_ID" : "RLC90907",
-				"NAME" : "WD Hospital Site",
-				"UNIT" : null,
-				"ADDRESS" : "4500 Oak Street",
-				"MUNI_NAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V6T 1W6",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : null,
-				"WEBSITE" : null,
-				"REC_ID" : null,
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Hospital",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200915161337",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200915161645",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10408",
-				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.1254621296, 49.2456287712 ]
 			},
 			"properties" : {
@@ -9417,40 +9383,6 @@
 				"LOC_CODE" : null,
 				"COUNTRY" : "Canada",
 				"LOC_ADD_ID" : "ARLC10382",
-				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.2432746677, 49.2655267684 ]
-			},
-			"properties" : {
-				"OBJECTID" : 5121,
-				"LOC_ID" : "RLC90908",
-				"NAME" : "WD Regional Site",
-				"UNIT" : null,
-				"ADDRESS" : "4500 Oak Street",
-				"MUNI_NAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V6T 1W6",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : null,
-				"WEBSITE" : null,
-				"REC_ID" : null,
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Regional",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20200925234725",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200926030427",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10408",
 				"ADDRESS2" : null
 			}
 		},
