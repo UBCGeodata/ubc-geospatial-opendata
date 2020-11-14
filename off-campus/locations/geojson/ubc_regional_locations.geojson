@@ -108,6 +108,74 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -79.3833159986, 43.648670083 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5442,
+				"LOC_ID" : "RLC10419",
+				"NAME" : "Exchange Tower",
+				"UNIT" : null,
+				"ADDRESS" : "130 King Street West, Suite 1944",
+				"MUNI_NAME" : "Toronto",
+				"PROVINCE" : "ON",
+				"POSTAL_CODE" : "M5X 1K6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201110060344",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201110061354",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10419",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1258399537, 49.2447643052 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5441,
+				"LOC_ID" : "RLC10211",
+				"NAME" : "BC Children​'​​s Hospital",
+				"UNIT" : null,
+				"ADDRESS" : "4480 Oak Street",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6H 3N1",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : "604-875-2345",
+				"WEBSITE" : "http://www.bcchildrens.ca",
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : "Clinical Academic Campus",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201110055252",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201110055430",
+				"LOC_CODE" : "BCCH",
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10211",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.1254621296, 49.2456287712 ]
 			},
 			"properties" : {
@@ -340,6 +408,142 @@
 				"COUNTRY" : "Canada",
 				"LOC_ADD_ID" : "ARLC10389",
 				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5739633854, 49.2642007101 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5762,
+				"LOC_ID" : "RLC10421",
+				"NAME" : "Malcolm Knapp Research Forest - Student Centre",
+				"UNIT" : null,
+				"ADDRESS" : "14500 Silver Valley Road",
+				"MUNI_NAME" : "Maple Ridge",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V4R 2R3",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : "441-2",
+				"PROPERTY_TYPE" : "UBC (fee simple)",
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201110234533",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201112233632",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10421",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5713929475, 49.264084823 ]
+			},
+			"properties" : {
+				"OBJECTID" : 85,
+				"LOC_ID" : "RLC10084",
+				"NAME" : "Malcolm Knapp Research Forest",
+				"UNIT" : null,
+				"ADDRESS" : "14500 Silver Valley Road",
+				"MUNI_NAME" : "Maple Ridge",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V4R 2R3",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : "441-1",
+				"PROPERTY_TYPE" : "UBC (fee simple)",
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201112233622",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10084",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.3261080657, 48.4342754955 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1617,
+				"LOC_ID" : "RLC10384",
+				"NAME" : "Deeley Research Centre",
+				"UNIT" : null,
+				"ADDRESS" : "2410 Lee Avenue",
+				"MUNI_NAME" : "Victoria",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V8R 6V5",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : "HR",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190925215904",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201110210409",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10384",
+				"ADDRESS2" : "3rd Floor"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1257765116, 49.2618700625 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1618,
+				"LOC_ID" : "RLC10385",
+				"NAME" : "VCH Research Institute",
+				"UNIT" : null,
+				"ADDRESS" : "2635 Laurel Street",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V5Z 1M9",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : "604-875-4111",
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : "HR",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190925220211",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201110210447",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10385",
+				"ADDRESS2" : "6th Floor"
 			}
 		},
 		{
@@ -2012,40 +2216,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.8107565973, 53.893960462 ]
-			},
-			"properties" : {
-				"OBJECTID" : 60,
-				"LOC_ID" : "RLC10059",
-				"NAME" : "University of Northern British Columbia",
-				"UNIT" : null,
-				"ADDRESS" : "3333 University Way",
-				"MUNI_NAME" : "Prince George",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V2N 4Z9",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : "250-960-5555",
-				"WEBSITE" : "https://www.unbc.ca/",
-				"REC_ID" : "5093",
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Regional",
-				"FOM_NAME" : "University of Northern British Columbia",
-				"FOM_TYPE" : "HR",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200724222036",
-				"LOC_CODE" : "UNBC",
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10059",
-				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.3040234002, 48.4635536973 ]
 			},
 			"properties" : {
@@ -2753,40 +2923,6 @@
 				"LOC_CODE" : null,
 				"COUNTRY" : "Canada",
 				"LOC_ADD_ID" : "ARLC10083",
-				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.5713929475, 49.264084823 ]
-			},
-			"properties" : {
-				"OBJECTID" : 85,
-				"LOC_ID" : "RLC10084",
-				"NAME" : "Malcolm Knapp Research Forest",
-				"UNIT" : null,
-				"ADDRESS" : "14500 Silver Valley Road",
-				"MUNI_NAME" : "Maple Ridge",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V4R 2R3",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : null,
-				"WEBSITE" : null,
-				"REC_ID" : "441",
-				"PROPERTY_TYPE" : "UBC (fee simple)",
-				"LOC_TYPE" : "Regional",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : null,
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200724222036",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10084",
 				"ADDRESS2" : null
 			}
 		},
@@ -7792,6 +7928,74 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.8130604592, 53.8934163034 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5761,
+				"LOC_ID" : "RLC10420",
+				"NAME" : "University of Northern British Columbia - Dr. Donald Rix Northern Health Sciences Centre",
+				"UNIT" : null,
+				"ADDRESS" : "3333 University Way",
+				"MUNI_NAME" : "Prince George",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V2N 4Z9",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : "250-960-5555",
+				"WEBSITE" : "https://www.unbc.ca/",
+				"REC_ID" : "5093",
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : "University of Northern British Columbia",
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201110233610",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201110233718",
+				"LOC_CODE" : "UNBC",
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10420",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8134771978, 53.8906151485 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"LOC_ID" : "RLC10059",
+				"NAME" : "University of Northern British Columbia",
+				"UNIT" : null,
+				"ADDRESS" : "3333 University Way",
+				"MUNI_NAME" : "Prince George",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V2N 4Z9",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : "250-960-5555",
+				"WEBSITE" : "https://www.unbc.ca/",
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Regional",
+				"FOM_NAME" : "University of Northern British Columbia",
+				"FOM_TYPE" : "HR",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201110233809",
+				"LOC_CODE" : "UNBC",
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10059",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.3519037449, 47.6492843353 ]
 			},
 			"properties" : {
@@ -9486,74 +9690,6 @@
 				"COUNTRY" : "Canada",
 				"LOC_ADD_ID" : "ARLC10405",
 				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.3261080657, 48.4342754955 ]
-			},
-			"properties" : {
-				"OBJECTID" : 1617,
-				"LOC_ID" : "RLC10384",
-				"NAME" : "Deeley Research Centre",
-				"UNIT" : null,
-				"ADDRESS" : "2410 Lee Avenue",
-				"MUNI_NAME" : "Victoria",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V8R 6V5",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : null,
-				"WEBSITE" : null,
-				"REC_ID" : "5111",
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Hospital",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : "HR",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190925215904",
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200724222036",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10384",
-				"ADDRESS2" : "3rd Floor"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.1257765116, 49.2618700625 ]
-			},
-			"properties" : {
-				"OBJECTID" : 1618,
-				"LOC_ID" : "RLC10385",
-				"NAME" : "VCH Research Institute",
-				"UNIT" : null,
-				"ADDRESS" : "2635 Laurel Street",
-				"MUNI_NAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V5Z 1M9",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : "604-875-4111",
-				"WEBSITE" : null,
-				"REC_ID" : "5015",
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Hospital",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : "HR",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190925220211",
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200724222036",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10385",
-				"ADDRESS2" : "6th Floor"
 			}
 		},
 		{
