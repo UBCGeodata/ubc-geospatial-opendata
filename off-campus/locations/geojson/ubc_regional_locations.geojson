@@ -6,6 +6,40 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -79.3833159986, 43.648670083 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5442,
+				"LOC_ID" : "RLC10419",
+				"NAME" : "Exchange Tower",
+				"UNIT" : null,
+				"ADDRESS" : "130 King Street West, Suite 1944",
+				"MUNI_NAME" : "Toronto",
+				"PROVINCE" : "ON",
+				"POSTAL_CODE" : "M5X 1K6",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : null,
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201110060344",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201121004036",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10419",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.9704198838, 49.1849669696 ]
 			},
 			"properties" : {
@@ -101,40 +135,6 @@
 				"LOC_CODE" : null,
 				"COUNTRY" : "Canada",
 				"LOC_ADD_ID" : "ARLC10418",
-				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -79.3833159986, 43.648670083 ]
-			},
-			"properties" : {
-				"OBJECTID" : 5442,
-				"LOC_ID" : "RLC10419",
-				"NAME" : "Exchange Tower",
-				"UNIT" : null,
-				"ADDRESS" : "130 King Street West, Suite 1944",
-				"MUNI_NAME" : "Toronto",
-				"PROVINCE" : "ON",
-				"POSTAL_CODE" : "M5X 1K6",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : null,
-				"WEBSITE" : null,
-				"REC_ID" : null,
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Regional",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20201110060344",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20201110061354",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10419",
 				"ADDRESS2" : null
 			}
 		},
