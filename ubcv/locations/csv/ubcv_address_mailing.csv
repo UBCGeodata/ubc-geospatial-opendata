@@ -344,6 +344,7 @@ VAD10145,Robert F. Osborne Centre,Vancouver,V6T 1Z3,BC,VBL10251,Complex,CampusMa
 VAD10097,Old Administration Building,Vancouver,V6T 1Z2,BC,VBL10138,CampusBuilding,CampusMail,6328 Memorial Road,-123.255529,49.267252
 VAD10012,Hebb Building,Vancouver,V6T 1Z1,BC,VBL10047,CampusBuilding,CampusMail,2045 East Mall,-123.251824,49.26617
 VAD10099,Old Auditorium,Vancouver,V6T 1Z2,BC,VBL10335,CampusBuilding,CampusMail,6344 Memorial Road,-123.255824,49.266996
+VAD11118,UBC Tennis Centre,Vancouver,V6T 1Z3,BC,VBL90920,CampusBuilding,CampusMail,6160 Thunderbird Boulevard,-123.243612,49.25969
 VAD10100,Old Barn Community Centre,Vancouver,V6T 1Z4,BC,VBL10157,NeighbourhoodBldg,CanadaPost,6308 Thunderbird Boulevard,-123.248274,49.259014
 VAD10134,MBA House,Vancouver,V6T 1Z4,BC,VBL10403,CampusBuilding,CanadaPost,3385 Wesbrook Mall,-123.235018,49.253948
 VAD10223,Gerald McGavin Building,Vancouver,V6T 1Z3,BC,VBL10043,OtherBuilding,CampusMail,2386 East Mall,-123.246826,49.261635
@@ -381,7 +382,6 @@ VAD11101,Child Care Services - Salal,Vancouver,V6T 1S1,BC,VBL10273,CampusBuildin
 VAD11103,UBC Bookstore,Vancouver,V6T 1Z4,BC,VBL10065,CampusBuilding,CampusMail,6200 University Boulevard,-123.250652,49.26526
 VAD11107,Child Care Services - Auklet,Vancouver,V6T 1S1,BC,VBL10276,CampusBuilding,CampusMail,5615 Osoyoos Crescent,-123.234753,49.260126
 VAD11112,UBC Botanical Garden - Scholars' Retreat,Vancouver,V6T 1Z4,BC,VBL10004,CampusBuilding,CampusMail,6380 Stadium Road,-123.246888,49.254895
-VAD11118,UBC Tennis Centre,Vancouver,V6T 1Z3,BC,VBL10090,CampusBuilding,CampusMail,6160 Thunderbird Boulevard,-123.243612,49.25969
 VAD11123,Thunderbird Residence - Impound Lot,Vancouver,V6T 1Z4,BC,VBL10079,Occupant,CampusMail,2451 East Mall,-123.246503,49.260444
 VAD11130,Thunderbird Residence - Warehouse,Vancouver,V6T 1Z4,BC,VBL10121,Occupant,CampusMail,2440 West Mall,-123.25077,49.259011
 VAD11191,The Conservatory,Vancouver,,BC,VBL10427,NeighbourhoodBldg,CanadaPost,5608 Berton Avenue,-123.23162,49.256222

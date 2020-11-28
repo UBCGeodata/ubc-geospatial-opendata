@@ -550,6 +550,40 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -123.1870859432, 49.2612381801 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5763,
+				"LOC_ID" : "RLC10920",
+				"NAME" : "IEC Test Site",
+				"UNIT" : null,
+				"ADDRESS" : "4750 Oak Street",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V6H 2N9",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : null,
+				"WEBSITE" : null,
+				"REC_ID" : "9006",
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201123234932",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201124001825",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10388",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -124.9698666565, 49.712476657 ]
 			},
 			"properties" : {

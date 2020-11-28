@@ -15757,87 +15757,6 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "MultiPolygon",
-				"coordinates" : [
-					[
-						[
-							[ -123.2430512448, 49.2598992432 ],
-							[ -123.243587419, 49.2597108155 ],
-							[ -123.2435893699, 49.2597131933 ],
-							[ -123.2435901451, 49.2597129209 ],
-							[ -123.2435804487, 49.2597011225 ],
-							[ -123.2436460251, 49.2596780366 ],
-							[ -123.2435981638, 49.2596197972 ],
-							[ -123.2445411465, 49.2592892097 ],
-							[ -123.2444579315, 49.2591879529 ],
-							[ -123.2444768055, 49.2591813078 ],
-							[ -123.2442863255, 49.2589495278 ],
-							[ -123.244289957, 49.25894825 ],
-							[ -123.2442878859, 49.2589457303 ],
-							[ -123.2433953579, 49.2592599452 ],
-							[ -123.2433356587, 49.2591888324 ],
-							[ -123.2432726031, 49.2592110305 ],
-							[ -123.2431744075, 49.2590915396 ],
-							[ -123.2431007933, 49.2591174541 ],
-							[ -123.2430910985, 49.2591056566 ],
-							[ -123.2425563175, 49.2592969827 ],
-							[ -123.2430512448, 49.2598992432 ]
-						]
-					],
-					[
-						[
-							[ -123.2453833391, 49.2599695129 ],
-							[ -123.2451035177, 49.2596290359 ],
-							[ -123.2449480976, 49.2594399243 ],
-							[ -123.2445090876, 49.25959448 ],
-							[ -123.2446645066, 49.2597835922 ],
-							[ -123.2449443258, 49.2601240711 ],
-							[ -123.2453833391, 49.2599695129 ]
-						]
-					]
-				]
-			},
-			"properties" : {
-				"BLDG_UID" : "VBL10090",
-				"NAME" : "UBC Tennis Centre",
-				"BLDG_CODE" : "TENN",
-				"SHORTNAME" : "Tennis",
-				"POSTAL_CODE" : "V6T 1Z3",
-				"PRIMARY_ADDRESS" : "6160 Thunderbird Boulevard",
-				"CONSTR_STATUS" : "Complete",
-				"OCCU_DATE" : "20110706",
-				"BLDG_USAGE" : "Athletics",
-				"BLDG_SEC_USAGE" : null,
-				"JURISDICTION" : "UBC",
-				"NEIGHBOURHOOD" : "Academic",
-				"MANAGE_ORG" : "Athletics",
-				"BLDG_STATE" : "Occupied",
-				"GREEN_STATUS" : null,
-				"CONSTR_TYPE" : "Steel",
-				"MAX_FLOORS" : 2,
-				"BLDG_HEIGHT" : null,
-				"GBA" : 10661,
-				"REC_IDS" : "432;433",
-				"HAS_SUBBLDGS" : 1,
-				"GEOM_SOURCE" : null,
-				"NOTES" : null,
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200724231544",
-				"BLDG_FORM" : "Unspecified",
-				"BLDG_CONDITION" : null,
-				"ACCESSIBILITY_RATING" : null,
-				"BLDG_MAINTENANCE" : "UBC",
-				"BLDG_CLASS" : "L1",
-				"PROPERTY_TYPE" : null,
-				"LABEL_NAME" : "UBC Tennis Centre",
-				"LABEL_CLASS" : "L1"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Polygon",
 				"coordinates" : [
 					[
@@ -41937,6 +41856,58 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
+						[ -123.1890144181, 49.2629922252 ],
+						[ -123.1907470838, 49.2624126173 ],
+						[ -123.1896384865, 49.2610058339 ],
+						[ -123.1878760281, 49.261649849 ],
+						[ -123.1890144181, 49.2629922252 ]
+					]
+				]
+			},
+			"properties" : {
+				"BLDG_UID" : "VBL90920",
+				"NAME" : "IEC Test Building",
+				"BLDG_CODE" : "IEC",
+				"SHORTNAME" : "IEC",
+				"POSTAL_CODE" : "V6T 1Z3",
+				"PRIMARY_ADDRESS" : "6160 Thunderbird Boulevard",
+				"CONSTR_STATUS" : "Complete",
+				"OCCU_DATE" : null,
+				"BLDG_USAGE" : "Administrative",
+				"BLDG_SEC_USAGE" : null,
+				"JURISDICTION" : "UBC",
+				"NEIGHBOURHOOD" : "Academic",
+				"MANAGE_ORG" : null,
+				"BLDG_STATE" : "Occupied",
+				"GREEN_STATUS" : null,
+				"CONSTR_TYPE" : "Wood",
+				"MAX_FLOORS" : null,
+				"BLDG_HEIGHT" : null,
+				"GBA" : null,
+				"REC_IDS" : "9006",
+				"HAS_SUBBLDGS" : null,
+				"GEOM_SOURCE" : null,
+				"NOTES" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20201123234517",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201124001833",
+				"BLDG_FORM" : "Unspecified",
+				"BLDG_CONDITION" : null,
+				"ACCESSIBILITY_RATING" : null,
+				"BLDG_MAINTENANCE" : null,
+				"BLDG_CLASS" : null,
+				"PROPERTY_TYPE" : null,
+				"LABEL_NAME" : null,
+				"LABEL_CLASS" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
 						[ -123.2365522913, 49.2545529595 ],
 						[ -123.2363452669, 49.2543009618 ],
 						[ -123.2361084766, 49.2543843118 ],
@@ -44537,6 +44508,85 @@
 				"PROPERTY_TYPE" : null,
 				"LABEL_NAME" : "Nine on the Park",
 				"LABEL_CLASS" : "L5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ -123.2430512448, 49.2598992432 ],
+							[ -123.243587419, 49.2597108155 ],
+							[ -123.2435893699, 49.2597131933 ],
+							[ -123.2435901451, 49.2597129209 ],
+							[ -123.2435804487, 49.2597011225 ],
+							[ -123.2436460251, 49.2596780366 ],
+							[ -123.2435981638, 49.2596197972 ],
+							[ -123.2445411465, 49.2592892097 ],
+							[ -123.2444579315, 49.2591879529 ],
+							[ -123.2444768055, 49.2591813078 ],
+							[ -123.2442863255, 49.2589495278 ],
+							[ -123.244289957, 49.25894825 ],
+							[ -123.2442878859, 49.2589457303 ],
+							[ -123.2433953579, 49.2592599452 ],
+							[ -123.2433356587, 49.2591888324 ],
+							[ -123.2432726031, 49.2592110305 ],
+							[ -123.2431744075, 49.2590915396 ],
+							[ -123.2431007933, 49.2591174541 ],
+							[ -123.2430910985, 49.2591056566 ],
+							[ -123.2425563175, 49.2592969827 ],
+							[ -123.2430512448, 49.2598992432 ]
+						]
+					],
+					[
+						[
+							[ -123.2453833391, 49.2599695129 ],
+							[ -123.2451035177, 49.2596290359 ],
+							[ -123.2449480976, 49.2594399243 ],
+							[ -123.2445090876, 49.25959448 ],
+							[ -123.2446645066, 49.2597835922 ],
+							[ -123.2449443258, 49.2601240711 ],
+							[ -123.2453833391, 49.2599695129 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"BLDG_UID" : "VBL10090",
+				"NAME" : "UBC Tennis Centre",
+				"BLDG_CODE" : "TENN",
+				"SHORTNAME" : "Tennis",
+				"CONSTR_STATUS" : "Complete",
+				"OCCU_DATE" : "20110706",
+				"BLDG_USAGE" : "Athletics",
+				"BLDG_SEC_USAGE" : null,
+				"JURISDICTION" : "UBC",
+				"NEIGHBOURHOOD" : "Academic",
+				"MANAGE_ORG" : "Athletics",
+				"BLDG_STATE" : "Occupied",
+				"GREEN_STATUS" : null,
+				"CONSTR_TYPE" : "Steel",
+				"MAX_FLOORS" : 2,
+				"BLDG_HEIGHT" : null,
+				"GBA" : 10661,
+				"REC_IDS" : "432;433",
+				"HAS_SUBBLDGS" : 1,
+				"GEOM_SOURCE" : null,
+				"NOTES" : null,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20200724231544",
+				"BLDG_FORM" : "Unspecified",
+				"BLDG_CONDITION" : null,
+				"ACCESSIBILITY_RATING" : null,
+				"BLDG_MAINTENANCE" : "UBC",
+				"BLDG_CLASS" : "L1",
+				"PROPERTY_TYPE" : null,
+				"LABEL_NAME" : "UBC Tennis Centre",
+				"LABEL_CLASS" : "L1"
 			}
 		},
 		{
