@@ -3508,40 +3508,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.1262464666, 49.2610803306 ]
-			},
-			"properties" : {
-				"OBJECTID" : 103,
-				"LOC_ID" : "RLC10102",
-				"NAME" : "Vancouver General Hospital - Gordon and Leslie Diamond Health Care Centre",
-				"UNIT" : null,
-				"ADDRESS" : "2755 Laurel Street",
-				"MUNI_NAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTAL_CODE" : "V5Z 1M9",
-				"NOTES" : null,
-				"STATUS" : "Current",
-				"PHONE" : "604-875-4111",
-				"WEBSITE" : null,
-				"REC_ID" : "5001",
-				"PROPERTY_TYPE" : null,
-				"LOC_TYPE" : "Hospital",
-				"FOM_NAME" : null,
-				"FOM_TYPE" : "Clinical Academic Campus",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "PLAN",
-				"LAST_EDITED_DATE" : "20200724222036",
-				"LOC_CODE" : null,
-				"COUNTRY" : "Canada",
-				"LOC_ADD_ID" : "ARLC10102",
-				"ADDRESS2" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -123.1224331833, 49.2620901431 ]
 			},
 			"properties" : {
@@ -7955,6 +7921,40 @@
 				"LOC_CODE" : null,
 				"COUNTRY" : "Canada",
 				"LOC_ADD_ID" : "ARLC10417",
+				"ADDRESS2" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.1262464666, 49.2610803306 ]
+			},
+			"properties" : {
+				"OBJECTID" : 103,
+				"LOC_ID" : "RLC10102",
+				"NAME" : "Vancouver General Hospital - Gordon and Leslie Diamond Health Care Centre",
+				"UNIT" : null,
+				"ADDRESS" : "2775 Laurel Street",
+				"MUNI_NAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTAL_CODE" : "V5Z 1M9",
+				"NOTES" : null,
+				"STATUS" : "Current",
+				"PHONE" : "604-875-4111",
+				"WEBSITE" : null,
+				"REC_ID" : "5001",
+				"PROPERTY_TYPE" : null,
+				"LOC_TYPE" : "Hospital",
+				"FOM_NAME" : null,
+				"FOM_TYPE" : "Clinical Academic Campus",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20201201205353",
+				"LOC_CODE" : null,
+				"COUNTRY" : "Canada",
+				"LOC_ADD_ID" : "ARLC10102",
 				"ADDRESS2" : null
 			}
 		},
