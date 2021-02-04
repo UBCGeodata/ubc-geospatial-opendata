@@ -5,7 +5,7 @@ OBL10004,Central Heating Plant,CHP,Complete,19920101,Operations,,UBC,,UBC,Occupi
 OBL10012,Arts Building,ART,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,9667,4002,0,,,,,GISSTUD1,20200903224853,Unspecified,,,,B2,,-119,50
 OBL10023,Charles E. Fipke Centre for Innovative Research,FIP,Complete,20080101,Academic,Research,UBC,,UBC,Occupied,,Steel,3,,6725,4020,0,,,,,GISSTUD1,20200903224926,Unspecified,,,,B2,,-119,50
 OBL10025,Creative and Critical Studies Building,CCS,Complete,20010101,Academic,,UBC,,UBC,Occupied,,Steel,3,,4797,4004,0,,,,,GISSTUD1,20200903224838,Unspecified,,,,B2,,-119,50
-OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,GISSTUD1,20200903224817,Unspecified,,,,B2,,-119,50
+OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20201223170540,Unspecified,,,,B2,,-119,50
 OBL10029,Science Building,SCI,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,8952,4003,0,,,,,GISSTUD1,20200903224842,Unspecified,,,,B2,,-119,50
 OBL10040,Library Building,LIB,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,6179,4000,0,,,,,GISSTUD1,20200903224916,Unspecified,,,,B2,,-119,50
 OBL10044,Upper Campus Health Building,UCH,Complete,,Academic,Research,UBC,,UBC,Occupied,,,3,,1681,4008,0,,,,,GISSTUD1,20200903224907,Unspecified,,,,B2,,-119,50

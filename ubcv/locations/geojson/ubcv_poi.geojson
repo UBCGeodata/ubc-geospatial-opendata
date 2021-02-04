@@ -7306,7 +7306,7 @@
 			},
 			"properties" : {
 				"OBJECTID" : 437,
-				"POI_ID" : null,
+				"POI_ID" : "POI-548",
 				"ADD_ID" : null,
 				"PLACENAME" : "First Tree Plaza",
 				"PLACENAME2" : null,
@@ -7327,7 +7327,7 @@
 				"CREATED_USER" : "RACHELW",
 				"CREATED_DATE" : "20200730232257",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730232357"
+				"LAST_EDITED_DATE" : "20210126001559"
 			}
 		},
 		{
@@ -9994,7 +9994,7 @@
 			},
 			"properties" : {
 				"OBJECTID" : 439,
-				"POI_ID" : null,
+				"POI_ID" : "POI-551",
 				"ADD_ID" : null,
 				"PLACENAME" : "Stone Garden",
 				"PLACENAME2" : null,
@@ -10015,7 +10015,7 @@
 				"CREATED_USER" : "RACHELW",
 				"CREATED_DATE" : "20200730232855",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730232912"
+				"LAST_EDITED_DATE" : "20210126001630"
 			}
 		},
 		{
@@ -10026,7 +10026,7 @@
 			},
 			"properties" : {
 				"OBJECTID" : 438,
-				"POI_ID" : null,
+				"POI_ID" : "POI-550",
 				"ADD_ID" : null,
 				"PLACENAME" : "Dorothy Somerset Grove",
 				"PLACENAME2" : null,
@@ -10047,7 +10047,7 @@
 				"CREATED_USER" : "RACHELW",
 				"CREATED_DATE" : "20200730232558",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730233147"
+				"LAST_EDITED_DATE" : "20210126001614"
 			}
 		},
 		{
@@ -11658,7 +11658,7 @@
 			},
 			"properties" : {
 				"OBJECTID" : 440,
-				"POI_ID" : null,
+				"POI_ID" : "POI-549",
 				"ADD_ID" : null,
 				"PLACENAME" : "Norman MacKenzie Square",
 				"PLACENAME2" : null,
@@ -11679,7 +11679,7 @@
 				"CREATED_USER" : "RACHELW",
 				"CREATED_DATE" : "20200730233130",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20200730233207"
+				"LAST_EDITED_DATE" : "20210126001607"
 			}
 		},
 		{
