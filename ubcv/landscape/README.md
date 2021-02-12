@@ -2,8 +2,10 @@
 UBC Vancouver Landscape Features
 ================================
 
-Data
-----
+Trees and other landscape features, UBC Vancouver campus.
+
+Datasets
+--------
 ### ubcv_campus_trees
 - The current tree dataset. These data are currently being updated and features are in three states:
  - Trees with location, species ID and a full set of attribute measurements
