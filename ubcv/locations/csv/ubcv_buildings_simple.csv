@@ -280,7 +280,7 @@ Administrative,Technology Enterprise Facility 3,TEF3,6190 Agronomy Road,V6T 1Z3,
 Other,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 Student Union Boulevard,V6T 1Z1,VBL10361,Complete,-123.251324,49.268604
 Administrative,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Complete,-123.248057,49.261242
 Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253657,49.267351
-Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,Complete,-123.245959,49.263259
+Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,Complete,-123.245959,49.26326
 Other,Chapel of the Epiphany,CHPL,6030 Chancellor Boulevard,V6T 1X3,VBL10392,Complete,-123.252272,49.271559
 StudentHousing,Walter H. Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
 Athletics,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,V6T 1Z3,VBL10412,Complete,-123.241314,49.259582
@@ -372,11 +372,11 @@ Academic,JB Macdonald Building,MCDN,2199 Wesbrook Mall,V6T 1Z3,VBL10366,Complete
 Services,Marine Drive Residence - 3 Commonsblock,MAR3,"2205 Lower Mall, Building 3",V6T 1Z4,VBL10088,Complete,-123.256853,49.261413
 Academic,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences Mall,V6T 1Z3,VBL10102,Complete,-123.246848,49.264822
 Academic,School of Population & Public Health,SPPH,2206 East Mall,V6T 1Z3,VBL10107,Complete,-123.248416,49.26424
-StudentHousing,Pacific Residences - Building 4 - Salal House,PAR4,"5955 Student Union Boulevard, Building 4",V6T 1K2,VBL10384,UnderConstruction,-123.248026,49.270167
-StudentHousing,Pacific Residences - Building 3 - Orcas House,PAR3,"5955 Student Union Boulevard, Building 3",V6T 1K2,VBL10383,UnderConstruction,-123.247922,49.269587
-StudentHousing,Pacific Residences - Building 2 - Sword Fern House,PAR2,"5955 Student Union Boulevard, Building 2",V6T 1K2,VBL10378,UnderConstruction,-123.248522,49.269215
-StudentHousing,Pacific Residences - Building 1 - Driftwood House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249656,49.268815
-StudentHousing,Pacific Residences - Building 5 - Sandpiper House,PAR5,"5955 Student Union Boulevard, Building 5",V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
+StudentHousing,Pacific Residence - sɬewǝt’ lelǝm̓ / Herring House,PAR4,"5955 Student Union Boulevard, Building 4",V6T 1K2,VBL10384,UnderConstruction,-123.248026,49.270167
+StudentHousing,Pacific Residence - sqimǝk̓ʷ lelǝm̓ / Octopus House,PAR3,"5955 Student Union Boulevard, Building 3",V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
+StudentHousing,Pacific Residence - qʷta:yθǝn lelǝm̓ / Sturgeon House,PAR2,"5955 Student Union Boulevard, Building 2",V6T 1K2,VBL10378,UnderConstruction,-123.24852,49.269216
+StudentHousing,Pacific Residence - lɬalǝmǝcǝn lelǝm̓ / Orca House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
+StudentHousing,Pacific Residence - tǝmǝs lelǝm̓ / Sea Otter House,PAR5,"5955 Student Union Boulevard, Building 5",V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
 Housing,Georgia Point,GEOP,3381 Ross Drive,V6S 0L2,VBL10247,Complete,-123.239208,49.251948
 Housing,The Pemberley,PEMB,5605 Hampton Place,V6T 2H2,VBL10205,Complete,-123.232193,49.258013
 Academic,Centre for Comparative Medicine,CCM,4145 Wesbrook Mall,V6T 1W5,VBL10017,Complete,-123.233554,49.246819
