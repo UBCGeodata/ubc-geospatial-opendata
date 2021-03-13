@@ -1,4 +1,5 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
+VAD11118,UBC Tennis Centre,Vancouver,V6T 1Z3,BC,,CampusBuilding,CampusMail,6160 Thunderbird Boulevard,-123.243612,49.25969
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
 VAD10792,Westchester (C1),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2578 West Mall,-123.249378,49.257294
@@ -364,7 +365,6 @@ VAD10145,Robert F. Osborne Centre,Vancouver,V6T 1Z3,BC,VBL10251,Complex,CampusMa
 VAD10097,Old Administration Building,Vancouver,V6T 1Z2,BC,VBL10138,CampusBuilding,CampusMail,6328 Memorial Road,-123.255529,49.267252
 VAD10012,Hebb Building,Vancouver,V6T 1Z1,BC,VBL10047,CampusBuilding,CampusMail,2045 East Mall,-123.251824,49.26617
 VAD10099,Old Auditorium,Vancouver,V6T 1Z2,BC,VBL10335,CampusBuilding,CampusMail,6344 Memorial Road,-123.255824,49.266996
-VAD11118,UBC Tennis Centre,Vancouver,V6T 1Z3,BC,VBL90920,CampusBuilding,CampusMail,6160 Thunderbird Boulevard,-123.243612,49.25969
 VAD10477,Acadia Modular Child Care 2,Vancouver,V6T 1S1,BC,VBL10373,CampusBuilding,CampusMail,2835 Revelstoke Court,-123.235331,49.260524
 VAD10142,Hector J. MacLeod Building,Vancouver,V6T 1Z4,BC,VBL10099,CampusBuilding,CampusMail,2356 Main Mall,-123.249485,49.261486
 VAD10228,Green College - Principal's Residence,Vancouver,V6T 1Z1,BC,VBL10190,CampusBuilding,CampusMail,6205 Cecil Green Park Road,-123.256917,49.270922
