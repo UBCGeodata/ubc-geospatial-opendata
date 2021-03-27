@@ -46,6 +46,9 @@ StudentHousing,Acadia Park Residence - Fairview Place,APR3,5501 Fairview Place,V
 StudentHousing,Acadia Park Residence - Yalta Place,APR6,5501 Yalta Place,V6T 1L7,VBL10438,Complete,-123.238234,49.26414
 StudentHousing,Acadia Park Residence - Pearkes Lane,APR4,2500 Pearkes Lane,V6T 2C4,VBL10440,Complete,-123.239427,49.264274
 Administrative,Gerald McGavin Building,GMCG,2386 East Mall,V6T 1Z3,VBL10043,Complete,-123.246762,49.261791
+Athletics,Recreation Centre North,,6140 Student Union Boulevard,,VBL10441,PreConstruction,-123.25042,49.267983
+,UBC Gateway Building,,5955 University Boulevard,,VBL10442,PreConstruction,-123.246487,49.266758
+,BCR9,,5768 Gray Avenue,,VBL10443,PreConstruction,-123.232318,49.2525
 Services,Public Safety Building - RCMP + Fire,PSAB,2990 Wesbrook Mall,V6T 2B7,VBL10046,Complete,-123.238113,49.258943
 Athletics,Rugby Pavilion,RUGB,2584 East Mall,V6T 1Z3,VBL10055,Complete,-123.244014,49.258676
 Operations,Bioenergy Research and Demonstration Facility,BRDF,2337 Lower Mall,V6T 1Z4,VBL10069,Complete,-123.254521,49.260296
@@ -99,13 +102,12 @@ StudentHousing,Place Vanier Residence - Sherwood Lett House,VNR11,"1935 Lower Ma
 Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.239979,49.257149
 Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255524,49.260553
 StudentHousing,Acadia Park Residence - Highrise,APRH,2725 Melfa Road,V6T 1N4,VBL10260,Complete,-123.236813,49.26237
-Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,PreConstruction,-123.253078,49.269288
+Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,UnderConstruction,-123.253078,49.269288
 Administrative,International House,INTL,1783 West Mall,V6T 1Z2,VBL10371,Complete,-123.25896,49.2678
 Services,Museum of Anthropology,MOA,6393 NW Marine Drive,V6T 1Z2,VBL10235,Complete,-123.259417,49.269507
 Administrative,FERIC,FERC,2601 East Mall,V6T 1Z4,VBL10020,Complete,-123.244537,49.257752
-Housing,Evolve,EVLV,3508 Wesbrook Mall,,VBL10422,UnderConstruction,-123.233231,49.252338
-Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,PreConstruction,-123.252527,49.269033
-Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,PreConstruction,-123.252618,49.269569
+Housing,Evolve,EVLV,3518 Wesbrook Mall,,VBL10422,UnderConstruction,-123.233231,49.252338
+Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,UnderConstruction,-123.252378,49.269067
 Housing,Reflections,REFL,6279 Eagles Drive,V6T 2K7,VBL10148,Complete,-123.246886,49.258252
 Housing,Promontory,PROM,2688 West Mall,V6T 2J8,VBL10149,Complete,-123.247569,49.25595
 Administrative,Berwick Child Development Centre,BERW,2765 Osoyoos Crescent,V6T 1X7,VBL10155,Complete,-123.238932,49.260588
@@ -332,7 +334,7 @@ Housing,The Laureates - Highrise,LAR1,5628 Birney Avenue,V6S 0H7,VBL10241,Comple
 Housing,Eton - Townhouses,ETN3,"5687 Gray Avenue, Building 1",V6S 0K7,VBL10244,Complete,-123.231519,49.253536
 Housing,The Laureates - Apartment,LAR2,5638 Birney Avenue,V6S 0H8,VBL10261,Complete,-123.231755,49.254211
 Housing,Ivy on the Park - Townhouses,IVYT,5681 Birney Avenue,,VBL10264,UnderConstruction,-123.231834,49.254768
-Housing,Ivy on the Park - Highrise,IVYH,5629 Birney Avenue,,VBL10265,UnderConstruction,-123.230999,49.254718
+Housing,Ivy on the Park - Highrise,IVYH,5629 Birney Avenue,V6S 0L5,VBL10265,UnderConstruction,-123.230999,49.254718
 Housing,The Wesbrook - Highrise,WSB1,5838 Berton Avenue,V6S 0A5,VBL10184,Complete,-123.234509,49.255096
 Housing,Sage - Highrise,SAG1,5782 Berton Avenue,V6S 0C1,VBL10187,Complete,-123.233708,49.255264
 Housing,Sage - Townhouses,SAG2,"5782 Berton Avenue, Building 1",V6S 0C1,VBL10188,Complete,-123.233501,49.254987
@@ -374,7 +376,7 @@ Academic,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences 
 Academic,School of Population & Public Health,SPPH,2206 East Mall,V6T 1Z3,VBL10107,Complete,-123.248416,49.26424
 StudentHousing,Pacific Residence - sɬewǝt’ lelǝm̓ / Herring House,PAR4,"5955 Student Union Boulevard, Building 4",V6T 1K2,VBL10384,UnderConstruction,-123.248026,49.270167
 StudentHousing,Pacific Residence - sqimǝk̓ʷ lelǝm̓ / Octopus House,PAR3,"5955 Student Union Boulevard, Building 3",V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
-StudentHousing,Pacific Residence - qʷta:yθǝn lelǝm̓ / Sturgeon House,PAR2,"5955 Student Union Boulevard, Building 2",V6T 1K2,VBL10378,UnderConstruction,-123.24852,49.269216
+StudentHousing,Pacific Residence - qʷta:yθǝn lelǝm̓ / Sturgeon House,PAR2,5955 Student Union Boulevard,V6T 1K2,VBL10378,UnderConstruction,-123.24852,49.269216
 StudentHousing,Pacific Residence - lɬalǝmǝcǝn lelǝm̓ / Orca House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
 StudentHousing,Pacific Residence - tǝmǝs lelǝm̓ / Sea Otter House,PAR5,"5955 Student Union Boulevard, Building 5",V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
 Housing,Georgia Point,GEOP,3381 Ross Drive,V6S 0L2,VBL10247,Complete,-123.239208,49.251948
@@ -406,6 +408,7 @@ Housing,Journey,JOUR,6328 Larkin Drive,V6T 2K2,VBL10225,Complete,-123.247481,49.
 Academic,Asian Centre,ACEN,1871 West Mall,V6T 1Z2,VBL10227,Complete,-123.25871,49.266752
 Academic,Mathematics Building,MATH,1984 Mathematics Road,V6T 1Z2,VBL10229,Complete,-123.255556,49.26645
 Administrative,Ponderosa Office Annex A,PONA,2011 West Mall,V6T 1Z2,VBL10146,Complete,-123.256382,49.265167
+Academic,SBME,,6088 University Boulevard,,VBL10444,PreConstruction,-123.24731,49.265635
 StudentHousing,Acadia Park Residence - Montgomery Place,APR2,5501 Montgomery Place,V6T 2C8,VBL10439,Complete,-123.238725,49.264815
 Housing,St. James House,STJA,5835 Hampton Place,V6T 2G2,VBL10115,Complete,-123.237199,49.25822
 StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.2371,49.264247

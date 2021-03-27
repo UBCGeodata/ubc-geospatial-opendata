@@ -1,4 +1,5 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
+VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252659,49.269365
 VAD11118,UBC Tennis Centre,Vancouver,V6T 1Z3,BC,,CampusBuilding,CampusMail,6160 Thunderbird Boulevard,-123.243612,49.25969
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -134,7 +135,6 @@ VAD10396,Somerset (G1),Vancouver,V6T 2K6,BC,VBL10147,Residential,CanadaPost,2602
 VAD11143,Village Square - Retail,Vancouver,V6S 0J7,BC,VBL10170,Commercial,CanadaPost,5968 Webber Lane,-123.236485,49.25407
 VAD10793,Westchester (C2),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2576 West Mall,-123.249389,49.257307
 VAD10794,Westchester (C3),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2572 West Mall,-123.249445,49.257375
-VAD10796,Westchester (D1),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2568 West Mall,-123.249503,49.257446
 VAD10797,Westchester (D2),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2566 West Mall,-123.249531,49.25748
 VAD10798,Westchester (D3),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2562 West Mall,-123.249587,49.257549
 VAD10799,Westchester (D4),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2560 West Mall,-123.249618,49.257586
@@ -174,9 +174,8 @@ VAD10411,Somerset (C1),Vancouver,V6T 2K5,BC,VBL10147,Residential,CanadaPost,6372
 VAD10555,Corus - Townhouse (6),Vancouver,V6T 0A9,BC,VBL10303,Residential,CanadaPost,5985 Walter Gage Road,-123.249238,49.270598
 VAD10887,Coast - Duplex (2B),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6082 Chancellor Boulevard,-123.253413,49.271294
 VAD10890,Coast - Duplex (3A),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6072 Chancellor Boulevard,-123.253215,49.271415
-VAD10884,Coast - Duplex (1B),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6092 Chancellor Boulevard,-123.253612,49.271174
 VAD10885,Coast - Duplex (2A),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6088 Chancellor Boulevard,-123.2535,49.271256
-VAD10135,Ivy on the Park - Highrise,Vancouver,,BC,VBL10265,NeighbourhoodBldg,CanadaPost,5629 Birney Avenue,-123.231041,49.254599
+VAD10135,Ivy on the Park - Highrise,Vancouver,V6S 0L5,BC,VBL10265,NeighbourhoodBldg,CanadaPost,5629 Birney Avenue,-123.231041,49.254599
 VAD10581,Sage,Vancouver,V6S 0C1,BC,VBL10187,NeighbourhoodBldg,CanadaPost,5782 Berton Avenue,-123.233783,49.255395
 VAD10553,Academy,Vancouver,V6S 0E5,BC,VBL10183,NeighbourhoodBldg,CanadaPost,5728 Berton Avenue,-123.233144,49.255706
 VAD10584,The Wesbrook,Vancouver,V6S 0A5,BC,VBL10184,NeighbourhoodBldg,CanadaPost,5838 Berton Avenue,-123.234668,49.255178
@@ -306,14 +305,13 @@ VAD11105,UBC Farm,Vancouver,V6T 1W5,BC,VBL10014,Complex,CampusMail,3461 Ross Dri
 VAD11114,Vancouver School of Theology (VST),Vancouver,V6T 1Z1,BC,VBL10302,OtherBuilding,CanadaPost,6015 Walter Gage Road,-123.251196,49.270292
 VAD11063,Exchange Residence,Vancouver,V6T 2C9,BC,VBL10370,CampusBuilding,CampusMail,5960 Student Union Boulevard,-123.248494,49.268851
 VAD11179,Walter H. Gage Residence - Temporary Front Desk,Vancouver,V6T 1K2,BC,VBL10263,Complex,CampusMail,6002 Walter Gage Road,-123.249901,49.270101
-VAD10450,Pacific Residence - Herring House,Vancouver,V6T 1K2,BC,VBL10383,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 3",-123.247741,49.269368
-VAD10217,Pacific Residence - Octopus House,Vancouver,V6T 1K2,BC,VBL10382,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 5",-123.248056,49.270587
-VAD10215,Pacific Residence - Orca House,Vancouver,V6T 1K2,BC,VBL10378,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 2",-123.248605,49.269102
-VAD10218,Pacific Residence - Parking,Vancouver,V6T 1K2,BC,VBL10382,CampusBuilding,CampusMail,5970 Walter Gage Road,-123.248567,49.270568
-VAD10214,Pacific Residence - Sea Otter House,Vancouver,V6T 1K2,BC,VBL10384,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 4",-123.24807,49.270099
+VAD10450,Pacific Residence - Herring House,Vancouver,V6T 1K2,BC,VBL10383,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 3",-123.248001,49.269422
+VAD10217,Pacific Residence - Octopus House,Vancouver,V6T 1K2,BC,VBL10382,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 5",-123.248038,49.270552
+VAD10215,Pacific Residence - Orca House,Vancouver,V6T 1K2,BC,VBL10378,CampusBuilding,CampusMail,5955 Student Union Boulevard,-123.248605,49.269102
+VAD10218,Pacific Residence - Parking,Vancouver,V6T 1K2,BC,VBL10382,Occupant,CampusMail,5970 Walter Gage Road,-123.248552,49.27053
+VAD10214,Pacific Residence - Sea Otter House,Vancouver,V6T 1K2,BC,VBL10384,CampusBuilding,CampusMail,"5955 Student Union Boulevard, Building 4",-123.248121,49.270096
 VAD10216,Pacific Residence - Sturgeon House,Vancouver,V6T 1K2,BC,VBL10381,CampusBuilding,CampusMail,5985 Student Union Boulevard,-123.249295,49.268859
 VAD11194,Pump House,Vancouver,V6T 1Z2,BC,VBL10420,CampusBuilding,CampusMail,6355 University Boulevard,-123.254229,49.264664
-VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10423,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252659,49.269365
 VAD11180,Brock Commons South,Vancouver,V6T 1K2,BC,VBL10424,CampusBuilding,CampusMail,6180 Walter Gage Road,-123.252661,49.2691
 VAD11181,Brock Commons South - House,Vancouver,V6T 1K2,BC,VBL10424,Residential,CampusMail,6122 Walter Gage Road,-123.251977,49.269322
 VAD10453,Stirling House - Townhouse,Vancouver,V6T 0A4,BC,VBL10289,Residential,CanadaPost,6086 Iona Drive,-123.252682,49.270491
@@ -378,7 +376,7 @@ VAD10713,Child Care Services - Sitka/Discovery,Vancouver,V6T 2E6,BC,VBL10140,Cam
 VAD10722,Civil and Mechanical Engineering Building,Vancouver,V6T 1Z4,BC,VBL10329,CampusBuilding,CampusMail,6250 Applied Science Lane,-123.249235,49.262687
 VAD10816,Berwick Child Development Centre,Vancouver,V6T 1X7,BC,VBL10155,CampusBuilding,CampusMail,2765 Osoyoos Crescent,-123.238824,49.260906
 VAD10840,Brock Hall,Vancouver,V6T 1Z1,BC,VBL10331,CampusBuilding,CampusMail,1874 East Mall,-123.251856,49.268518
-VAD11165,Evolve,Vancouver,,BC,VBL10422,NeighbourhoodBldg,CanadaPost,3508 Wesbrook Mall,-123.233453,49.252343
+VAD11165,Evolve,Vancouver,,BC,VBL10422,NeighbourhoodBldg,CanadaPost,3518 Wesbrook Mall,-123.233453,49.252343
 VAD11076,Thunderbird Parkade,Vancouver,V6T 1Z3,BC,VBL10113,CampusBuilding,CampusMail,6085 Thunderbird Boulevard,-123.243431,49.261143
 VAD11083,Thea Koerner House,Vancouver,V6T 1Z2,BC,VBL10249,CampusBuilding,CampusMail,6371 Crescent Road,-123.257765,49.268524
 VAD11101,Child Care Services - Salal,Vancouver,V6T 1S1,BC,VBL10273,CampusBuilding,CampusMail,5655 Osoyoos Crescent,-123.235108,49.259929
@@ -400,26 +398,26 @@ VAD10455,Student Recreation Centre (SRC),Vancouver,V6T 1Z1,BC,VBL10125,CampusBui
 VAD10475,Wood Drying Laboratory,Vancouver,V6T 1Z4,BC,VBL10285,CampusBuilding,CampusMail,2324 West Mall,-123.252305,49.261491
 VAD10165,Ponderosa Commons East,Vancouver,V6T 1Z4,BC,VBL10311,CampusBuilding,CampusMail,6398 University Boulevard,-123.254701,49.263893
 VAD10908,Acadia Park Residence - Tennis Crescent (2639),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2639 Tennis Crescent,-123.237867,49.263574
-VAD10909,Acadia Park Townhouses Melfa Lane (2508),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2508 Melfa Lane,-123.237679,49.265149
-VAD10910,Acadia Park Townhouses Melfa Lane (2636),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2636 Melfa Lane,-123.236507,49.263604
+VAD10909,Acadia Park Residence - Melfa Lane (2508),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2508 Melfa Lane,-123.237679,49.265149
+VAD10910,Acadia Park Residence - Melfa Lane (2636),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2636 Melfa Lane,-123.236507,49.263604
 VAD10911,Acadia Park Residence - Montgomery Place (5630),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5630 Montgomery Place,-123.239002,49.264629
-VAD10912,Acadia Park Townhouses Melfa Lane (2515),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2515 Melfa Lane,-123.237641,49.264754
+VAD10912,Acadia Park Residence - Melfa Lane (2515),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2515 Melfa Lane,-123.237641,49.264754
 VAD10913,Acadia Park Residence - Montgomery Place (5612),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5612 Montgomery Place,-123.238442,49.264763
 VAD10916,Acadia Park Residence - Tennis Crescent (2632),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2632 Tennis Crescent,-123.237786,49.263689
 VAD10917,Acadia Park Residence - Tennis Crescent (2653),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2653 Tennis Crescent,-123.237626,49.263282
-VAD10918,Acadia Park Townhouses Melfa Lane (2616),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2616 Melfa Lane,-123.236779,49.26406
-VAD10919,Acadia Park Townhouses Melfa Lane (2642),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2642 Melfa Lane,-123.236324,49.263382
+VAD10918,Acadia Park Residence - Melfa Lane (2616),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2616 Melfa Lane,-123.236779,49.26406
+VAD10919,Acadia Park Residence - Melfa Lane (2642),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2642 Melfa Lane,-123.236324,49.263382
 VAD10920,Acadia Park Residence - Montgomery Place (5606),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5606 Montgomery Place,-123.238314,49.264848
-VAD10921,Acadia Park Townhouses Melfa Lane (2503),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2503 Melfa Lane,-123.237858,49.264937
-VAD10922,Acadia Park Townhouses Melfa Lane (2629),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2629 Melfa Lane,-123.236818,49.263645
+VAD10921,Acadia Park Residence - Melfa Lane (2503),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2503 Melfa Lane,-123.237858,49.264937
+VAD10922,Acadia Park Residence - Melfa Lane (2629),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2629 Melfa Lane,-123.236818,49.263645
 VAD10923,Acadia Park Residence - Yalta Place (5510),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5510 Yalta Place,-123.237452,49.264307
 VAD10924,Acadia Park Residence - Yalta Place (5504),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5504 Yalta Place,-123.237287,49.264345
-VAD10925,Acadia Park Townhouses Melfa Lane (2618),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2618 Melfa Lane,-123.236655,49.264026
+VAD10925,Acadia Park Residence - Melfa Lane (2618),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2618 Melfa Lane,-123.236655,49.264026
 VAD10926,Acadia Park Residence - Tennis Crescent (2664),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2664 Tennis Crescent,-123.237211,49.263069
 VAD10927,Acadia Park Residence - Montgomery Place (5638),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5638 Montgomery Place,-123.239195,49.264535
 VAD10928,Acadia Park Residence - Montgomery Place (5631),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5631 Montgomery Place,-123.239151,49.264771
 VAD10929,Acadia Park Residence - Yalta Place (5606),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5606 Yalta Place,-123.237829,49.264235
-VAD10930,Acadia Park Townhouses Melfa Lane (2624),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2624 Melfa Lane,-123.236709,49.263826
+VAD10930,Acadia Park Residence - Melfa Lane (2624),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2624 Melfa Lane,-123.236709,49.263826
 VAD10656,Fairview Crescent Residence (Unit 25),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2611 Fairview Crescent,-123.240732,49.26304
 VAD10657,Fairview Crescent Residence (Unit 25),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2613 Fairview Crescent,-123.240675,49.263037
 VAD10658,Fairview Crescent Residence (Unit 25),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2601 Fairview Crescent,-123.240784,49.263089
@@ -436,7 +434,7 @@ VAD10933,Acadia Park Residence - Montgomery Place (5621),Vancouver,V6T 2C8,BC,VB
 VAD10934,Acadia Park Residence - Tennis Crescent (2637),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2637 Tennis Crescent,-123.237965,49.263646
 VAD10935,Acadia Park Residence - Tennis Crescent (2623),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2623 Tennis Crescent,-123.238208,49.263905
 VAD10936,Acadia Park Residence - Montgomery Place (5628),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5628 Montgomery Place,-123.23883,49.26447
-VAD10937,Acadia Park Townhouses Melfa Lane (2602),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2602 Melfa Lane,-123.23718,49.264522
+VAD10937,Acadia Park Residence - Melfa Lane (2602),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2602 Melfa Lane,-123.23718,49.264522
 VAD10938,Acadia Park Residence - Montgomery Place (5601),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5601 Montgomery Place,-123.238134,49.265064
 VAD10939,Acadia Park Residence - Tennis Crescent (2656),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2656 Tennis Crescent,-123.237388,49.263224
 VAD10482,Acadia House - 3 (106-110),Vancouver,V6T 1R9,BC,VBL10308,Residential,CampusMail,2720 Acadia Road,-123.235502,49.262682
@@ -469,7 +467,7 @@ VAD10879,Acadia Park Presidents Row (103E),Vancouver,V6T 1L5,BC,VBL10295,Residen
 VAD10880,Acadia Park Presidents Row (103G),Vancouver,V6T 1L5,BC,VBL10295,Residential,CampusMail,5603 Presidents Row,-123.239434,49.265113
 VAD10881,Acadia Park Presidents Row (103F),Vancouver,V6T 1L5,BC,VBL10295,Residential,CampusMail,5605 Presidents Row,-123.239469,49.2651
 VAD10891,Acadia Park Presidents Row (103A),Vancouver,V6T 1L5,BC,VBL10295,Residential,CampusMail,5617 Presidents Row,-123.239944,49.264948
-VAD10948,Acadia Park Townhouses Melfa Lane (2504),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2504 Melfa Lane,-123.23773,49.265214
+VAD10948,Acadia Park Residence - Melfa Lane (2504),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2504 Melfa Lane,-123.23773,49.265214
 VAD10949,Acadia Park Residence - Montgomery Place (5634),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5634 Montgomery Place,-123.239098,49.264582
 VAD10950,Acadia Park Residence - Yalta Place (5644),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5644 Yalta Place,-123.238709,49.263823
 VAD10677,Fairview Crescent Residence (Unit 28),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2628 Fairview Crescent,-123.240646,49.263364
@@ -480,8 +478,8 @@ VAD10681,Acadia Park Residence - Tennis Crescent (2638),Vancouver,V6T 2E1,BC,VBL
 VAD10682,Acadia Park Residence - Yalta Place (5603),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5603 Yalta Place,-123.237735,49.264436
 VAD10684,Acadia Park Residence - Montgomery Place (5603),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5603 Montgomery Place,-123.238279,49.265013
 VAD10696,Acadia Park Residence - Fairview Place (5603),Vancouver,V6T 2E2,BC,VBL10437,Residential,CampusMail,5603 Fairview Place,-123.236792,49.263245
-VAD10697,Acadia Park Townhouses Melfa Lane (2502),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2502 Melfa Lane,-123.237758,49.265251
-VAD10698,Acadia Park Townhouses Melfa Lane (2609),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2609 Melfa Lane,-123.237011,49.26402
+VAD10697,Acadia Park Residence - Melfa Lane (2502),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2502 Melfa Lane,-123.237758,49.265251
+VAD10698,Acadia Park Residence - Melfa Lane (2609),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2609 Melfa Lane,-123.237011,49.26402
 VAD10961,Acadia Park Residence - Yalta Place (5615),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5615 Yalta Place,-123.238076,49.264355
 VAD10962,Acadia Park Residence - Montgomery Place (5626),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5626 Montgomery Place,-123.238758,49.264537
 VAD10963,Acadia Park Residence - Montgomery Place (5623),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5623 Montgomery Place,-123.238989,49.264912
@@ -499,26 +497,26 @@ VAD10702,Acadia Park Residence - Montgomery Place (5605),Vancouver,V6T 2C8,BC,VB
 VAD10703,Acadia Park Residence - Pearkes Lane (2525),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2525 Pearkes Lane,-123.239367,49.26421
 VAD10704,Acadia Park Residence - Yalta Place (5619),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5619 Yalta Place,-123.238176,49.264312
 VAD10707,Acadia Park Residence - Tennis Crescent (2657),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2657 Tennis Crescent,-123.237674,49.263111
-VAD10685,Acadia Park Townhouses Melfa Lane (2603),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2603 Melfa Lane,-123.237427,49.26451
+VAD10685,Acadia Park Residence - Melfa Lane (2603),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2603 Melfa Lane,-123.237427,49.26451
 VAD10686,Acadia Park Residence - Pearkes Lane (2603),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2603 Pearkes Lane,-123.239171,49.263974
 VAD10688,Acadia Park Residence - Montgomery Place (5607),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5607 Montgomery Place,-123.238442,49.265093
 VAD10951,Acadia Park Residence - Montgomery Place (5632),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5632 Montgomery Place,-123.239058,49.264609
-VAD10952,Acadia Park Townhouses Melfa Lane (2505),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2505 Melfa Lane,-123.237832,49.264899
+VAD10952,Acadia Park Residence - Melfa Lane (2505),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2505 Melfa Lane,-123.237832,49.264899
 VAD10953,Acadia Park Residence - Yalta Place (5645),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5645 Yalta Place,-123.238892,49.264045
 VAD10954,Acadia Park Residence - Tennis Crescent (2655),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2655 Tennis Crescent,-123.237628,49.263206
 VAD10955,Acadia Park Residence - Montgomery Place (5644),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5644 Montgomery Place,-123.239344,49.264459
-VAD10956,Acadia Park Townhouses Melfa Lane (2623),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2623 Melfa Lane,-123.236866,49.263769
+VAD10956,Acadia Park Residence - Melfa Lane (2623),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2623 Melfa Lane,-123.236866,49.263769
 VAD10957,Acadia Park Residence - Yalta Place (5638),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5638 Yalta Place,-123.238534,49.264002
 VAD10958,Acadia Park Residence - Tennis Crescent (2663),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2663 Tennis Crescent,-123.237542,49.262951
 VAD10959,Acadia Park Residence - Yalta Place (5648),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5648 Yalta Place,-123.238839,49.263781
-VAD10960,Acadia Park Townhouses Melfa Lane (2512),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2512 Melfa Lane,-123.237705,49.265094
+VAD10960,Acadia Park Residence - Melfa Lane (2512),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2512 Melfa Lane,-123.237705,49.265094
 VAD10689,Acadia Park Residence - Tennis Crescent (2627),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2627 Tennis Crescent,-123.238175,49.263833
 VAD10690,Acadia Park Residence - Montgomery Place (5624),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5624 Montgomery Place,-123.238701,49.264556
 VAD10691,Acadia Park Residence - Montgomery Place (5642),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5642 Montgomery Place,-123.239268,49.264491
 VAD10692,Acadia Park Residence - Pearkes Lane (2506),Vancouver,V6T 2C4,BC,VBL10440,Residential,CampusMail,2506 Pearkes Lane,-123.239146,49.264204
-VAD10693,Acadia Park Townhouses Melfa Lane (2511),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2511 Melfa Lane,-123.237713,49.264813
-VAD10694,Acadia Park Townhouses Melfa Lane (2608),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2608 Melfa Lane,-123.237068,49.264423
-VAD10695,Acadia Park Townhouses Melfa Lane (2607),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2607 Melfa Lane,-123.237042,49.264061
+VAD10693,Acadia Park Residence - Melfa Lane (2511),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2511 Melfa Lane,-123.237713,49.264813
+VAD10694,Acadia Park Residence - Melfa Lane (2608),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2608 Melfa Lane,-123.237068,49.264423
+VAD10695,Acadia Park Residence - Melfa Lane (2607),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2607 Melfa Lane,-123.237042,49.264061
 VAD10940,Acadia Park Residence - Montgomery Place (5614),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5614 Montgomery Place,-123.238498,49.264743
 VAD10667,Fairview Crescent Residence (Unit 26),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2608 Fairview Crescent,-123.24099,49.263235
 VAD10668,Fairview Crescent Residence (Unit 28),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2634 Fairview Crescent,-123.240581,49.263291
@@ -530,15 +528,15 @@ VAD10673,Fairview Crescent Residence (Unit 28),Vancouver,V6T 2B9,BC,VBL10193,Res
 VAD10674,Fairview Crescent Residence (Unit 27),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2620 Fairview Crescent,-123.240756,49.263264
 VAD10675,Fairview Crescent Residence (Unit 27),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2618 Fairview Crescent,-123.240825,49.2633
 VAD10676,Fairview Crescent Residence (Unit 27),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2614 Fairview Crescent,-123.240841,49.263241
-VAD10941,Acadia Park Townhouses Melfa Lane (2520),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2520 Melfa Lane,-123.237394,49.264834
+VAD10941,Acadia Park Residence - Melfa Lane (2520),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2520 Melfa Lane,-123.237394,49.264834
 VAD10942,Acadia Park Residence - Yalta Place (5612),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5612 Yalta Place,-123.237906,49.264091
-VAD10943,Acadia Park Townhouses Melfa Lane (2604),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2604 Melfa Lane,-123.237149,49.264486
-VAD10944,Acadia Park Townhouses Melfa Lane (2614),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2614 Melfa Lane,-123.236809,49.264098
+VAD10943,Acadia Park Residence - Melfa Lane (2604),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2604 Melfa Lane,-123.237149,49.264486
+VAD10944,Acadia Park Residence - Melfa Lane (2614),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2614 Melfa Lane,-123.236809,49.264098
 VAD10945,Acadia Park Residence - Pearkes Lane (2515),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2515 Pearkes Lane,-123.239561,49.264417
 VAD10946,Acadia Park Residence - Tennis Crescent (2645),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2645 Tennis Crescent,-123.237745,49.263424
 VAD10947,Acadia Park Residence - Tennis Crescent (2661),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2661 Tennis Crescent,-123.237546,49.26303
 VAD10746,Acadia Park Residence - Yalta Place (5631),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5631 Yalta Place,-123.238494,49.264158
-VAD10747,Acadia Park Townhouses Melfa Lane (2517),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2517 Melfa Lane,-123.237616,49.264716
+VAD10747,Acadia Park Residence - Melfa Lane (2517),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2517 Melfa Lane,-123.237616,49.264716
 VAD10748,Acadia Park Residence - Tennis Crescent (2626),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2626 Tennis Crescent,-123.237892,49.26379
 VAD10993,Acadia Park Residence - Montgomery Place (5610),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5610 Montgomery Place,-123.238411,49.264791
 VAD10994,Acadia Park Residence - Tennis Crescent (2649),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2649 Tennis Crescent,-123.237711,49.263344
@@ -547,17 +545,17 @@ VAD10997,Acadia Park Residence - Pearkes Lane (2609),Vancouver,V6T 2C5,BC,VBL104
 VAD10998,Acadia Park Residence - Yalta Place (5609),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5609 Yalta Place,-123.237906,49.264413
 VAD10999,Acadia Park Residence - Tennis Crescent (2635),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2635 Tennis Crescent,-123.238113,49.263653
 VAD11000,Acadia Park Residence - Montgomery Place (5639),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5639 Montgomery Place,-123.23953,49.264738
-VAD11001,Acadia Park Townhouses Melfa Lane (2501),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2501 Melfa Lane,-123.237966,49.264982
+VAD11001,Acadia Park Residence - Melfa Lane (2501),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2501 Melfa Lane,-123.237966,49.264982
 VAD11002,Acadia Park Residence - Pearkes Lane (2601),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2601 Pearkes Lane,-123.239192,49.264014
-VAD11003,Acadia Park Townhouses Melfa Lane (2639),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2639 Melfa Lane,-123.236526,49.263338
+VAD11003,Acadia Park Residence - Melfa Lane (2639),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2639 Melfa Lane,-123.236526,49.263338
 VAD10749,Acadia Park Residence - Yalta Place (5643),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5643 Yalta Place,-123.238833,49.26406
-VAD10750,Acadia Park Townhouses Melfa Lane (2620),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2620 Melfa Lane,-123.236816,49.263981
+VAD10750,Acadia Park Residence - Melfa Lane (2620),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2620 Melfa Lane,-123.236816,49.263981
 VAD10751,Acadia Park Residence - Pearkes Lane (2504),Vancouver,V6T 2C4,BC,VBL10440,Residential,CampusMail,2504 Pearkes Lane,-123.239166,49.264239
-VAD10752,Acadia Park Townhouses Melfa Lane (2625),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2625 Melfa Lane,-123.236833,49.263729
+VAD10752,Acadia Park Residence - Melfa Lane (2625),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2625 Melfa Lane,-123.236833,49.263729
 VAD10753,Acadia Park Residence - Yalta Place (5505),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5505 Yalta Place,-123.237611,49.264447
 VAD10754,Acadia Park Residence - Pearkes Lane (2521),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2521 Pearkes Lane,-123.239454,49.264319
 VAD10755,Acadia Park Residence - Tennis Crescent (2622),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2622 Tennis Crescent,-123.237953,49.263852
-VAD10756,Acadia Park Townhouses Melfa Lane (2635),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2635 Melfa Lane,-123.236785,49.263487
+VAD10756,Acadia Park Residence - Melfa Lane (2635),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2635 Melfa Lane,-123.236785,49.263487
 VAD10757,Acadia Park Residence - Montgomery Place (5611),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5611 Montgomery Place,-123.238563,49.265008
 VAD10758,Acadia Park Residence - Fairview Place (5605),Vancouver,V6T 2E2,BC,VBL10437,Residential,CampusMail,5605 Fairview Place,-123.236825,49.263214
 VAD11004,Acadia Park Residence - Montgomery Place (5615),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5615 Montgomery Place,-123.238613,49.26495
@@ -569,7 +567,7 @@ VAD11010,Acadia Park Residence - Yalta Place (5616),Vancouver,V6T 2C2,BC,VBL1043
 VAD11011,Acadia Park Residence - Yalta Place (5625),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5625 Yalta Place,-123.238355,49.264199
 VAD11012,Acadia Park Residence - Pearkes Lane (2502),Vancouver,V6T 2C4,BC,VBL10440,Residential,CampusMail,2502 Pearkes Lane,-123.239194,49.264276
 VAD11013,Acadia Park Residence - Montgomery Place (5629),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5629 Montgomery Place,-123.239232,49.264827
-VAD11015,Acadia Park Townhouses Melfa Lane (2518),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2518 Melfa Lane,-123.23752,49.264843
+VAD11015,Acadia Park Residence - Melfa Lane (2518),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2518 Melfa Lane,-123.23752,49.264843
 VAD10759,Acadia Park Residence - Yalta Place (5639),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5639 Yalta Place,-123.238725,49.264106
 VAD10760,Acadia Park Residence - Fairview Place (5505),Vancouver,V6T 2E2,BC,VBL10437,Residential,CampusMail,5505 Fairview Place,-123.236672,49.263264
 VAD10761,Acadia Park Residence - Yalta Place (5637),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5637 Yalta Place,-123.238672,49.264117
@@ -577,11 +575,11 @@ VAD10762,Acadia Park Residence - Montgomery Place (5622),Vancouver,V6T 2C7,BC,VB
 VAD10763,Acadia Park Residence - Fairview Place (5503),Vancouver,V6T 2E2,BC,VBL10437,Residential,CampusMail,5503 Fairview Place,-123.236609,49.263285
 VAD10764,Acadia Park Residence - Yalta Place (5613),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5613 Yalta Place,-123.238013,49.264364
 VAD10765,Acadia Park Residence - Tennis Crescent (2644),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2644 Tennis Crescent,-123.237506,49.26351
-VAD10710,Acadia Park Townhouses Melfa Lane (2621),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2621 Melfa Lane,-123.236902,49.263791
+VAD10710,Acadia Park Residence - Melfa Lane (2621),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2621 Melfa Lane,-123.236902,49.263791
 VAD10716,Acadia Park Residence - Montgomery Place (5602),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5602 Montgomery Place,-123.23821,49.264896
 VAD10717,Acadia Park Residence - Pearkes Lane (2503),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2503 Pearkes Lane,-123.239748,49.26462
 VAD10971,Acadia Park Residence - Tennis Crescent (2633),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2633 Tennis Crescent,-123.238092,49.263727
-VAD10972,Acadia Park Townhouses Melfa Lane (2600),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2600 Melfa Lane,-123.237156,49.264612
+VAD10972,Acadia Park Residence - Melfa Lane (2600),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2600 Melfa Lane,-123.237156,49.264612
 VAD10973,Acadia Park Residence - Yalta Place (5654),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5654 Yalta Place,-123.239051,49.263708
 VAD10974,Acadia Park Residence - Yalta Place (5623),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5623 Yalta Place,-123.238291,49.264232
 VAD10975,Acadia Park Residence - Pearkes Lane (2527),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2527 Pearkes Lane,-123.239309,49.26412
@@ -601,23 +599,23 @@ VAD10729,Acadia Park Residence - Yalta Place (5635),Vancouver,V6T 1L7,BC,VBL1043
 VAD10730,Acadia Park Residence - Yalta Place (5605),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5605 Yalta Place,-123.237789,49.264428
 VAD10731,Acadia Park Residence - Tennis Crescent (2634),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2634 Tennis Crescent,-123.237729,49.263675
 VAD10981,Acadia Park Residence - Yalta Place (5610),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5610 Yalta Place,-123.237859,49.26412
-VAD10982,Acadia Park Townhouses Melfa Lane (2510),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2510 Melfa Lane,-123.237549,49.265108
+VAD10982,Acadia Park Residence - Melfa Lane (2510),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2510 Melfa Lane,-123.237549,49.265108
 VAD10983,Acadia Park Residence - Tennis Crescent (2636),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2636 Tennis Crescent,-123.237686,49.263636
 VAD10984,Acadia Park Residence - Tennis Crescent (2660),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2660 Tennis Crescent,-123.237361,49.263141
 VAD10985,Acadia Park Residence - Yalta Place (5646),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5646 Yalta Place,-123.238781,49.263799
 VAD10987,Acadia Park Residence - Yalta Place (5502),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5502 Yalta Place,-123.237171,49.264341
 VAD10988,Acadia Park Residence - Yalta Place (5602),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5602 Yalta Place,-123.237575,49.264327
 VAD10989,Acadia Park Residence - Montgomery Place (5633),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5633 Montgomery Place,-123.239213,49.264701
-VAD10990,Acadia Park Townhouses Melfa Lane (2633),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2633 Melfa Lane,-123.236751,49.263576
+VAD10990,Acadia Park Residence - Melfa Lane (2633),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2633 Melfa Lane,-123.236751,49.263576
 VAD10991,Acadia Park Residence - Montgomery Place (5609),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5609 Montgomery Place,-123.238505,49.265025
 VAD10735,Acadia Park Residence - Yalta Place (5608),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5608 Yalta Place,-123.237736,49.264131
 VAD10736,Acadia Park Residence - Fairview Place (5609),Vancouver,V6T 2E2,BC,VBL10437,Residential,CampusMail,5609 Fairview Place,-123.236931,49.263185
-VAD10737,Acadia Park Townhouses Melfa Lane (2610),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2610 Melfa Lane,-123.236954,49.264383
+VAD10737,Acadia Park Residence - Melfa Lane (2610),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2610 Melfa Lane,-123.236954,49.264383
 VAD10738,Acadia Park Residence - Montgomery Place (5636),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5636 Montgomery Place,-123.239153,49.264561
-VAD10739,Acadia Park Townhouses Melfa Lane (2617),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2617 Melfa Lane,-123.236943,49.263864
-VAD10740,Acadia Park Townhouses Melfa Lane (2619),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2619 Melfa Lane,-123.236937,49.26383
-VAD10745,Acadia Park Townhouses Melfa Lane (2601),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2601 Melfa Lane,-123.237499,49.264594
-VAD10836,Acadia Park Townhouses Melfa Lane (2611),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2611 Melfa Lane,-123.237031,49.263976
+VAD10739,Acadia Park Residence - Melfa Lane (2617),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2617 Melfa Lane,-123.236943,49.263864
+VAD10740,Acadia Park Residence - Melfa Lane (2619),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2619 Melfa Lane,-123.236937,49.26383
+VAD10745,Acadia Park Residence - Melfa Lane (2601),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2601 Melfa Lane,-123.237499,49.264594
+VAD10836,Acadia Park Residence - Melfa Lane (2611),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2611 Melfa Lane,-123.237031,49.263976
 VAD10837,Acadia Park Residence - Tennis Crescent (2630),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2630 Tennis Crescent,-123.237827,49.263727
 VAD10843,Acadia Park Residence - Montgomery Place (5625),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5625 Montgomery Place,-123.239053,49.264847
 VAD11185,Fairview Crescent Residence (Unit 16A),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2689A Fairview Crescent,-123.23947,49.263176
@@ -626,12 +624,12 @@ VAD10847,Acadia Park Residence - Tennis Crescent (2643),Vancouver,V6T 2C1,BC,VBL
 VAD10848,Acadia Park Residence - Tennis Crescent (2652),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2652 Tennis Crescent,-123.237422,49.263301
 VAD10853,Acadia Park Residence - Tennis Crescent (2625),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2625 Tennis Crescent,-123.238189,49.263865
 VAD10854,Acadia Park Residence - Yalta Place (5629),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5629 Yalta Place,-123.238436,49.26416
-VAD10855,Acadia Park Townhouses Melfa Lane (2514),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2514 Melfa Lane,-123.237682,49.264988
+VAD10855,Acadia Park Residence - Melfa Lane (2514),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2514 Melfa Lane,-123.237682,49.264988
 VAD10627,Abdul Ladha Science Student Centre,Vancouver,V6T 1Z1,BC,VBL10163,CampusBuilding,CampusMail,2055 East Mall,-123.251254,49.266062
 VAD10886,Chan Centre for the Performing Arts,Vancouver,V6T 1Z1,BC,VBL10282,CampusBuilding,CampusMail,6265 Crescent Road,-123.255374,49.26946
 VAD10888,Chan Gunn Pavilion,Vancouver,V6T 1Z3,BC,VBL10092,CampusBuilding,CampusMail,2553 Wesbrook Mall,-123.241283,49.2608
 VAD10889,Centre for Interactive Research on Sustainability,Vancouver,V6T 1Z4,BC,VBL10162,CampusBuilding,CampusMail,2260 West Mall,-123.253354,49.262063
-VAD10856,Acadia Park Townhouses Melfa Lane (2612),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2612 Melfa Lane,-123.236795,49.264196
+VAD10856,Acadia Park Residence - Melfa Lane (2612),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2612 Melfa Lane,-123.236795,49.264196
 VAD10857,Acadia Park Residence - Montgomery Place (5509),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5509 Montgomery Place,-123.238076,49.265137
 VAD10858,Acadia Park Residence - Yalta Place (5503),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5503 Yalta Place,-123.23755,49.264457
 VAD10859,Acadia Park Presidents Row (101A),Vancouver,V6T 1L5,BC,VBL10295,Residential,CampusMail,5515 Presidents Row,-123.238573,49.265416
@@ -648,23 +646,23 @@ VAD10873,Acadia Park Presidents Row (102E),Vancouver,V6T 1L5,BC,VBL10295,Residen
 VAD10817,Binning Tower,Vancouver,V6S 0J1,BC,VBL10210,NeighbourhoodBldg,CanadaPost,3355 Binning Road,-123.231218,49.255501
 VAD10766,Acadia Park Residence - Pearkes Lane (2507),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2507 Pearkes Lane,-123.23968,49.264556
 VAD10767,Acadia Park Residence - Tennis Crescent (2648),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2648 Tennis Crescent,-123.237453,49.263376
-VAD10768,Acadia Park Townhouses Melfa Lane (2622),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2622 Melfa Lane,-123.236776,49.263907
+VAD10768,Acadia Park Residence - Melfa Lane (2622),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2622 Melfa Lane,-123.236776,49.263907
 VAD11016,Acadia Park Residence - Tennis Crescent (2624),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2624 Tennis Crescent,-123.237911,49.263814
 VAD11017,Acadia Park Residence - Yalta Place (5642),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5642 Yalta Place,-123.238758,49.263903
-VAD11018,Acadia Park Townhouses Melfa Lane (2509),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2509 Melfa Lane,-123.237759,49.264837
+VAD11018,Acadia Park Residence - Melfa Lane (2509),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2509 Melfa Lane,-123.237759,49.264837
 VAD11019,Acadia Park Residence - Tennis Crescent (2651),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2651 Tennis Crescent,-123.237657,49.263321
 VAD11020,Acadia Park Residence - Montgomery Place (5637),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5637 Montgomery Place,-123.239483,49.264651
-VAD11021,Acadia Park Townhouses Melfa Lane (2615),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2615 Melfa Lane,-123.236973,49.263904
+VAD11021,Acadia Park Residence - Melfa Lane (2615),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2615 Melfa Lane,-123.236973,49.263904
 VAD11153,Acadia Park Residence - Montgomery Place (5635),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5635 Montgomery Place,-123.239356,49.264648
 VAD11184,Fairview Crescent Residence (Unit 19A),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2673A Fairview Crescent,-123.239747,49.263333
 VAD11186,Fairview Crescent Residence (Unit 22A),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2649A Fairview Crescent,-123.24023,49.263147
 VAD11182,Fairview Crescent Residence (Unit 14A),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2721A Fairview Crescent,-123.239438,49.262851
-VAD10769,Acadia Park Townhouses Melfa Lane (2631),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2631 Melfa Lane,-123.236783,49.263618
+VAD10769,Acadia Park Residence - Melfa Lane (2631),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2631 Melfa Lane,-123.236783,49.263618
 VAD10770,Acadia Park Residence - Tennis Crescent (2647),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2647 Tennis Crescent,-123.23774,49.263381
 VAD10771,Acadia Park Residence - Yalta Place (5617),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5617 Yalta Place,-123.238109,49.264326
-VAD10832,Acadia Park Townhouses Melfa Lane (2513),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2513 Melfa Lane,-123.237684,49.264777
+VAD10832,Acadia Park Residence - Melfa Lane (2513),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2513 Melfa Lane,-123.237684,49.264777
 VAD10833,Acadia Park Residence - Pearkes Lane (2501),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2501 Pearkes Lane,-123.239845,49.264677
-VAD10834,Acadia Park Townhouses Melfa Lane (2634),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2634 Melfa Lane,-123.236347,49.263651
+VAD10834,Acadia Park Residence - Melfa Lane (2634),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2634 Melfa Lane,-123.236347,49.263651
 VAD10835,Acadia Park Residence - Yalta Place (5627),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5627 Yalta Place,-123.238377,49.264174
 VAD10103,Orchard Commons,Vancouver,V6T 1Z4,BC,VBL10013,CampusBuilding,CampusMail,6363 Agronomy Road,-123.250855,49.260098
 VAD10104,P. A. Woodward Instructional Resources Centre (IRC),Vancouver,V6T 1Z3,BC,VBL10102,CampusBuilding,CampusMail,2194 Health Sciences Mall,-123.24734,49.264799
@@ -784,6 +782,7 @@ VAD10282,Frederic Lasserre Building,Vancouver,V6T 1Z2,BC,VBL10042,CampusBuilding
 VAD10849,Cecil Green Park Coach House,Vancouver,V6T 1Z1,BC,VBL10341,CampusBuilding,CampusMail,6323 Cecil Green Park Road,-123.258576,49.271001
 VAD10850,Cecil Green Park House,Vancouver,V6T 1Z1,BC,VBL10342,CampusBuilding,CampusMail,6251 Cecil Green Park Road,-123.257724,49.271335
 VAD10852,Centre for Comparative Medicine,Vancouver,V6T 1W5,BC,VBL10017,CampusBuilding,CampusMail,4145 Wesbrook Mall,-123.233064,49.246303
+VAD10882,Acadia Park Highrise,Vancouver,V6T 1N4,BC,VBL10260,CampusBuilding,CampusMail,2725 Melfa Road,-123.23689,49.26242
 VAD10168,Ponderosa Commons West,Vancouver,V6T 1Z4,BC,VBL10310,CampusBuilding,CampusMail,6488 University Boulevard,-123.255911,49.263447
 VAD10622,Fairview Crescent Residence (Unit 2),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2720 Fairview Crescent,-123.239281,49.263471
 VAD10623,Fairview Crescent Residence (Unit 20),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2671 Fairview Crescent,-123.239937,49.263392
@@ -918,15 +917,15 @@ VAD10467,Fairview Crescent Residence (Unit 3),Vancouver,V6T 2B9,BC,VBL10193,Resi
 VAD10468,Fairview Crescent Residence (Unit 3),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2734 Fairview Crescent,-123.239214,49.26329
 VAD10469,Fairview Crescent Residence (Unit 3),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2732 Fairview Crescent,-123.239231,49.263326
 VAD10470,Fairview Crescent Residence (Unit 3),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2730 Fairview Crescent,-123.239179,49.263346
-VAD10513,Acadia Park Townhouses Melfa Lane (2632),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2632 Melfa Lane,-123.236483,49.263684
-VAD10514,Acadia Park Townhouses Melfa Lane (2626),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2626 Melfa Lane,-123.236632,49.263757
+VAD10513,Acadia Park Residence - Melfa Lane (2632),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2632 Melfa Lane,-123.236483,49.263684
+VAD10514,Acadia Park Residence - Melfa Lane (2626),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2626 Melfa Lane,-123.236632,49.263757
 VAD10515,Acadia Park Residence - Pearkes Lane (2511),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2511 Pearkes Lane,-123.239631,49.264489
 VAD10516,Acadia Park Residence - Pearkes Lane (2513),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2513 Pearkes Lane,-123.239597,49.264442
 VAD10517,Acadia Park Residence - Tennis Crescent (2640),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2640 Tennis Crescent,-123.237642,49.263558
-VAD10518,Acadia Park Townhouses Melfa Lane (2516),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2516 Melfa Lane,-123.237607,49.264906
+VAD10518,Acadia Park Residence - Melfa Lane (2516),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2516 Melfa Lane,-123.237607,49.264906
 VAD10519,Acadia Park Residence - Tennis Crescent (2628),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2628 Tennis Crescent,-123.23785,49.263752
-VAD10522,Acadia Park Townhouses Melfa Lane (2506),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2506 Melfa Lane,-123.237697,49.265172
-VAD10525,Acadia Park Townhouses Melfa Lane (2507),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2507 Melfa Lane,-123.237783,49.264871
+VAD10522,Acadia Park Residence - Melfa Lane (2506),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2506 Melfa Lane,-123.237697,49.265172
+VAD10525,Acadia Park Residence - Melfa Lane (2507),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2507 Melfa Lane,-123.237783,49.264871
 VAD10526,Acadia Park Residence - Tennis Crescent (2642),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2642 Tennis Crescent,-123.237602,49.263564
 VAD10527,Acadia Park Residence - Pearkes Lane (2509),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2509 Pearkes Lane,-123.23965,49.264519
 VAD10528,Acadia Park & Fairview Crescent Residence Complex - Front Desk ,Vancouver,V6T 2E5,BC,VBL10185,Complex,CampusMail,2707 Tennis Crescent,-123.237336,49.262638
@@ -939,25 +938,25 @@ VAD10566,Fairview Crescent Residence (Unit 1),Vancouver,V6T 2B9,BC,VBL10193,Resi
 VAD10567,Fairview Crescent Residence (Unit 1),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2710 Fairview Crescent,-123.239373,49.263582
 VAD10568,Fairview Crescent Residence (Unit 10),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2802 Fairview Crescent,-123.238608,49.262624
 VAD10471,Fairview Crescent Residence (Unit 30),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2650 Fairview Crescent,-123.240189,49.263429
-VAD10494,Acadia Park Townhouses Melfa Lane (2628),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2628 Melfa Lane,-123.236479,49.263811
-VAD10495,Acadia Park Townhouses Melfa Lane (2630),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2630 Melfa Lane,-123.236517,49.263721
-VAD10496,Acadia Park Townhouses Melfa Lane (2640),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2640 Melfa Lane,-123.236397,49.263446
+VAD10494,Acadia Park Residence - Melfa Lane (2628),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2628 Melfa Lane,-123.236479,49.263811
+VAD10495,Acadia Park Residence - Melfa Lane (2630),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2630 Melfa Lane,-123.236517,49.263721
+VAD10496,Acadia Park Residence - Melfa Lane (2640),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2640 Melfa Lane,-123.236397,49.263446
 VAD10497,Acadia Park Residence - Montgomery Place (5608),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5608 Montgomery Place,-123.238349,49.264813
 VAD10498,Acadia Park Residence - Yalta Place (5649),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5649 Yalta Place,-123.238986,49.264004
-VAD10499,Acadia Park Townhouses Melfa Lane (2522),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2522 Melfa Lane,-123.237367,49.264798
+VAD10499,Acadia Park Residence - Melfa Lane (2522),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2522 Melfa Lane,-123.237367,49.264798
 VAD10500,Acadia Park Residence - Yalta Place (5621),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5621 Yalta Place,-123.238341,49.264307
 VAD10501,Acadia Park Residence - Pearkes Lane (2505),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2505 Pearkes Lane,-123.239718,49.264584
 VAD10502,Acadia Park Residence - Montgomery Place (5604),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5604 Montgomery Place,-123.238252,49.264869
 VAD10503,Acadia Park Residence - Tennis Crescent (2641),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2641 Tennis Crescent,-123.237817,49.263513
-VAD10504,Acadia Park Townhouses Melfa Lane (2613),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2613 Melfa Lane,-123.236997,49.263933
-VAD10505,Acadia Park Townhouses Melfa Lane (2638),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2638 Melfa Lane,-123.236463,49.263526
-VAD10506,Acadia Park Townhouses Melfa Lane (2606),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2606 Melfa Lane,-123.237097,49.26446
+VAD10504,Acadia Park Residence - Melfa Lane (2613),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2613 Melfa Lane,-123.236997,49.263933
+VAD10505,Acadia Park Residence - Melfa Lane (2638),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2638 Melfa Lane,-123.236463,49.263526
+VAD10506,Acadia Park Residence - Melfa Lane (2606),Vancouver,V6T 2C6,BC,VBL10258,Residential,CampusMail,2606 Melfa Lane,-123.237097,49.26446
 VAD10507,Acadia Park Residence - Montgomery Place (5618),Vancouver,V6T 2C7,BC,VBL10439,Residential,CampusMail,5618 Montgomery Place,-123.238591,49.264689
 VAD10508,Acadia Park Residence - Tennis Crescent (2659),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2659 Tennis Crescent,-123.237572,49.263068
 VAD10509,Acadia Park Residence - Yalta Place (5618),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5618 Yalta Place,-123.238029,49.263959
 VAD10510,Acadia Park Residence - Tennis Crescent (2646),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2646 Tennis Crescent,-123.237443,49.263463
 VAD10511,Acadia Park Residence - Pearkes Lane (2517),Vancouver,V6T 2C5,BC,VBL10440,Residential,CampusMail,2517 Pearkes Lane,-123.239533,49.26438
-VAD10512,Acadia Park Townhouses Melfa Lane (2627),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2627 Melfa Lane,-123.236849,49.263686
+VAD10512,Acadia Park Residence - Melfa Lane (2627),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2627 Melfa Lane,-123.236849,49.263686
 VAD10341,Fairview Crescent Residence (Unit 17),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2695 Fairview Crescent,-123.239474,49.263194
 VAD10342,Fairview Crescent Residence (Unit 17),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2691 Fairview Crescent,-123.239483,49.263267
 VAD10343,Fairview Crescent Residence (Unit 17),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2689 Fairview Crescent,-123.239495,49.263305
@@ -984,6 +983,10 @@ VAD10618,Fairview Crescent Residence (Unit 19),Vancouver,V6T 2B8,BC,VBL10198,Res
 VAD10619,Fairview Crescent Residence (Unit 2),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2716 Fairview Crescent,-123.239376,49.263487
 VAD10620,Fairview Crescent Residence (Unit 2),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2718 Fairview Crescent,-123.239342,49.263455
 VAD10621,Fairview Crescent Residence (Unit 2),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2722 Fairview Crescent,-123.239312,49.263409
+VAD11211,SBME,Vancouver,,,VBL10444,CampusBuilding,,6088 University Boulevard,-123.247765,49.265828
+VAD11212,Recreation Centre North,Vancouver,,,VBL10441,CampusBuilding,,6140 Student Union Boulevard,-123.250839,49.268017
+VAD10796,Westchester (D1),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2568 West Mall,-123.249503,49.257446
+VAD10884,Coast - Duplex (1B),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6092 Chancellor Boulevard,-123.253612,49.271174
 VAD10569,Fairview Crescent Residence (Unit 10),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2800 Fairview Crescent,-123.238658,49.262607
 VAD10571,Acadia Park Residence - Tennis Crescent (2662),Vancouver,V6T 2E1,BC,VBL10436,Residential,CampusMail,2662 Tennis Crescent,-123.23733,49.263106
 VAD10572,Acadia Park Residence - Montgomery Place (5505),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5505 Montgomery Place,-123.238031,49.265193
@@ -1009,7 +1012,7 @@ VAD10591,Fairview Crescent Residence (Unit 31),Vancouver,V6T 2B9,BC,VBL10193,Res
 VAD10592,Fairview Crescent Residence (Unit 31),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2664 Fairview Crescent,-123.240073,49.263511
 VAD10593,Acadia Park Residence - Yalta Place (5633),Vancouver,V6T 1L7,BC,VBL10438,Residential,CampusMail,5633 Yalta Place,-123.238561,49.264143
 VAD10594,Acadia Park Residence - Montgomery Place (5617),Vancouver,V6T 2C8,BC,VBL10439,Residential,CampusMail,5617 Montgomery Place,-123.238675,49.26488
-VAD10595,Acadia Park Townhouses Melfa Lane (2637),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2637 Melfa Lane,-123.23661,49.263454
+VAD10595,Acadia Park Residence - Melfa Lane (2637),Vancouver,V6T 2C5,BC,VBL10258,Residential,CampusMail,2637 Melfa Lane,-123.23661,49.263454
 VAD10244,Fairview Crescent Residence (Unit 34),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2686 Fairview Crescent,-123.239703,49.263642
 VAD10245,Fairview Crescent Residence (Unit 34),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2696 Fairview Crescent,-123.239566,49.26369
 VAD10246,Fairview Crescent Residence (Unit 34),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2694 Fairview Crescent,-123.23962,49.263673
