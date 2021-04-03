@@ -1,6 +1,7 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
 VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252659,49.269365
 VAD11118,UBC Tennis Centre,Vancouver,V6T 1Z3,BC,,CampusBuilding,CampusMail,6160 Thunderbird Boulevard,-123.243612,49.25969
+VAD11028,D.H. Copp Building,Vancouver,V6T 1Z3,BC,,CampusBuilding,CampusMail,2146 Health Sciences Mall,-123.247455,49.265488
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
 VAD10792,Westchester (C1),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2578 West Mall,-123.249378,49.257294
@@ -673,7 +674,6 @@ VAD10124,Lower Mall Header House,Vancouver,V6T 1Z4,BC,VBL10097,CampusBuilding,Ca
 VAD10126,Environmental Services Facility,Vancouver,V6T 1W5,BC,VBL10400,Complex,CampusMail,6025 Nurseries Road,-123.228971,49.243483
 VAD10127,Green College - Front Desk,Vancouver,V6T 1Z1,BC,VBL10200,Complex,CampusMail,6201 Cecil Green Park Road,-123.256376,49.271052
 VAD10128,Nitobe Memorial Garden,Vancouver,V6T 1Z2,BC,VBL10230,CampusBuilding,CampusMail,1895 Lower Mall,-123.259231,49.266535
-VAD11028,D.H. Copp Building,Vancouver,V6T 1Z3,BC,VBL10333,CampusBuilding,CampusMail,2146 Health Sciences Mall,-123.247455,49.265488
 VAD11030,David Lam Management Research Centre,Vancouver,V6T 1Z2,BC,VBL10278,CampusBuilding,CampusMail,2033 Main Mall,-123.254071,49.265682
 VAD11032,UBC Hospital - Detwiller Pavilion,Vancouver,V6T 1Z3,BC,VBL10334,OtherBuilding,CampusMail,2255 Wesbrook Mall,-123.244481,49.263833
 VAD11033,Djavad Mowafaghian Centre for Brain Health (CBH),Vancouver,V6T 1Z3,BC,VBL10103,OtherBuilding,CampusMail,2215 Wesbrook Mall,-123.244732,49.264416

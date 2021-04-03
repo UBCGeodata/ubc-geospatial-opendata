@@ -72,9 +72,9 @@ Parking,UBC Exchange,TRAN,1985 Wesbrook Mall,V6T 2C9,VBL10354,Complete,-123.2477
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.262634
 StudentHousing,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,V6T 1Z1,VBL10190,Complete,-123.256949,49.270911
 Housing,Magnolia House,MAGN,3565 Wesbrook Mall,V6S 0H1,VBL10191,Complete,-123.233539,49.251541
-StudentHousing,Thunderbird Residence - Cassiar,THR1,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250846,49.259569
+StudentHousing,Thunderbird Residence - Hazelton,THR5,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250846,49.259569
 Academic,Stores Road Annex,STRX,6368 Stores Road,V6T 1Z4,VBL10124,Complete,-123.252359,49.261667
-StudentHousing,Thunderbird Residence - Monashee,THR2,"6335 Thunderbird Crescent, Building 2",V6T 1Z4,VBL10121,Complete,-123.250361,49.25897
+StudentHousing,Thunderbird Residence - Coast,THR4,"6335 Thunderbird Crescent, Building 2",V6T 1Z4,VBL10121,Complete,-123.250361,49.25897
 Academic,Buchanan Building,BUCH,1866 Main Mall,V6T 1Z1,VBL10323,Complete,-123.254441,49.268701
 Academic,Buchanan Tower,BUTO,1873 East Mall,V6T 1Z1,VBL10324,Complete,-123.253487,49.268579
 StudentHousing,Place Vanier Residence - Aldyen Hamber House,VNR01,"1935 Lower Mall, Building 13",V6T 1X1,VBL10325,Complete,-123.258808,49.265257
@@ -82,7 +82,6 @@ StudentHousing,Place Vanier Residence - Margaret Mackenzie House,VNR07,"1935 Low
 Academic,Chemistry Physics Building,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251513,49.265736
 Academic,Chemistry Building,CHEM,2036 Main Mall,V6T 1Z1,VBL10328,Complete,-123.252664,49.265813
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.24934,49.263129
-Academic,D.H. Copp Building,COPP,2146 Health Sciences Mall,V6T 1Z3,VBL10333,Complete,-123.247554,49.265536
 Services,Old Auditorium,AUDI,6344 Memorial Road,V6T 1Z2,VBL10335,Complete,-123.256101,49.266902
 Academic,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,V6T 1Z4,VBL10329,Complete,-123.248881,49.262545
 Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234399,49.25274
@@ -117,7 +116,7 @@ Academic,Leon and Thea Koerner University Centre,UCEN,6331 Crescent Road,V6T 1Z2
 Academic,Medical Sciences Block C,MEDC,2176 Health Sciences Mall,V6T 1Z3,VBL10094,Complete,-123.247871,49.264969
 Academic,Neville Scarfe Building,SCRF,2125 Main Mall,V6T 1Z4,VBL10095,Complete,-123.253091,49.263965
 Housing,Dahlia House,DAHL,3515 Wesbrook Mall,V6S 0H2,VBL10096,Complete,-123.233927,49.252149
-StudentHousing,Thunderbird Residence - Coast,THR4,"6335 Thunderbird Crescent, Building 4",V6T 2G9,VBL10098,Complete,-123.247557,49.259933
+StudentHousing,Thunderbird Residence - Monashee,THR2,"6335 Thunderbird Crescent, Building 4",V6T 2G9,VBL10098,Complete,-123.247557,49.259933
 Academic,Hector J. MacLeod Building,MCLD,2356 Main Mall,V6T 1Z4,VBL10099,Complete,-123.249401,49.261716
 Academic,Music Building,MUSC,6361 Memorial Road,V6T 1Z2,VBL10101,Complete,-123.256781,49.267437
 Academic,Allard Hall,ALRD,1822 East Mall,V6T 1Z1,VBL10104,Complete,-123.253297,49.270044
@@ -139,7 +138,7 @@ Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z
 Academic,Wayne and William White Engineering Design Centre,EDC,2345 East Mall,V6T 1Z4,VBL10064,Complete,-123.248164,49.262333
 Parking,Rose Garden Parkade,PARR,6278 NW Marine Drive,V6T 1Z1,VBL10054,Complete,-123.256303,49.269111
 StudentHousing,Sopron House,SOPR,2730 Acadia Road,V6T 1R9,VBL10075,Complete,-123.23534,49.262179
-StudentHousing,Thunderbird Residence - Hazelton,THR5,"6335 Thunderbird Crescent, Building 5",V6T 2G9,VBL10079,Complete,-123.246685,49.260243
+StudentHousing,Thunderbird Residence - Cassiar,THR1,"6335 Thunderbird Crescent, Building 5",V6T 2G9,VBL10079,Complete,-123.246685,49.260243
 Academic,Irving K. Barber Learning Centre,IBLC,1961 East Mall,V6T 1Z1,VBL10080,Complete,-123.252738,49.267595
 Academic,"Food, Nutrition and Health Building",FNH,2205 East Mall,V6T 1Z4,VBL10082,Complete,-123.249744,49.264014
 Academic,Continuing Studies Building,CSB,2121 West Mall,V6T 1Z4,VBL10083,Complete,-123.255014,49.263338
@@ -374,7 +373,7 @@ Academic,JB Macdonald Building,MCDN,2199 Wesbrook Mall,V6T 1Z3,VBL10366,Complete
 Services,Marine Drive Residence - 3 Commonsblock,MAR3,"2205 Lower Mall, Building 3",V6T 1Z4,VBL10088,Complete,-123.256853,49.261413
 Academic,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences Mall,V6T 1Z3,VBL10102,Complete,-123.246848,49.264822
 Academic,School of Population & Public Health,SPPH,2206 East Mall,V6T 1Z3,VBL10107,Complete,-123.248416,49.26424
-StudentHousing,Pacific Residence - sɬewǝt’ lelǝm̓ / Herring House,PAR4,"5955 Student Union Boulevard, Building 4",V6T 1K2,VBL10384,UnderConstruction,-123.248026,49.270167
+StudentHousing,Pacific Residence - sɬewǝt’ lelǝm̓ / Herring House,PAR4,"5955 Student Union Boulevard, Building 4",V6T 1K2,VBL10384,UnderConstruction,-123.248031,49.270168
 StudentHousing,Pacific Residence - sqimǝk̓ʷ lelǝm̓ / Octopus House,PAR3,"5955 Student Union Boulevard, Building 3",V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
 StudentHousing,Pacific Residence - qʷta:yθǝn lelǝm̓ / Sturgeon House,PAR2,5955 Student Union Boulevard,V6T 1K2,VBL10378,UnderConstruction,-123.24852,49.269216
 StudentHousing,Pacific Residence - lɬalǝmǝcǝn lelǝm̓ / Orca House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
