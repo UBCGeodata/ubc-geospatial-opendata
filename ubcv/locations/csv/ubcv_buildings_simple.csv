@@ -90,7 +90,7 @@ Housing,Virtuoso,VIRT,3581 Ross Drive,V6S 0K5,VBL10345,Complete,-123.233967,49.2
 Housing,Cascara House,CASC,6385 Hawthorn Lane,V6T 0C1,VBL10347,Complete,-123.249667,49.258468
 Academic,Sing Tao Building,STAO,6388 Crescent Road,V6T 1Z2,VBL10348,Complete,-123.257756,49.267833
 Academic,Library PARC@UBC,PARC,6049 Nurseries Road,V6T 1W5,VBL10351,Complete,-123.229708,49.245082
-Parking,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248959,49.266712
+Parking,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248944,49.26672
 Housing,Central,CNTL,6015 University Boulevard,V6T 0C4,VBL10356,Complete,-123.247223,49.266336
 Parking,Health Sciences Parkade,PARH,2250 Health Sciences Mall,V6T 1Z3,VBL10357,Complete,-123.247842,49.263405
 StudentHousing,Place Vanier Residence - Robson House,VNR10,"1935 Lower Mall, Building 7",V6T 1X1,VBL10358,Complete,-123.258411,49.263917
@@ -201,7 +201,7 @@ Administrative,Brock Hall,BRCK,1874 East Mall,V6T 1Z1,VBL10331,Complete,-123.252
 Administrative,Campus & Community Planning,CCP,2210 West Mall,V6T 1Z4,VBL10332,Complete,-123.253282,49.262441
 Services,UBC Hospital - Detwiller Pavilion,DPAV,2255 Wesbrook Mall,V6T 1Z3,VBL10334,Complete,-123.244471,49.26356
 Operations,Campus Energy Centre,CEC,6130 Agronomy Road,V6T 1Z3,VBL10339,Complete,-123.245083,49.261648
-Housing,St. Andrew's Hall,STH,6040 Iona Drive,V6T 2E8,VBL10114,Complete,-123.251747,49.270143
+Housing,St. Andrew's Hall,STH,6040 Iona Drive,V6T 2E8,VBL10114,Complete,-123.251748,49.270143
 StudentHousing,St. John's College,STJC,2111 Lower Mall,V6T 1Z4,VBL10116,Complete,-123.25679,49.262595
 StudentHousing,Fraser Hall,FRAS,2550 Wesbrook Mall,V6T 1Z3,VBL10117,Complete,-123.240766,49.261506
 Academic,Forest Sciences Centre,FSC,2424 Main Mall,V6T 1Z4,VBL10119,Complete,-123.247827,49.260597
@@ -414,6 +414,7 @@ StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,V
 Housing,Somerset,SOMS,,,VBL10147,Complete,-123.24813,49.256504
 Housing,Nine on the Park,NINE,,,VBL10158,Complete,-123.247034,49.259327
 Athletics,UBC Tennis Centre,TENN,,,VBL10090,Complete,-123.243836,49.259487
+Commons,Brock Commons North,BRCN,,,VBL10446,PreConstruction,-123.252629,49.269574
 Housing,Hawthorn Green,HAWT,,,VBL10144,Complete,-123.248586,49.258174
 Housing,Coast - Duplexes,COSD,,,VBL10399,Complete,-123.25321,49.271317
 Housing,Folio - Duplexes,FOL3,,,VBL10291,Complete,-123.250604,49.272415
@@ -426,4 +427,3 @@ Housing,Conservatory - Townhouses,CSY1,,,VBL10428,PreConstruction,-123.232103,49
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
 Housing,Westchester,WSTR,,,VBL10220,Complete,-123.249109,49.257373
 Housing,Logan Lane,LOGN,,,VBL10226,Complete,-123.245728,49.258901
-Operations,Hydrogen Fueling Station,HYFS,,,VBL10445,PreConstruction,-123.244036,49.260997
