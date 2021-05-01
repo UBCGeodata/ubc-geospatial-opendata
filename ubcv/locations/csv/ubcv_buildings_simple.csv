@@ -7,7 +7,7 @@ Academic,Geography Building,GEOG,1984 West Mall,V6T 1Z2,VBL10411,Complete,-123.2
 Housing,Granite Terrace,GRT1,3233 Wesbrook Mall,V6S 0B4,VBL10164,Complete,-123.236997,49.254831
 StudentHousing,Green College - A South,GRN3,"6201 Cecil Green Park Road, Building 6",V6T 1Z1,VBL10415,Complete,-123.255231,49.270941
 Housing,Coast - Apartment East,COSE,6063 Iona Drive,V6T 0B1,VBL10300,Complete,-123.252555,49.271045
-StudentHousing,Walter H. Gage Residence - Apartment,WGR2,5980 Walter Gage Road,V6T 1K2,VBL10301,Complete,-123.249022,49.270145
+StudentHousing,Walter Gage Residence - Apartment,WGR2,5980 Walter Gage Road,V6T 1K2,VBL10301,Complete,-123.249022,49.270145
 Housing,Corus,CORS,5989 Walter Gage Road,V6T 0A8,VBL10303,Complete,-123.249347,49.270653
 Academic,West Mall Swing Space Building,SWNG,2175 West Mall,V6T 1Z4,VBL10304,Complete,-123.254385,49.262795
 Housing,Westpoint,WSPT,6005 Walter Gage Road,V6T 0B3,VBL10305,Complete,-123.250471,49.270242
@@ -37,9 +37,9 @@ StudentHousing,Place Vanier Residence - Tec De Monterrey House,VNR12,"1935 Lower
 Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.233205,49.25084
 Academic,First Nations Longhouse,FNLH,1985 West Mall,V6T 1Z2,VBL10386,Complete,-123.25722,49.265559
 Academic,UBC Farm - Yurt,YURT,3465 Ross Drive,V6T 1W5,VBL10391,Complete,-123.239913,49.25126
-StudentHousing,Walter H. Gage Residence - East Highrise,WGR4,"5959 Student Union Boulevard, Building 3",V6T 1K2,VBL10393,Complete,-123.249158,49.269645
-StudentHousing,Walter H. Gage Residence - North Highrise,WGR5,"5959 Student Union Boulevard, Building 4",V6T 1K2,VBL10394,Complete,-123.250029,49.269841
-StudentHousing,Walter H. Gage Residence - South Highrise,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.24972,49.2692
+StudentHousing,Walter Gage Residence - East Highrise,WGR4,"5959 Student Union Boulevard, Building 3",V6T 1K2,VBL10393,Complete,-123.249158,49.269645
+StudentHousing,Walter Gage Residence - North Highrise,WGR5,"5959 Student Union Boulevard, Building 4",V6T 1K2,VBL10394,Complete,-123.250029,49.269841
+StudentHousing,Walter Gage Residence - South Highrise,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.24972,49.2692
 Parking,Fraser River Parkade,PARF,6440 Memorial Road,V6T 1Z2,VBL10397,Complete,-123.258042,49.266067
 StudentHousing,MBA House,MBAH,3385 Wesbrook Mall,V6T 1Z4,VBL10403,Complete,-123.235169,49.253876
 StudentHousing,Acadia Park Residence - Fairview Place,APR3,5501 Fairview Place,V6T 2E2,VBL10437,Complete,-123.236838,49.263269
@@ -283,7 +283,7 @@ Administrative,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Co
 Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253657,49.267351
 Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,Complete,-123.245959,49.26326
 Other,Chapel of the Epiphany,CHPL,6030 Chancellor Boulevard,V6T 1X3,VBL10392,Complete,-123.252272,49.271559
-StudentHousing,Walter H. Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
+StudentHousing,Walter Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
 Athletics,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,V6T 1Z3,VBL10412,Complete,-123.241314,49.259582
 Services,Counselling Services,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Administrative,Technology Enterprise Facility 4,TEF4,2425 Health Sciences Mall,V6T 1Z3,VBL10429,UnderConstruction,-123.245773,49.261291
@@ -342,7 +342,7 @@ StudentHousing,Fairview Crescent Residence - Building 1,FAR1,2600 Fairview Cresc
 Housing,The Chatham,CHAT,5775 Hampton Place,V6T 2G6,VBL10254,Complete,-123.236175,49.258692
 Services,Robert H. Lee Alumni Centre,ALUM,6163 University Boulevard,V6T 1Z1,VBL10256,Complete,-123.249909,49.265946
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
-Services,Walter H. Gage Residence - Commonsblock,WGR1,"5959 Student Union Boulevard, Building 1",V6T 1K2,VBL10263,Complete,-123.24983,49.26953
+Services,Walter Gage Residence - Commonsblock,WGR1,"5959 Student Union Boulevard, Building 1",V6T 1K2,VBL10263,Complete,-123.24983,49.26953
 Housing,Conservatory - Highrise,CSY2,5608 Berton Avenue,,VBL10427,PreConstruction,-123.231514,49.256042
 Housing,Mundell House,MUNH,6038 Birney Avenue,V6S 0L4,VBL10213,Complete,-123.236053,49.252946
 Housing,Focal,FOCL,6111 University Boulevard,V6T 0C7,VBL10232,Complete,-123.248432,49.266181
