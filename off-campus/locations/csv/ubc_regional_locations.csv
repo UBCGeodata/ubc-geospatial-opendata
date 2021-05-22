@@ -18,7 +18,7 @@ RLC10197,Northeast Mental Health Office,2750 East Hastings Street,,Vancouver,BC,
 RLC10199,North Shore Community Psychiatric,1350 St. Andrews Avenue,,North Vancouver,BC,V7L 3L4,,Current,,,,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10199,1213448.2716,482684.9918
 RLC10200,Urgent Short Term Assessment & Treatment,1250 Quadra Street,,Victoria,BC,V8W 2K7,,Current,,,,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10200,1195788.9565,382485.3238
 RLC10201,Queen Alexandra Hospital,2400 Arbutus Road,,VIctoria,BC,V8N 1V7,,Current,,,,,Hospital,,Community Educational Facility,,,PLAN,20200724222036,,Canada,ARLC10201,1199932.7768,387776.5583
-RLC10202,Pacific Gastroenterology Association,"1190 Hornby Street, Unit 770",,Vancouver,BC,V6Z 2K5,,Current,,,5021,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10202,1209128.2732,477808.9078
+RLC10202,St. Paul's Hospital - 1190 Hornby Street,"1190 Hornby Street, Unit 770",,Vancouver,BC,V6Z 2K5,,Current,,,5021,,Hospital,,HR,,,NIKT,20210521233443,,Canada,ARLC10202,1209128.2732,477808.9078
 RLC10203,Squamish General Hospital,38140 Behrner Drive,,Squamish,BC,V8B 0J3,,Current,,,,,Hospital,,Community Educational Facility,,,PLAN,20200724222036,,Canada,ARLC10203,1206260.0896,524344.1665
 RLC10204,Cedar Project - Prince George,"1112 6th Avenue, Unit 101",,Prince George,BC,V2L 3M6,,Current,,,,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10204,1213242.1154,994923.0388
 RLC10205,Hope Centre,1337 St. Andrews Avenue,,North Vancouver,BC,V7L 0B8,,Current,,,,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10205,1213389.589,482682.2375
@@ -28,7 +28,7 @@ RLC10208,Seven Oaks Mental Health,4575 Blenkinsop Road,,Victoria,BC,V8X 2C7,,Cur
 RLC10209,TriCities Mental Health Office,2232 Elgin Avenue,,Port Coquitlam,BC,V3C 2B2,,Current,,,,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10209,1234665.3467,477130.9298
 RLC10210,Animal Health Care,1767 Angus Campbell Road,,Abbotsford,BC,V3G 2M3,,Current,,,,,Hospital,,HR,,,PLAN,20200724222036,,Canada,ARLC10210,1274697.7249,453771.0287
 RLC10214,BC Cancer – Victoria,2410 Lee Avenue,,Victoria,BC,V8R 6V5,,Current,,,5111,,Hospital,,HR,GISSTUD1,20190918225052,PLAN,20200724222036,,Canada,ARLC10214,1198211.5204,383601.1272
-RLC10215,St. Paul's Hospital - Pacific Nephrology Group - Howe Office,"1125 Howe Street, Unit 608",,Vancouver,BC,V6Z 2K8,,Current,,,5020,,Hospital,,HR,GISSTUD1,20190918231121,PLAN,20200724222036,,Canada,ARLC10215,1209246.179,477863.763
+RLC10215,St. Paul's Hospital - 1125 Howe Street,"1125 Howe Street, Unit 608",,Vancouver,BC,V6Z 2K8,,Current,,,5020,,Hospital,,HR,GISSTUD1,20190918231121,NIKT,20210521233245,,Canada,ARLC10215,1209246.179,477863.763
 RLC10216,CEQAL Inc.,"2083 Alma Street, Unit 307",,Vancouver,BC,V6R 4N6,,Current,,,,,Hospital,,HR,GISSTUD1,20190918231718,PLAN,20200724222036,,Canada,ARLC10216,1204908.2206,476474.8455
 RLC10223,New Westminster Mental Health and Substance Use Centre,403 6th Street,2nd Floor,New Westminster,BC,V3L 3B1,,Current,,,,,Hospital,,HR,GISSTUD1,20190918233508,PLAN,20200724222036,,Canada,ARLC10223,1224833.0245,470913.995
 RLC10224,Burnaby Inpatient Assessment Unit,7900 Fraser Park Drive,,Burnaby,BC,V5J 5H1,,Current,,,,,Hospital,,HR,GISSTUD1,20190918233840,PLAN,20200724222036,,Canada,ARLC10224,1219837.7268,467924.827
@@ -288,4 +288,6 @@ RLC10043,South Cowichan Medical Clinic,"845 Deloume Road, Unit A",,Mill Bay,BC,V
 RLC10049,Richmond Hospital - Rotunda,7000 Westminster Highway,,Richmond,BC,V6X 1A2,2 Faxes: (604) 244-5552 (Medical Administration) or (604) 244-5196 (Health Information Requests),Current,604-278-9711,http://www.vch.ca/Locations-Services/result?res_id=1,5079,,Hospital,Richmond Hospital,Affiliated Regional Centre,NIKT,20200128235845,PLAN,20200724222036,RGH,Canada,ARLC10049,1208292.3222,465495.7284
 RLC10393,Royal Jubilee Hospital - Memorial Pavilion,1952 Bay Street,,Victoria,BC,V8R 1J8,,Current,250-370-8000,https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/royal-jubilee-hospital-rjh,5114,,Hospital,Royal Jubilee Hospital,Clinical Academic Campus,NIKT,20200129002502,PLAN,20200724222036,RJH,Canada,ARLC10393,1198107.2794,383586.2994
 RLC10406,BC Women’s Hospital - Shaughnessy DEF Blocks,4500 Oak Street,,Vancouver,BC,V6H 3N1,,Current,,,5061,,Hospital,,Clinical Academic Campus,NIKT,20200128233343,PLAN,20200724222036,,Canada,ARLC10406,1209623.3752,474042.2909
+RLC10423,Purdy Pavilion,2221 Wesbrook Mall,,Vancouver,BC,V6T 2B5,,,,,,,,,,NIKT,20210521235348,NIKT,20210521235645,,,,1200594.9859,475787.1054
+RLC10424,St Paul's Hospital - Physical Plant,,,Vancouver,BC,,,,,,,,,,,NIKT,20210521235906,NIKT,20210521235943,,,,1209041.0605,478080.4721
 RLC10422,Ridge Meadows Hospital & Health Care Centre,11666 Laity Street,,Maple Ridge,BC,V2X 7G5,,Current,,,,,Hospital,,,RACHELW,20210323051353,RACHELW,20210323051353,,,ARLC10422,1245564.1596,472550.6518
