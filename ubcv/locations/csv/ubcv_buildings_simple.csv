@@ -351,7 +351,6 @@ StudentHousing,Place Vanier Residence - Dorothy Mawdsley House,VNR04,"1935 Lower
 StudentHousing,Place Vanier Residence - Kootenay House,VNR05,"1935 Lower Mall, Building 3",V6T 1X1,VBL10268,Complete,-123.257642,49.263871
 Housing,Oakwood Residences,OAKR,3383 Ross Drive,V6S 0L1,VBL10255,Complete,-123.238524,49.251654
 StudentHousing,Place Vanier Residence - Okanagan House,VNR08,"1935 Lower Mall, Building 2",V6T 1X1,VBL10270,Complete,-123.257764,49.264345
-Services,Child Care Services - Acadia,CCS1,2865 Revelstoke Court,V6T 1S1,VBL10272,Complete,-123.234734,49.260896
 Services,Child Care Services - Kittiwake/Salal,CCS2,5655 Osoyoos Crescent,V6T 1S1,VBL10273,Complete,-123.235278,49.259997
 Services,Child Care Services - Little Goslings/Coho,CCS3,5590 Osoyoos Crescent,V6T 2E6,VBL10274,Complete,-123.234048,49.25992
 Services,Child Care Services - Little Raven/Pacific Spirit,CCS4,5580 Osoyoos Crescent,V6T 2E6,VBL10275,Complete,-123.233802,49.260216
@@ -377,7 +376,7 @@ Academic,School of Population & Public Health,SPPH,2206 East Mall,V6T 1Z3,VBL101
 StudentHousing,Pacific Residence - sɬewǝt’ lelǝm̓ / Herring House,PAR4,"5955 Student Union Boulevard, Building 4",V6T 1K2,VBL10384,UnderConstruction,-123.248031,49.270168
 StudentHousing,Pacific Residence - sqimǝk̓ʷ lelǝm̓ / Octopus House,PAR3,"5955 Student Union Boulevard, Building 3",V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
 StudentHousing,Pacific Residence - qʷta:yθǝn lelǝm̓ / Sturgeon House,PAR2,5955 Student Union Boulevard,V6T 1K2,VBL10378,UnderConstruction,-123.24852,49.269216
-StudentHousing,Pacific Residence - lɬalǝmǝcǝn lelǝm̓ / Orca House,PAR1,5985 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
+StudentHousing,Pacific Residence - lɬalǝmǝcǝn lelǝm̓ / Orca House,PAR1,5965 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
 StudentHousing,Pacific Residence - tǝmǝs lelǝm̓ / Sea Otter House,PAR5,"5955 Student Union Boulevard, Building 5",V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
 Housing,The Pemberley,PEMB,5605 Hampton Place,V6T 2H2,VBL10205,Complete,-123.232193,49.258013
 Academic,Centre for Comparative Medicine,CCM,4145 Wesbrook Mall,V6T 1W5,VBL10017,Complete,-123.233554,49.246819
@@ -411,6 +410,7 @@ Academic,SBME,,6088 University Boulevard,,VBL10444,PreConstruction,-123.24731,49
 StudentHousing,Acadia Park Residence - Montgomery Place,APR2,5501 Montgomery Place,V6T 2C8,VBL10439,Complete,-123.238725,49.264815
 Housing,St. James House,STJA,5835 Hampton Place,V6T 2G2,VBL10115,Complete,-123.237199,49.25822
 StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.2371,49.264247
+Services,Child Care Services - Acadia,CCS1,,,VBL10272,Complete,-123.234734,49.260896
 Housing,Somerset,SOMS,,,VBL10147,Complete,-123.24813,49.256504
 Housing,Nine on the Park,NINE,,,VBL10158,Complete,-123.247034,49.259327
 Athletics,UBC Tennis Centre,TENN,,,VBL10090,Complete,-123.243836,49.259487
