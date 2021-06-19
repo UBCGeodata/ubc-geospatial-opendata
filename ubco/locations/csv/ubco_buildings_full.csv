@@ -26,7 +26,6 @@ OBL10022,Monashee Residence,MON,Complete,19920101,StudentHousing,,UBC,,SHHS,Occu
 OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,,1,,106,4099-1,0,,,,,GISSTUD1,20200904181500,Outbuildings,,,,B3,,-119,50
 OBL10049,Office Modular Building,OM1,Complete,,Operations,,UBC,,UBC,Occupied,,,,,,4099-23,0,,,RACHELW,20200416220620,RACHELW,20201027234449,Unspecified,,,,B3,,-119,50
 OBL10046,Skeena Residence,SKN,Complete,,StudentHousing,,UBC,,SHHS,Occupied,,,6,,,4040,0,,,RACHELW,20190916204317,RACHELW,20210603233617,Apt5StoreyPlus,,,,B5,,-119,50
-OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,PreConstruction,,,,UBC,,UBC,Unoccupied,,,,,,,,,,NIKT,20210429232204,NIKT,20210429232612,Unspecified,,,,,,-119,50
 OBL10038,Gymnasium,GYM,Complete,19940101,Athletics,,UBC,,Athletics,Occupied,,Steel,3,,5168,4005;4005-1;4005-2,1,,,,,RACHELW,20210604051302,Unspecified,,,,B3,,-119,50
 OBL10024,Kalamalka Residence,KAL,Complete,20050101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,4835,4012,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10026,Cassiar Residence,CSR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3951,4029,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
@@ -51,3 +50,4 @@ OBL10050,Vector Wells,VWB,Complete,,Operations,,UBC,,UBC,Occupied,,,,,,4043,0,,,
 OBL10045,Nechako Residence,NCH,UnderConstruction,,StudentHousing,Services,UBC,,SHHS,Unoccupied,,,5,,,4041,0,,,RACHELW,20190916204528,RACHELW,20210602212425,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10047,Engineering Design Labs,EDL,Complete,,Academic,,UBC,,UBC,Occupied,,,,,,4039,0,,,RACHELW,20200416215859,GISSTUD1,20200903224752,Unspecified,,,,B2,,-119,50
 OBL10051,Portable V,PBV,Complete,,Operations,,UBC,,UBC,Unoccupied,,,,,,4099-24,0,,,RACHELW,20200416221350,GISSTUD1,20200903224752,Unspecified,,,,B3,,-119,50
+OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,PreConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,,,,,,NIKT,20210429232204,NIKT,20210618181548,Unspecified,,,,,,-119,50

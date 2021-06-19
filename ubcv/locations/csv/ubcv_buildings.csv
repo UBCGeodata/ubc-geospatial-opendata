@@ -46,9 +46,6 @@ VBL10437,Acadia Park Residence - Fairview Place,APR3,Complete,19890101,StudentHo
 VBL10438,Acadia Park Residence - Yalta Place,APR6,Complete,19880101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,,1516,009-05;009-06;009-07;009-09;009-10;009-12;009-13,0,,GBA from OSIS,RACHELW,20200716183842,TONYZ,20210520221449,Duplex/Townhouse,,,UBC,B5,,-123.238234,49.26414
 VBL10440,Acadia Park Residence - Pearkes Lane,APR4,Complete,19880101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,,1451,009-11;009-18;009-19,0,,GBA from OSIS,RACHELW,20200716183842,TONYZ,20210520221449,Duplex/Townhouse,,,UBC,B5,,-123.239427,49.264274
 VBL10043,Gerald McGavin Building,GMCG,Complete,19950101,Administrative,,Non-UBC,Academic,UBCPT,Occupied,,Concrete,3,,3231,569,0,,,,,TONYZ,20210520221336,Unspecified,,,,B2,LeasedFromUBC,-123.246762,49.261791
-VBL10441,Recreation Centre North,,PreConstruction,,Athletics,,UBC,Academic,,,,,,,,,,,,NIKT,20210323215825,TONYZ,20210520221336,,,,,B2,,-123.25042,49.267983
-VBL10442,UBC Gateway Building,,PreConstruction,,Administrative,,UBC,Academic,,,,,,,,,,,,NIKT,20210323221220,TONYZ,20210520221336,,,,,B2,,-123.246487,49.266758
-VBL10443,BCR9,,PreConstruction,,Housing,,UBC,Wesbrook,,,,,,,,,,,,NIKT,20210323225715,TONYZ,20210520221449,,,,,B5,,-123.232318,49.2525
 VBL10046,Public Safety Building - RCMP + Fire,PSAB,Complete,19820101,Services,,Non-UBC,Academic,Non-UBC,Occupied,,Concrete,3,,2935,852,0,,,,,TONYZ,20210520221336,Unspecified,,,,B2,LeasedFromUBC,-123.238113,49.258943
 VBL10055,Rugby Pavilion,RUGB,Complete,19630101,Athletics,,UBC,Academic,Athletics,Occupied,,Wood,1,,367,760,0,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.244014,49.258676
 VBL10069,Bioenergy Research and Demonstration Facility,BRDF,Complete,20120614,Operations,,UBC,Academic,UBC,Occupied,LEED Gold,Wood,2,,1950,019,0,Wayf/AH - PDF from Approved DP,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.254521,49.260296
@@ -87,7 +84,6 @@ VBL10329,Civil and Mechanical Engineering Building,CEME,Complete,19760101,Academ
 VBL10340,Ultima,ULTM,Complete,20110516,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Wood,5,,5109,706,0,,new GBA taken from spreadsheet,,,TONYZ,20210520221449,AptLess5Storey,,,,B5,,-123.234399,49.25274
 VBL10338,C.K. Choi Building,CHOI,Complete,19960101,Academic,,UBC,Academic,UBC,Occupied,,Wood,4,,2710,478,0,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.257947,49.267262
 VBL10345,Virtuoso,VIRT,Complete,20180125,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Wood,8,,10925,718,0,AC - PDF from Approved DP,,RACHELW,20180528180304,TONYZ,20210520221449,Apt5StoreyPlus,,,,B5,,-123.233967,49.250732
-VBL10347,Cascara House,CASC,Complete,20010101,Housing,,UNA,Hawthorn,UBCPT,Occupied,,Wood,5,,5484,153,0,,new GBA taken from spreadsheet,,,TONYZ,20210520221449,AptLess5Storey,,,,B5,,-123.249667,49.258468
 VBL10348,Sing Tao Building,STAO,Complete,19970101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,,1358,212,0,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.257756,49.267833
 VBL10351,Library PARC@UBC,PARC,Complete,20150828,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,OtherMixed,2,12,2086,769,0,RW PDF from Approved DP,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.229708,49.245082
 VBL10355,University Boulevard Lot,ULOT,Complete,20190107,Parking,Parking,UBC,Academic,Parking,Occupied,,Concrete,1,,6039,798,0,RW - PDF from Approved DP,,GISSTUD2,20190524190134,TONYZ,20210520221420,Parking,,,UBC,B4,,-123.248944,49.26672
@@ -126,7 +122,6 @@ VBL10104,Allard Hall,ALRD,Complete,20110829,Academic,,UBC,Academic,UBC,Occupied,
 VBL10105,Totem Park Residence - Building 7,TPR7,Complete,20170720,StudentHousing,,UBC,Academic,SHHS,Occupied,LEED Gold,Concrete,8,,8862,541,0,RW - PDF from Approved DP,,GISSTUD2,20190514211922,TONYZ,20210527170852,Apt5StoreyPlus,,,UBC,B5,,-123.251637,49.256811
 VBL10106,Sandringham,SAND,Complete,19940919,Housing,,UNA,Hampton,Private,Occupied,,Wood,3,,10588,500;500-1;500-2;500-3;500-4;500-5;500-6;500-7;500-8;500-9;500-10;500-11;500-12;500-13,0,,new GBA taken from spreadsheet,,,TONYZ,20210520221449,Duplex/Townhouse,,,,B5,,-123.233544,49.257847
 VBL10108,Place Vanier Residence - Commonsblock,VNR03,Complete,19600101,Services,StudentHousing,UBC,Academic,SHHS,Occupied,,Concrete,3,,5074,544,1,,,GISSTUD2,20190514205559,TONYZ,20210527170925,Unspecified,,,UBC,B2,,-123.258583,49.26465
-VBL10109,Indian Residential School History and Dialogue Centre,IRSC,Complete,20170621,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,8.4,606,514,0,RW - PDF from Approved DP,,PLAN,20170914214805,TONYZ,20210526210702,Unspecified,,,UBC,B1,,-123.253741,49.266994
 VBL10110,Pharmaceutical Sciences Building,PHRM,Complete,20120817,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,8,,36137,527,0,Wayf/AH - PDF from Approved DP,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.243346,49.262279
 VBL10111,Life Sciences Centre,LSC,Complete,20040820,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,8,,59596,529,0,,GBA from OSIS,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.245112,49.262548
 VBL10112,Sitka,SITK,Complete,20120803,Housing,,UNA,EastCampus,Private,Occupied,REAP Gold,Concrete,15,,7646,550,0,Wayf/AH - PDF from Approved DP,new GBA taken from spreadsheet,,,TONYZ,20210520221449,Apt5StoreyPlus,,,,B5,,-123.241911,49.262882
@@ -184,7 +179,6 @@ VBL10125,Student Recreation Centre,SRC,Complete,19950101,Athletics,,UBC,Academic
 VBL10129,Donald Rix Building,RIX,Complete,20000101,Administrative,Research,Non-UBC,Academic,UBCPT,Occupied,,Concrete,4,,5008,458,0,,,,,TONYZ,20210520221336,Unspecified,,,,B2,LeasedFromUBC,-123.2463,49.261972
 VBL10138,Old Administration Building,OAB,Complete,19240101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,,2266,017,0,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.255503,49.267113
 VBL10103,Djavad Mowafaghian Centre for Brain Health,CBH,Complete,20131121,Services,Research,Non-UBC,Academic,VCH,Occupied,LEED Gold,Concrete,6,,13861,465,0,,Add GRP_ID,,,TONYZ,20210520221336,Unspecified,,,Shared,B2,LeasedFromUBC,-123.244569,49.264275
-VBL10150,University Services Building,USB,Complete,19920101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,2,,11598,641,1,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.253785,49.2613
 VBL10154,Walter C. Koerner Library,KLIB,Complete,19720101,Administrative,,UBC,Academic,UBC,Occupied,,Concrete,7,,17777,515;515-1,1,,,GISSTUD1,20180319192303,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.255156,49.266656
 VBL10156,St. John Hospice,STJN,Complete,20130723,Services,Research,Non-UBC,Academic,Non-UBC,Occupied,REAP Silver,Wood,2,,1243,635,0,RW - PDF from Approved DP,,,,TONYZ,20210520221336,Unspecified,,,,B2,LeasedFromUBC,-123.247358,49.25551
 VBL10157,Old Barn Community Centre,OBCC,Complete,20070626,Other,Services,UNA,Hawthorn,UNA,Occupied,,Wood,2,,3234,627,0,,,,,TONYZ,20210520221336,Unspecified,,,,B2,,-123.248269,49.258911
@@ -247,7 +241,6 @@ VBL10186,Ambulance Station,AMBS,Complete,19910101,Services,,Non-UBC,Academic,Non
 VBL10139,Old Fire Hall,FIRE,Complete,19260101,Operations,,UBC,Academic,UBC,Occupied,,Wood,2,,378,380,0,,,,,TONYZ,20210520221402,Unspecified,,,UBC,B3,,-123.255566,49.265032
 VBL10192,Main Substation,MSUB,Complete,19750101,Operations,,UBC,Academic,UBC,Occupied,,Concrete,1,,345,789;789-1,0,,,,,TONYZ,20210520221402,Outbuildings,,,UBC,B3,,-123.24437,49.261347
 VBL10203,Materials Recovery Facility,MARF,Complete,20170308,Operations,,UBC,Academic,UBC,Occupied,,Wood,1,,14,766,0,,,,,TONYZ,20210527172820,Outbuildings,,,UBC,B3,,-123.228539,49.245784
-VBL10207,Building Operations Storage Shed,BOSS,Complete,19920101,Operations,,UBC,Academic,UBC,Occupied,,Concrete,1,,496,646,0,,,GISSTUD2,20190513223904,TONYZ,20210520221402,Outbuildings,,,UBC,B3,,-123.254413,49.262187
 VBL10230,Nitobe Memorial Garden,NITO,Complete,19590101,Services,,UBC,Academic,UBC,Occupied,,Wood,1,,81,476,0,,,,,TONYZ,20210520221306,Outbuildings,,,UBC,B1,,-123.25919,49.26617
 VBL10179,Telus Hub,TELS,Complete,20170308,Other,,UNA,Wesbrook,Non-UBC,Occupied,,Concrete,1,,58,678,0,,,,,TONYZ,20210527185523,Outbuildings,,,,B3,LeasedFromUBC,-123.235473,49.255225
 VBL10294,AYO Smart Home,AYOH,Complete,20160107,Other,,Non-UBC,Academic,Non-UBC,Temporary,,Wood,2,6.1,160,538,0,,,,,TONYZ,20210520221402,Outbuildings,,,,B3,LeasedFromUBC,-123.243407,49.263038
@@ -423,7 +416,14 @@ VBL10226,Logan Lane,LOGN,Complete,20050810,Housing,,UNA,Hawthorn,Private,Occupie
 VBL10227,Asian Centre,ACEN,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,,4926,046,0,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.25871,49.266752
 VBL10229,Mathematics Building,MATH,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,3,,4520,518,0,,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.255556,49.26645
 VBL10146,Ponderosa Office Annex A,PONA,Complete,19710101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,,633,865-1,0,,,RACHELW,20190116175554,TONYZ,20210527170638,Unspecified,,,UBC,B2,,-123.256382,49.265167
-VBL10444,SBME,,PreConstruction,,Academic,,UBC,Academic,,,,,,,,,,,,NIKT,20210325152429,TONYZ,20210520221336,,,,,B2,,-123.24731,49.265635
 VBL10439,Acadia Park Residence - Montgomery Place,APR2,Complete,19880101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,,1070,009-15;009-16;009-17;009-20;009-21;009-22;009-23;009-24;009-25;009-26,0,,GBA from OSIS,RACHELW,20200716183842,TONYZ,20210520221449,Duplex/Townhouse,,,UBC,B5,,-123.238725,49.264815
 VBL10115,St. James House,STJA,Complete,19940405,Housing,,UNA,Hampton,Private,Occupied,,Wood,5,,12386,503,0,,new GBA taken from spreadsheet,,,TONYZ,20210520221449,AptLess5Storey,,,,B5,,-123.237199,49.25822
 VBL10258,Acadia Park Residence - Melfa Lane,APR1,Complete,19890101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,,1785,009-01;009-02;009-03;009-04;009-01;010-01;010-02;010-03;010-04;010-05,0,,GBA from OSIS,RACHELW,20200716183842,TONYZ,20210520221449,Duplex/Townhouse,,,UBC,B5,,-123.2371,49.264247
+VBL10207,Building Operations Storage Shed,BOSS,Complete,19920101,Operations,,UBC,Academic,UBC,Occupied,,Concrete,1,,496,646,0,,,RACHELW,20210615025018,RACHELW,20210615025046,Outbuildings,,,UBC,B6,,-123.254414,49.262185
+VBL10442,UBC Gateway Building,GATE,PreConstruction,,Administrative,,UBC,Academic,,Unoccupied,,,,,,,,,,NIKT,20210323221220,NIKT,20210618183352,,,,,B2,,-123.246487,49.266758
+VBL10150,University Services Building,USB,Complete,19920101,Operations,Academic,UBC,Academic,UBC,Occupied,,OtherMixed,2,,11598,641,1,,,,,RACHELW,20210615025105,Unspecified,,,UBC,B2,,-123.253785,49.2613
+VBL10109,Indian Residential School History and Dialogue Centre (IRSHDC),IRSC,Complete,20170621,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,8.4,606,514,0,RW - PDF from Approved DP,,PLAN,20170914214805,RACHELW,20210614233825,Unspecified,,,UBC,B1,,-123.253741,49.266994
+VBL10347,Cascara House,CSCA,Complete,20010101,Housing,,UNA,Hawthorn,UBCPT,Occupied,,Wood,5,,5484,153,0,,new GBA taken from spreadsheet,,,RACHELW,20210618210805,AptLess5Storey,,,,B5,,-123.249667,49.258468
+VBL10443,BCR9,BCR9,PreConstruction,,Housing,,UBC,Wesbrook,,Unoccupied,,,,,,,,,,NIKT,20210323225715,NIKT,20210618183352,,,,,B5,,-123.232318,49.2525
+VBL10441,Recreation Centre North,RCN,PreConstruction,,Athletics,,UBC,Academic,,Unoccupied,,,,,,,,,,NIKT,20210323215825,NIKT,20210618183352,,,,,B2,,-123.25042,49.267983
+VBL10444,SBME,SBME,PreConstruction,,Academic,,UBC,Academic,,Unoccupied,,,,,,,,,,NIKT,20210325152429,NIKT,20210618183352,,,,,B2,,-123.24731,49.265635
