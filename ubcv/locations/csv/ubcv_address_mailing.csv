@@ -1,5 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-VAD10821,Building Operations Storage Shed,Vancouver,V6T 1Z4,BC,,CampusBuilding,CampusMail,2214 Lower Mall,-123.254569,49.262085
 VAD11028,D.H. Copp Building,Vancouver,V6T 1Z3,BC,,CampusBuilding,CampusMail,2146 Health Sciences Mall,-123.247455,49.265488
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -334,7 +333,6 @@ VAD11101,Child Care Services - Salal,Vancouver,V6T 1S1,BC,VBL10273,CampusBuildin
 VAD11103,UBC Bookstore,Vancouver,V6T 1Z4,BC,VBL10065,CampusBuilding,CampusMail,6200 University Boulevard,-123.250652,49.26526
 VAD11107,Child Care Services - Auklet,Vancouver,V6T 1S1,BC,VBL10276,CampusBuilding,CampusMail,5615 Osoyoos Crescent,-123.234753,49.260126
 VAD11112,UBC Botanical Garden - Scholars' Retreat,Vancouver,V6T 1Z4,BC,VBL10004,CampusBuilding,CampusMail,6380 Stadium Road,-123.246888,49.254895
-VAD10013,Hennings Building,Vancouver,V6T 1Z1,BC,VBL10359,CampusBuilding,CampusMail,6224 Agricultural Road,-123.252355,49.266647
 VAD10014,Henry Angus Building,Vancouver,V6T 1Z2,BC,VBL10067,CampusBuilding,CampusMail,2053 Main Mall,-123.253538,49.265053
 VAD10015,Hillel House,Vancouver,V6T 1Z1,BC,VBL10361,OtherBuilding,CampusMail,6145 Student Union Boulevard,-123.251288,49.268482
 VAD10020,"Institute for Computing, Information and Cognitive Systems / Computer Science (ICICS/CS)",Vancouver,V6T 1Z4,BC,VBL10078,CampusBuilding,CampusMail,2366 Main Mall,-123.249312,49.261094
@@ -972,6 +970,7 @@ VAD10608,Fairview Crescent Residence (Unit 18),Vancouver,V6T 2B8,BC,VBL10198,Res
 VAD10609,Fairview Crescent Residence (Unit 18),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2685 Fairview Crescent,-123.239549,49.263357
 VAD10610,Fairview Crescent Residence (Unit 19),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2675 Fairview Crescent,-123.23986,49.263428
 VAD10426,St Mark's Duplex (5B),Vancouver,V6T 0A1,BC,VBL10279,Residential,CanadaPost,5932 Chancellor Boulevard,-123.249736,49.272739
+VAD10821,Building Operations Storage Shed,Vancouver,V6T 1Z4,BC,VBL10207,CampusBuilding,CampusMail,2214 Lower Mall,-123.254569,49.262085
 VAD10285,Folio - Duplex (1B),Vancouver,V6T 0A1,BC,VBL10291,Residential,CanadaPost,5992 Chancellor Boulevard,-123.250982,49.272398
 VAD10268,Folio - Duplex (2C),Vancouver,V6T 0A1,BC,VBL10291,Residential,CanadaPost,5988 Chancellor Boulevard,-123.2509,49.272445
 VAD10109,"Ivy on the Park - Townhomes (North, South 1 & South 2)",Vancouver,V6S 0A5,BC,VBL10264,NeighbourhoodBldg,CanadaPost,5681 Birney Avenue,-123.231815,49.254572
@@ -1022,6 +1021,7 @@ VAD10885,Coast - Duplex (2A),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPos
 VAD10887,Coast - Duplex (2B),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6082 Chancellor Boulevard,-123.253413,49.271294
 VAD10895,Coast - Duplex (5A),Vancouver,V6T 1E7,BC,VBL10399,Residential,CanadaPost,6050 Chancellor Boulevard,-123.252811,49.271633
 VAD10581,Sage,Vancouver,V6S 0C1,BC,VBL10187,NeighbourhoodBldg,CanadaPost,5782 Berton Avenue,-123.233766,49.255355
+VAD10013,Hennings Building,Vancouver,V6T 1Z1,BC,VBL10359,CampusBuilding,CampusMail,6224 Agricultural Road,-123.252319,49.26661
 VAD10901,Coast - Townhouse (5),Vancouver,V6T 2J5,BC,VBL10277,Residential,CanadaPost,6070 Chancellor Mews,-123.252923,49.271203
 VAD10900,Coast - Townhouse (4),Vancouver,V6T 2J5,BC,VBL10277,Residential,CanadaPost,6076 Chancellor Mews,-123.253012,49.271157
 VAD10899,Coast - Townhouse (3),Vancouver,V6T 2J5,BC,VBL10277,Residential,CanadaPost,6080 Chancellor Mews,-123.253083,49.271117
