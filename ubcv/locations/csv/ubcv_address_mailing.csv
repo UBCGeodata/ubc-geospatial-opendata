@@ -781,7 +781,6 @@ VAD10604,Place Vanier Residence - Front Desk,Vancouver,V6T 1X1,BC,VBL10108,Compl
 VAD10327,Fairview Crescent Residence (Unit 14),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2725 Fairview Crescent,-123.239373,49.262891
 VAD10328,Fairview Crescent Residence (Unit 15),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2713 Fairview Crescent,-123.239412,49.263025
 VAD10330,Fairview Crescent Residence (Unit 15),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2719 Fairview Crescent,-123.239358,49.262972
-VAD10613,Walter H. Gage Residence - Front Desk,Vancouver,V6T 1K2,BC,VBL10263,Complex,CampusMail,5959 Student Union Boulevard,-123.249771,49.269547
 VAD10331,Fairview Crescent Residence (Unit 15),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2711 Fairview Crescent,-123.239429,49.263059
 VAD10332,Fairview Crescent Residence (Unit 15),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2715 Fairview Crescent,-123.239455,49.262992
 VAD10333,Fairview Crescent Residence (Unit 16),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2699 Fairview Crescent,-123.239495,49.26313
@@ -1007,15 +1006,8 @@ VAD10013,Hennings Building,Vancouver,V6T 1Z1,BC,VBL10359,CampusBuilding,CampusMa
 VAD10019,Indian Residential School History and Dialogue Centre (IRSHDC),Vancouver,V6T 1Z1,BC,VBL10109,CampusBuilding,CampusMail,1985 Learners' Walk,-123.253601,49.267101
 VAD11212,Recreation Centre North,Vancouver,V6T 1Z1,BC,VBL10441,CampusBuilding,,6140 Student Union Boulevard,-123.250839,49.268017
 VAD11211,SBME,Vancouver,V6T 1Z3,BC,VBL10444,CampusBuilding,,6088 University Boulevard,-123.247765,49.265828
-VAD10218,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - Parking,Vancouver,V6T 1K2,BC,VBL10382,Occupant,CampusMail,5970 Walter Gage Road,-123.248552,49.27053
-VAD10214,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - sɬewǝt’ lelǝm̓ / Herring,Vancouver,V6T 1K2,BC,VBL10384,CampusBuilding,CampusMail,1885 Wesbrook Mall,-123.248116,49.270062
-VAD10450,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - sqimək̓ʷ lelǝm̓ / Octopus,Vancouver,V6T 1K2,BC,VBL10383,CampusBuilding,CampusMail,1945 Wesbrook Mall,-123.247785,49.269418
-VAD10217,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - tǝmǝs lelǝm̓ / Sea Otter,Vancouver,V6T 1K2,BC,VBL10382,CampusBuilding,CampusMail,1875 Wesbrook Mall,-123.248088,49.270532
-VAD11213,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ,Vancouver,V6T 1K2,BC,VBL10378,Complex,CampusMail,5955 Student Union Boulevard,-123.248333,49.269276
 VAD11205,Arts Student Centre,Vancouver,V6T 1Z1,BC,VBL10426,CampusBuilding,CampusMail,1860 East Mall,-123.253175,49.269219
 VAD10195,North Parkade,Vancouver,V6T 1Z1,BC,VBL10234,CampusBuilding,CampusMail,6115 Student Union Boulevard,-123.2504,49.26882
-VAD10216,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - q̓əlɬaləməcən lelǝm̓ / Orca,Vancouver,V6T 1K2,BC,VBL10381,CampusBuilding,CampusMail,5965 Student Union Boulevard,-123.249343,49.268851
-VAD10215,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - qʷta:yθǝn lelǝm̓ / Sturgeon,Vancouver,V6T 1K2,BC,VBL10378,CampusBuilding,CampusMail,5955 Student Union Boulevard,-123.248612,49.269118
 VAD10601,Thunderbird Residence - Front Desk ,Vancouver,V6T 2G9,BC,VBL10215,Complex,CampusMail,6335 Thunderbird Crescent,-123.249251,49.25922
 VAD10811,Auditorium Annexes,Vancouver,V6T 1Z2,BC,VBL10228,CampusBuilding,CampusMail,1924 West Mall,-123.256865,49.266713
 VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10446,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252659,49.269365
@@ -1027,3 +1019,11 @@ VAD10109,"Ivy on the Park - Townhomes (North, South 1 & South 2)",Vancouver,V6S 
 VAD11026,Crescent West,Vancouver,V6S 0A9,BC,VBL10219,NeighbourhoodBldg,CanadaPost,5879 Gray Avenue,-123.233027,49.252872
 VAD11079,The Residences at Nobel Park - Townhouses,Vancouver,V6S 0L3,BC,VBL10352,NeighbourhoodBldg,CanadaPost,3483 Ross Drive,-123.23627,49.251014
 VAD10196,Oakwood Residences,Vancouver,V6S 0L1,BC,VBL10255,NeighbourhoodBldg,CanadaPost,3383 Ross Drive,-123.238694,49.251847
+VAD10216,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q̓əlɬaləməcən lelǝm̓ (Orca),Vancouver,V6T 1K2,BC,VBL10381,CampusBuilding,CampusMail,5965 Student Union Boulevard,-123.249343,49.268851
+VAD10450,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimǝk̓ʷ lelǝm̓ (Octopus),Vancouver,V6T 1K2,BC,VBL10383,CampusBuilding,CampusMail,1945 Wesbrook Mall,-123.247785,49.269418
+VAD10217,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - tǝmǝs lelǝm̓ (Sea Otter) ,Vancouver,V6T 1K2,BC,VBL10382,CampusBuilding,CampusMail,1875 Wesbrook Mall,-123.248088,49.270532
+VAD10218,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - Parking,Vancouver,V6T 1K2,BC,VBL10382,Occupant,CampusMail,5970 Walter Gage Road,-123.248552,49.27053
+VAD10215,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθǝn lelǝm̓ (Sturgeon),Vancouver,V6T 1K2,BC,VBL10378,CampusBuilding,CampusMail,5955 Student Union Boulevard,-123.248612,49.269118
+VAD11213,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - Front Desk,Vancouver,V6T 1K2,BC,VBL10378,Complex,CampusMail,5955 Student Union Boulevard,-123.248585,49.269187
+VAD10613,Walter H. Gage Residence - Front Desk,Vancouver,V6T 1K2,BC,VBL10263,Complex,CampusMail,5959 Student Union Boulevard,-123.249771,49.269547
+VAD10214,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ lelǝm̓ (Herring),Vancouver,V6T 1K2,BC,VBL10384,CampusBuilding,CampusMail,1885 Wesbrook Mall,-123.248116,49.270062

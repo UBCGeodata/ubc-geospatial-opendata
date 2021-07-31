@@ -269,12 +269,8 @@ Housing,Cascara House,CSCA,6385 Hawthorn Lane,V6T 0C1,VBL10347,Complete,-123.249
 StudentHousing,Thunderbird Residence - Cassiar,THR1,"6335 Thunderbird Crescent, Building 5",V6T 2G9,VBL10079,Complete,-123.246685,49.260243
 StudentHousing,Marine Drive Residence - 5,MAR5,"2205 Lower Mall, Building 5",V6T 1Z4,VBL10089,Complete,-123.254905,49.261115
 StudentHousing,Thunderbird Residence - Monashee,THR2,"6335 Thunderbird Crescent, Building 4",V6T 2G9,VBL10098,Complete,-123.247557,49.259933
-StudentHousing,Totem Park Residence - Building 7,TPR7,"2525 West Mall, Building 7",V6T 1W9,VBL10105,Complete,-123.251637,49.256811
 StudentHousing,Thunderbird Residence - Coast,THR4,"6335 Thunderbird Crescent, Building 2",V6T 1Z4,VBL10121,Complete,-123.250361,49.25897
 StudentHousing,Thunderbird Residence - Hazelton,THR5,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250846,49.259569
-StudentHousing,Totem Park Residence - Building 2,TPR2,"2525 West Mall, Building 2",V6T 1W9,VBL10126,Complete,-123.253225,49.258715
-StudentHousing,Totem Park Residence - Building 3,TPR3,"2525 West Mall, Building 3",V6T 1W9,VBL10127,Complete,-123.252324,49.259362
-StudentHousing,Totem Park Residence - Building 5,TPR5,"2525 West Mall, Building 5",V6T 1W9,VBL10128,Complete,-123.251195,49.258604
 StudentHousing,Green College - B East,GRN5,"6201 Cecil Green Park Road, Building 7",V6T 1Z1,VBL10174,Complete,-123.25601,49.270843
 StudentHousing,Green College - D Coach House,GRN6,"6201 Cecil Green Park Road, Building 2",V6T 1Z1,VBL10176,Complete,-123.256534,49.271144
 StudentHousing,Green College - Guest House,GRN9,"6201 Cecil Green Park Road, Building 1",V6T 1Z1,VBL10180,Complete,-123.256515,49.27086
@@ -290,13 +286,9 @@ StudentHousing,Place Vanier Residence - Korea House,VNR06,"1935 Lower Mall, Buil
 StudentHousing,Place Vanier Residence - Okanagan House,VNR08,"1935 Lower Mall, Building 2",V6T 1X1,VBL10270,Complete,-123.257764,49.264345
 StudentHousing,Green College - Kitchen/Laundry,GRN2,"6201 Cecil Green Park Road, Building 9",V6T 1Z1,VBL10434,Complete,-123.255578,49.270989
 StudentHousing,Green College - A South,GRN3,"6201 Cecil Green Park Road, Building 6",V6T 1Z1,VBL10415,Complete,-123.255231,49.270941
-StudentHousing,Walter Gage Residence - South Highrise,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.24972,49.2692
 StudentHousing,Walter Gage Residence - North Highrise,WGR5,"5959 Student Union Boulevard, Building 4",V6T 1K2,VBL10394,Complete,-123.250029,49.269841
 StudentHousing,Walter Gage Residence - East Highrise,WGR4,"5959 Student Union Boulevard, Building 3",V6T 1K2,VBL10393,Complete,-123.249158,49.269645
-Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253657,49.267351
 Services,Kids Club,KIDS,2855 Acadia Road,V6T 1S1,VBL10374,Complete,-123.234805,49.261725
-StudentHousing,Totem Park Residence - Building 6,TPR6,"2525 West Mall, Building 6",V6T 1W9,VBL10002,Complete,-123.252622,49.257476
-StudentHousing,Totem Park Residence - Building 4,TPR4,"2525 West Mall, Building 4",V6T 1W9,VBL10016,Complete,-123.251545,49.259167
 StudentHousing,Exchange Residence,EXCH,5960 Student Union Boulevard,V6T 2C9,VBL10370,Complete,-123.247692,49.268567
 StudentHousing,Place Vanier Residence - Tweedsmuir House,VNR13,"1935 Lower Mall, Building 5",V6T 1X1,VBL10369,Complete,-123.258301,49.263472
 StudentHousing,Place Vanier Residence - Phyllis Ross House,VNR09,"1935 Lower Mall, Building 11",V6T 1X1,VBL10368,Complete,-123.259601,49.265339
@@ -319,8 +311,6 @@ Other,Telus Hub,TELS,5895 Berton Avenue,V6T 1W5,VBL10179,Complete,-123.235473,49
 Other,Carey Centre,CRYC,5920 Iona Drive,V6T 1J6,VBL10257,Complete,-123.248908,49.27152
 Research,FPInnovations,FPIN,2665 East Mall,V6T 1Z4,VBL10021,Complete,-123.244468,49.256786
 Research,3800 Wesbrook Mall,3800,3800 Wesbrook Mall,V6S 2L9,VBL10236,Complete,-123.230294,49.250196
-Services,Totem Park Residence - Commonsblock 1,TPR1,"2525 West Mall, Building 1",V6T 1W9,VBL10231,Complete,-123.252981,49.25804
-Services,Walter Gage Residence - Commonsblock,WGR1,"5959 Student Union Boulevard, Building 1",V6T 1K2,VBL10263,Complete,-123.24983,49.26953
 Research,Pulp and Paper Centre,PAPC,2385 East Mall,V6T 1Z4,VBL10045,Complete,-123.247568,49.261416
 Services,Marine Drive Residence - 3 Commonsblock,MAR3,"2205 Lower Mall, Building 3",V6T 1Z4,VBL10088,Complete,-123.256853,49.261413
 Services,Place Vanier Residence - Commonsblock,VNR03,"1935 Lower Mall, Building 1",V6T 1X1,VBL10108,Complete,-123.258583,49.26465
@@ -381,11 +371,6 @@ Other,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 
 Academic,Chemistry A Physics Building,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251513,49.265736
 Other,Carey Hall,CRYH,1815 Wesbrook Mall,V6T 1J6,VBL10208,Complete,-123.248532,49.271737
 StudentHousing,St. John's College,STJC,2111 Lower Mall,V6T 1Z4,VBL10116,Complete,-123.25679,49.262595
-StudentHousing,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - qʷta:yθǝn lelǝm̓ / Sturgeon House,QTYN,5955 Student Union Boulevard,V6T 1K2,VBL10378,UnderConstruction,-123.24852,49.269216
-StudentHousing,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - q̓əlɬaləməcən lelǝm̓ / Orca House,QLCN,5965 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
-StudentHousing,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - sqimǝk̓ʷ lelǝm̓ / Octopus House,SQMK,1945 Wesbrook Mall,V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
-StudentHousing,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - sɬewǝt’ lelǝm̓ / Herring House,SLWT,1885 Wesbrook Mall,V6T 1K2,VBL10384,UnderConstruction,-123.248031,49.270168
-StudentHousing,Saltwater / k̓ʷaƛ̓kʷəʔaʔɬ - tǝmǝs lelǝm̓ / Sea Otter House,TMES,1875 Wesbrook Mall,V6T 1K2,VBL10382,UnderConstruction,-123.248322,49.270531
 Academic,Horticulture Building,HORT,6394 Stores Road,V6T 1Z4,VBL10362,Complete,-123.252773,49.261402
 Academic,Stores Road Annex,STRX,6368 Stores Road,V6T 1Z4,VBL10124,Complete,-123.252359,49.261667
 Academic,Wood Drying Laboratory,WDL,2324 West Mall,V6T 1Z4,VBL10285,Complete,-123.252249,49.261475
@@ -426,4 +411,19 @@ Operations,UBC Farm - Greenhouse 1,FRM4,"3461 Ross Drive, Building 3",V6T 1W5,VB
 Operations,UBC Farm - Greenhouse 2,FRM5,"3461 Ross Drive, Building 4",V6T 1W5,VBL10012,Complete,-123.239002,49.251043
 Academic,UBC Farm - Yurt,YURT,3465 Ross Drive,V6T 1W5,VBL10391,Complete,-123.239913,49.25126
 Academic,UBC Farm - Harvest Hut / Market,FRM2,"3461 Ross Drive, Building 5",V6T 1W5,VBL10245,Complete,-123.237933,49.250758
+StudentHousing,Walter Gage Residence - South Highrise,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.24972,49.2692
+Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253657,49.267351
+Services,Walter Gage Residence - Commonsblock,WGR1,"5959 Student Union Boulevard, Building 1",V6T 1K2,VBL10263,Complete,-123.249831,49.269529
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθǝn lelǝm̓ (Sturgeon),QTYN,5955 Student Union Boulevard,V6T 1K2,VBL10378,UnderConstruction,-123.248518,49.269217
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q̓əlɬaləməcən lelǝm̓ (Orca),QLCN,5965 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
+StudentHousing,Totem Park Residence - Dene/Nootka House,TPR2,"2525 West Mall, Building 2",V6T 1W9,VBL10126,Complete,-123.253225,49.258715
+StudentHousing,Totem Park Residence - Kwakiutl/Shuswap House,TPR3,"2525 West Mall, Building 3",V6T 1W9,VBL10127,Complete,-123.252324,49.259362
+StudentHousing,Totem Park Residence - q̓ələχən House,TPR4,"2525 West Mall, Building 4",V6T 1W9,VBL10016,Complete,-123.251545,49.259167
+StudentHousing,Totem Park Residence - həm̓ləsəm̓ House,TPR5,"2525 West Mall, Building 5",V6T 1W9,VBL10128,Complete,-123.251195,49.258604
+StudentHousing,Totem Park Residence - Haida/Salish House,TPR6,"2525 West Mall, Building 6",V6T 1W9,VBL10002,Complete,-123.252622,49.257476
+StudentHousing,Totem Park Residence - c̓əsnaʔəm House,TPR7,"2525 West Mall, Building 7",V6T 1W9,VBL10105,Complete,-123.251637,49.256811
+Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V6T 1W9,VBL10231,Complete,-123.252981,49.25804
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimǝk̓ʷ lelǝm̓ (Octopus),TMES,1875 Wesbrook Mall,V6T 1K2,VBL10382,UnderConstruction,-123.248315,49.270523
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ lelǝm̓ (Herring),SQMK,1945 Wesbrook Mall,V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - tǝmǝs lelǝm̓ (Sea Otter),SLWT,1885 Wesbrook Mall,V6T 1K2,VBL10384,UnderConstruction,-123.248031,49.270168
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
