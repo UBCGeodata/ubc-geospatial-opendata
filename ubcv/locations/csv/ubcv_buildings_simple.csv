@@ -365,8 +365,6 @@ Athletics,Thunderbird Stadium,STAD,6288 Stadium Road,V6T 1Z4,VBL10214,Complete,-
 Operations,Building Operations Storage Shed,BOSS,2214 Lower Mall,V6T 1Z4,VBL10207,Complete,-123.254414,49.262185
 Services,Ladner Clock Tower,CLCK,1956 Main Mall,V6T 1Z1,VBL10376,Complete,-123.253657,49.267351
 Academic,Landscape Architecture Annex,LAX,2371 Main Mall,V6T 1Z4,VBL10377,Complete,-123.250061,49.260657
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθǝn lelǝm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,UnderConstruction,-123.248518,49.269217
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q̓əlɬaləməcən lelǝm̓ (Orca),QLCN,5965 Student Union Boulevard,V6T 1K2,VBL10381,UnderConstruction,-123.249653,49.268822
 StudentHousing,Walter Gage Residence - Apartment,WGR2,5980 Walter Gage Road,V6T 1K2,VBL10301,Complete,-123.249022,49.270145
 Research,TRIUMF - Stores Building,TRF17,"4004 Wesbrook Mall, Building 22",V6T 2A3,VBL10037,Complete,-123.230587,49.246544
 Research,TRIUMF - Shipping / Workshop,TRF28,6095 Nurseries Road,V6T 2A3,VBL10059,Complete,-123.230068,49.246246
@@ -422,6 +420,8 @@ StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sq
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ lelǝm̓ (Herring),SQMK,1945 Wesbrook Mall,V6T 1K2,VBL10383,UnderConstruction,-123.247923,49.269589
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - tǝmǝs lelǝm̓ (Sea Otter),SLWT,1885 Wesbrook Mall,V6T 1K2,VBL10384,UnderConstruction,-123.248031,49.270168
 Services,Rodney Graham Millennium Sculpture Pavilion,RSCU,1940 Main Mall,V6T 1Z1,VBL10051,Complete,-123.2545,49.267524
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q̓əlɬaləməcən lelǝm̓ (Orca),QLCN,5965 Student Union Boulevard,V6T 1K2,VBL10381,Complete,-123.249653,49.268822
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθǝn lelǝm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,Complete,-123.248518,49.269217
 Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247066,49.262481
 StudentHousing,Walter Gage Residence - Court (West Coast Suites),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
 Housing,TRIUMF House,TRFH,5835 Thunderbird Boulevard,V6T 2L6,VBL10320,Complete,-123.241171,49.262025
