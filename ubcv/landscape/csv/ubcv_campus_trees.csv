@@ -6604,6 +6604,40 @@
 ,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.259651,-123.252102
 ,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259655,-123.252059
 ,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259645,-123.251995
+,,Hammamelis virginiana ,American witchhazel ,N,,,,,,,,,,,,,,,,,,,,,,,49.25766,-123.253096
+,,Ginkgo biloba ,Ginkgo tree ,N,,,,,,,,,,,,,,,,,,,,,,,49.257817,-123.252954
+,,Sequoiadendron gigantum ,Giant sequoia ,Y,4482,,,,,,,,,,,,,,,,,,,,,,49.257593,-123.252934
+,,Tilia cordata ,Little leaf linden ,Y,4481,,,,,,,,,,,,,,,,,,,,,,49.257659,-123.252935
+,,Zelkova serrata ,Japanese zelkova,N,,,,,,,,,,,,,,,,,,,,,,,49.257649,-123.253369
+,,Quercus rubra ,Red oak,N,,,,,,,,,,,,,,,,,,,,,,,49.257381,-123.253335
+,,Quercus rubra ,Red oak,N,,,,,,,,,,,,,,,,,,,,,,,49.257302,-123.25325
+,,Pinus ponderosa,Ponderosa pine ,Y,5132,,,,,,,,,,,,,,,,,,,,,,49.257787,-123.252785
+,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257853,-123.252399
+,,Acer platanoides ,Norway maple ,Y,5130,,,,,,,,,,,,,,,,,,,,,,49.257827,-123.25247
+,,Acer platanoides ,Norway maple ,Y,5129,,,,,,,,,,,,,,,,,,,,,,49.257803,-123.252535
+,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257728,-123.252561
+,,Acer platanoides ,Norway maple ,Y,5124,,,,,,,,,,,,,,,,,,,,,,49.257598,-123.252464
+,,Acer platanoides ,Norway maple ,Y,5125,,,,,,,,,,,,,,,,,,,,,,49.257641,-123.252505
+,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257681,-123.25254
+,,Acer platanoides ,Norway maple ,Y,5128,,,,,,,,,,,,,,,,,,,,,,49.257773,-123.252602
+,,Acer griseum ,Boxelder maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257678,-123.252294
+,,Magnolia acuminata ,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.257776,-123.252332
+,,Quercus rubra ,Red oak ,N,,,,,,,,,,,,,,,,,,,,,,,49.257784,-123.25215
+,,Acer pseudoplatanus ‘Atropurpureum’,Blood maple,Y,5116,,,,,,,,,,,,,,,,,,,,,,49.257888,-123.252229
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.257789,-123.252051
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.257905,-123.252443
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.257914,-123.252417
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.257924,-123.252383
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258012,-123.252406
+,,Abies,Fir,N,,,,,,,,,,,,,,,,,,,,,,,49.257983,-123.252482
+,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.258048,-123.252432
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258004,-123.252511
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.25802,-123.252533
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258043,-123.252551
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258088,-123.252563
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258095,-123.25249
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.25811,-123.252494
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258106,-123.252447
 ,,Pseudotsuga menziesii ,Douglas-fir ,Y,1,N,,,,,,,,,,,,20210827032833,,,,,,,,,49.26596,-123.250427
 ,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259589,-123.251996
 ,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259556,-123.252057
@@ -6652,12 +6686,9 @@
 ,,Pinus sylvestris,Scots pine,,,,,,,,,,,,,,,,,,,,,,,,49.259019,-123.252494
 ,,Pinus sylvestris,Scots pine,,,,,,,,,,,,,,,,,,,,,,,,49.259066,-123.252564
 ,,Cotinus coggygria,European smoke tree ,,,,,,,,,,,,,,,,,,,,,,,,49.259113,-123.252696
-,,Pseudotsuga menziesii ,Douglas-fir,,,,,,,,,,,,,,,,,,,,,,,,49.259072,-123.252792
-,,Pseudotsuga menziesii ,Douglas-fir,,,,,,,,,,,,,,,,,,,,,,,,49.259113,-123.252807
 ,,Quercus rubra ,Red oak,,,,,,,,,,,,,,,,,,,,,,,,49.259221,-123.252813
 ,,Acer palmatum ,Japanese maple ,,,,,,,,,,,,,,,,,,,,,,,,49.259034,-123.252715
 ,,Acer palmatum ,Japanese maple ,,,,,,,,,,,,,,,,,,,,,,,,49.259054,-123.252772
-,,Prunus cerasifera ,Plum cherry,,,,,,,,,,,,,,,,,,,,,,,,49.259051,-123.252817
 ,,Betula pendula,Silver birch ,,,,,,,,,,,,,,,,,,,,,,,,49.258896,-123.252599
 ,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259076,-123.252841
 ,,Acer palmatum ,Japanese maple ,,,,,,,,,,,,,,,,,,,,,,,,49.25891,-123.252667
@@ -6668,7 +6699,6 @@
 ,,Carpinus betula ,European hornbeam ,,,,,,,,,,,,,,,,,,,,,,,,49.25871,-123.253142
 ,,Halesia carolina ,Carolina silverbell ,,,,,,,,,,,,,,,,,,,,,,,,49.258776,-123.25311
 ,,Halesia carolina ,Carolina silverbell ,,,,,,,,,,,,,,,,,,,,,,,,49.258766,-123.253148
-,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259114,-123.252876
 ,,Acer palmatum ,Japanese maple ,,,,,,,,,,,,,,,,,,,,,,,,49.259107,-123.252933
 ,,Acer palmatum ,Japanese maple ,,,,,,,,,,,,,,,,,,,,,,,,49.258998,-123.253225
 ,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259025,-123.253204
@@ -6680,3 +6710,210 @@
 ,,Cedrus deodara,Deodar cedar,,,,,,,,,,,,,,,,,,,,,,,,49.259028,-123.253069
 ,,Betula pendula,Silver birch ,,,,,,,,,,,,,,,,,,,,,,,,49.258937,-123.253304
 ,,Quercus garryana ,Garry oak,,,,,,,,,,,,,,,,,,,,,,,,49.258988,-123.253371
+,,Quercus robur,Common oak,Y,4391,,,,,,,,,,,,,,,,,,,,,,49.25912,-123.253116
+,,Pseudotsuga menziesii ,Douglas-fir,,,,,,,,,,,,,,,,,,,,,,,,49.259089,-123.252776
+,,Pseudotsuga menziesii ,Douglas-fir,,,,,,,,,,,,,,,,,,,,,,,,49.259119,-123.252785
+,,Thuja plicata ,Western red cedar ,,,,,,,,,,,,,,,,,,,,,,,,49.259112,-123.252842
+,,Prunus cerasifera ,Plum cherry,,,,,,,,,,,,,,,,,,,,,,,,49.259043,-123.252832
+,,Cornus ,Dogwood sp.,N,,,,,,,,,,,,,,,,,,,,,,,49.259038,-123.253412
+,,Acer saccharinum ,Silver maple,N,,,,,,,,,,,,,,,,,,,,,,,49.259024,-123.253449
+,,Tsuga heterophylla ,Coastal western hemlock ,Y,4418,,,,,,,,,,,,,,,,,,,,,,49.258799,-123.253892
+,,Tsuga heterophylla ,Coastal western hemlock ,Y,4419,,,,,,,,,,,,,,,,,,,,,,49.258818,-123.253821
+,,Tsuga heterophylla ,Coastal western hemlock ,Y,4420,,,,,,,,,,,,,,,,,,,,,,49.258849,-123.253741
+,,Acer rubrum,Red maple ,Y ,4421,,,,,,,,,,,,,,,,,,,,,,49.258898,-123.253576
+,,Pseudotsuga menziesii ,Douglas-fir,Y,4427,,,,,,,,,,,,,,,,,,,,,,49.258735,-123.254061
+,,Pseudotsuga menziesii ,Douglas-fir,Y,4426,,,,,,,,,,,,,,,,,,,,,,49.258678,-123.254072
+,,Prunus serrulata ,Japanese cherry ,Y,4422,,,,,,,,,,,,,,,,,,,,,,49.258773,-123.253651
+,,Prunus serrulata ,Japanese cherry ,Y,4423,,,,,,,,,,,,,,,,,,,,,,49.258735,-123.253765
+,,Prunus serrulata ,Japanese cherry ,Y,4424,,,,,,,,,,,,,,,,,,,,,,49.258708,-123.253849
+,,Stranvaesia davidiana ,Chinese photonia,N,,,,,,,,,,,,,,,,,,,,,,,49.258675,-123.253903
+,,Stranvaesia davidiana ,Chinese photonia,N,,,,,,,,,,,,,,,,,,,,,,,49.258664,-123.253929
+,,Stranvaesia davidiana ,Chinese photonia,N,,,,,,,,,,,,,,,,,,,,,,,49.258653,-123.253953
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258354,-123.253872
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.25839,-123.253927
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258505,-123.253988
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258554,-123.25402
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258605,-123.254057
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258818,-123.254064
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.25879,-123.254045
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258748,-123.254121
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258704,-123.254134
+,,Quercus robur ,Common oak,N,,,,,,,,,,,,,,,,,,,,,,,49.258361,-123.253842
+,,Tilia americana ,American linden,N,,,,,,,,,,,,,,,,,,,,,,,49.258401,-123.253889
+,,Tilia americana ,American linden,N,,,,,,,,,,,,,,,,,,,,,,,49.258461,-123.253938
+,,Corylus avellana ,Common hazel,N,,,,,,,,,,,,,,,,,,,,,,,49.258369,-123.253705
+,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.258326,-123.253435
+,,Acer macrophyllum ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258395,-123.253609
+,,Malus sp,Apple tree,N,,,,,,,,,,,,,,,,,,,,,,,49.258394,-123.253509
+,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258549,-123.25344
+,,Cornus,Dogwood sp.,Y,4466,,,,,,,,,,,,,,,,,,,,,,49.25864,-123.253313
+,,Chamaecyparis lawsonia ,Port orford cedar,Y,4465,,,,,,,,,,,,,,,,,,,,,,49.258677,-123.253342
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258306,-123.253453
+,,Prunus serrulata ,Japanese cherry ,Y,4475,,,,,,,,,,,,,,,,,,,,,,49.258254,-123.253417
+,,Prunus serrulata ,Japanese cherry ,Y,4476,,,,,,,,,,,,,,,,,,,,,,49.258215,-123.253421
+,,Prunus serrulata ,Japanese cherry ,Y,4477,,,,,,,,,,,,,,,,,,,,,,49.258193,-123.253494
+,,Betula pendula ,Silver birch ,Y,4468,,,,,,,,,,,,,,,,,,,,,,49.258218,-123.2533
+,,Hammamelis virginiana,Witch hazel ,N,,,,,,,,,,,,,,,,,,,,,,,49.258126,-123.253542
+,,Hammamelis virginiana,Witch hazel ,N,,,,,,,,,,,,,,,,,,,,,,,49.258106,-123.253526
+,,Prunus serrulata ,Japanese cherry ,Y,4473,,,,,,,,,,,,,,,,,,,,,,49.258341,-123.253507
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258317,-123.253698
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258329,-123.253658
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.25834,-123.253625
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.25834,-123.25359
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258348,-123.253563
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258357,-123.253537
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258366,-123.25351
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258361,-123.253486
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258349,-123.253474
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258333,-123.253462
+,,Cotoneaster lacteus ,Late cotoneaster,N,,,,,,,,,,,,,,,,,,,,,,,49.258312,-123.253442
+,,Prunus lusitanica ,Portuguese laurel,N,,,,,,,,,,,,,,,,,,,,,,,49.258212,-123.253359
+,,Prunus lusitanica ,Portuguese laurel,N,,,,,,,,,,,,,,,,,,,,,,,49.258196,-123.253358
+,,Sorbus intermedia,Swedish whitebeam,Y,4470,,,,,,,,,,,,,,,,,,,,,,49.258337,-123.253085
+,,Pinus sylvestris ,Scots pine ,,,,,,,,,,,,,,,,,,,,,,,,49.258445,-123.253098
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258447,-123.253029
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258471,-123.252964
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.2583,-123.25272
+,,Chamaecyparis nootkatensis ,Yellow cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258322,-123.252658
+,,Quercus palustris ,Pin oak ,Y,5021,,,,,,,,,,,,,,,,,,,,,,49.258565,-123.252861
+,,Quercus rubra ,Red oak ,N,,,,,,,,,,,,,,,,,,,,,,,49.258593,-123.253007
+,,Tilia cordata,Little leaf linden ,N,,,,,,,,,,,,,,,,,,,,,,,49.258407,-123.252554
+,,Chamaecyparis thyoides,Atlantic white cedar,N,,,,,,,,,,,,,,,,,,,,,,,49.258471,-123.252512
+,,Tsuga heterophylla ,Coastal western hemlock ,N,,,,,,,,,,,,,,,,,,,,,,,49.2584,-123.252463
+,,Betula pendula ,Silver birch ,N,,,,,,,,,,,,,,,,,,,,,,,49.258505,-123.252478
+,,Carya cordiformis,Bitternut hickory,N,,,,,,,,,,,,,,,,,,,,,,,49.258633,-123.25237
+,,Tilia cordata,Little leaf linden,N,,,,,,,,,,,,,,,,,,,,,,,49.258665,-123.252173
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258608,-123.252236
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258584,-123.252294
+,,Acer saccharinum ,Silver maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258869,-123.252196
+,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258839,-123.2524
+,,Cornus ,Dogwood sp.,N,,,,,,,,,,,,,,,,,,,,,,,49.258827,-123.252374
+,,Fraxinus americana ,White ash ,N,,,,,,,,,,,,,,,,,,,,,,,49.258808,-123.252513
+,,Cornus florida ,Flowering dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.258752,-123.252566
+,,Quercus robur ,Common oak ,Y,4392,,,,,,,,,,,,,,,,,,,,,,49.259078,-123.253259
+,,Sorbus intermedia ,Swedish whitebeam ,N,,,,,,,,,,,,,,,,,,,,,,,49.258938,-123.253671
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.258659,-123.254374
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.258561,-123.254353
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.258416,-123.2543
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.258285,-123.254255
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.258148,-123.2542
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.258012,-123.254147
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257875,-123.254099
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257738,-123.254049
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257608,-123.253994
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257481,-123.253921
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.25736,-123.253833
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257249,-123.253707
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257142,-123.253568
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.257061,-123.25343
+,,Acer platanoides ‘Royal Red’,Norway maple ‘Royal Red’,N,,,,,,,,,,,,,,,,,,,,,,,49.25697,-123.253259
+,,Prunus serrulata ,Japanese cherry ,Y,4479,,,,,,,,,,,,,,,,,,,,,,49.258043,-123.25357
+,,Chamaecyparis obtusa ,Hinoki cypress,N,,,,,,,,,,,,,,,,,,,,,,,49.257993,-123.253612
+,,Lonicera involucrata ,Twinberry honeysuckle ,N,,,,,,,,,,,,,,,,,,,,,,,49.257995,-123.253568
+,,Magnolia grandiflora ,Southern magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.257812,-123.253524
+,,Pseudolarix amabilis ,Golden larch ,N,,,,,,,,,,,,,,,,,,,,,,,49.257799,-123.253389
+,,Catalpa bignoides ,Southern catalpa ,N,,,,,,,,,,,,,,,,,,,,,,,49.257699,-123.253287
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.259403,-123.251975
+,,Prunus avium ,Wild cherry,N,,,,,,,,,,,,,,,,,,,,,,,49.258913,-123.251828
+,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.258881,-123.251851
+,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258823,-123.251987
+,,Styrax japonicus,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,,,,,49.258856,-123.251784
+,,Styrax japonicus,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,,,,,49.258849,-123.251837
+,,Styrax japonicus,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,,,,,49.258849,-123.25188
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258978,-123.251893
+,,Aesculus hippocastanum ,Horse chestnut ,N,,,,,,,,,,,,,,,,,,,,,,,49.257991,-123.252315
+,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258086,-123.252325
+,,Cedrus deodara ,Deodar cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258144,-123.252379
+,,Cedrus deodara ,Deodar cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258188,-123.252337
+,,Prunus yedonensis,Yoshino cherry,N,,,,,,,,,,,,,,,,,,,,,,,49.263741,-123.256687
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.263735,-123.256683
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.263809,-123.256748
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.263851,-123.256863
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.263921,-123.256965
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264049,-123.25695
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264118,-123.25701
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264179,-123.257053
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264242,-123.257106
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264315,-123.257161
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264391,-123.257236
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264454,-123.257275
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264526,-123.257339
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264595,-123.257392
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264666,-123.257448
+,,Prunus yedonensis ,Yoshino cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.264767,-123.257533
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.266092,-123.258651
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.266078,-123.258618
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.26605,-123.258622
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.266016,-123.25858
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.26594,-123.258521
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.265807,-123.258412
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.265731,-123.25834
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.265695,-123.258311
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.265686,-123.258265
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.25755,-123.252561
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257505,-123.252519
+,,Carpinus caroliniana ,American hornbeam,N,,,,,,,,,,,,,,,,,,,,,,,49.257468,-123.252514
+,,Fagus sylvatica ,European beech ,N,,,,,,,,,,,,,,,,,,,,,,,49.258028,-123.251937
+,,Fagus sylvatica ,European beech ,N,,,,,,,,,,,,,,,,,,,,,,,49.258023,-123.251831
+,,Fagus sylvatica ,European beech ,N,,,,,,,,,,,,,,,,,,,,,,,49.258124,-123.251918
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.258155,-123.251666
+,,Aesculus hippocastaneum ,Horse chestnut ,Y,5121,,,,,,,,,,,,,,,,,,,,,,49.257517,-123.251831
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,5010,,,,,,,,,,,,,,,,,,,,,,49.257439,-123.251835
+,,Metasequoia glyptostroboides  ,Dawn cypress ,N,,,,,,,,,,,,,,,,,,,,,,,49.25735,-123.251848
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,5008,,,,,,,,,,,,,,,,,,,,,,49.25727,-123.251935
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,5007,,,,,,,,,,,,,,,,,,,,,,49.25723,-123.252053
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,5001,,,,,,,,,,,,,,,,,,,,,,49.257146,-123.252252
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,4500,,,,,,,,,,,,,,,,,,,,,,49.257104,-123.252369
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,4499,,,,,,,,,,,,,,,,,,,,,,49.257083,-123.252508
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,4498,,,,,,,,,,,,,,,,,,,,,,49.257089,-123.252635
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,4497,,,,,,,,,,,,,,,,,,,,,,49.257114,-123.252768
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,4496,,,,,,,,,,,,,,,,,,,,,,49.257147,-123.252914
+,,Metasequoia glyptostroboides  ,Dawn cypress ,Y,4495,,,,,,,,,,,,,,,,,,,,,,49.257185,-123.253025
+,,Acer palmatum ,Japanese maple ,Y ,4491,,,,,,,,,,,,,,,,,,,,,,49.257398,-123.25283
+,,Acer palmatum ,Japanese maple ,Y,4490,,,,,,,,,,,,,,,,,,,,,,49.257362,-123.252926
+,,Acer palmatum ,Japanese maple ,Y,4488,,,,,,,,,,,,,,,,,,,,,,49.257336,-123.253018
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257293,-123.253114
+,,Cornus kousa,Kousa dogwood ,Y,8965,,,,,,,,,,,,,,,,,,,,,,49.257324,-123.25278
+,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.257335,-123.252637
+,,Cryptomeria japonica,Sugi tree,Y,5002,,,,,,,,,,,,,,,,,,,,,,49.257229,-123.25257
+,,Quercus robur ,European oak,N,,,,,,,,,,,,,,,,,,,,,,,49.257192,-123.252513
+,,Cryptomeria japonica,Sugi tree,Y,5004,,,,,,,,,,,,,,,,,,,,,,49.257231,-123.252339
+,,Pinus resinosa ,Red pine ,N,,,,,,,,,,,,,,,,,,,,,,,49.257314,-123.252356
+,,Pinus resinosa ,Red pine ,N,,,,,,,,,,,,,,,,,,,,,,,49.257378,-123.252232
+,,Quercus robur ,European oak ,Y,5019,,,,,,,,,,,,,,,,,,,,,,49.257003,-123.252851
+,,Quercus robur ,European oak ,N,,,,,,,,,,,,,,,,,,,,,,,49.256911,-123.252783
+,,Quercus macrocarpa,Bur oak,N,,,,,,,,,,,,,,,,,,,,,,,49.257055,-123.252932
+,,Quercus macrocarpa,Bur oak,N,,,,,,,,,,,,,,,,,,,,,,,49.256947,-123.2529
+,,Acer macrophyllum ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.256868,-123.252858
+,,Acer macrophyllum ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.256871,-123.252865
+,,Acer macrophyllum ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.256865,-123.252864
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.256818,-123.252774
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.256825,-123.252678
+,,Sequoiadendron gigantum ,Giant sequoia ,N,,,,,,,,,,,,,,,,,,,,,,,49.258506,-123.252188
+,,Sequoiadendron gigantum ,Giant sequoia ,N,,,,,,,,,,,,,,,,,,,,,,,49.258465,-123.252152
+,,Abies,Fir,M,,,,,,,,,,,,,,,,,,,,,,,49.258469,-123.25219
+,,Cedrus deodara ,Deodar cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258417,-123.252093
+,,Abies grandis,Grand fir,N,,,,,,,,,,,,,,,,,,,,,,,49.258414,-123.252026
+,,Aesculus hippocastaneum ,Horse chestnut ,N,,,,,,,,,,,,,,,,,,,,,,,49.258227,-123.252107
+,,Juniperus viginiana ,Eastern red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258194,-123.252181
+,,Hammamelis virginiana ,Witchhazel ,N,,,,,,,,,,,,,,,,,,,,,,,49.25826,-123.252039
+,,Juniperus ashei ,Ashe juniper ,N,,,,,,,,,,,,,,,,,,,,,,,49.258308,-123.25194
+,,Juniperus ashei ,Ashe juniper ,N,,,,,,,,,,,,,,,,,,,,,,,49.258337,-123.251961
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258152,-123.252278
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258166,-123.252239
+,,Acer saccharinum ,Silver maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258286,-123.251809
+,,Acer saccharinum ,Silver maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258334,-123.25184
+,,Acer rubra ,Red maple,N,,,,,,,,,,,,,,,,,,,,,,,49.258369,-123.251868
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258393,-123.251885
+,,Acer saccharinum ,Silver maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258466,-123.251951
+,,Cornus sp.,Dogwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.25851,-123.251981
+,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.25902,-123.251994
+,,Picea sitchensis ,Sitka spruce ,N,,,,,,,,,,,,,,,,,,,,,,,49.259083,-123.252003
+,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.259173,-123.252072
+,,Acer palmatum ,Japanese maple ,Y,5061,,,,,,,,,,,,,,,,,,,,,,49.259196,-123.25203
+,,Acer palmatum ,Japanese maple ,Y,5062,,,,,,,,,,,,,,,,,,,,,,49.259196,-123.252068
+,,Acer palmatum ,Japanese maple ,Y,5064,,,,,,,,,,,,,,,,,,,,,,49.259222,-123.252112
+,,Acer palmatum ,Japanese maple ,Y ,5065,,,,,,,,,,,,,,,,,,,,,,49.259251,-123.252224
+,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.259244,-123.251911
+,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.259264,-123.251908
+,,Pinus sylvestris ,Scots pine ,Y,4303,,,,,,,,,,,,,,,,,,,,,,49.259357,-123.251918
