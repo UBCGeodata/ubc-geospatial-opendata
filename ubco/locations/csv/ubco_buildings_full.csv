@@ -11,16 +11,13 @@ OBL10007,The Commons,COM,Complete,,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,
 OBL10009,Cascades Residence - D,CASD,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1163,4016,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10010,Arts and Sciences Centre,ASC,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,7801,4028,0,,,,,GISSTUD1,20200903224752,Unspecified,,,,B2,,-119,50
 OBL10011,Valhalla Residence,VAL,Complete,20050101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,4797,4011,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
-OBL10003,Quonset Office,QOT,Complete,20050101,Operations,,UBC,,UBC,Occupied,,,1,,89,4097,0,,,,,GISSTUD1,20200903224752,Unspecified,,,,B3,,-119,50
 OBL10014,University House,UNI,Complete,19750101,Operations,,UBC,,UBC,Occupied,,Concrete,2,,282,4007,0,,,,,GISSTUD1,20200903224752,Unspecified,,,,B2,,-119,50
 OBL10015,Cascades Residence - J,CASJ,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1173,4026,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10013,Purcell Residence,PUR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,6209,4031,0,,,,,GISSTUD1,20200903224752,Apt5StoreyPlus,,,,B5,,-119,50
-OBL10016,Portable N,PBN,Complete,20060101,Services,,UBC,,UBC,Temporary,,,1,,106,4099-14,0,,,,,RACHELW,20210604051904,Outbuildings,,,,B3,,-119,50
 OBL10017,Cascades Residence - H,CASH,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1165,4024,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10018,Reichwald Health Sciences Centre,RHS,Complete,20110101,Academic,Research,UBC,,UBC,Occupied,,Concrete,3,,5021,4033,0,,,,,GISSTUD1,20200903224752,Unspecified,,,,B2,,-119,50
 OBL10021,Nicola Residence,NIC,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,5667,4023,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10022,Monashee Residence,MON,Complete,19920101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,7685,4010,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
-OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,,1,,106,4099-1,0,,,,,GISSTUD1,20200904181500,Outbuildings,,,,B3,,-119,50
 OBL10038,Gymnasium,GYM,Complete,19940101,Athletics,,UBC,,Athletics,Occupied,,Steel,3,,5168,4005;4005-1;4005-2,1,,,,,RACHELW,20210604051302,Unspecified,,,,B3,,-119,50
 OBL10024,Kalamalka Residence,KAL,Complete,20050101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,4835,4012,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10026,Cassiar Residence,CSR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3951,4029,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
@@ -28,7 +25,6 @@ OBL10028,Cascades Residence - K,CASK,Complete,20090101,StudentHousing,,UBC,,SHHS
 OBL10002,Geo Exchange Control Building,GEO,Complete,20070101,Operations,,UBC,,UBC,Occupied,,Concrete,1,,454,4021,0,,,,,GISSTUD1,20200903232210,Unspecified,,,,B3,,-119,50
 OBL10030,Campus Administration Building,ADM,Complete,19920101,Administrative,,UBC,,UBC,Occupied,,Steel,2,,5792,4001,0,,,,,GISSTUD1,20201009175848,Unspecified,,,,B3,,-119,50
 OBL10001,Quonset - Hut,QUO,Complete,19940101,Operations,,UBC,,UBC,Occupied,,Wood,1,,498,4098;4098-3,1,,,,,GISSTUD1,20200930193728,Outbuildings,,,,B3,,-119,50
-OBL10020,Quonset - Science Shed,QUS,Complete,20050101,Operations,,UBC,,UBC,Occupied,,,1,,75,4098-4,0,,,,,GISSTUD1,20200930194001,Outbuildings,,,,B3,,-119,50
 OBL10031,Cascades Residence - F,CASF,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1163,4018,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10032,Cascades Residence - B,CASB,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1159,4014,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10033,Cascades Residence - G,CASG,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1162,4019,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
@@ -38,15 +34,19 @@ OBL10036,Cascades Residence - E,CASE,Complete,20080101,StudentHousing,,UBC,,SHHS
 OBL10037,Daycare Building,DAY,Complete,19930101,Services,,UBC,,UBC,Occupied,,Steel,1,,387,4032,0,,,,,GISSTUD1,20200903224752,Unspecified,,,,B3,,-119,50
 OBL10039,University Centre,UNC,Complete,20090101,Administrative,,UBC,,UBC,Occupied,,Concrete,3,,7238,4022,0,,,,,RACHELW,20210602212144,Unspecified,,,,B2,,-119,50
 OBL10043,Cascades Residence - I,CASI,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1166,4025,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
-OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,PreConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,,,,,,NIKT,20210429232204,RACHELW,20210730230039,Unspecified,,,,,,-119,50
-OBL10050,Vector Wells,VWB,Complete,20110817,Operations,,UBC,,UBC,Occupied,,,,,,4043,0,,,RACHELW,20200416221346,RACHELW,20210624165847,Unspecified,,,,B3,,-119,50
-OBL10049,Office Modular Building,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,,,,,4099-23,0,,,RACHELW,20200416220620,RACHELW,20210624165840,Unspecified,,,,B3,,-119,50
-OBL10053,Innovation Precinct Annex 1,IPA,Complete,20210301,Research,,Kelowna,,UBC,Occupied,,,,,,4044,0,,,RACHELW,20200806200207,RACHELW,20210624165938,Unspecified,,,,B2,,-119,50
-OBL10054,Project Management Office,PRO,Complete,19900101,Operations,,UBC,,UBC,Temporary,,,,,,4099-22,0,,,RACHELW,20200806212355,RACHELW,20210624170000,Outbuildings,,,,B5,,-119,50
-OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,,,,,4042,0,,,RACHELW,20200416220402,RACHELW,20210624165838,Unspecified,,,,B2,,-119,50
-OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Unoccupied,,,,,,4099-24,0,,,RACHELW,20200416221350,RACHELW,20210624165856,Unspecified,,,,B3,,-119,50
-OBL10045,Nechako Residence,NCH,Complete,,StudentHousing,Services,UBC,,SHHS,Unoccupied,,,5,,,4041,0,,,RACHELW,20190916204528,TONYZ,20210826234453,Apt5StoreyPlus,,,,B5,,-119,50
-OBL10046,Skeena Residence,SKN,Complete,20191126,StudentHousing,,UBC,,SHHS,Occupied,,,6,,,4040,0,,,RACHELW,20190916204317,RACHELW,20210624165821,Apt5StoreyPlus,,,,B5,,-119,50
-OBL10052,Innovation Precinct 1,IPR,Complete,20080101,Research,,UBC,,UBC,Occupied,,,,,,4034,0,,,RACHELW,20200806200207,RACHELW,20210624165930,Unspecified,,,,B2,,-119,50
-OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupied,,,,,,4039,0,,,RACHELW,20200416215859,RACHELW,20210624165828,Unspecified,,,,B2,,-119,50
 OBL10044,Upper Campus Health Building,UCH,Complete,19930101,Academic,Research,UBC,,UBC,Occupied,,,3,,1681,4008,0,,,,,RACHELW,20210624165805,Unspecified,,,,B2,,-119,50
+OBL10052,Innovation Precinct 1,IPR,Complete,20080101,Research,,UBC,,UBC,Occupied,,,,,,4034,0,,,RACHELW,20200806200207,RACHELW,20210624165930,Unspecified,,,,B2,,-119,50
+OBL10053,Innovation Precinct Annex 1,IPA,Complete,20210301,Research,,Kelowna,,UBC,Occupied,,,,,,4044,0,,,RACHELW,20200806200207,RACHELW,20210624165938,Unspecified,,,,B2,,-119,50
+OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,PreConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,,,,,,NIKT,20210429232204,RACHELW,20210730230039,Unspecified,,,,,,-119,50
+OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupied,,Steel,,,,4039,0,,,RACHELW,20200416215859,NIKT,20210908182514,Unspecified,,,,B2,,-119,50
+OBL10003,Quonset Office,QOT,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,89,4097,0,,,,,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
+OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,Steel,1,,106,4099-1,0,,,,,NIKT,20210908182514,Outbuildings,,,,B3,,-119,50
+OBL10016,Portable N,PBN,Complete,20060101,Services,,UBC,,UBC,Temporary,,Steel,1,,106,4099-14,0,,,,,NIKT,20210908182514,Outbuildings,,,,B3,,-119,50
+OBL10050,Vector Wells,VWB,Complete,20110817,Operations,,UBC,,UBC,Occupied,,Wood,,,,4043,0,,,RACHELW,20200416221346,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
+OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,,4042,0,,,RACHELW,20200416220402,NIKT,20210908182514,Unspecified,,,,B2,,-119,50
+OBL10046,Skeena Residence,SKN,Complete,20191126,StudentHousing,,UBC,,SHHS,Occupied,,Wood,6,,,4040,0,,,RACHELW,20190916204317,NIKT,20210908182514,Apt5StoreyPlus,,,,B5,,-119,50
+OBL10049,Office Modular Building,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,Steel,,,,4099-23,0,,,RACHELW,20200416220620,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
+OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Unoccupied,,Steel,,,,4099-24,0,,,RACHELW,20200416221350,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
+OBL10045,Nechako Residence,NCH,Complete,,StudentHousing,Services,UBC,,SHHS,Unoccupied,,Concrete,5,,,4041,0,,,RACHELW,20190916204528,NIKT,20210908182514,Apt5StoreyPlus,,,,B5,,-119,50
+OBL10020,Quonset - Science Shed,QUS,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,75,4098-4,0,,,,,NIKT,20210908230025,Outbuildings,,,,B3,,-119,50
+OBL10054,Project Management Office,PRO,Complete,19900101,Operations,,UBC,,UBC,Temporary,,Steel,,,,4099-22,0,,,RACHELW,20200806212355,RACHELW,20210909023734,Outbuildings,,,,B5,,-119,50
