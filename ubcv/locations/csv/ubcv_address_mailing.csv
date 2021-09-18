@@ -250,7 +250,6 @@ VAD10134,MBA House,Vancouver,V6T 1Z4,BC,VBL10403,CampusBuilding,CanadaPost,3385 
 VAD10223,Gerald McGavin Building,Vancouver,V6T 1Z3,BC,VBL10043,OtherBuilding,CampusMail,2386 East Mall,-123.246826,49.261635
 VAD10226,Granite Terrace 2 - Offices,Vancouver,V6S 0B3,BC,VBL10414,NeighbourhoodBldg,CanadaPost,5923 Berton Avenue,-123.236255,49.255076
 VAD10552,Coast - Cityhome,Vancouver,V6T 2J5,BC,VBL10297,Residential,CanadaPost,6094 Chancellor Mews,-123.253423,49.270898
-VAD10706,Chapel of the Epiphany,Vancouver,V6T 1X3,BC,VBL10392,OtherBuilding,CanadaPost,6030 Chancellor Boulevard,-123.252295,49.271429
 VAD10741,TRIUMF,Vancouver,V6T 2A3,BC,VBL10132,Complex,CampusMail,4004 Wesbrook Mall,-123.230881,49.247585
 VAD10774,Wesbrook Professional Centre,Vancouver,V6S 0C8,BC,VBL10166,NeighbourhoodBldg,CanadaPost,3313 Shrum Lane,-123.236414,49.254385
 VAD10781,Wesbrook Community Centre,Vancouver,V6S 0H3,BC,VBL10168,NeighbourhoodBldg,CanadaPost,3335 Webber Lane,-123.237267,49.254053
@@ -261,7 +260,6 @@ VAD11105,UBC Farm,Vancouver,V6T 1W5,BC,VBL10014,Complex,CampusMail,3461 Ross Dri
 VAD11114,Vancouver School of Theology (VST),Vancouver,V6T 1Z1,BC,VBL10302,OtherBuilding,CanadaPost,6015 Walter Gage Road,-123.251196,49.270292
 VAD11063,Exchange Residence,Vancouver,V6T 2C9,BC,VBL10370,CampusBuilding,CampusMail,5960 Student Union Boulevard,-123.248494,49.268851
 VAD11179,Walter H. Gage Residence - Temporary Front Desk,Vancouver,V6T 1K2,BC,VBL10263,Complex,CampusMail,6002 Walter Gage Road,-123.249901,49.270101
-VAD11194,Pump House,Vancouver,V6T 1Z2,BC,VBL10420,CampusBuilding,CampusMail,6355 University Boulevard,-123.254229,49.264664
 VAD11180,Brock Commons South,Vancouver,V6T 1K2,BC,VBL10424,CampusBuilding,CampusMail,6180 Walter Gage Road,-123.252661,49.2691
 VAD11181,Brock Commons South - House,Vancouver,V6T 1K2,BC,VBL10424,Residential,CampusMail,6122 Walter Gage Road,-123.251977,49.269322
 VAD10453,Stirling House - Townhouse,Vancouver,V6T 0A4,BC,VBL10289,Residential,CanadaPost,6086 Iona Drive,-123.252682,49.270491
@@ -1021,3 +1019,5 @@ VAD10898,Coast - Townhouse (2),Vancouver,V6T 2J5,BC,VBL10277,Residential,CanadaP
 VAD10897,Coast - Townhouse (1),Vancouver,V6T 2J5,BC,VBL10277,NeighbourhoodBldg,CanadaPost,6090 Chancellor Mews,-123.253221,49.271035
 VAD11213,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - Front Desk,Vancouver,V6T 1K2,BC,VBL10378,Complex,CampusMail,5955 Student Union Boulevard,-123.248585,49.269187
 VAD10613,Walter H. Gage Residence - Front Desk,Vancouver,V6T 1K2,BC,VBL10263,Complex,CampusMail,5959 Student Union Boulevard,-123.249771,49.269547
+VAD11194,UBC Water Pump Station,Vancouver,V6T 1Z2,BC,VBL10420,CampusBuilding,CampusMail,6355 University Boulevard,-123.254229,49.264664
+VAD10706,Reconciliation Chapel,Vancouver,V6T 1X3,BC,VBL10392,OtherBuilding,CanadaPost,6030 Chancellor Boulevard,-123.252295,49.271429
