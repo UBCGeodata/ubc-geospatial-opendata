@@ -4087,8 +4087,6 @@
 9566,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,19.4,0.1,,was duplicate: 1925,egan.davis@ubc.ca,20190919001323,PLAN,20200914225625,49.269503,-123.248788
 9555,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,17.2,0,,was duplicate: 1926,egan.davis@ubc.ca,20190919001356,PLAN,20200914230753,49.269517,-123.248735
 6744,Fagaceae,Fagus sylvatica,,,,,,,,,,,,,,,,,13.4,0.1,,,seeds.trees,20190919001359,PLAN,20200914225653,49.269357,-123.249463
-8888,fake,tree,,,,,,,,,,,,,,,,,,,,,,,,,49.266829,-123.24039
-999,fake,tree ,,,,,,,,,,,,,,,,,,,,,,,,,49.266945,-123.239338
 6896,,,,,,,,,,,,,,,,,,,18.6,0.1,,,GISSTUD1,20200106231444,PLAN,20200914230005,49.265329,-123.246795
 6897,,,,,,,,,,,,,,,,,,,7.2,0,,,GISSTUD1,20200106231447,PLAN,20200914230655,49.265389,-123.24705
 6898,,,,,,,,,,,,,,,,,,,4.8,0,,,GISSTUD1,20200106231450,PLAN,20200914230022,49.26551,-123.246546
@@ -6820,6 +6818,126 @@
 ,,Styrax japonicus,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,,,,,49.258849,-123.251837
 ,,Styrax japonicus,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,,,,,49.258849,-123.25188
 ,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258978,-123.251893
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264991,-123.260128
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26488,-123.260036
+,,,Dogwood Sp.,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264864,-123.259917
+,,,Red Cedar 'Zebrina',N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264858,-123.260278
+,,,Ponderosa Pine,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265299,-123.259441
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265329,-123.259276
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265773,-123.258696
+,,,Pacific Yew,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265378,-123.258764
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264973,-123.257902
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264916,-123.257901
+,,,Coastal Hemlock,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264939,-123.257927
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264916,-123.257951
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264955,-123.258058
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264902,-123.258004
+,,,Silverbell,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264915,-123.258054
+,,,Paper Birch,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264882,-123.257967
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264893,-123.257974
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264947,-123.257938
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264928,-123.257815
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264903,-123.257845
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264244,-123.260346
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264293,-123.260473
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264261,-123.260565
+,,,Sweet Birch,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264306,-123.260549
+,,,Sweet Birch,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26433,-123.260432
+,,,Coastal Hemlock,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264353,-123.26042
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264439,-123.260427
+,,,Coastal Hemlock,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264515,-123.260383
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264524,-123.260362
+,,,Coastal Hemlock,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264508,-123.260418
+,,,Sweet Birch,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264505,-123.260503
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264527,-123.260507
+,,,Df,Y,8916,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266542,-123.257587
+,,,Df,Y,8917,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266517,-123.257642
+,,,Df,Y,8918,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266503,-123.25768
+,,,Wrc,Y,8919,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266481,-123.257666
+,,,Douglas Fir,Y,8944,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26647,-123.257683
+,,,Western Red Cedar,Y,8913,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266461,-123.257666
+,,,Douglas Fir,Y,8912,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266467,-123.257664
+,,,Douglas Fir,Y,8911,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266454,-123.257655
+,,,Douglas Fir,Y,8910,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266437,-123.257628
+,,,Douglas Fir,Y,8914,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266484,-123.257574
+,,,Douglas Fir,Y,8915,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266514,-123.257583
+,,,Douglas Fir,Y,8909,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266399,-123.25761
+,,,Douglas Fir,Y,8908,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266409,-123.257542
+,,,Douglas Fir,Y,8907,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266417,-123.257595
+,,,Douglas Fir,Y,8906,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266408,-123.257484
+,,,Douglas Fir,Y,8904,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26635,-123.257596
+,,,Douglas Fir,Y,8903,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266326,-123.257557
+,,,Douglas Fir,Y,8902,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266351,-123.257489
+,,,Douglas Fir,Y,8900,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266308,-123.257477
+,,,Douglas Fir,Y,8901,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266342,-123.257448
+,,,Douglas Fir,Y,8899,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266311,-123.257476
+,,,Douglas Fir,Y,8896,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266229,-123.257451
+,,,Douglas Fir,Y,8893,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266188,-123.257321
+,,,Douglas Fir,Y,8892,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266198,-123.257368
+,,,Douglas Fir,Y,8891,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266228,-123.257281
+,,,Holly,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266385,-123.257467
+,,,Holly,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266308,-123.257432
+,,,Bitter Cherry,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266269,-123.257436
+,,,Bitter Cherry,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266201,-123.257352
+,,,Red Alder,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266076,-123.257319
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266101,-123.257321
+,,,Holly,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266062,-123.25722
+,,,Red Alder,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26628,-123.257682
+,,,Kousa Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259921,-123.253416
+,,,Silver Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259652,-123.253043
+,,,Silver Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259653,-123.253001
+,,,Southern Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259691,-123.252935
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259654,-123.252722
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259592,-123.252668
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259647,-123.252597
+,,,Japanese Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259764,-123.252801
+,,,Red Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259515,-123.253038
+,,,Kousa Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259501,-123.25309
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.25948,-123.253072
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259475,-123.25293
+,,,Grand Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259471,-123.252858
+,,,Grand Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259422,-123.252778
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259457,-123.252834
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259452,-123.252827
+,,,Kousa Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259495,-123.252554
+,,,Kousa Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259459,-123.252528
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259422,-123.252468
+,,,Silver Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259544,-123.252512
+,,,Silver Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259497,-123.252481
+,,,Silver Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259503,-123.252469
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259576,-123.252542
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259583,-123.252659
+,,,Grand Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259686,-123.252605
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.2637,-123.257205
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263244,-123.257154
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263218,-123.25718
+,,,Atlas Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263126,-123.257468
+,,,Sweet Gum,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263339,-123.257765
+,,,Kousa Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263386,-123.257704
+,,,Norway Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.2634,-123.258058
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263241,-123.258375
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263245,-123.258449
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263293,-123.258678
+,,,Silver Birch,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263533,-123.258737
+,,,Portuguese Laurel,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263731,-123.257608
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263859,-123.257124
+,,,Western Red Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264255,-123.257394
+,,,Sitka Mountain Ash,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264294,-123.257477
+,,,Silver Birch,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264504,-123.257965
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264483,-123.258064
+,,,Persian Ironwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264406,-123.258117
+,,,Coastal Hemlock,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264075,-123.257958
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264035,-123.25756
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263921,-123.257674
+,,,Flowering Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263927,-123.257751
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263914,-123.257863
+,,,Norway Spruce,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263874,-123.258105
+,,,Striped Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263897,-123.258129
+,,,Umbrella Pine,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264131,-123.258244
+,,,Carolina Silverbell,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264036,-123.258344
+,,,Douglas Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264284,-123.258239
+,,,Sitka Spruce,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264452,-123.258321
+,,,Sitka Spruce,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264441,-123.258343
 ,,Aesculus hippocastanum ,Horse chestnut ,N,,,,,,,,,,,,,,,,,,,,,,,49.257991,-123.252315
 ,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.258086,-123.252325
 ,,Cedrus deodara ,Deodar cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.258144,-123.252379
@@ -6849,6 +6967,43 @@
 ,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.265731,-123.25834
 ,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.265695,-123.258311
 ,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.265686,-123.258265
+,,,Big Leaf Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264091,-123.258749
+,,,Deodar Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263934,-123.258969
+,,,Norway Spruce,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263767,-123.259516
+,,,Flowering Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263807,-123.258902
+,,,Field Elm,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263806,-123.259641
+,,,Norway Spruce,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264084,-123.259872
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26423,-123.259939
+,,,White Pine,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264232,-123.25983
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264169,-123.259361
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264105,-123.259268
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264144,-123.259392
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26421,-123.259466
+,,,Arbutus,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264086,-123.259487
+,,,Arbutus,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264013,-123.259538
+,,,Tupelo,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264323,-123.2596
+,,,Tupelo,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264445,-123.259602
+,,,Tupelo,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264426,-123.259537
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26429,-123.259716
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26437,-123.25978
+,,,American Elm,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264566,-123.259765
+,,,Deodar Cedar,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264485,-123.259651
+,,,Noble Fir,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264597,-123.25963
+,,,Common Hawthorne,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264721,-123.259337
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264751,-123.258949
+,,,Vine Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264732,-123.258901
+,,,White Leaf Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264779,-123.258934
+,,,Flowering Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264594,-123.258852
+,,,Flowering Dogwood,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264469,-123.25876
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264833,-123.258952
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264908,-123.25901
+,,,Cucumber Magnolia,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264956,-123.258986
+,,,Norway Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264721,-123.259557
+,,,Norway Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264878,-123.259702
+,,,Norway Maple,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264922,-123.259683
+,,,Japanese Cherry,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265045,-123.259821
+,,,Japanese Cherry,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265089,-123.259849
+,,,Japanese Cherry,N,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26515,-123.259864
 ,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.25755,-123.252561
 ,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.257505,-123.252519
 ,,Carpinus caroliniana ,American hornbeam,N,,,,,,,,,,,,,,,,,,,,,,,49.257468,-123.252514
@@ -6916,3 +7071,424 @@
 ,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.259244,-123.251911
 ,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.259264,-123.251908
 ,,Pinus sylvestris ,Scots pine ,Y,4303,,,,,,,,,,,,,,,,,,,,,,49.259357,-123.251918
+,,Thuja plicata,Western Red Cedar,Y,4558,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264098,-123.258822
+,,,Japanese Cherry,Y,9260,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26412,-123.258785
+,,,Unclear/dead,Y,4560,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264087,-123.258832
+,,,Unclear/dead,Y,4561,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264071,-123.258736
+,,Thuja plicata,Western Red Cedar,Y,4564,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264081,-123.258662
+,,,Big Leaf Maple,Y,4565,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264122,-123.258606
+,,Cedrus ,Deodar Cedar,Y,4568,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264001,-123.25893
+,,Thuja plicata,Western Red Cedar,Y,4566,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264036,-123.25872
+,,,Japanese Cherry,Y,4562,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264078,-123.258885
+,,,Plum Cherry,Y,4572,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263922,-123.259188
+,,,Silver Maple,Y,4575,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263997,-123.259156
+,,Pinus strobus,Eastern White Pine,Y,4579,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263906,-123.259477
+,,,Western Red Cedar,Y,9123,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263757,-123.259386
+,,,Western Red Cedar,Y,9120,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263721,-123.259407
+,,,Western Red Cedar,Y,9122,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263738,-123.25942
+,,,Western Red Cedar,Y,9121,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263704,-123.259432
+,,,Western Red Cedar,Y,9119,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263798,-123.259399
+,,,Western Red Cedar,Y,9118,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263756,-123.259325
+,,,Western Red Cedar,Y,9117,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263713,-123.259388
+,,,Western Red Cedar,Y,9116,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26372,-123.259343
+,,,Western Red Cedar,Y,9115,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26372,-123.259386
+,,,Western Red Cedar,Y,9114,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263692,-123.259285
+,,Thuja plicata,Western Red Cedar,Y,4580,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26371,-123.259278
+,,,Western Red Cedar,Y,9112,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263686,-123.259287
+,,,Western Red Cedar,Y,9113,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26373,-123.259224
+,,,Western Red Cedar,Y,9109,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26366,-123.259174
+,,,Western Red Cedar,Y,9110,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263689,-123.2592
+,,,Western Red Cedar,Y,9111,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263616,-123.259209
+,,,Western Red Cedar,Y,9107,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263585,-123.259172
+,,,Western Red Cedar,Y,9106,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263598,-123.25909
+,,,Douglas Fir,Y,8887,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266174,-123.257354
+,,,Douglas Fir,Y,8890,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266174,-123.257399
+,,,Douglas Fir,Y,8895,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266185,-123.257407
+,,,Douglas Fir,Y,8889,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266187,-123.257455
+,,,Douglas Fir,Y,8888,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266161,-123.257409
+,,,Douglas Fir,Y,8881,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266126,-123.257314
+,,,Douglas Fir,Y,8880,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266113,-123.257333
+,,,Douglas Fir,Y,8883,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266125,-123.257253
+,,,Douglas Fir,Y,8884,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266107,-123.257275
+,,,Douglas Fir,Y,8875,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266126,-123.257211
+,,,Douglas Fir,Y,8874,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266087,-123.25719
+,,,Douglas Fir,Y,8876,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266082,-123.257209
+,,,Douglas Fir,Y,8878,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266024,-123.257262
+,,,Douglas Fir,Y,8871,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266052,-123.257227
+,,,Douglas Fir,Y,8870,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266048,-123.257193
+,,,Douglas Fir,Y,8869,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265967,-123.257173
+,,,Douglas Fir,Y,8868,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265943,-123.257224
+,,,Douglas Fir,Y,8865,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265917,-123.257228
+,,,Douglas Fir,Y,8866,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265993,-123.257286
+,,,Douglas Fir,Y,8867,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265981,-123.257274
+,,,Vine Maple,Y,8939,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265951,-123.257369
+,,,Vine Maple,Y,8937,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265957,-123.257373
+,,,Vine Maple,Y,8936,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266046,-123.25744
+,,,Kousa Dogwood,Y,8935,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266075,-123.257457
+,,,Kousa Dogwood,Y,8934,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266064,-123.257412
+,,,Kousa Dogwood,Y,8933,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266098,-123.257461
+,,,Kousa Dogwood,Y,8932,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266177,-123.257561
+,,,Kousa Dogwood,Y,8931,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266223,-123.257603
+,,,Kousa Dogwood,Y,6929,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266333,-123.257622
+,,,Vine Maple,Y,8928,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266414,-123.257761
+,,,Vine Maple,Y,8927,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.266447,-123.257813
+,,,European Oak,Y,4375,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259642,-123.252664
+,,,Ponderosa Pine,Y,4381,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259453,-123.253024
+,,,Noble Fir,Y,4383,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259384,-123.252953
+,,,Coastal Hemlock,Y,4382,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259363,-123.252891
+,,,Sawtoothed Oak,Y,4384,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.25939,-123.25283
+,,,Atlas Cedar,Y,4379,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259461,-123.25278
+,,,Western Red Cedar,Y,9076,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263378,-123.256757
+,,,Western Red Cedar,Y,9075,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263472,-123.256823
+,,,Western Red Cedar,Y,9074,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263457,-123.256789
+,,,Western Red Cedar,Y,9073,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263418,-123.25679
+,,,Western Red Cedar,Y,9072,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263453,-123.256888
+,,,Western Red Cedar,Y,9070,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263429,-123.256952
+,,,Douglas Fir,Y,9069,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263377,-123.257003
+,,,Douglas Fir,Y,9071,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263544,-123.256895
+,,,Douglas Fir,Y,9068,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263409,-123.25707
+,,,Douglas Fir,Y,9067,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263399,-123.257058
+,,,Western Red Cedar,Y,9066,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263405,-123.257005
+,,,Western Red Cedar,Y,9065,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263445,-123.257045
+,,,Western Red Cedar,Y,9064,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263468,-123.257099
+,,,Western Red Cedar,Y,9063,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26345,-123.257094
+,,,Western Red Cedar,Y,9062,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263443,-123.257035
+,,,Western Red Cedar,Y,9061,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263501,-123.257001
+,,,Western Red Cedar,Y,9060,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263495,-123.257059
+,,,Western Red Cedar,Y,9059,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263495,-123.257017
+,,,Western Red Cedar,Y,9055,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263547,-123.256893
+,,,Western Red Cedar,Y,9058,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263526,-123.256987
+,,,Western Red Cedar,Y,9056,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263551,-123.256917
+,,,Western Red Cedar,Y,9057,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263488,-123.257008
+,,,Western Red Cedar,Y,9050,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263529,-123.256952
+,,,Western Red Cedar,Y,9051,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263598,-123.256861
+,,,Western Red Cedar,Y,9052,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263595,-123.256897
+,,,Norway Spruce,Y,4879,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263604,-123.256829
+,,,Western Red Cedar,Y,9053,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263579,-123.256947
+,,,Western Red Cedar,Y,9054,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263596,-123.256971
+,,,Western Red Cedar,Y,9042,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263655,-123.257134
+,,,Yellow Cedar,Y,9044,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263679,-123.256963
+,,,Japanese Maple,Y,9045,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263712,-123.256983
+,,,Yellow Cedar,Y,4878,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263633,-123.256889
+,,,Western Red Cedar,Y,9041,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263716,-123.257103
+,,,Western Red Cedar,Y,9039,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263656,-123.25697
+,,,Western Red Cedar,Y,9040,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26371,-123.2572
+,,,Western Red Cedar,Y,9035,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263655,-123.257153
+,,,Western Red Cedar,Y,9033,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263624,-123.257162
+,,,Western Red Cedar,Y,9034,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263693,-123.257271
+,,,Western Red Cedar,Y,9032,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263698,-123.257247
+,,,Western Red Cedar,Y,9036,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263677,-123.257293
+,,,Western Red Cedar,Y,9037,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263587,-123.257258
+,,,Dogwood Sp.,Y,9048,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263832,-123.257028
+,,,Dogwood Sp.,Y,9047,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264145,-123.256823
+,,,Magnolia Sargentiana,Y,7255,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263837,-123.257016
+,,,Norway Maple,Y,4910,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263266,-123.257181
+,,Ilex ,English Holly,Y,4913,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26315,-123.257264
+,,,English Holly,Y,9082,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263185,-123.257298
+,,Ilex ,English Holly,Y,4914,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263162,-123.257393
+,,,English Holly,Y,9083,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263152,-123.257406
+,,,Atlas Cedar,Y,4916,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263144,-123.257569
+,,Liquidambar styraciflua,Sweet Gum,Y,4917,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263158,-123.25764
+,,,Boxelder Maple,Y,9084,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263422,-123.257771
+,,,Apple Sp.,Y,4919,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263437,-123.257934
+,,,Apple Sp.,Y,4920,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263508,-123.258032
+,,,Wrc 'Zebrina',Y,9086,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263425,-123.258175
+,,,Dawn Redwood,Y,9087,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263302,-123.258207
+,,,Deodar Cedar,Y,4926,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.262979,-123.258115
+,,,Sweet Gum,Y,4925,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263057,-123.258189
+,,,Sweet Gum,Y,4923,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263084,-123.258249
+,,,Western Red Cedar,Y,9088,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263162,-123.258299
+,,,Western Red Cedar,Y,9089,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26316,-123.258278
+,,,Western Red Cedar,Y,9092,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26322,-123.258308
+,,,Western Red Cedar,Y,9091,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263187,-123.258359
+,,,Western Red Cedar,Y,9090,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263184,-123.258352
+,,,Western Red Cedar,Y,9095,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263205,-123.258352
+,,,Western Red Cedar,Y,9096,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263196,-123.258377
+,,,Western Red Cedar,Y,9093,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263195,-123.258306
+,,Tilia ,American Linden,Y,4922,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263299,-123.258434
+,,,Western Red Cedar,Y,9098,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263272,-123.258624
+,,,Western Red Cedar,Y,9100,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263329,-123.258652
+,,,Western Red Cedar,Y,9101,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263316,-123.25867
+,,,Western Red Cedar,Y,7253,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26331,-123.258717
+,,,Persian Walnut,Y,4927,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263444,-123.258655
+,,,Deodar Cedar,Y,4928,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263433,-123.258795
+,,Pinus ,Scots Pine,Y,4930,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26345,-123.258627
+,,Pinus ,Scots Pine,Y,4931,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263504,-123.258695
+,,Pinus ,Scots Pine,Y,4933,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263572,-123.258618
+,,Pinus ,Scots Pine,Y,4932,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263543,-123.258636
+,,Pinus ,Scots Pine,Y,4936,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263562,-123.258548
+,,Pinus ,Scots Pine,Y,4935,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26353,-123.258503
+,,Pinus ,Scots Pine,Y,4934,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263521,-123.258559
+,,,Japanese Cherry,Y,4937,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263622,-123.258644
+,,,Western Red Cedar,Y,4602,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263702,-123.258001
+,,,Douglas Fir,Y,4601,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263729,-123.257971
+,,,Japanese Cherry,Y,4600,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263743,-123.257982
+,,Betula ,Paper Birch,Y,4604,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263772,-123.257863
+,,,Western Red Cedar,Y,9031,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263764,-123.257551
+,,,Western Red Cedar,Y,9030,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263739,-123.257472
+,,,Western Red Cedar,Y,9029,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263795,-123.257519
+,,,Western Red Cedar,Y,9028,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263756,-123.257436
+,,,Western Red Cedar,Y,9026,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263762,-123.257395
+,,,Western Red Cedar,Y,9027,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26389,-123.257438
+,,,Western Red Cedar,Y,9025,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26377,-123.257473
+,,,Western Red Cedar,Y,9022,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263842,-123.257287
+,,,Western Red Cedar,Y,9023,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263979,-123.257296
+,,,Holly,Y,9024,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263893,-123.257301
+,,,Vine Maple,Y,9021,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263887,-123.25717
+,,,Vine Maple,Y,9020,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263975,-123.257238
+,,,Japanese Maple,Y,4622,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264031,-123.257143
+,,,Western Red Cedar,Y,9013,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26425,-123.257449
+,,,Western Red Cedar,Y,9014,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264324,-123.257455
+,,,Western Red Cedar,Y,9015,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264243,-123.257321
+,,,Western Red Cedar,Y,9016,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264246,-123.257399
+,,,Western Red Cedar,Y,9017,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264281,-123.257333
+,,,Western Red Cedar,Y,9018,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26425,-123.257262
+,,,Pacific Dogwood,Y,9019,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264306,-123.257339
+,,,Western Red Cedar,Y,9012,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264254,-123.257455
+,,,Western Red Cedar,Y,9011,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26436,-123.257435
+,,,Western Red Cedar,Y,9010,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264425,-123.257523
+,,,Western Red Cedar,Y,9009,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264433,-123.25754
+,,,Western Red Cedar,Y,9008,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264426,-123.257543
+,,,Western Red Cedar,Y,9007,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264449,-123.257539
+,,,Western Red Cedar,Y,9006,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264474,-123.257618
+,,,Western Red Cedar,Y,9005,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264514,-123.257648
+,,,Western Red Cedar,Y,9003,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264541,-123.257683
+,,,Western Red Cedar,Y,9002,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264615,-123.257703
+,,,Western Red Cedar,Y,9001,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264565,-123.257608
+,,,Vine Maple,Y,9004,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264542,-123.257596
+,,Pseudotsuga menziesii,Douglas Fir,Y,4730,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264628,-123.257772
+,,,Cornelian Cherry,Y,4731,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26464,-123.257609
+,,Pseudotsuga menziesii,Douglas Fir,Y,4729,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26472,-123.25781
+,,,Ponderosa Pine,Y,4728,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264735,-123.25773
+,,,Western Red Cedar,Y,9240,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264613,-123.257987
+,,,Western Red Cedar,Y,9241,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264553,-123.257976
+,,,Western Red Cedar,Y,9242,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264555,-123.258009
+,,,Western Red Cedar,Y,9239,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264724,-123.258003
+,,,Douglas Fir,Y,9237,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264586,-123.258054
+,,,Coastal Western Hemlock,Y,9238,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264599,-123.25804
+,,,Western Red Cedar,Y,9243,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264572,-123.258143
+,,,Western Red Cedar,Y,9244,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264585,-123.258151
+,,,Hornbeam,Y,4618,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264367,-123.258003
+,,,Hornbeam,Y,4617,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264347,-123.257971
+,,,Hornbeam,Y,4616,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264333,-123.257965
+,,Pseudotsuga menziesii,Douglas Fir,Y,4615,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264264,-123.258058
+,,,Douglas Fir,Y,4614,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264218,-123.258099
+,,Prunus serrulata,Japanese Cherry,Y,4611,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264111,-123.258008
+,,,Coastal Hemlock,Y,9248,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264149,-123.25796
+,,,Unclear,Y,3244,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264189,-123.257966
+,,,Unclear,Y,3245,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264075,-123.257916
+,,,Douglas Fir,Y,9294,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264029,-123.25793
+,,,Coastal Hemlock,Y,4606,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264064,-123.257945
+,,Cercis ,Eastern Redbud,Y,4605,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264035,-123.257886
+,,,Tamarak,Y,4595,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264019,-123.258197
+,,,Black Spruce,Y,4620,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264417,-123.258517
+,,Cornus ,Dogwood Sp,Y,4619,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26435,-123.258466
+,,,Western Red Cedar,Y,4559,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264172,-123.258806
+,,Thuja plicata,Western Red Cedar,Y,4557,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264131,-123.258835
+,,,Douglas Fir,Y,9373,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264704,-123.260455
+,,,Field Maple,Y,9374,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264828,-123.260487
+,,,Douglas Fir,Y,9375,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264863,-123.260454
+,,,Douglas Fir,Y,9376,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264879,-123.260437
+,,,Field Maple,Y,9378,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264894,-123.260477
+,,,Douglas Fir,Y,9377,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264891,-123.260419
+,,,Douglas Fir,Y,9379,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264894,-123.260427
+,,,Douglas Fir,Y,9380,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264949,-123.260392
+,,,Douglas Fir,Y,9381,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264959,-123.260385
+,,,Douglas Fir,Y,9382,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264984,-123.260375
+,,,Douglas Fir,Y,9383,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265014,-123.26037
+,,,Douglas Fir,Y,9384,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265014,-123.260325
+,,,Douglas Fir,Y,9386,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265058,-123.260387
+,,,Field Maple,Y,9385,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265053,-123.260347
+,,,Douglas Fir,Y,9387,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265074,-123.260321
+,,,Field Maple,Y,9390,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265114,-123.26031
+,,,Douglas Fir,Y,9388,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265072,-123.260333
+,,,Douglas Fir,Y,9389,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265112,-123.260301
+,,,Field Maple,Y,9391,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265156,-123.260289
+,,,Douglas Fir,Y,9392,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265173,-123.260258
+,,,Silver Maple,,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.259656,-123.252962
+,,,Japanese Cherry,4938,,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26364,-123.258699
+,,,Western Red Cedar,Y,9105,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263598,-123.259137
+,,,Western Red Cedar,Y,9104,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263607,-123.259107
+,,,Western Red Cedar,Y,9103,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263663,-123.259081
+,,,Flowering Dogwood,Y,9125,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263771,-123.258842
+,,,Flowering Dogwood,Y,9124,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263766,-123.258804
+,,,Japanese Cherry,Y,4939,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263709,-123.258722
+,,,Norway Spruce,Y,9125,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.263977,-123.259774
+,,,Norway Spruce,Y,9130,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264029,-123.259872
+,,,Coastal Hemlock,Y,9131,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264041,-123.259838
+,,,Western Red Cedar,Y,9133,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264122,-123.25986
+,,,Norway Spruce,Y,9134,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264154,-123.260006
+,,,Coastal Hemlock,Y,9135,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264162,-123.259989
+,,,Unclear,Y,9203,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264109,-123.260007
+,,,Laurel,Y,9136,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264187,-123.260009
+,,,Japanese Cherry,Y,9137,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26423,-123.259991
+,,,Western Red Cedar,Y,9138,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264303,-123.260022
+,,,Laurel,Y,9147,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264207,-123.259292
+,,,Vine Maple,Y,9144,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264104,-123.259566
+,,,Laurel,Y,9143,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264173,-123.259613
+,,,Tupelo,Y,9148,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264351,-123.259671
+,,,Tupelo,Y,9150,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264381,-123.259634
+,,,Douglas Fir,Y,4549,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264533,-123.259813
+,,Thuja plicata,Western Red Cedar,Y,4548,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264517,-123.259772
+,,,Coastal Hemlock,Y,4547,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264616,-123.259691
+,,,Coastal Hemlock,Y,4546,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26461,-123.259619
+,,,Coastal Hemlock,Y,4545,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264588,-123.259609
+,,,Norway Maple,Y,9164,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264657,-123.259483
+,,,Unclear,Y,9262,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26475,-123.259013
+,,,European Oak,Y,4586,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26509,-123.259139
+,,Thuja plicata,Western Red Cedar,Y,4582,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265094,-123.259357
+,,Thuja plicata,Western Red Cedar,Y,4583,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265063,-123.259353
+,,Thuja plicata,Western Red Cedar,Y,4584,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26501,-123.259475
+,,,Horse Chestnut,Y,4581,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265213,-123.259452
+,,,Norway Maple,Y,9165,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264736,-123.259576
+,,,Norway Maple,Y,9168,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264888,-123.259731
+,,,Norway Maple,Y,9170,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264926,-123.259761
+,,,Ponderosa Pine,Y,4535,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265134,-123.260025
+,,,Ponderosa Pine,Y,4536,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265067,-123.260025
+,,,Ponderosa Pine,Y,4537,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265053,-123.259944
+,,Salix chrysocoma,Willow,Y,4541,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265002,-123.260075
+,,,Western Red Cedar,Y,9158,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264899,-123.260109
+,,,Western Red Cedar,Y,9157,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264876,-123.260171
+,,,Douglas Fir,Y,9159,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264831,-123.260064
+,,,Douglas Fir,Y,9160,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264861,-123.260105
+,,,Western Red Cedar,Y,9162,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264822,-123.260035
+,,,Western Red Cedar,Y,9163,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264865,-123.26012
+,,,Western Red Cedar,Y,9156,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264809,-123.260278
+,,,Western Red Cedar,Y,9154,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264695,-123.26032
+,,,Redbark,Y,4588,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265545,-123.259167
+,,,Redbark,Y,4590,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265567,-123.25913
+,,,Redbark,Y,4589,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265574,-123.259145
+,,Metasequoia glyptostroboides,Dawn Redwood,Y,4591,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265562,-123.259398
+,,,Yellow Cedar,Y,9184,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265581,-123.259429
+,,,Yellow Cedar,Y,9182,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26558,-123.259489
+,,,Western Red Cedar,Y,9180,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265565,-123.259661
+,,,Western Red Cedar,Y,9179,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265535,-123.259666
+,,,Western Red Cedar,Y,9178,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265516,-123.259687
+,,,Western Red Cedar,Y,9174,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265411,-123.260201
+,,,Western Red Cedar,Y,9175,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265505,-123.259934
+,,,Western Red Cedar,Y,9171,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265379,-123.259969
+,,,Western Red Cedar,Y,9172,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265426,-123.259866
+,,,Western Red Cedar,Y,9173,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265412,-123.259929
+,,,Western Red Cedar,Y,9176,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265465,-123.25982
+,,,Douglas Fir,Y,9177,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265436,-123.2599
+,,,Western Red Cedar,Y,9209,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265512,-123.258801
+,,,Western Red Cedar,Y,9205,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265497,-123.258709
+,,,Western Red Cedar,Y,9206,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265585,-123.258773
+,,,Western Red Cedar,Y,9208,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265527,-123.258795
+,,,Japanese Maple,Y,9207,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265531,-123.258799
+,,,Western Red Cedar,Y,9204,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265573,-123.258656
+,,,Western Red Cedar,Y,9202,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265601,-123.258663
+,,,Western Red Cedar,Y,9201,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265658,-123.258638
+,,,Western Red Cedar,Y,9194,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265711,-123.258638
+,,,Western Red Cedar,Y,9195,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265653,-123.258592
+,,,Western Red Cedar,Y,9193,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265687,-123.258648
+,,,Western Red Cedar,Y,9192,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265672,-123.258591
+,,,Western Red Cedar,Y,9191,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265765,-123.258622
+,,,Western Red Cedar,Y,9188,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265895,-123.258627
+,,,Western Red Cedar,Y,9187,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265791,-123.258684
+,,,Western Red Cedar,Y,9186,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26582,-123.258712
+,,,Western Red Cedar,Y,9185,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265834,-123.258773
+,,,Western Red Cedar,Y,9189,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265714,-123.258583
+,,,Western Red Cedar,Y,9190,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265707,-123.25858
+,,,Western Red Cedar,Y,9196,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265676,-123.258647
+,,,Western Red Cedar,Y,9197,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265672,-123.258475
+,,,Western Red Cedar,Y,9198,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265607,-123.258461
+,,,Sitka Spruce,Y,9200,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265571,-123.258565
+,,,Western Red Cedar,Y,9199,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265588,-123.258572
+,,,Western Red Cedar,Y,9222,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265059,-123.258023
+,,,Japanese Maple,Y,9221,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26505,-123.257993
+,,,Sitka Mountain Ash,Y,9223,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265022,-123.257938
+,,,Japanese Maple,Y,9224,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.265043,-123.257916
+,,,Western Red Cedar,Y,9226,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264996,-123.257917
+,,,Japanese Maple,Y,9236,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264963,-123.258024
+,,,Western Red Cedar,Y,9227,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264958,-123.257944
+,,,Western Red Cedar,Y,9228,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264952,-123.257879
+,,,Western Red Cedar,Y,9229,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264966,-123.257968
+,,,Western Red Cedar,Y,9231,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264944,-123.258007
+,,,Western Red Cedar,Y,9230,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264934,-123.257991
+,,,Western Red Cedar,Y,9233,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264889,-123.258043
+,,,Western Red Cedar,Y,9234,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264887,-123.258113
+,,,Western Red Cedar,Y,9235,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264846,-123.258075
+,,,Douglas Fir,Y,9289,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264151,-123.260409
+,,,Douglas Fir,Y,9288,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264132,-123.260444
+,,,Sweet Birch,Y,9287,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26419,-123.260363
+,,,Douglas Fir,Y,9286,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264159,-123.260374
+,,,Sweet Birch,Y,9284,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264176,-123.260299
+,,,Sweet Birch,Y,9283,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264206,-123.260282
+,,,Douglas Fir,Y,9282,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264219,-123.260197
+,,,Sweet Birch,Y,9298,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264223,-123.260199
+,,,Western Red Cedar,Y,9297,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264268,-123.260226
+,,,Sweet Birch,Y,9293,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264219,-123.260342
+,,,Douglas Fir,Y,9292,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264231,-123.260342
+,,,Sweet Birch,Y,9285,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264179,-123.260378
+,,,Sweet Birch,Y,9290,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264173,-123.260389
+,,,Douglas Fir,Y,9295,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264272,-123.260386
+,,,Sweet Birch,Y,9311,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264267,-123.260432
+,,,Sweet Birch,Y,9296,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26427,-123.260329
+,,,Sweet Birch,Y,9301,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264282,-123.260296
+,,,Sweet Birch,Y,9302,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264296,-123.260317
+,,,Sweet Birch,Y,9299,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264302,-123.260257
+,,,Douglas Fir,Y,9300,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264377,-123.260327
+,,,Western Red Cedar,Y,9303,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26434,-123.260255
+,,,Sweet Birch,Y,9305,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264355,-123.260302
+,,,Sweet Birch,Y,9306,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264333,-123.260286
+,,,Sweet Birch,Y,9304,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264358,-123.26023
+,,,Sweet Birch,Y,9321,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264462,-123.260229
+,,,Sweet Birch,Y,9322,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264406,-123.260266
+,,,Sweet Birch,Y,9320,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264445,-123.260277
+,,,Western Red Cedar,Y,9319,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264373,-123.260333
+,,,Sweet Birch,Y,9307,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.2644,-123.260376
+,,,Sweet Birch,Y,9308,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264332,-123.260344
+,,,Sweet Birch,Y,9309,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264308,-123.260489
+,,,Sweet Birch,Y,9312,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264356,-123.260517
+,,,Sweet Birch,Y,9318,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264366,-123.260372
+,,,Sweet Birch,Y,9317,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264367,-123.260394
+,,,Sweet Birch,Y,9331,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264381,-123.260381
+,,,Sweet Birch,Y,9332,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264416,-123.260398
+,,,Sweet Birch,Y,9316,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264367,-123.260446
+,,,Sweet Birch,Y,9314,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264363,-123.260438
+,,,Sweet Birch,Y,9335,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264386,-123.26047
+,,,Sweet Birch,Y,9334,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264429,-123.260466
+,,,Sweet Birch,Y,9333,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264425,-123.260418
+,,,Sweet Birch,Y,9330,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264452,-123.260416
+,,,Sweet Birch,Y,9328,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264448,-123.260367
+,,,Sweet Birch,Y,9329,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264426,-123.260374
+,,,Sweet Birch,Y,9327,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264447,-123.260339
+,,,Sweet Birch,Y,9326,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264479,-123.260325
+,,,Sweet Birch,Y,9325,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26448,-123.260295
+,,,Sweet Birch,Y,9324,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264481,-123.260271
+,,,Sweet Birch,Y,9323,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264525,-123.260237
+,,,Sweet Birch,Y,9337,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.26449,-123.260296
+,,,Sweet Birch,Y,9338,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264535,-123.260284
+,,,Sweet Birch,Y,9339,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264553,-123.260356
+,,,Douglas Fir,Y,9340,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264485,-123.26028
+,,,Sweet Birch,Y,9353,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264529,-123.260347
+,,,Sweet Birch,Y,9341,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264491,-123.260394
+,,,Sweet Birch,Y,9349,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264512,-123.260421
+,,,Sweet Birch,Y,9351,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264498,-123.26038
+,,,Sweet Birch,Y,9350,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264479,-123.260406
+,,,Sweet Birch,Y,9348,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264456,-123.260418
+,,,Sweet Birch,Y,9342,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264466,-123.260475
+,,,Sweet Birch,Y,9343,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264461,-123.260557
+,,,Sweet Birch,Y,9345,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264535,-123.260537
+,,,Sweet Birch,Y,9346,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264499,-123.260484
+,,,Sweet Birch,Y,9347,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264461,-123.260398
+,,,Sweet Birch,Y,9352,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264537,-123.260386
+,,,Sweet Birch,Y,9354,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264605,-123.260342
+,,,Sweet Birch,Y,9355,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264638,-123.260371
+,,,Sweet Birch,Y,9356,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264582,-123.260354
+,,,Douglas Fir,Y,9357,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264584,-123.260411
+,,,Sweet Birch,Y,9358,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264578,-123.260429
+,,,Sweet Birch,Y,9360,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264582,-123.260531
+,,,Douglas Fir,Y,9361,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264612,-123.260501
+,,,Oregon Ash,Y,9365,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264667,-123.2605
+,,,Sweet Birch,Y,9364,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264617,-123.260534
+,,,Sweet Birch,Y,9363,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264661,-123.26047
+,,,Sweet Birch,Y,9366,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264665,-123.260499
+,,,Oregon Ash,Y,9367,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264562,-123.260458
+,,,Western Red Cedar,Y,9362,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264654,-123.260478
+,,,Sweet Birch,Y,9368,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264667,-123.26051
+,,,Douglas Fir,Y,9371,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264684,-123.260417
+,,,Douglas Fir,Y,9370,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264684,-123.260413
+,,,Sweet Birch,Y,9369,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264755,-123.260478
+,,,Douglas Fir,Y,9372,,,,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,,,49.264724,-123.260486
