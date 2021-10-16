@@ -5630,6 +5630,9 @@
 4143,,Acer circinatum,Vine Maple,N,,Live,12,4.16,3.7,0.6,3.9,3.3,20,3,,5,,,4,0,,,PLAN,20190614175928,PLAN,20200914230534,49.263619,-123.252924
 2879,,Chamaecyparis pisifera,Sawara-Cypress,N,,Live,36,16.25,16.25,2.22,5.9,5.7,15,4,,3,,,17.2,0.1,,,PLAN,20190614175928,PLAN,20200914230615,49.26642,-123.256225
 10161,,Platycladus orientalis ,Eastern arborvitae ,N,,,,,,,,,,,,,,,,,,,,,,,49.261891,-123.255302
+10101,,Acer griseum ,Paperbark maple,N,,,,,,,,,,,,,,,,,,,,,,,49.261014,-123.255185
+10103,,Acer griseum ,Paperbark maple,N,,,,,,,,,,,,,,,,,,,,,,,49.261099,-123.255193
+10140,,Acer griseum ,Paperbark maple,N,,,,,,,,,,,,,,,,,,,,,,,49.261448,-123.255487
 9567,,Acer palmatum,,,,,,,,,,,,,,,,,,,,,,,,,49.262152,-123.24703
 9568,,Acer macrophyllum ,Big leaf maple,Y,6739,,,,,,,,,,,,,,,,,,,,,,49.267513,-123.259536
 9569,,Acer macrophyllum ,Big leaf maple,Y,6741,,,,,,,,,,,,,,,,,,,,,,49.2675,-123.259678
@@ -6018,9 +6021,7 @@
 10098,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.260919,-123.255057
 10099,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.260927,-123.255019
 10100,,Liquidambar styraciflua,Sweet gum ,N,,,,,,,,,,,,,,,,,,,,,,,49.26088,-123.255141
-10101,,Acer griseum ,Boxelder maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261014,-123.255185
 10102,,Magnolia acuminata,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261058,-123.255171
-10103,,Acer griseum ,Boxelder maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261099,-123.255193
 10104,,Magnolia acuminata,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261122,-123.255206
 10105,,Magnolia acuminata,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261147,-123.255209
 10106,,Magnolia acuminata,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261166,-123.25524
@@ -6057,7 +6058,6 @@
 10137,,Magnolia acuminata ,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261314,-123.255501
 10138,,Magnolia acuminata ,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.26135,-123.255525
 10139,,Magnolia acuminata ,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261424,-123.255495
-10140,,Acer griseum ,Boxelder maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261448,-123.255487
 10141,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261075,-123.254577
 10142,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261176,-123.254676
 10143,,Cedrus deodara,Deodar cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.26145,-123.254854
