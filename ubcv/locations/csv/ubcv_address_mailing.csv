@@ -1,5 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-VAD11125,UBC Research Ponds,Vancouver,V6T 1W5,BC,,CampusBuilding,CampusMail,4069 Wesbrook Mall,-123.232683,49.247208
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
 VAD10792,Westchester (C1),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2578 West Mall,-123.249378,49.257294
@@ -948,7 +947,6 @@ VAD10865,Nobel Biocare Oral Health Centre,Vancouver,V6T 1Z3,BC,VBL10070,Occupant
 VAD10267,Folio - Townhouse (A1),Vancouver,V6T 2L5,BC,VBL10316,NeighbourhoodBldg,CanadaPost,5962 Chancellor Mews,-123.250196,49.272301
 VAD10019,Indian Residential School History and Dialogue Centre (IRSHDC),Vancouver,V6T 1Z1,BC,VBL10109,CampusBuilding,CampusMail,1985 Learners' Walk,-123.253601,49.267101
 VAD10811,Auditorium Annexes,Vancouver,V6T 1Z2,BC,VBL10228,CampusBuilding,CampusMail,1924 West Mall,-123.256865,49.266713
-VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10446,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252659,49.269365
 VAD11050,Esse,Vancouver,V6T 2J7,BC,VBL10280,NeighbourhoodBldg,CanadaPost,1863 Wesbrook Mall,-123.248249,49.270995
 VAD10601,Thunderbird Residence - Front Desk ,Vancouver,V6T 2G9,BC,VBL10215,Complex,CampusMail,6335 Thunderbird Crescent,-123.249251,49.25922
 VAD10813,Azalea House,Vancouver,V6T 0B9,BC,VBL10133,NeighbourhoodBldg,CanadaPost,6388 Hawthorn Lane,-123.249826,49.257825
@@ -1021,3 +1019,5 @@ VAD10608,Fairview Crescent Residence (Unit 18),Vancouver,V6T 2B8,BC,VBL10198,Res
 VAD10609,Fairview Crescent Residence (Unit 18),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2685 Fairview Crescent,-123.239549,49.263357
 VAD10610,Fairview Crescent Residence (Unit 19),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2675 Fairview Crescent,-123.23986,49.263428
 VAD10706,Reconciliation Chapel,Vancouver,V6T 1X3,BC,VBL10392,OtherBuilding,CanadaPost,6030 Chancellor Boulevard,-123.252295,49.271429
+VAD11125,UBC Research Ponds,Vancouver,V6T 1W5,BC,VBL10222,CampusBuilding,CampusMail,4069 Wesbrook Mall,-123.232683,49.247208
+VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10423,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252659,49.269365

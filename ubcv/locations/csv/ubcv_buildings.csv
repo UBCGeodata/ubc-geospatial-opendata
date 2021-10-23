@@ -197,7 +197,6 @@ VBL10388,UBC Hospital - Purdy Pavilion,PPAV,Complete,19770101,Services,Research,
 VBL10412,Gerald McGavin UBC Rugby Centre,RUGC,Complete,20130108,Athletics,,UBC,Academic,Athletics,Occupied,LEED Gold,Concrete,2,10,524,434,0,RW - PDF from Approved DP,,,,TONYZ,20210520221336,Unspecified,,,UBC,B2,,-123.241314,49.259582
 VBL10292,Iona Building,IONA,Complete,19290101,Academic,StudentHousing,UBC,Chancellor,UBC,Occupied,,Concrete,8,,7298,836,1,,,,,RACHELW,20210702231149,Unspecified,,,UBC,B2,,-123.250309,49.270988
 VBL10386,First Nations Longhouse,FNLH,Complete,19930101,Academic,,UBC,Academic,UBC,Occupied,,Wood,1,,2157,337,1,,,,,RACHELW,20210702231226,Unspecified,,,UBC,B2,,-123.25722,49.265559
-VBL10446,Brock Commons North,BRCN,PreConstruction,,Commons,,UBC,Academic,SHHS,Unoccupied,,Concrete,,,,,,,,RACHELW,20210416040415,RACHELW,20210705161618,Apt5StoreyPlus,,,,B5,,-123.252629,49.269574
 VBL10424,Brock Commons South,BRCS,UnderConstruction,,Commons,,UBC,Academic,SHHS,Unoccupied,,Concrete,13,42.5,18884,,0,,,GISSTUD1,20190926224423,RACHELW,20210705161619,Apt5StoreyPlus,,,UBC,B5,,-123.252378,49.269067
 VBL10311,Ponderosa Commons East - Audain Art Centre/Spruce House,PCE,Complete,20130926,Commons,,UBC,Academic,SHHS,Occupied,LEED Gold,Steel,17,51.5,10581,903,1,RW - PDF from Approved DP,,,,RACHELW,20210705161658,Apt5StoreyPlus,,,UBC,B5,,-123.25441,49.263781
 VBL10312,Ponderosa Commons North - Oak/Cedar House,PCN,Complete,20150903,Commons,,UBC,Academic,SHHS,Occupied,LEED Gold,Steel,19,,27189,905,1,RW - PDF from Approved DP,,,,RACHELW,20210705161659,Apt5StoreyPlus,,,UBC,B5,,-123.256151,49.264092
@@ -426,4 +425,5 @@ VBL10028,TRIUMF - Equipment Marque,TRF06,Complete,20030101,Research,,Non-UBC,Aca
 VBL10022,TRIUMF - Accelerator,TRF02,Complete,20030101,Research,,Non-UBC,Academic,Non-UBC,Occupied,,Concrete,6,,27015,853,0,,,GISSTUD2,20190514181017,RACHELW,20210709035634,Unspecified,,,,B3,LeasedFromUBC,-123.229286,49.247272
 VBL10023,TRIUMF - Accelerator Trailer,TRF03,Complete,20030101,Research,,Non-UBC,Academic,Non-UBC,Occupied,,OtherMixed,1,,30,853-3,0,,,GISSTUD2,20190514181117,RACHELW,20210709035635,Outbuildings,,,,B3,LeasedFromUBC,-123.230129,49.246851
 VBL10233,Norman MacKenzie House,MCKH,Complete,19500101,Housing,,UBC,Academic,UBC,Occupied,,Wood,3,,970,728;728-1,0,,,,,RACHELW,20211007014250,Duplex/Townhouse,,,UBC,B5,,-123.261175,49.267676
+VBL10423,Brock Commons North,BRCN,UnderConstruction,,Commons,,UBC,Academic,SHHS,Unoccupied,,Concrete,,,,,,,,RACHELW,20210416040415,RACHELW,20211021013425,Apt5StoreyPlus,,,,B5,,-123.252629,49.269574
 VBL10222,UBC Research Ponds,RESP,Complete,20100101,Academic,,UBC,Academic,UBC,Occupied,,Wood,1,,41,585,0,,,RACHELW,20211015004615,RACHELW,20211015004615,Outbuildings,,,UBC,B2,,-123.232721,49.247161
