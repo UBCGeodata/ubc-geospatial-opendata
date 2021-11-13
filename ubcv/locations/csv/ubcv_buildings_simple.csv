@@ -139,10 +139,13 @@ Academic,Friedman Building,FRDM,2177 Wesbrook Mall,V6T 1Z3,VBL10120,Complete,-12
 Housing,The Residences at Nobel Park - Townhouses,REN2,3483 Ross Drive,V6S 0L3,VBL10352,Complete,-123.236394,49.250915
 Services,UBC Bookstore,BOOK,6200 University Boulevard,V6T 1Z4,VBL10065,Complete,-123.250592,49.264988
 Academic,The Brimacombe Building,BRIM,2355 East Mall,V6T 1Z4,VBL10066,Complete,-123.248072,49.26186
+Housing,Norman MacKenzie House,MCKH,6565 NW Marine Drive,V6T 1A7,VBL10233,Complete,-123.261175,49.267676
 Academic,Coal and Mineral Processing Laboratory,MINL,2332 West Mall,V6T 1Z4,VBL10068,Complete,-123.252039,49.261169
 Athletics,UBC Aquatic Centre,AQUA,6080 Student Union Boulevard,V6T 1Z1,VBL10071,Complete,-123.248595,49.267789
 StudentHousing,Spirit Park Apartments,SPPA,2705 Osoyoos Crescent,V6T 1X7,VBL10074,Complete,-123.239374,49.261491
+Academic,UBC Research Ponds,RESP,4069 Wesbrook Mall,V6T 1W5,VBL10222,Complete,-123.232721,49.247161
 Housing,Greenwood Commons,GRWC,2660 Wesbrook Mall,V6T 0A5,VBL10010,Complete,-123.240072,49.260948
+Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,UnderConstruction,-123.252629,49.269574
 Housing,Larkspur House,LARK,3428 Wesbrook Mall,V6S 0G9,VBL10018,Complete,-123.234055,49.25356
 Housing,Vista Point,VIST,5828 Thunderbird Boulevard,V6T 0B8,VBL10011,Complete,-123.240272,49.261694
 Academic,George Cunningham Building,CUNN,2146 East Mall,V6T 1Z3,VBL10039,Complete,-123.248746,49.264788
@@ -247,7 +250,6 @@ Academic,Anthropology and Sociology Building,ANSO,6303 NW Marine Drive,V6T 1Z1,V
 Housing,The Stratford,STRA,5657 Hampton Place,V6T 2H4,VBL10206,Complete,-123.233455,49.259635
 Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4,VBL10209,Complete,-123.253928,49.263869
 StudentHousing,Thunderbird Residence - Coast,THR4,"6335 Thunderbird Crescent, Building 2",V6T 1Z4,VBL10121,Complete,-123.250361,49.25897
-StudentHousing,Thunderbird Residence - Hazelton,THR5,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250846,49.259569
 StudentHousing,Green College - B East,GRN5,"6201 Cecil Green Park Road, Building 7",V6T 1Z1,VBL10174,Complete,-123.25601,49.270843
 StudentHousing,Green College - D Coach House,GRN6,"6201 Cecil Green Park Road, Building 2",V6T 1Z1,VBL10176,Complete,-123.256534,49.271144
 StudentHousing,Green College - Guest House,GRN9,"6201 Cecil Green Park Road, Building 1",V6T 1Z1,VBL10180,Complete,-123.256515,49.27086
@@ -423,7 +425,5 @@ Research,TRIUMF - Hazardous Storage,TRF08,"4004 Wesbrook Mall, Building 13",V6T 
 Research,TRIUMF - Equipment Marque,TRF06,"4004 Wesbrook Mall, Building 20",V6T 2A3,VBL10028,Complete,-123.230714,49.246738
 Research,TRIUMF - Accelerator,TRF02,"4004 Wesbrook Mall, Building 7",V6T 2A3,VBL10022,Complete,-123.229286,49.247272
 Research,TRIUMF - Accelerator Trailer,TRF03,"4004 Wesbrook Mall, Building 15",V6T 2A3,VBL10023,Complete,-123.230129,49.246851
-Housing,Norman MacKenzie House,MCKH,6565 NW Marine Drive,V6T 1A7,VBL10233,Complete,-123.261175,49.267676
-Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,UnderConstruction,-123.252629,49.269574
-Academic,UBC Research Ponds,RESP,4069 Wesbrook Mall,V6T 1W5,VBL10222,Complete,-123.232721,49.247161
+StudentHousing,Thunderbird Residence - Hazelton,THR5,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250846,49.259569
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
