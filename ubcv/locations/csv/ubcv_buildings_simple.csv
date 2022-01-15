@@ -262,8 +262,6 @@ Housing,Binning Tower - Highrise,BINH,3355 Binning Road,V6S 0J1,VBL10210,Complet
 Housing,The Laureates - Highrise,LAR1,5628 Birney Avenue,V6S 0H7,VBL10241,Complete,-123.230797,49.254108
 Housing,Eton - Townhouses,ETN3,"5687 Gray Avenue, Building 1",V6S 0K7,VBL10244,Complete,-123.231519,49.253536
 Housing,The Laureates - Apartment,LAR2,5638 Birney Avenue,V6S 0H8,VBL10261,Complete,-123.231755,49.254211
-Housing,Ivy on the Park - Townhouses,IVYT,5681 Birney Avenue,V6S 0A5,VBL10264,UnderConstruction,-123.231834,49.254768
-Housing,Ivy on the Park - Highrise,IVYH,5629 Birney Avenue,V6S 0L5,VBL10265,UnderConstruction,-123.230999,49.254718
 Housing,Chancellor Hall - Townhouses,CHHT,5978 Chancellor Mews,V6T 2L5,VBL10271,Complete,-123.250355,49.272187
 Housing,Coast - Townhouses,COST,6090 Chancellor Mews,V6T 2J5,VBL10277,Complete,-123.253054,49.271069
 Housing,The Wesbrook - Highrise,WSB1,5838 Berton Avenue,V6S 0A5,VBL10184,Complete,-123.234509,49.255096
@@ -325,7 +323,6 @@ Housing,The Wesbrook - Townhouses,WSB2,"5838 Berton Avenue, Building 1",V6S 0A5,
 Housing,Eton - Highrise,ETN1,3487 Binning Road,V6S 0K8,VBL10135,Complete,-123.230561,49.25345
 Operations,Lower Mall Header House,LMHH,2331 Lower Mall,V6T 1Z4,VBL10097,Complete,-123.254843,49.260527
 Academic,Robert F. Osborne Centre - Unit 1,OSB1,"6108 Thunderbird Boulevard, Building 1",V6T 1Z3,VBL10251,Complete,-123.243731,49.260289
-Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,UnderConstruction,-123.253078,49.269288
 Academic,Earth and Ocean Sciences,EOS,6339 Stores Road,V6T 1Z4,VBL10001,Complete,-123.25249,49.26251
 Other,Hillel House - Diamond Foundation Centre for Jewish Campus Life,HILL,6145 Student Union Boulevard,V6T 1Z1,VBL10361,Complete,-123.251324,49.268604
 Academic,Horticulture Building,HORT,6394 Stores Road,V6T 1Z4,VBL10362,Complete,-123.252773,49.261402
@@ -426,4 +423,7 @@ Research,TRIUMF - Equipment Marque,TRF06,"4004 Wesbrook Mall, Building 20",V6T 2
 Research,TRIUMF - Accelerator,TRF02,"4004 Wesbrook Mall, Building 7",V6T 2A3,VBL10022,Complete,-123.229286,49.247272
 Research,TRIUMF - Accelerator Trailer,TRF03,"4004 Wesbrook Mall, Building 15",V6T 2A3,VBL10023,Complete,-123.230129,49.246851
 StudentHousing,Thunderbird Residence - Hazelton,THR5,"6335 Thunderbird Crescent, Building 1",V6T 2G9,VBL10122,Complete,-123.250846,49.259569
+Housing,Ivy on the Park - Townhouses,IVYT,5681 Birney Avenue,V6S 0A5,VBL10264,Complete,-123.231834,49.254768
+Housing,Ivy on the Park - Highrise,IVYH,5629 Birney Avenue,V6S 0L5,VBL10265,Complete,-123.230999,49.254718
+Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,Complete,-123.253078,49.269288
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275

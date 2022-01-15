@@ -8,7 +8,6 @@ OBL10040,Library Building,LIB,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Ste
 OBL10046,Skeena Residence,SKN,Complete,20191126,StudentHousing,,UBC,,SHHS,Occupied,,Wood,6,,,4040,0,,,RACHELW,20190916204317,NIKT,20210908182514,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10049,Office Modular Building,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,Steel,,,,4099-23,0,,,RACHELW,20200416220620,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
 OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Unoccupied,,Steel,,,,4099-24,0,,,RACHELW,20200416221350,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
-OBL10045,Nechako Residence,NCH,Complete,,StudentHousing,Services,UBC,,SHHS,Unoccupied,,Concrete,5,,,4041,0,,,RACHELW,20190916204528,NIKT,20210908182514,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10005,Similkameen Residence,SIM,Complete,19920101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3528,4009,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10007,The Commons,COM,Complete,,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,,,,,GISSTUD1,20200903224752,Unspecified,,,,B2,,-119,50
 OBL10009,Cascades Residence - D,CASD,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1163,4016,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
@@ -51,3 +50,4 @@ OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,Steel,
 OBL10016,Portable N,PBN,Complete,20060101,Services,,UBC,,UBC,Temporary,,Steel,1,,106,4099-14,0,,,,,NIKT,20210908182514,Outbuildings,,,,B3,,-119,50
 OBL10050,Vector Wells,VWB,Complete,20110817,Operations,,UBC,,UBC,Occupied,,Wood,,,,4043,0,,,RACHELW,20200416221346,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
 OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,,4042,0,,,RACHELW,20200416220402,NIKT,20210908182514,Unspecified,,,,B2,,-119,50
+OBL10045,Nechako Residence,NCH,Complete,20210801,StudentHousing,Services,UBC,,SHHS,Occupied,,Concrete,5,,,4041,0,,,RACHELW,20190916204528,RACHELW,20220113175258,Apt5StoreyPlus,,,,B5,,-119,50
