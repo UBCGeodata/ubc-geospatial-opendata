@@ -2343,7 +2343,6 @@
 3261,,Liquidambar styraciflua,Alligator-Wood,,,,,,,,,,,,,,,,20.2,0,,,PLAN,20190614175821,PLAN,20200914230847,49.264156,-123.249356
 3263,,Platanus x hispanica,London Plane,,,,,,,,,,,,,,,,15.8,0.1,,,PLAN,20190614175821,PLAN,20200914230001,49.26412,-123.248975
 3264,,Platanus x hispanica,London Plane,,,,,,,,,,,,,,,,14.2,0,,,PLAN,20190614175821,PLAN,20200914225645,49.264138,-123.248864
-3265,,Liquidambar styraciflua,Alligator-Wood,,,,,,,,,,,,,,,,15.8,0,,,PLAN,20190614175821,PLAN,20200914225840,49.263902,-123.249069
 3266,,Liquidambar styraciflua,Alligator-Wood,,,,,,,,,,,,,,,,14.2,0.1,,,PLAN,20190614175821,PLAN,20200914225702,49.264069,-123.2492
 3267,,Quercus rubra,Northern Red Oak,,,,,,,,,,,,,,,,20.2,0,,,PLAN,20190614175821,PLAN,20200914230751,49.264389,-123.249477
 3268,,Pinus nigra,Black Pine,,,,,,,,,,,,,,,,17.7,0.1,,,PLAN,20190614175821,PLAN,20200914230526,49.264062,-123.249393
@@ -7490,5 +7489,6 @@
 10053,,Prunus serrulata ,Japanese cherry ,Y,4771,,,,,,,,,,,,,,,,,,,,,,49.266247,-123.258637
 10054,,Cornus florida ,Flowering dogwood ,Y,8942,,,,,,,,,,,,,,,,,,,,,,49.266159,-123.25865
 10055,,Cornus florida ,Flowering dogwood ,Y,8942,,,,,,,,,,,,,,,,,,,,,,49.266159,-123.25865
+3265,,Liquidambar styraciflua,Alligator-Wood,Y,3468,,,,,,,,,,,,,,15.8,0,,,PLAN,20190614175821,PLAN,20200914225840,49.263902,-123.249069
 8145,Taxacea,Taxus brevifolia,Pacific yew,,,Live,,,,,,,,,,,,,34.7,0,,,egan.davis@ubc.ca,20190920223832,PLAN,20200914230253,49.259852,-123.253746
 9773,,Styrax obassia ,Big-leaf styrax,Y,4982,,,,,,,,,,,,,,,,,,,,,,49.264506,-123.25663
