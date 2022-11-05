@@ -105,7 +105,6 @@ VAD10808,Argyll House East,Vancouver,V6T 2L2,BC,VBL10288,NeighbourhoodBldg,Canad
 VAD10393,Somerset (I2),Vancouver,V6T 2K6,BC,VBL10147,Residential,CanadaPost,2616 West Mall,-123.248375,49.256063
 VAD10396,Somerset (G1),Vancouver,V6T 2K6,BC,VBL10147,Residential,CanadaPost,2602 West Mall,-123.248777,49.256553
 VAD10013,Hennings Building,Vancouver,V6T 1Z1,BC,VBL10359,CampusBuilding,CampusMail,6224 Agricultural Road,-123.252319,49.26661
-VAD11143,Village Square - Retail,Vancouver,V6S 0J7,BC,VBL10170,Commercial,CanadaPost,5968 Webber Lane,-123.236485,49.25407
 VAD10793,Westchester (C2),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2576 West Mall,-123.249389,49.257307
 VAD10794,Westchester (C3),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2572 West Mall,-123.249445,49.257375
 VAD10797,Westchester (D2),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2566 West Mall,-123.249531,49.25748
@@ -124,8 +123,6 @@ VAD10136,Logan Lane (D11),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6
 VAD10113,Logan Lane (C12),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6222 Logan Lane,-123.246053,49.259157
 VAD10115,Logan Lane (D15),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6232 Logan Lane,-123.245927,49.258919
 VAD10122,Logan Lane (A6),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2571 East Mall,-123.245088,49.258668
-VAD10072,The Mews - Retail,Vancouver,V6S 0B9,BC,VBL10165,Commercial,CanadaPost,3312 Shrum Lane,-123.236008,49.25461
-VAD10075,Tapestry North - Retail,Vancouver,V6S 0A8,BC,VBL10137,Commercial,CanadaPost,3318 Wesbrook Mall,-123.235364,49.254845
 VAD10076,The Mews - Retail,Vancouver,V6S 0B1,BC,VBL10165,Commercial,CanadaPost,3339 Wesbrook Mall,-123.235443,49.254476
 VAD10554,Corus - Townhouse (5),Vancouver,V6T 0A9,BC,VBL10303,Residential,CanadaPost,5983 Walter Gage Road,-123.249182,49.270618
 VAD10562,David Strangway - Retail,Vancouver,V6T 1Z3,BC,VBL10070,Commercial,CanadaPost,5940 University Boulevard,-123.245811,49.266108
@@ -184,7 +181,6 @@ VAD10071,The Mews - Retail,Vancouver,V6S 0B1,BC,VBL10165,Commercial,CanadaPost,3
 VAD10780,Westchester (G3),Vancouver,V6T 2K1,BC,VBL10220,Residential,CanadaPost,6385 Larkin Drive,-123.248901,49.257269
 VAD10788,Westchester (G4),Vancouver,V6T 2K1,BC,VBL10220,Residential,CanadaPost,6387 Larkin Drive,-123.248913,49.257244
 VAD11141,Village Square - Retail,Vancouver,V6S 0J7,BC,VBL10170,Commercial,CanadaPost,3337 Shrum Lane,-123.235952,49.254185
-VAD11142,Village Square - Retail,Vancouver,V6S 0J7,BC,VBL10170,Commercial,CanadaPost,5988 Webber Lane,-123.236672,49.254004
 VAD10391,Somerset (E2),Vancouver,V6T 2K5,BC,VBL10147,Residential,CanadaPost,6380 Larkin Drive,-123.247983,49.256378
 VAD11056,The Mews - Retail,Vancouver,V6S 0E4,BC,VBL10165,Commercial,CanadaPost,5920 Berton Avenue,-123.235988,49.254787
 VAD10110,Logan Lane (D5),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6250 Logan Lane,-123.245704,49.258671
@@ -206,14 +202,12 @@ VAD11064,The Mews - Retail,Vancouver,V6S 0B1,BC,VBL10165,Commercial,CanadaPost,3
 VAD11070,Tapestry North - Retail,Vancouver,V6S 0A8,BC,VBL10137,Commercial,CanadaPost,3358 Wesbrook Mall,-123.234979,49.254372
 VAD11072,Telus Hub,Vancouver,V6T 1W5,BC,VBL10179,OtherBuilding,CanadaPost,5895 Berton Avenue,-123.235485,49.255187
 VAD11059,The Chatham,Vancouver,V6T 2G6,BC,VBL10254,NeighbourhoodBldg,CanadaPost,5775 Hampton Place,-123.236135,49.258558
-VAD11057,The Mews,Vancouver,V6S 0E3,BC,VBL10165,NeighbourhoodBldg,CanadaPost,3333 Wesbrook Mall,-123.235552,49.254591
 VAD11027,Cypress House,Vancouver,V6S 0K4,BC,VBL10322,NeighbourhoodBldg,CanadaPost,5988 Gray Avenue,-123.234847,49.251996
 VAD10397,Somerset (B1),Vancouver,V6T 2K5,BC,VBL10147,Residential,CanadaPost,6366 Larkin Drive,-123.247985,49.256698
 VAD10413,Somerset (I1),Vancouver,V6T 2K6,BC,VBL10147,Residential,CanadaPost,2612 West Mall,-123.24844,49.256142
 VAD10399,Somerset (F2),Vancouver,V6T 2K5,BC,VBL10147,Residential,CanadaPost,6386 Larkin Drive,-123.248252,49.256695
 VAD10400,Somerset (B3),Vancouver,V6T 2K5,BC,VBL10147,Residential,CanadaPost,6370 Larkin Drive,-123.247813,49.256488
 VAD10392,Somerset (G2),Vancouver,V6T 2K6,BC,VBL10147,Residential,CanadaPost,2606 West Mall,-123.248713,49.256474
-VAD11069,Tapestry South,Vancouver,V6S 0A7,BC,VBL10182,NeighbourhoodBldg,CanadaPost,3382 Wesbrook Mall,-123.234745,49.254109
 VAD10726,Coast - East Apartment,Vancouver,V6T 0B1,BC,VBL10300,NeighbourhoodBldg,CanadaPost,6063 Iona Drive,-123.252459,49.270844
 VAD10431,Somerset (H1),Vancouver,V6T 2K6,BC,VBL10147,Residential,CanadaPost,2608 West Mall,-123.248607,49.256345
 VAD10206,Logan Lane (E2),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6274 Logan Lane,-123.246369,49.259054
@@ -225,7 +219,6 @@ VAD10394,Somerset (F1),Vancouver,V6T 2K5,BC,VBL10147,Residential,CanadaPost,6388
 VAD10442,Stirling House,Vancouver,V6T 0A4,BC,VBL10289,NeighbourhoodBldg,CanadaPost,6080 Iona Drive,-123.252501,49.270551
 VAD10437,St. James House,Vancouver,V6T 2G2,BC,VBL10115,NeighbourhoodBldg,CanadaPost,5835 Hampton Place,-123.237018,49.257983
 VAD10067,The Mews - Retail,Vancouver,V6S 0B1,BC,VBL10165,Commercial,CanadaPost,3329 Wesbrook Mall,-123.235584,49.254647
-VAD10069,Tapestry North - Retail,Vancouver,V6S 0A8,BC,VBL10137,Commercial,CanadaPost,3328 Wesbrook Mall,-123.235294,49.25476
 VAD11124,University Hill Secondary School,Vancouver,V6S 0C6,BC,VBL10242,OtherBuilding,CanadaPost,3228 Ross Drive,-123.23976,49.253872
 VAD10209,Logan Lane (A2),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2577 East Mall,-123.244995,49.258507
 VAD10211,Logan Lane (D12),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6238 Logan Lane,-123.245859,49.258859
@@ -882,6 +875,8 @@ VAD10379,Ponderosa Office Annex E,Vancouver,V6T 1Z2,BC,VBL10151,CampusBuilding,C
 VAD10102,Old Fire Hall,Vancouver,V6T 1Z2,BC,VBL10139,CampusBuilding,CampusMail,2038 West Mall,-123.255613,49.265095
 VAD10623,Fairview Crescent Residence (Unit 20),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2671 Fairview Crescent,-123.239937,49.263392
 VAD10286,Fairview Crescent Residence (Unit 4),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2744 Fairview Crescent,-123.239113,49.263225
+VAD11205,Arts Student Centre,Vancouver,V6T 1Z1,BC,VBL10426,CampusBuilding,CampusMail,1860 East Mall,-123.253175,49.269219
+VAD10109,"Ivy on the Park - Townhomes (North, South 1 & South 2)",Vancouver,V6S 0A5,BC,VBL10264,NeighbourhoodBldg,CanadaPost,5681 Birney Avenue,-123.231815,49.254572
 VAD10601,Thunderbird Residence - Front Desk ,Vancouver,V6T 2G9,BC,VBL10215,Complex,CampusMail,6335 Thunderbird Crescent,-123.249193,49.259328
 VAD10772,Cascara House,Vancouver,V6T 0C1,BC,VBL10347,NeighbourhoodBldg,CanadaPost,6385 Hawthorn Lane,-123.249554,49.258272
 VAD10104,P. A. Woodward Instructional Resources Centre (IRC),Vancouver,V6T 1Z3,BC,VBL10102,CampusBuilding,CampusMail,2194 Health Sciences Mall,-123.247336,49.264803
@@ -914,8 +909,6 @@ VAD10111,Life Sciences Centre,Vancouver,V6T 1Z3,BC,VBL10111,CampusBuilding,Campu
 VAD11033,Djavad Mowafaghian Centre for Brain Health (CBH),Vancouver,V6T 1Z3,BC,VBL10103,OtherBuilding,CampusMail,2215 Wesbrook Mall,-123.244737,49.264415
 VAD11126,UBC Hospital - Koerner Pavilion,Vancouver,V6T 1Z3,BC,VBL10318,OtherBuilding,CampusMail,2211 Wesbrook Mall,-123.245555,49.264162
 VAD11131,UBC Hospital - Purdy Pavilion,Vancouver,V6T 1Z9,BC,VBL10388,OtherBuilding,CampusMail,2221 Wesbrook Mall,-123.245922,49.263451
-VAD11205,Arts Student Centre,Vancouver,V6T 1Z1,BC,VBL10426,CampusBuilding,CampusMail,1860 East Mall,-123.253175,49.269219
-VAD10109,"Ivy on the Park - Townhomes (North, South 1 & South 2)",Vancouver,V6S 0A5,BC,VBL10264,NeighbourhoodBldg,CanadaPost,5681 Birney Avenue,-123.231815,49.254572
 VAD10305,Fairview Crescent Residence (Unit 11),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2769 Fairview Crescent,-123.238953,49.262648
 VAD10483,Acadia House,Vancouver,V6T 1R9,BC,VBL10308,CampusBuilding,CampusMail,2700 Acadia Road,-123.236088,49.263085
 VAD10484,Acadia House - 1 (101-104),Vancouver,V6T 1R9,BC,VBL10308,Residential,CampusMail,2710 Acadia Road,-123.235851,49.262924
@@ -1012,7 +1005,6 @@ VAD10850,Cecil Green Park House,Vancouver,V6T 1Z1,BC,VBL10342,CampusBuilding,Cam
 VAD10166,Mary Bollert Hall,Vancouver,V6T 1Z1,BC,VBL10201,CampusBuilding,CampusMail,6253 NW Marine Drive,-123.256281,49.270543
 VAD10849,Cecil Green Park Coach House,Vancouver,V6T 1Z1,BC,VBL10341,CampusBuilding,CampusMail,6323 Cecil Green Park Road,-123.258583,49.270991
 VAD10161,Liu Institute for Global Issues,Vancouver,V6T 1Z2,BC,VBL10177,CampusBuilding,CampusMail,6476 NW Marine Drive,-123.25908,49.267641
-VAD10177,Michael Smith Laboratories,Vancouver,V6T 1Z4,BC,VBL10221,CampusBuilding,CampusMail,2185 East Mall,-123.249866,49.264505
 VAD10018,In-Vessel Composting Facility,Vancouver,V6T 1W5,BC,VBL10364,CampusBuilding,CampusMail,6035 Nurseries Road,-123.228103,49.244922
 VAD11189,UBC Botanical Garden Nursery,Vancouver,V6T 1W5,BC,VBL10195,CampusBuilding,CampusMail,3929 Wesbrook Mall,-123.234689,49.249444
 VAD11128,University Services Building (USB),Vancouver,V6T 1Z4,BC,VBL10150,CampusBuilding,CampusMail,2329 West Mall,-123.253387,49.261102
@@ -1021,3 +1013,12 @@ VAD10263,George Cunningham Building,Vancouver,V6T 1Z3,BC,VBL10039,CampusBuilding
 VAD10905,Chemistry Building,Vancouver,V6T 1Z1,BC,VBL10328,CampusBuilding,CampusMail,2036 Main Mall,-123.25312,49.265886
 VAD10838,Biological Sciences Building,Vancouver,V6T 1Z4,BC,VBL10409,CampusBuilding,CampusMail,6270 University Boulevard,-123.252026,49.264558
 VAD10815,Beaty Biodiversity Centre,Vancouver,V6T 1Z4,BC,VBL10086,CampusBuilding,CampusMail,2212 Main Mall,-123.251064,49.263466
+VAD10177,Michael Smith Laboratories,Vancouver,V6T 1Z4,BC,VBL10221,CampusBuilding,CampusMail,2185 East Mall,-123.249866,49.264505
+VAD11219,MBA House - Retail,Vancouver,V6S 0B1,BC,VBL10403,Commercial,CanadaPost,3387 Wesbrook Mall,-123.234908,49.253828
+VAD10072,The Mews - Retail,Vancouver,V6S 0B9,BC,VBL10165,Commercial,CanadaPost,3312 Shrum Lane,-123.236009,49.254615
+VAD11143,Village Square - Retail,Vancouver,V6S 0J7,BC,VBL10170,Commercial,CanadaPost,5968 Webber Lane,-123.236468,49.254056
+VAD11142,Village Square - Retail,Vancouver,V6S 0J7,BC,VBL10170,Commercial,CanadaPost,5988 Webber Lane,-123.236661,49.253989
+VAD10069,Tapestry North - Retail,Vancouver,V6S 0A8,BC,VBL10137,Commercial,CanadaPost,3328 Wesbrook Mall,-123.235292,49.254761
+VAD10075,Tapestry North - Retail,Vancouver,V6S 0A8,BC,VBL10137,Commercial,CanadaPost,3318 Wesbrook Mall,-123.235361,49.254846
+VAD11069,Tapestry South,Vancouver,V6S 0A7,BC,VBL10182,NeighbourhoodBldg,CanadaPost,3382 Wesbrook Mall,-123.234712,49.254104
+VAD11057,The Mews,Vancouver,V6S 0E3,BC,VBL10165,NeighbourhoodBldg,CanadaPost,3333 Wesbrook Mall,-123.235552,49.254591
