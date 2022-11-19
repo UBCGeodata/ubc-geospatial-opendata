@@ -203,7 +203,6 @@ Academic,George Cunningham Building,CUNN,2146 East Mall,V6T 1Z3,VBL10039,Complet
 Commons,"Orchard Commons - Vantage College, Bartlett/Braeburn House",ORCH,6363 Agronomy Road,V6T 1Z4,VBL10013,Complete,-123.251329,49.260462
 Services,Child Care Services - Barish,MCC2,2835 Revelstoke Court,V6T 1S1,VBL10373,Complete,-123.23552,49.260465
 Services,Child Care Services - Willow,MCC3,2845 Revelstoke Court,V6T 1S1,VBL10375,Complete,-123.235327,49.260828
-Services,UBC Hospital - Koerner Pavilion,KPAV,2211 Wesbrook Mall,V6T 1Z3,VBL10318,Complete,-123.245991,49.264151
 Services,Marine Drive Residence - 3 Commonsblock,MAR3,"2205 Lower Mall, Building 3",V6T 1Z4,VBL10088,Complete,-123.256859,49.26141
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimək̓ʷ leləm̓ (Octopus),SQMK,1875 Wesbrook Mall,V6T 1K2,VBL10382,Complete,-123.248315,49.270523
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ leləm̓ (Herring),SLWT,1945 Wesbrook Mall,V6T 1K2,VBL10383,Complete,-123.247923,49.269589
@@ -219,6 +218,8 @@ Housing,Chancellor Hall - Townhouses,CHHT,5978 Chancellor Mews,V6T 2L5,VBL10271,
 Housing,Coast - Townhouses,COST,6090 Chancellor Mews,V6T 2J5,VBL10277,Complete,-123.253054,49.271069
 Housing,The Wesbrook - Highrise,WSB1,5838 Berton Avenue,V6S 0A5,VBL10184,Complete,-123.234509,49.255096
 Housing,Sage - Highrise,SAG1,5782 Berton Avenue,V6S 0C1,VBL10187,Complete,-123.233708,49.255264
+Academic,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences Mall,V6T 1Z3,VBL10102,Complete,-123.246848,49.264822
+Services,UBC Hospital - Koerner Pavilion,KPAV,2211 Wesbrook Mall,V6T 1Z3,VBL10318,Complete,-123.245991,49.264151
 Athletics,Rugby Pavilion,RUGB,2584 East Mall,V6T 1Z3,VBL10055,Complete,-123.244014,49.258676
 Academic,HR MacMillan Building,MCML,2357 Main Mall,V6T 1Z4,VBL10060,Complete,-123.250746,49.261066
 Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247066,49.262481
@@ -248,7 +249,6 @@ StudentHousing,Thunderbird Residence - Monashee,THR2,"6335 Thunderbird Crescent,
 Academic,Hector J. MacLeod Building,MCLD,2356 Main Mall,V6T 1Z4,VBL10099,Complete,-123.249401,49.261716
 Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255524,49.260553
 Academic,Music Building,MUSC,6361 Memorial Road,V6T 1Z2,VBL10101,Complete,-123.256781,49.267437
-Academic,P. A. Woodward Instructional Resources Centre,IRC,2194 Health Sciences Mall,V6T 1Z3,VBL10102,Complete,-123.246848,49.264822
 Academic,Allard Hall,ALRD,1822 East Mall,V6T 1Z1,VBL10104,Complete,-123.253297,49.270044
 StudentHousing,Totem Park Residence - c̓əsnaʔəm House,TPR7,"2525 West Mall, Building 7",V6T 1W9,VBL10105,Complete,-123.251637,49.256811
 Academic,School of Population & Public Health,SPPH,2206 East Mall,V6T 1Z3,VBL10107,Complete,-123.248416,49.26424
