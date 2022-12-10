@@ -31,7 +31,6 @@ OBL10030,Campus Administration Building,ADM,Complete,19920101,Administrative,,UB
 OBL10001,Quonset - Hut,QUO,Complete,19940101,Operations,,UBC,,UBC,Occupied,,Wood,1,,498,4098;4098-3,1,,,,,GISSTUD1,20200930193728,Outbuildings,,,,B3,,-119,50
 OBL10031,Cascades Residence - F,CASF,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1163,4018,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10044,Upper Campus Health Building,UCH,Complete,19930101,Academic,Research,UBC,,UBC,Occupied,,,3,,1681,4008,0,,,,,RACHELW,20210624165805,Unspecified,,,,B2,,-119,50
-OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,PreConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,,,,,,NIKT,20210429232204,RACHELW,20210730230039,Unspecified,,,,,,-119,50
 OBL10032,Cascades Residence - B,CASB,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1159,4014,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10034,Cascades Residence - A,CASA,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1163,4013,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
 OBL10035,Cascades Residence - C,CASC,Complete,20080101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1171,4015,0,,,,,GISSTUD1,20200903224752,AptLess5Storey,,,,B5,,-119,50
@@ -45,10 +44,12 @@ OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,Steel,
 OBL10016,Portable N,PBN,Complete,20060101,Services,,UBC,,UBC,Temporary,,Steel,1,,106,4099-14,0,,,,,NIKT,20210908182514,Outbuildings,,,,B3,,-119,50
 OBL10050,Vector Wells,VWB,Complete,20110817,Operations,,UBC,,UBC,Occupied,,Wood,,,,4043,0,,,RACHELW,20200416221346,NIKT,20210908182514,Unspecified,,,,B3,,-119,50
 OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,,4042,0,,,RACHELW,20200416220402,NIKT,20210908182514,Unspecified,,,,B2,,-119,50
-OBL10045,Nechako Residence,NCH,Complete,20210801,StudentHousing,Services,UBC,,SHHS,Occupied,,Concrete,5,,,4041,0,,,RACHELW,20190916204528,RACHELW,20220113175258,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10007,The Commons,COM,Complete,20190101,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,,,,,RACHELW,20220207172108,Unspecified,,,,B2,,-119,50
-OBL10049,Office Modular Building,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,Steel,,,,4099-23,0,,,RACHELW,20200416220620,RACHELW,20220920165949,Unspecified,,,,B3,,-119,50
-OBL10053,Innovation Precinct Annex 1,IA1,Complete,20210301,Research,,UBC,,UBC,Occupied,,,,,,4044,0,,,RACHELW,20200806200207,RACHELW,20220207172126,Unspecified,,,,B2,,-119,50
-OBL10056,Office Modular 2,OM2,UnderConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,,,,4099-25,0,,,RACHELW,20220920164452,RACHELW,20220920164632,Unspecified,,,,B3,,-119,50
-OBL10052,Innovation Precinct 1,IP1,Complete,20080101,Research,,UBC,,UBC,Occupied,,,,,,4034,0,,,RACHELW,20200806200207,RACHELW,20220202214514,Unspecified,,,,B2,,-119,50
 OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20220920165459,Unspecified,,,,B2,,-119,50
+OBL10045,Nechako Residence,NCH,Complete,20210801,StudentHousing,Services,UBC,,SHHS,Occupied,,Concrete,5,,,4041,0,,,RACHELW,20190916204528,RACHELW,20220113175258,Apt5StoreyPlus,,,,B5,,-119,50
+OBL10049,Office Modular Building,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,Steel,,,,4099-23,0,,,RACHELW,20200416220620,RACHELW,20220920165949,Unspecified,,,,B3,,-119,50
+OBL10052,Innovation Precinct 1,IP1,Complete,20080101,Research,,UBC,,UBC,Occupied,,,,,,4034,0,,,RACHELW,20200806200207,RACHELW,20220202214514,Unspecified,,,,B2,,-119,50
+OBL10053,Innovation Precinct Annex 1,IA1,Complete,20210301,Research,,UBC,,UBC,Occupied,,,,,,4044,0,,,RACHELW,20200806200207,RACHELW,20220207172126,Unspecified,,,,B2,,-119,50
+OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,UnderConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,,,,,,NIKT,20210429232204,RACHELW,20221205232741,Unspecified,,,,,,-119,50
+OBL10056,Office Modular 2,OM2,UnderConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,,,,4099-25,0,,,RACHELW,20220920164452,RACHELW,20220920164632,Unspecified,,,,B3,,-119,50
+OBL10057,Child Care Facility,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20221205233746,Unspecified,,,,B3,,-119,50
