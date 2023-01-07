@@ -3702,7 +3702,6 @@
 4931,,Acer palmatum,Japanese Maple,N,,Live,9,4.6,4.6,0.4,4.9,3.5,5,3,,5,,20200301,13.8,0.1,,,PLAN,20190614175839,PLAN,20200914225642,49.263789,-123.249628
 4928,,Pinus nigra,Black Pine,N,,Live,58,14.4,14.4,1.2,10.1,8.9,5,4,,5,,20200301,17.9,0,,,PLAN,20190614175839,PLAN,20200914230723,49.263761,-123.249683
 4927,,Pinus nigra,Black Pine,N,,Live,9,3.8,3.8,0.6,3.7,3.2,5,3,,5,,20200301,3.3,0,,,PLAN,20190614175839,PLAN,20200914225856,49.263552,-123.249663
-4925,,Pinus contorta,Lodgepole Pine,N,,Live,12,5.4,5.4,0.8,5.3,4.5,5,1,,5,,20200301,5.4,0.1,,,PLAN,20190614175839,PLAN,20200914225847,49.263519,-123.249705
 4924,,Pinus contorta,Lodgepole Pine,N,,Live,17,4.6,4.6,1,5.4,4.2,5,3,,5,,20200301,4.8,0,,,PLAN,20190614175839,PLAN,20200914225821,49.263526,-123.249635
 4923,,Pinus contorta,Lodgepole Pine,N,,Live,14,5.2,5.2,0.4,5.6,5.1,5,3,,5,,20200301,2.7,0,,,PLAN,20190614175839,PLAN,20200914230956,49.263486,-123.249681
 4974,,Sorbus aucuparia,Quickbeam,N,,Live,11,6.6,6.6,0.8,4.9,4.4,5,5,,5,,20200301,6.3,0.1,,,PLAN,20190614175840,PLAN,20200914225629,49.264036,-123.250396
@@ -4000,7 +3999,6 @@
 4143,,Acer circinatum,Vine Maple,N,,Live,12,4.16,3.7,0.6,3.9,3.3,20,3,,5,,20190301,4,0,,,PLAN,20190614175928,PLAN,20200914230534,49.263619,-123.252924
 2879,,Chamaecyparis pisifera,Sawara-Cypress,N,,Live,36,16.25,16.25,2.22,5.9,5.7,15,4,,3,,20190301,17.2,0.1,,,PLAN,20190614175928,PLAN,20200914230615,49.26642,-123.256225
 5414,,Amelanchier alnifolia,Pacific Serviceberry,N,,Live,4,3,,,3.3,3.3,15,3,,1,,20200301,5.6,0,,,PLAN,20190614175858,PLAN,20200914225636,49.26055,-123.24767
-5410,,Juniperus maritima?,,N,,Live,1,3,,,2.3,2.4,15,4,,1,,20200301,3.6,0.1,,,PLAN,20190614175858,PLAN,20200914225637,49.260518,-123.247656
 5343,,Liquidambar styraciflua,Alligator-Wood,N,,Live,24,10,,,6.3,4.9,10,3,,1,,20200301,10.1,0,,,PLAN,20190614175856,PLAN,20200914225842,49.26024,-123.247827
 5342,,Liquidambar styraciflua,Alligator-Wood,N,,Live,22,10,,,6.1,5.9,10,2,,1,,20200301,10,0.1,,,PLAN,20190614175837,PLAN,20200914230400,49.260212,-123.247915
 5341,,Liquidambar styraciflua,Alligator-Wood,Y,,Live,21,11.8,,,7.2,5.4,10,2,,1,,20200301,11.5,0.1,,,PLAN,20190614175837,PLAN,20200914225800,49.260189,-123.247973
@@ -7677,6 +7675,7 @@
 ,Pinaceae,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221212213324,laura.grant@ubc.ca,20221212213324,49.270821,-123.249939
 ,Betulaceae,Carpinus japonica,Japanese hornbeam,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213652,laura.grant@ubc.ca,20221212213652,49.27129,-123.24982
 ,Magnoliaceae,Magnolia grandiflora,sweetbay magnolia,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221212214056,laura.grant@ubc.ca,20221212214056,49.270855,-123.251103
+5410,Cupressaceae,Juniperus communis,common juniper,N,,Live,1,3,,,2.3,2.4,15,4,,1,Evergreen,20200301,3.6,0.1,,,PLAN,20190614175858,laura.grant@ubc.ca,20230102192415,49.260518,-123.247656
 7313,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,24.2,0.1,,,GISSTUD2,20200214235437,laura.grant@ubc.ca,20221120080314,49.260974,-123.233979
 7314,Rosaceae,Prunus emarginata,bitter cherry,,,Live,,,,,,,,,,,Deciduous,,10.2,0.3,,,GISSTUD2,20200214235438,laura.grant@ubc.ca,20221120080411,49.261036,-123.234027
 7315,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,16,0,,,GISSTUD2,20200214235440,laura.grant@ubc.ca,20221120080537,49.261186,-123.234126
@@ -8321,6 +8320,8 @@
 10525,Pinaceae,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,,,laura.grant@ubc.ca,20220908204305,49.260146,-123.252187
 10526,Pinaceae,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,,,laura.grant@ubc.ca,20220908204407,49.260068,-123.252156
 10527,Pinaceae,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,,,laura.grant@ubc.ca,20220908204455,49.260046,-123.252161
+4925,Pinaceae,Pinus contorta,lodgepole Pine,N,,Dead,12,5.4,5.4,0.8,5.3,4.5,5,1,,5,Evergreen,20200301,5.4,0.1,,Removed as of 1/2023,PLAN,20190614175839,laura.grant@ubc.ca,20230104171108,49.263519,-123.249705
+,Ulmaceae,Ulmus sp.,elm,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20230104171340,laura.grant@ubc.ca,20230104171340,49.266053,-123.249148
 ,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221205211117,laura.grant@ubc.ca,20221205211117,49.268076,-123.248085
 ,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221205211202,laura.grant@ubc.ca,20221205211202,49.268052,-123.24807
 ,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221205211301,laura.grant@ubc.ca,20221205211301,49.268013,-123.24804
