@@ -11,13 +11,20 @@ Datasets
  - Trees with location, species ID and a full set of attribute measurements
  - Location and species ID only
  - Locations only
-- Locations are taken from 2019 orthophotho.
-- Species ID done by Egan Davis.
-- Tree measurements taken by students of UFOR101 class.
+- Locations obtained with GPS by UBC Forestry grad students.
+- Species ID done by UBC Forestry grad students.
+- Tree measurements taken by students of UFOR class.
 - Tree heights for some trees have been derived from 2018 lidar and have varied accuracies.
-### ubcv_softlandscape
-- Lawn, planting bed, and wild areas of soft landscape.
-- Some of the attributes in this dataset are no longer maintained.
+
+### ubcv_landscape_soft
+- Dataset contains soft landscape surfaces (lawn, planting beds, rooftop gardens, forested areas) on the UBC Vancouver Campus,
+- In 2020, McElhanney (contractor) photogrammetrically compiled all landscape surfaces (both hard and soft). All landscape spatial data was updated in 2021.
+
+### ubcv_landscape_hard
+- Dataset contains hard landscape surfaces (roadway, driveway, parking, pedestrian, concrete) on the UBC Vancouver Campus, 
+- In 2020, McElhanney photogrammetrically compiled all landscape surfaces (both hard and soft). All landscape spatial data was updated in 2021.
+
+
 Files Provided
 --------------
 * GeoJSON data provided in WGS84 / EPSG:4326.
