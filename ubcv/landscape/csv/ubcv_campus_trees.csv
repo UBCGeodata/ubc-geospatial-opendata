@@ -353,18 +353,6 @@
 6679,,Parrotia persica,,,,,,,,,,,,,,,,,11.7,0,,,PLAN,20190614175856,PLAN,20200914225640,49.268794,-123.257708
 6715,,Tsuga heterophylla,Pacific Hemlock,,,,,,,,,,,,,,,,13.1,0,,,PLAN,20190614175856,PLAN,20200914230012,49.26864,-123.258176
 6660,,Thuja plicata 'Zebrina',,,,,,,,,,,,,,,,,12.3,0,,,PLAN,20190614175856,PLAN,20200914230145,49.268612,-123.258171
-5344,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,3.6,0,,,PLAN,20190614175856,PLAN,20200914230125,49.259982,-123.248102
-5345,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,2.8,0,,,PLAN,20190614175856,PLAN,20200914225721,49.260005,-123.248103
-5346,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,3.1,0.1,,,PLAN,20190614175856,PLAN,20200914230152,49.259977,-123.248072
-5347,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,2.9,0,,,PLAN,20190614175856,PLAN,20200914230413,49.259945,-123.248039
-5348,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,3.2,0,,,PLAN,20190614175856,PLAN,20200914225825,49.259944,-123.248012
-5350,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,7.3,0.1,,,PLAN,20190614175856,PLAN,20200914225633,49.2599,-123.247948
-5351,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,9,0.1,,,PLAN,20190614175856,PLAN,20200914225844,49.259835,-123.247887
-5352,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,5.2,0.1,,,PLAN,20190614175856,PLAN,20200914230246,49.25978,-123.247841
-5353,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,7.1,0.2,,,PLAN,20190614175856,PLAN,20200914230113,49.259766,-123.247811
-5354,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,12.9,0.1,,,PLAN,20190614175856,PLAN,20200914225700,49.259748,-123.24781
-5355,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,11.8,0,,,PLAN,20190614175856,PLAN,20200914230202,49.259706,-123.247772
-5357,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,3.2,0,,,PLAN,20190614175857,PLAN,20200914230353,49.259692,-123.247744
 5358,,Liriodendron tulipifera,Tulip-Poplar,,,,,,,,,,,,,,,,10.7,0,,,PLAN,20190614175857,PLAN,20200914230421,49.259627,-123.247624
 5359,,Fagus sylvatica 'Dawyck',,,,,,,,,,,,,,,,,15,0.1,,,PLAN,20190614175857,PLAN,20200914230158,49.259655,-123.247587
 5360,,Fagus sylvatica 'Dawyck',,,,,,,,,,,,,,,,,13,0.4,,,PLAN,20190614175857,PLAN,20200914230953,49.25987,-123.24702
@@ -1784,8 +1772,6 @@
 5038,,Cupressus nootkatensis,Yellow Cypress,,,,,,,,,,,,,,,,8.8,0,,,PLAN,20190614175841,PLAN,20200914230330,49.270415,-123.254701
 6659,,Chamaecyparis obtusa 'Nana',,,,,,,,,,,,,,,,,21,0.1,,,PLAN,20190614175856,PLAN,20200914225854,49.268899,-123.257762
 6661,,Cercis canadensis 'Forest Pansy',,,,,,,,,,,,,,,,,23.3,0.1,,,PLAN,20190614175856,PLAN,20200914230104,49.268327,-123.258454
-5349,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,3.8,0,,,PLAN,20190614175856,PLAN,20200914230224,49.259925,-123.247983
-5356,,Pinus thunbergii,Black Pine,,,,,,,,,,,,,,,,13.6,0.1,,,PLAN,20190614175857,PLAN,20200914225949,49.25969,-123.247782
 5362,,Fagus sylvatica 'Dawyck',,,,,,,,,,,,,,,,,10.6,0.1,,,PLAN,20190614175857,PLAN,20200914230022,49.260106,-123.247042
 2859,,Acer circinatum,Vine Maple,,,,,,,,,,,,,,,,9.2,0,,,PLAN,20190614175847,PLAN,20200914230254,49.265299,-123.256351
 2873,,Fraxinus americana,American Ash,,,,,,,,,,,,,,,,9.9,0.1,,,PLAN,20190614175847,PLAN,20200914230033,49.266246,-123.256945
@@ -6465,8 +6451,6 @@
 7329,Cercidiphyllaceae,Cercidiphyllum japonicum,katsura,,,Live,,,,,,,,,,,Deciduous,,7.2,0,,,GISSTUD2,20200214235958,laura.grant@ubc.ca,20221120060746,49.262888,-123.237576
 ,Cercidiphyllaceae,Cercidiphyllum japonicum,katsura,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221120060821,laura.grant@ubc.ca,20221120060821,49.2629,-123.237521
 6755,Pinaceae,Pinus nigra,Black pine ,Y,1952,,,,,,,,,,,,,,19,0,,,seeds.trees,20190919002538,finnkopf@mail.ubc.ca,20200914225717,49.269465,-123.248955
-6756,Pinaceae ,Pinus thunbergii ,Japanese black pine ,N,,,,,,,,,,,,,,,4,0.1,,,egan.davis@ubc.ca,20190919002625,finnkopf@mail.ubc.ca,20200914230302,49.269826,-123.248755
-6757,Pinaceae ,Pinus thunbergii ,Japanese black pine ,N,,,,,,,,,,,,,,,3.2,0.1,,,egan.davis@ubc.ca,20190919002647,finnkopf@mail.ubc.ca,20200914225916,49.269832,-123.248683
 9562,Pinaceae,Pinus nigra,Black pine,Y,1950,,,,,,,,,,,,,,19.9,0.1,,was duplicate: 1948,seeds.trees,20190919002700,finnkopf@mail.ubc.ca,20200914230138,49.26953,-123.249056
 1918,Pinaceae ,Pinus nigra ,Black pine ,Y,1918,,,,,,,,,,,,,,18.1,0,,,egan.davis@ubc.ca,20190919002825,finnkopf@mail.ubc.ca,20200914225738,49.269724,-123.248941
 1919,Pinaceae ,Pinus nigra ,Black pine,Y,1919,,,,,,,,,,,,,,21.9,0.1,,,egan.davis@ubc.ca,20190919002856,finnkopf@mail.ubc.ca,20200914230812,49.269694,-123.248907
@@ -6475,14 +6459,9 @@
 6758,Betulaceae,Betula nigra ‘Heritage’,River birch 'Heritage',N,,,,,,,,,,,,,,,8,0,,,seeds.trees,20190919003132,finnkopf@mail.ubc.ca,20200914230316,49.269863,-123.249026
 6759,Betulaceae,Betula nigra ‘Heritage’,River birch 'Heritage',N,,,,,,,,,,,,,,,7.5,0.1,,,seeds.trees,20190919003152,finnkopf@mail.ubc.ca,20200914225650,49.269882,-123.249065
 6760,Betulaceae,Betula nigra ‘Heritage’,River birch 'Heritage',N,,,,,,,,,,,,,,,7.6,0,,,seeds.trees,20190919003212,finnkopf@mail.ubc.ca,20200914230340,49.269901,-123.249016
-6761,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.8,0,,,egan.davis@ubc.ca,20190919003226,finnkopf@mail.ubc.ca,20200914230352,49.269935,-123.249439
-6762,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.2,0,,,egan.davis@ubc.ca,20190919003250,finnkopf@mail.ubc.ca,20200914225934,49.269923,-123.249508
 1913,Fagaceae ,Fagus sylvatica,European beech ,N,,,,,,,,,,,,,,,12.8,0.2,,,egan.davis@ubc.ca,20190919003135,finnkopf@mail.ubc.ca,20200914225903,49.269925,-123.249257
-6763,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.7,0.1,,,egan.davis@ubc.ca,20190919003315,finnkopf@mail.ubc.ca,20200914230145,49.269915,-123.249557
-6764,Pinaceae,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.9,0,,,egan.davis@ubc.ca,20190919003339,finnkopf@mail.ubc.ca,20200914230941,49.269895,-123.249547
 6765,Rosaceae,Prunus ‘Sato-Zakura’ group,Japanese cherry 'Sato-Zakura',N,,,,,,,,,,,,,,,6.6,0.1,,,seeds.trees,20190919003340,finnkopf@mail.ubc.ca,20200914230016,49.269953,-123.248857
 6766,Rosaceae,Prunus ‘Sato-Zakura’ group,Japanese cherry 'Sato-Zakura',N,,,,,,,,,,,,,,,5.7,0.1,,,seeds.trees,20190919003445,finnkopf@mail.ubc.ca,20200914225637,49.26998,-123.248811
-6767,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3,0,,,egan.davis@ubc.ca,20190919003448,finnkopf@mail.ubc.ca,20200914225842,49.26991,-123.249636
 8512,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,13,0.1,,,GISSTUD1,20200106220802,finnkopf@mail.ubc.ca,20200914230313,49.268815,-123.250191
 8514,,Pseudotsuga menziesii ,Douglas-fir ,,,,,,,,,,,,,,,,5,0,,,GISSTUD1,20200106220905,finnkopf@mail.ubc.ca,20200914225907,49.268754,-123.250294
 8518,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,11.7,1,,,GISSTUD1,20200106221006,finnkopf@mail.ubc.ca,20200914230731,49.269033,-123.250281
@@ -6510,7 +6489,6 @@
 9300,Sapindaceae,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,6.3,0.2,,,GISSTUD2,20200207231348,laura.grant@ubc.ca,20221120063015,49.261203,-123.238821
 8319,Fagaceae,Quercus palustris,pin oak,,,Live,,,,,,,,,,,Deciduous,,20,0.1,,,GISSTUD2,20200207233535,laura.grant@ubc.ca,20221120063257,49.260637,-123.238835
 6768,Rosaceae,Prunus ‘Sato-Zakura’ group,Japanese cherry 'Sato-Zakura',N,,,,,,,,,,,,,,,5.3,0,,,seeds.trees,20190919003506,finnkopf@mail.ubc.ca,20200914230338,49.269998,-123.248858
-6871,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,4.1,0,,,egan.davis@ubc.ca,20190919003511,finnkopf@mail.ubc.ca,20200914230324,49.269976,-123.249684
 9548,Pinaceae,Pinus nigra,Black pine,Y,1924,,,,,,,,,,,,,,20.6,0,,was duplicate: 1924,egan.davis@ubc.ca,20190919001047,finnkopf@mail.ubc.ca,20200914225800,49.269411,-123.248875
 9561,Pinaceae ,Pinus nigra,Black pine ,Y,1923,,,,,,,,,,,,,,20.2,0.1,,was duplicate: 1923,egan.davis@ubc.ca,20190919001156,finnkopf@mail.ubc.ca,20200914225935,49.269439,-123.248853
 9560,Pinaceae ,Pinus nigra ,Black pine,Y,1922,,,,,,,,,,,,,,16.1,0.1,,was duplicate: 1922,egan.davis@ubc.ca,20190919001247,finnkopf@mail.ubc.ca,20200914230031,49.269485,-123.24884
@@ -6546,7 +6524,6 @@
 ,Sapindaceae,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221120065048,laura.grant@ubc.ca,20221120065048,49.261478,-123.239202
 ,Sapindaceae,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221120065155,laura.grant@ubc.ca,20221120065155,49.261566,-123.239251
 9293,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,18.5,0.2,,,GISSTUD2,20200207230232,laura.grant@ubc.ca,20221120065304,49.261674,-123.239241
-6754,Pinaceae ,Pinus thunbergii ,Japanese black pine ,N,,,,,,,,,,,,,,,10.7,0.1,,,egan.davis@ubc.ca,20190919002529,finnkopf@mail.ubc.ca,20200914225702,49.269785,-123.248906
 8526,,Pseudotsuga menziesii ,Douglas-fir ,Y,1871,,,,,,,,,,,,,,,,,,GISSTUD1,20200106221017,finnkopf@mail.ubc.ca,20200116192721,49.269475,-123.250607
 8530,,Corylus colurna ,Hazelnut ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106221625,finnkopf@mail.ubc.ca,20200116192721,49.269974,-123.250149
 3059,,Liquidambar styraciflua,Sweet gum,N,,,,,,,,,,,,,,,8.3,0.1,,,PLAN,20190614175810,finnkopf@mail.ubc.ca,20200914230012,49.269594,-123.253571
@@ -6559,6 +6536,28 @@
 3083,,Prunus yedoensis 'Akebono',Akebono cherry,N,,,,,,,,,,,,,,,5.1,0,,,PLAN,20190614175817,finnkopf@mail.ubc.ca,20200914225737,49.269554,-123.253395
 3084,,Prunus yedoensis 'Akebono',Akebono cherry,N,,,,,,,,,,,,,,,4.3,0,,,PLAN,20190614175817,finnkopf@mail.ubc.ca,20200914231002,49.269569,-123.253352
 9556,Platanaceae,Platanus x hispanica,London plane tree,Y,1946,,,,,,,,,,,,,,21.3,0.3,,was duplicate: 1946,egan.davis@ubc.ca,20190919000846,finnkopf@mail.ubc.ca,20200914230247,49.26929,-123.248892
+5344,Pinaceae,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,3.6,0,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200706,49.259982,-123.248102
+5345,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,2.8,0,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200738,49.260005,-123.248103
+5346,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,3.1,0.1,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200758,49.259977,-123.248072
+5347,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,2.9,0,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200815,49.259945,-123.248039
+5348,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,3.2,0,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200835,49.259944,-123.248012
+5349,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,3.8,0,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200851,49.259925,-123.247983
+5350,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,7.3,0.1,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200912,49.2599,-123.247948
+5351,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,9,0.1,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200932,49.259835,-123.247887
+5352,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,5.2,0.1,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130200951,49.25978,-123.247841
+5353,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,7.1,0.2,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130201021,49.259766,-123.247811
+5354,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,12.9,0.1,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130201039,49.259748,-123.24781
+5355,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,11.8,0,,,PLAN,20190614175856,laura.grant@ubc.ca,20230130201055,49.259706,-123.247772
+5356,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,13.6,0.1,,,PLAN,20190614175857,laura.grant@ubc.ca,20230130201113,49.25969,-123.247782
+5357,Pinaceae,Pinus nigra,Black Pine,,,Live,,,,,,,,,,,Evergreen,,3.2,0,,,PLAN,20190614175857,laura.grant@ubc.ca,20230130201133,49.259692,-123.247744
+6754,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,10.7,0.1,,,egan.davis@ubc.ca,20190919002529,laura.grant@ubc.ca,20230130201227,49.269785,-123.248906
+6756,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,4,0.1,,,egan.davis@ubc.ca,20190919002625,laura.grant@ubc.ca,20230130201247,49.269826,-123.248755
+6757,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.2,0.1,,,egan.davis@ubc.ca,20190919002647,laura.grant@ubc.ca,20230130201304,49.269832,-123.248683
+6761,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.8,0,,,egan.davis@ubc.ca,20190919003226,laura.grant@ubc.ca,20230130201325,49.269935,-123.249439
+6762,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.2,0,,,egan.davis@ubc.ca,20190919003250,laura.grant@ubc.ca,20230130201357,49.269923,-123.249508
+6763,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.7,0.1,,,egan.davis@ubc.ca,20190919003315,laura.grant@ubc.ca,20230130201414,49.269915,-123.249557
+6764,Pinaceae,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.9,0,,,egan.davis@ubc.ca,20190919003339,laura.grant@ubc.ca,20230130201432,49.269895,-123.249547
+6767,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3,0,,,egan.davis@ubc.ca,20190919003448,laura.grant@ubc.ca,20230130201450,49.26991,-123.249636
 9294,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,18.7,0.1,,,GISSTUD2,20200207230242,laura.grant@ubc.ca,20221120065327,49.261724,-123.239212
 9291,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,24.1,0,,,GISSTUD2,20200207230218,laura.grant@ubc.ca,20221120065415,49.261724,-123.239291
 9207,Rosaceae,Sorbus aucuparia,European mountain-ash,,,Live,,,,,,,,,,,Deciduous,,10.2,0.1,,,GISSTUD2,20200207225500,laura.grant@ubc.ca,20221120065541,49.261921,-123.239247
@@ -6580,6 +6579,10 @@
 7115,Pinaceae,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,15.2,0.1,,,GISSTUD2,20200208001652,laura.grant@ubc.ca,20221120071219,49.260893,-123.237507
 7116,Pinaceae,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,17.6,0.1,,,GISSTUD2,20200208001653,laura.grant@ubc.ca,20221120071242,49.260923,-123.237448
 7117,Piinaceae,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,16.3,0.1,,,GISSTUD2,20200208001654,laura.grant@ubc.ca,20221120071353,49.260889,-123.23744
+6871,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,4.1,0,,,egan.davis@ubc.ca,20190919003511,laura.grant@ubc.ca,20230130201510,49.269976,-123.249684
+6872,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.9,0,,,egan.davis@ubc.ca,20190919003536,laura.grant@ubc.ca,20230130201529,49.270052,-123.24968
+6873,Pinaceae ,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.2,0,,,egan.davis@ubc.ca,20190919003554,laura.grant@ubc.ca,20230130201546,49.270055,-123.249733
+6874,Pinaceae,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,3.1,0.1,,,egan.davis@ubc.ca,20190919003613,laura.grant@ubc.ca,20230130201609,49.270027,-123.249772
 7120,Malvaceae,Tilia cordata,little leaf linden,,,Live,,,,,,,,,,,Deciduous,,6.4,0,,,GISSTUD2,20200208001656,laura.grant@ubc.ca,20221120071552,49.261011,-123.237062
 7121,Malvaceae,Tilia cordata,little leaf linden,,,Live,,,,,,,,,,,Deciduous,,9.8,0.1,,,GISSTUD2,20200208001656,laura.grant@ubc.ca,20221120071613,49.261057,-123.237099
 7130,Pinaceae,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,16.5,0.1,,,GISSTUD2,20200208001706,laura.grant@ubc.ca,20221120071805,49.261126,-123.237535
@@ -6707,9 +6710,6 @@
 ,Cornaceae,Cornus mas,cornelian-cherry dogwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221213013024,laura.grant@ubc.ca,20221213013024,49.270739,-123.248693
 8534,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,6,0,,,GISSTUD1,20200106221626,finnkopf@mail.ubc.ca,20200914230403,49.270007,-123.250057
 8805,,Carpinus betulus ,European hornbeam ,N,,,,,,,,,,,,,,,4.6,0.1,,,GISSTUD1,20200107002853,finnkopf@mail.ubc.ca,20200914230608,49.269502,-123.25169
-6872,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.9,0,,,egan.davis@ubc.ca,20190919003536,finnkopf@mail.ubc.ca,20200914230805,49.270052,-123.24968
-6873,Pinaceae ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.2,0,,,egan.davis@ubc.ca,20190919003554,finnkopf@mail.ubc.ca,20200914230435,49.270055,-123.249733
-6874,Pinus ,Pinus thunbergii,Japanese black pine ,N,,,,,,,,,,,,,,,3.1,0.1,,,egan.davis@ubc.ca,20190919003613,finnkopf@mail.ubc.ca,20200914225900,49.270027,-123.249772
 1859,Fagaceae ,Fagus sylvatica ,European beech ,Y,1859,,,,,,,,,,,,,,15.6,0,,,egan.davis@ubc.ca,20190919003709,finnkopf@mail.ubc.ca,20200914230344,49.269986,-123.249868
 6876,Sapindaceae ,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,13.8,0,,,egan.davis@ubc.ca,20190919003800,finnkopf@mail.ubc.ca,20200914225751,49.269954,-123.249898
 6878,Sapindaceae ,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,10.5,0.1,,,egan.davis@ubc.ca,20190919003901,finnkopf@mail.ubc.ca,20200914230521,49.269927,-123.249878
