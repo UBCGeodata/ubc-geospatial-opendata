@@ -135,7 +135,6 @@ RLC10147,BC Cancer Agency - North,1215 Lethbridge Street,,Prince George,BC,V2N 7
 RLC10148,BC's Agency for Pathology and Laboratory Medicine,"1867 West Broadway, Unit 300",,Vancouver,BC,V6J 1Y5,,Current,,,5289,,Hospital,,HR,,,RACHELW,20230110233826,BCAPL,Canada,ARLC10148,1207768.6068,476123.597
 RLC10149,Compass Clinic,"1720 Grant Street, Unit 302",,Vancouver,BC,V5L 2Y7,,Current,,,5290,,Hospital,,HR,,,RACHELW,20230110233826,COMPC,Canada,ARLC10149,1211221.1513,475368.6416
 RLC10150,Granville Youth Health Centre,1260 Granville Street,,Vancouver,BC,V6Z 1M4,,Current,,,5291,,Hospital,,HR,,,RACHELW,20230110233826,GTYHC,Canada,ARLC10150,1209179.7781,477591.7608
-RLC10152,The Centre for Blood Research,"2150 Western Parkway, Unit 207",,Vancouver,BC,V6T 1Z5,,Current,,,5292,,Hospital,,HR,,,RACHELW,20230110233826,TCFBR,Canada,ARLC10152,1200750.1296,476098.5853
 RLC10154,Strathcona Mental Health Team,"330 Heatley Avenue, Unit 201",,Vancouver,BC,V6A 3G3,,Current,,,5293,,Hospital,,HR,,,RACHELW,20230110233826,STMHT,Canada,ARLC10154,1211899.0952,478300.4736
 RLC10155,Surrey Mental Health Office,13401 108th Avenue,,Surrey,BC,V3T 5T3,,Current,,,5294,,Hospital,,HR,,,RACHELW,20230110233826,SRMHO,Canada,ARLC10155,1229708.5188,469845.3699
 RLC10157,Kinexus Bioinformatics Corporation,"8755 Ash Street, Unit 1",,Vancouver,BC,V6P 6T3,,Current,,,5295,,Hospital,,HR,,,RACHELW,20230110233826,KINBC,Canada,ARLC10157,1210080.269,469823.2271
@@ -236,6 +235,7 @@ RLC10432,Remote Work Location - Nova Scotia,,,,NS,B3J 2Y2,,Current,,,5404,Remote
 RLC10437,Remote Work Location - Prince Edward Island,,,,PE,C1A 7L7,,Current,,,5408,Remote,Regional,,,RACHELW,20220124221150,RACHELW,20230110233826,WCBPE1,Canada,ARLC10437,5262304.3807,2164545.6888
 RLC10430,Remote Work Location - Quebec,,,,QC,G1M 1A1,,Current,,,5402,Remote,Regional,,,RACHELW,20220124221346,RACHELW,20230110233826,WCBQC1,Canada,ARLC10430,4792596.9727,1745360.8115
 RLC10439,ChangePain Clinic,"5655 Cambie Street, Lower Level",,Vancouver,BC,V5Z 3A4,,Current,,,5411,,Hospital,,HR,RACHELW,20220408214914,RACHELW,20230110233827,CHPCL,Canada,ARLC10439,1210124.4324,472912.1303
+RLC10152,University Marketplace,2150 Western Parkway,,Vancouver,BC,V6T 1Z5,,Current,,,5292,,Hospital,,HR,,,RACHELW,20230207191234,TCFBR,Canada,ARLC10152,1200750.1296,476098.5853
 RLC10369,LifeLabs Cam Coady Building,7455 130th Street,,Surrey,BC,V3W 1H8,Formerly "BC Biomedical Laboratories" which merged with LifeLabs,Current,,,5378,,Hospital,,HR,GISSTUD1,20190920230709,RACHELW,20230110233826,LLCCB,Canada,ARLC10369,1229154.1234,463118.0916
 RLC10371,Nelson Health Centre,333 Victoria Street,,Nelson,BC,V1L 4K3,,Current,,,5380,,Hospital,,Community Educational Facility,GISSTUD1,20190920231003,RACHELW,20230110233826,NELHC,Canada,ARLC10371,1629437.3571,535878.1393
 RLC10373,Richmond Mental Health Team,"7671 Alderbridge Way, Unit 210",,Richmond,BC,V6X 1Z9,,Current,,,5382,,Hospital,,HR,GISSTUD1,20190920231355,RACHELW,20230110233826,RMMHT,Canada,ARLC10373,1208361.0088,466213.1763

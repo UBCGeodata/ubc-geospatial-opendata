@@ -3,6 +3,7 @@ Academic,C.K. Choi Building,CHOI,1855 West Mall,V6T 1Z2,VBL10338,Complete,-123.2
 Other,Telus Hub,TELS,5895 Berton Avenue,V6T 1W5,VBL10179,Complete,-123.235473,49.255225
 Operations,Building Operations Storage Shed,BOSS,2214 Lower Mall,V6T 1Z4,VBL10207,Complete,-123.254414,49.262185
 Parking,Rose Garden Parkade,PARR,6278 NW Marine Drive,V6T 1Z1,VBL10054,Complete,-123.256303,49.269111
+StudentHousing,Marine Drive Residence - 6,MAR6,"2205 Lower Mall, Building 6",V6T 1Z4,VBL10218,Complete,-123.256063,49.261079
 Academic,Leon and Thea Koerner University Centre,UCEN,6331 Crescent Road,V6T 1Z2,VBL10093,Complete,-123.257217,49.268895
 Parking,Health Sciences Parkade,PARH,2250 Health Sciences Mall,V6T 1Z3,VBL10357,Complete,-123.247842,49.263405
 Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,Complete,-123.245958,49.26326
@@ -85,8 +86,6 @@ Housing,Esse,ESSE,1863 Wesbrook Mall,V6T 2J7,VBL10280,Complete,-123.24831,49.271
 Housing,The Bristol,BRIS,5735 Hampton Place,V6T 2G8,VBL10286,Complete,-123.235006,49.258841
 Housing,The Regency,REGE,5639 Hampton Place,V6T 2H6,VBL10287,Complete,-123.232862,49.259107
 Housing,Argyll House East,ARGE,5958 Iona Drive,V6T 2L2,VBL10288,Complete,-123.249551,49.271406
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q̓əlɬaləməcən leləm̓ (Orca),QLCN,5965 Student Union Boulevard,V6T 1K2,VBL10381,Complete,-123.249653,49.268822
-Services,UBC Bookstore,BOOK,6200 University Boulevard,V6T 1Z4,VBL10065,Complete,-123.250592,49.264988
 Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,UnderConstruction,-123.252378,49.269067
 Services,Third Space,THSP,6363 Biological Sciences Road,V6T 1Z4,VBL10447,UnderConstruction,-123.253241,49.263008
 Services,Green College - D Commons,GRN8,"6201 Cecil Green Park Road, Building 3",V6T 1Z1,VBL10435,Complete,-123.256687,49.271298
@@ -117,8 +116,7 @@ Services,Walter H. Gage Residence - Commonsblock,WGR1,"5959 Student Union Boulev
 Operations,Campus Energy Centre,CEC,6130 Agronomy Road,V6T 1Z3,VBL10339,Complete,-123.245083,49.261648
 Research,Building 3800 Wesbrook Mall,3800,3800 Wesbrook Mall,V6S 2L9,VBL10236,Complete,-123.230294,49.250196
 StudentHousing,Walter H. Gage Residence - East Tower,WGR4,"5959 Student Union Boulevard, Building 3",V6T 1K2,VBL10393,Complete,-123.249158,49.269645
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ leləm̓ (Herring),SLWT,1945 Wesbrook Mall,V6T 1K2,VBL10383,Complete,-123.247923,49.269589
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - təməs leləm̓ (Sea Otter),TMES,1885 Wesbrook Mall,V6T 1K2,VBL10384,Complete,-123.248031,49.270168
+Services,UBC Bookstore Building,BOOK,6200 University Boulevard,V6T 1Z4,VBL10065,Complete,-123.250592,49.264988
 Research,TRIUMF - Accelerator Trailer,TRF03,"4004 Wesbrook Mall, Building 15",V6T 2A3,VBL10023,Complete,-123.230129,49.246851
 Research,TRIUMF - Equipment Marque,TRF06,"4004 Wesbrook Mall, Building 20",V6T 2A3,VBL10028,Complete,-123.230714,49.246738
 Research,TRIUMF - Trailer PP,TRF24,"4004 Wesbrook Mall, Building 25",V6T 2A3,VBL10053,Complete,-123.229145,49.246359
@@ -176,7 +174,6 @@ Services,Food and Beverage Innovation Centre,FBIC,2220 East Mall,V6T 1Z3,VBL1044
 Services,Marine Drive Residence - 3 Commonsblock,MAR3,"2205 Lower Mall, Building 3",V6T 1Z4,VBL10088,Complete,-123.256859,49.26141
 StudentHousing,Marine Drive Residence - 4,MAR4,"2205 Lower Mall, Building 4",V6T 1Z4,VBL10217,Complete,-123.255361,49.261563
 StudentHousing,Marine Drive Residence - 5,MAR5,"2205 Lower Mall, Building 5",V6T 1Z4,VBL10089,Complete,-123.254905,49.261115
-StudentHousing,Marine Drive Residence - 6,MAR6,"2205 Lower Mall, Building 6",V6T 1Z4,VBL10218,Complete,-123.256062,49.261079
 StudentHousing,Marine Drive Residence - 1 Simon Lee,MAR1,"2205 Lower Mall, Building 1",V6T 1Z4,VBL10319,Complete,-123.255876,49.262001
 Housing,Eton - Apartment,ETN2,5687 Gray Avenue,V6S 0K7,VBL10136,Complete,-123.231376,49.253202
 Services,Child Care Services - Sitka/Discovery,CCS6,5620 Osoyoos Crescent,V6T 2E6,VBL10140,Complete,-123.234519,49.259762
@@ -189,12 +186,10 @@ Academic,Biological Sciences Building,BIOL,6270 University Boulevard,V6T 1Z4,VBL
 Housing,Spirit,SPRT,3478 Wesbrook Mall,V6S 0B6,VBL10238,Complete,-123.233615,49.252986
 Academic,Pharmaceutical Sciences Building,PHRM,2405 Wesbrook Mall,V6T 1Z3,VBL10110,Complete,-123.243346,49.262279
 Operations,Pump House,PUMP,6355 University Boulevard,V6T 1Z2,VBL10420,Complete,-123.254161,49.264621
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimək̓ʷ leləm̓ (Octopus),SQMK,1875 Wesbrook Mall,V6T 1K2,VBL10382,Complete,-123.248315,49.270523
 Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.262634
 Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V6T 1W9,VBL10231,Complete,-123.252981,49.25804
 StudentHousing,Marine Drive Residence - 2,MAR2,"2205 Lower Mall, Building 2",V6T 1Z4,VBL10317,Complete,-123.256765,49.261877
-StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθən leləm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,Complete,-123.248518,49.269217
 Administrative,Technology Enterprise Facility 4,TEF4,2425 Health Sciences Mall,V6T 1Z3,VBL10429,PreConstruction,-123.245773,49.261291
 Administrative,UBC Gateway Building,GATE,5955 University Boulevard,V6T 0C4,VBL10442,UnderConstruction,-123.246487,49.266758
 Academic,George Cunningham Building,CUNN,2146 East Mall,V6T 1Z3,VBL10039,Complete,-123.248732,49.264787
@@ -210,8 +205,9 @@ Academic,Earth Sciences Building,ESB,2207 Main Mall,V6T 1Z4,VBL10072,Complete,-1
 Academic,The Brimacombe Building,BRIM,2355 East Mall,V6T 1Z4,VBL10066,Complete,-123.248073,49.26186
 Services,AMS Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Complete,-123.249808,49.266562
 Athletics,UBC Aquatic Centre,AQUA,6080 Student Union Boulevard,V6T 1Z1,VBL10071,Complete,-123.248595,49.267789
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q̓əlɬaləməcən leləm̓ (Orca),QLCN,5965 Student Union Boulevard,V6T 1K2,VBL10381,Complete,-123.249653,49.268822
 Commons,"Orchard Commons - Vantage College, Bartlett/Braeburn House",ORCH,6363 Agronomy Road,V6T 1Z4,VBL10013,Complete,-123.251329,49.260462
-StudentHousing,Totem Park Residence - c̓əsnaʔəm House,TPR7,"2525 West Mall, Building 7",V6T 1W9,VBL10105,Complete,-123.251637,49.256811
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ leləm̓ (Herring),SLWT,1945 Wesbrook Mall,V6T 1K2,VBL10383,Complete,-123.247923,49.269589
 Housing,Pacific,PACC,5928 Birney Avenue,V6S 0B5,VBL10169,Complete,-123.234987,49.253278
 Athletics,UBC Baseball Rose Indoor Training Centre,BTC,3085 Wesbrook Mall,V6T 1Z4,VBL10237,Complete,-123.239512,49.256214
 Housing,Virtuoso,VIRT,3581 Ross Drive,V6S 0K5,VBL10345,Complete,-123.233967,49.250732
@@ -233,12 +229,16 @@ Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,V6S 0L3,VB
 Housing,Chancellor House - Duplexes,CHOD,6002 Chancellor Boulevard,V6T 1E7,VBL10385,Complete,-123.251856,49.27198
 Housing,Chancellor House - Apartment,CHOA,6015 Iona Drive,V6T 2J4,VBL10387,Complete,-123.251437,49.27156
 Housing,Sail - Building 2,SAL2,5981 Gray Avenue,V6S 0G1,VBL10390,Complete,-123.235208,49.252624
+StudentHousing,Totem Park Residence - q̓ələχən House,TPR4,"2525 West Mall, Building 4",V6T 1W9,VBL10016,Complete,-123.251545,49.259167
+StudentHousing,Totem Park Residence - c̓əsnaʔəm leləm̓,TPR7,"2525 West Mall, Building 7",V6T 1W9,VBL10105,Complete,-123.251637,49.256811
+StudentHousing,Totem Park Residence - həm̓ləsəm̓ House,TPR5,"2525 West Mall, Building 5",V6T 1W9,VBL10128,Complete,-123.251195,49.258604
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimək̓ʷ leləm̓ (Octopus),SQMK,1875 Wesbrook Mall,V6T 1K2,VBL10382,Complete,-123.248315,49.270523
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - təməs leləm̓ (Sea Otter),TMES,1885 Wesbrook Mall,V6T 1K2,VBL10384,Complete,-123.248031,49.270168
+StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθən leləm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,Complete,-123.248518,49.269217
 Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255524,49.260553
 StudentHousing,Totem Park Residence - Dene/Nootka House,TPR2,"2525 West Mall, Building 2",V6T 1W9,VBL10126,Complete,-123.253225,49.258715
 StudentHousing,Totem Park Residence - Haida/Salish House,TPR6,"2525 West Mall, Building 6",V6T 1W9,VBL10002,Complete,-123.252622,49.257476
 StudentHousing,Totem Park Residence - Kwakiutl/Shuswap House,TPR3,"2525 West Mall, Building 3",V6T 1W9,VBL10127,Complete,-123.252324,49.259362
-StudentHousing,Totem Park Residence - həm̓ləsəm̓ House,TPR5,"2525 West Mall, Building 5",V6T 1W9,VBL10128,Complete,-123.251195,49.258604
-StudentHousing,Totem Park Residence - q̓ələχən House,TPR4,"2525 West Mall, Building 4",V6T 1W9,VBL10016,Complete,-123.251545,49.259167
 Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234582,49.257507
 Housing,Coast - Duplexes,COSD,6098 Chancellor Boulevard,V6T 1E7,VBL10399,Complete,-123.25321,49.271317
 Housing,Thames Court - Building 1,THAC1,"5880 Hampton Place, Building 1",V6T 2E9,VBL10417,Complete,-123.235775,49.257255
