@@ -213,7 +213,6 @@
 4246,,Calocedrus decurrens,California Incense-Cedar,,,,,,,,,,,,,,,,22.9,0.1,,,PLAN,20190614175907,PLAN,20200914230212,49.265472,-123.25502
 4278,,Acer griseum,Paperbark Maple,,,,,,,,,,,,,,,,18.3,0,,,PLAN,20190614175907,PLAN,20200914230436,49.266303,-123.253472
 4290,,Thuja occidentalis,Northern White-Cedar,,,,,,,,,,,,,,,,8.2,0,,,PLAN,20190614175907,PLAN,20200914230456,49.266394,-123.25145
-4291,,Acer palmatum var. dissectum 'Atropurpureum',,,,,,,,,,,,,,,,,2.9,0.2,,,PLAN,20190614175907,PLAN,20200914230201,49.266822,-123.251794
 4930,,Acer palmatum,Japanese Maple,,,,,,,,,,,,,,,,14.3,0.1,,,PLAN,20190614175839,PLAN,20200914225653,49.263763,-123.249614
 6625,,Acer rubrum,Red Maple,,,,,,,,,,,,,,,,12.7,0.1,,,PLAN,20190614175851,PLAN,20200914230943,49.263815,-123.243709
 6626,,Acer rubrum,Red Maple,,,,,,,,,,,,,,,,12.4,0.1,,,PLAN,20190614175851,PLAN,20200914225717,49.263728,-123.243643
@@ -8426,12 +8425,15 @@
 2583,Sapindaceae,Acer rubrum,red maple,Y,,Live,21,6.2,,,3.6,3.7,10,5,,1,Deciduous,20200301,5.4,0.1,,,PLAN,20190614175848,laura.grant@ubc.ca,20221219214133,49.260782,-123.246612
 2169,Fagaceae,Fagus sylvatica 'Dawyck',upright European beech,N,,Live,18,8.6,,,2.9,3,10,5,,1,Deciduous,20200301,7.7,0,,,PLAN,20190614175908,laura.grant@ubc.ca,20221219214312,49.26026,-123.249301
 2569,Sapindaceae,Acer x freemanii,Freeman maple,N,,Live,21,12.8,,1.82,2.6,2,30,5,,2,Deciduous,20200301,12,0,,,PLAN,20190614175848,laura.grant@ubc.ca,20221219214540,49.260884,-123.248485
+4291,Sapindaceae,Acer palmatum var. dissectum atropurpureum,red dissected  lace leaf Japanese maple,,,Live,,,,,,,,,,,Deciduous,,2.9,0.2,,,PLAN,20190614175907,laura.grant@ubc.ca,20230221035235,49.266822,-123.251794
 2797,Sapindaceae,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,7.2,0.1,,,PLAN,20190614175846,laura.grant@ubc.ca,20221219215449,49.263731,-123.254713
 2754,Sapindaceae,Acer platanoides,Norway maple 'Crimson King',,,Live,,,,,,,,,,,Deciduous,,12,0.2,,,PLAN,20190614175845,laura.grant@ubc.ca,20221219215629,49.263661,-123.253631
 8609,Hamamelidaceae,Parrotia persica,Persian ironwood,,,Live,,,,,,,,,,,Deciduous,,6.7,0,,,GISSTUD1,20200106234106,laura.grant@ubc.ca,20221219220029,49.259666,-123.242622
 8122,Sapindaceae,Acer x freemanii,Freeman maple,,,Live,,,,,,,,,,,Deciduous,,9.7,0.1,,,GISSTUD1,20200106234319,laura.grant@ubc.ca,20221219220346,49.261236,-123.242568
 7845,,,Removed,,,Dead,,,,,,,,,,,,,8.1,0,,,GISSTUD1,20200107001011,laura.grant@ubc.ca,20221219220559,49.259829,-123.241125
 7713,,,Removed,,,Dead,,,,,,,,,,,,,7.1,0,,,GISSTUD1,20200107000728,laura.grant@ubc.ca,20221219221143,49.258394,-123.240749
+,Sapindaceae,Acer palmatum 'Bloodgood',Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20230221035342,laura.grant@ubc.ca,20230221035342,49.263951,-123.252704
+,Sapindaceae,Acer palmatum 'Bloodgood',Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20230221035414,laura.grant@ubc.ca,20230221035414,49.263914,-123.252685
 7446,Fagaceae,Fagus sylvatica 'Dawyck',European beech,,,Live,,,,,,,,,,,Deciduous,,4.7,0,,,GISSTUD2,20200117235921,laura.grant@ubc.ca,20221205223924,49.257371,-123.239362
 7447,Fagaceae,Fagus sylvatica 'Dawyck',European beech,,,Live,,,,,,,,,,,Deciduous,,5.1,0.1,,,GISSTUD2,20200117235926,laura.grant@ubc.ca,20221205223945,49.25736,-123.239388
 7448,Fagaceae,Fagus sylvatica 'Dawyck',European beech,,,Live,,,,,,,,,,,Deciduous,,4.6,0.1,,,GISSTUD2,20200117235928,laura.grant@ubc.ca,20221205224009,49.257346,-123.239428
