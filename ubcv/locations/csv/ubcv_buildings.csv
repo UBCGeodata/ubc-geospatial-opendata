@@ -4,7 +4,6 @@ VBL10103,Djavad Mowafaghian Centre for Brain Health,CBH,Complete,20131121,Servic
 VBL10108,Place Vanier Residence - Commonsblock,VNR03,Complete,19600101,Services,StudentHousing,UBC,Academic,SHHS,Occupied,,Concrete,3,13.98,5074,544,1,,,GISSTUD2,20190514205559,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.258583,49.26465
 VBL10129,Donald Rix Building,RIX,Complete,20000101,Administrative,Research,Non-UBC,Academic,UBCPT,Occupied,,Concrete,4,20.58,5008,458,0,,,,,TOML,20230214195240,Unspecified,,,,B2,LeasedFromUBC,-123.2463,49.261972
 VBL10132,"TRIUMF - Offices, Laboratory & Workshops",TRF14,Complete,20030101,Research,,Non-UBC,Academic,Non-UBC,Occupied,,Steel,2,11.52291,3264,854,0,,,GISSTUD2,20190514182356,TOML,20230214195240,Unspecified,,,,B3,LeasedFromUBC,-123.230598,49.247655
-VBL10138,Old Administration Building,OAB,Complete,19240101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,11.68,2266,017,0,,,,,TOML,20230214195240,Unspecified,Critical,,UBC,B2,,-123.255511,49.267105
 VBL10140,Child Care Services - Sitka/Discovery,CCS6,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.0299,382,202,1,,,GISSTUD2,20190514224944,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.234519,49.259762
 VBL10141,Child Care Services - Summer of 73/Lilliput,CCS7,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,5.9514,382,200,1,,,GISSTUD2,20190514225053,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.23547,49.25945
 VBL10142,Child Care Services - Tillicum/Canada Goose,CCS8,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.1322,386,201,1,,,GISSTUD2,20190514225127,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.234985,49.259596
@@ -44,12 +43,10 @@ VBL10275,Child Care Services - Little Raven/Pacific Spirit,CCS4,Complete,1989010
 VBL10276,Child Care Services - Sandpiper/Auklet,CCS5,Complete,20080101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.90311,767,206,1,,,GISSTUD2,20190514224909,TOML,20230214195240,Unspecified,Good,,UBC,B2,,-123.234743,49.26026
 VBL10282,Chan Centre for the Performing Arts,CHAN,Complete,19970101,Services,Academic,UBC,Academic,UBC,Occupied,,Concrete,6,29.76,8214,130,0,,,,,TOML,20230214195240,Unspecified,Fair,,UBC,B1,,-123.25511,49.269771
 VBL10306,Child Care Services Administration Building,CCSA,Complete,19900101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.85,1205,155,1,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.234257,49.26093
-VBL10315,Morris and Helen Belkin Art Gallery,BART,Complete,19950101,Services,Academic,UBC,Academic,UBC,Occupied,,Steel,3,12.29743,1504,568,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B1,,-123.25619,49.268169
 VBL10318,UBC Hospital - Koerner Pavilion,KPAV,Complete,19800101,Services,Research,Non-UBC,Academic,VCH,Occupied,,Concrete,5,30.97,40372,463,0,,,,,TOML,20230214195240,Unspecified,,,Shared,B2,LeasedFromUBC,-123.245991,49.264151
 VBL10331,Brock Hall,BRCK,Complete,19400101,Services,,UBC,Academic,UBC,Occupied,,Concrete,3,16.75063,11428,112-1;112;113,1,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.252062,49.268639
 VBL10332,Campus & Community Planning,CCP,Complete,19470101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,8.26772,1389,643;029,1,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B3,,-123.253282,49.262441
 VBL10334,UBC Hospital - Detwiller Pavilion,DPAV,Complete,19680101,Services,Research,Non-UBC,Academic,VCH,Occupied,,Concrete,7,28.93,12963,537;537-1,0,,,,,TOML,20230214195240,Unspecified,,,Shared,B2,LeasedFromUBC,-123.244471,49.26356
-VBL10335,Old Auditorium,AUDI,Complete,19250101,Services,Academic,UBC,Academic,UBC,Occupied,,Wood,3,16.19,2634,044,0,,RENEW,,,TOML,20230214195240,Unspecified,Fair,,UBC,B1,,-123.256101,49.266902
 VBL10357,Health Sciences Parkade,PARH,Complete,19800101,Parking,,UBC,Academic,Parking,Occupied,,Concrete,5,12.63436,31481,467,0,,,,,RACHELW,20230126175333,Parking,Poor,,UBC,B4,,-123.247842,49.263405
 VBL10341,Cecil Green Park Coach House,CGPC,Complete,19110101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,8.9975,243,421,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B3,,-123.25847,49.271001
 VBL10342,Cecil Green Park House,CGPH,Complete,19110101,Services,,UBC,Academic,UBC,Occupied,,Wood,5,16.04,2080,420,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.25769,49.271387
@@ -62,7 +59,6 @@ VBL10374,Kids Club,KIDS,Complete,19850101,Services,,UBC,Academic,SHHS,Occupied,,
 VBL10375,Child Care Services - Willow,MCC3,Complete,20191129,Services,,UBC,Academic,SHHS,Occupied,,OtherMixed,1,4.29,312,208,0,,,GISSTUD2,20190524184642,TOML,20230214195240,Unspecified,,,UBC,B2,,-123.235327,49.260828
 VBL10376,Ladner Clock Tower,CLCK,Complete,19680101,Services,,UBC,Academic,UBC,Occupied,,Concrete,1,33.4209,45,182,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B3,,-123.253656,49.267351
 VBL10388,UBC Hospital - Purdy Pavilion,PPAV,Complete,19770101,Services,Research,Non-UBC,Academic,VCH,Occupied,,Concrete,6,27.51,16266,462,0,,,,,TOML,20230214195240,Unspecified,,,Shared,B2,LeasedFromUBC,-123.245958,49.26326
-VBL10405,Frederic Wood Theatre,FRWO,Complete,19630101,Services,Academic,UBC,Academic,UBC,Occupied,,Concrete,3,19.44,2896,376;376-1,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B1,,-123.256958,49.268053
 VBL10419,UBC Botanical Garden - Shop/Gatehouse Entrance,BOT1,Complete,19900101,Services,,UBC,Academic,UBC,Occupied,,Wood,1,6.21321,150,097,0,,,RACHELW,20190828231732,TOML,20230214195240,Unspecified,Critical,,UBC,B1,,-123.250549,49.254038
 VBL10421,UBC Counselling Services Annex,CNSL,Complete,,Services,,UBC,Academic,UBC,Unoccupied,,Wood,1,4.8905,479,TMP001,0,,,GISSTUD2,20190923201149,TOML,20230214195240,Unspecified,,,UBC,B2,,-123.25199,49.268227
 VBL10371,International House,INTL,Complete,19580101,Services,,UBC,Academic,UBC,Occupied,,Concrete,3,8.71,1142,472,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.25896,49.2678
@@ -79,7 +75,6 @@ VBL10442,UBC Gateway Building,GATE,UnderConstruction,,Administrative,,UBC,Academ
 VBL10012,UBC Farm - Greenhouse 2,FRM5,Complete,19820101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,3.25706,143,071-2,0,,,GISSTUD2,20190514191008,TOML,20230214195240,Outbuildings,Critical,,UBC,B3,,-123.239002,49.251043
 VBL10015,UBC Farm - Children's Greenhouse,FRM3,Complete,19900101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,2.62205,118,387,0,,,GISSTUD2,20190514191058,TOML,20230214195240,Outbuildings,Critical,,UBC,B3,,-123.239793,49.251477
 VBL10019,Environmental Services Facility - Waste Processing & Storage,ENV7,Complete,19860101,Operations,,UBC,Academic,UBC,Occupied,,Concrete,1,5.29159,199,142,0,,,GISSTUD2,20190513231047,TOML,20230214195240,Outbuildings,Critical,,UBC,B3,,-123.22872,49.243446
-VBL10024,Power House,POWR,Complete,19250101,Operations,,UBC,Academic,UBC,Unoccupied,,Concrete,4,15.89002,2448,724;724-1;724-2;724-3;725,0,,,,,TOML,20230214195240,Unspecified,Critical,,UBC,B3,,-123.254802,49.26521
 VBL10069,Bioenergy Research and Demonstration Facility,BRDF,Complete,20120614,Operations,,UBC,Academic,UBC,Occupied,LEED Gold,Wood,2,12.55549,1950,019,0,,,,,TOML,20230214195240,Unspecified,Good,,UBC,B2,,-123.254521,49.260296
 VBL10257,Carey Centre,CRYC,Complete,20050321,Other,Housing,Non-UBC,Chancellor,Non-UBC,Occupied,,Concrete,6,16.42,4127,807,0,,,GISSTUD2,20190514225613,RACHELW,20220812173148,Unspecified,,,,B3,LeasedFromUBC,-123.248908,49.27152
 VBL10030,TRIUMF - Hazardous Storage,TRF08,Complete,20050715,Research,,Non-UBC,Academic,Non-UBC,Occupied,,OtherMixed,1,3.05,77,842-1,0,,,GISSTUD2,20190514181531,TOML,20230214195240,Outbuildings,,,,B3,LeasedFromUBC,-123.229328,49.246732
@@ -146,7 +141,6 @@ VBL10280,Esse,ESSE,Complete,20050811,Housing,,UNA,Chancellor,Private,Occupied,,W
 VBL10286,The Bristol,BRIS,Complete,19951109,Housing,,UNA,Hampton,Private,Occupied,,Wood,5,18.40179,12635,505,0,,new GBA taken from spreadsheet,,,TOML,20220224175718,AptLess5Storey,,,,B5,,-123.235006,49.258841
 VBL10287,The Regency,REGE,Complete,19991224,Housing,,UNA,Hampton,Private,Occupied,,Concrete,20,51.53,11905,507,0,,new GBA taken from spreadsheet,,,TOML,20220224175718,Apt5StoreyPlus,,,,B5,,-123.232862,49.259107
 VBL10288,Argyll House East,ARGE,Complete,20060929,Housing,,UNA,Chancellor,Private,Occupied,,Concrete,8,23.18321,6878,810,0,,new GBA taken from spreadsheet,,,TOML,20220224175718,Apt5StoreyPlus,,,,B5,,-123.249551,49.271406
-VBL10278,David Lam Management Research Centre,DLAM,Complete,19920101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,28.57,5517,490;490-1;490-2,1,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.25432,49.265712
 VBL10283,West Mall Annex,WMAX,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,9.5803,1962,863-1,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.257156,49.26625
 VBL10285,Wood Drying Laboratory,WDL,Complete,19900101,Academic,Research,UBC,Academic,UBC,Occupied,,Wood,1,6.51,283,385,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.252249,49.261475
 VBL10292,Iona Building,IONA,Complete,19290101,Academic,StudentHousing,UBC,Chancellor,UBC,Occupied,,Concrete,8,30.58492,7298,836,1,,,,,TOML,20230214194717,Unspecified,Good,,UBC,B2,,-123.250309,49.270988
@@ -187,7 +181,6 @@ VBL10014,UBC Farm - Farm Centre,FRM1,Complete,19800101,Academic,,UBC,Academic,UB
 VBL10001,Earth and Ocean Sciences,EOS,Complete,19710101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,22.63,10727,402;403,1,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.25249,49.26251
 VBL10017,Centre for Comparative Medicine,CCM,Complete,20111223,Academic,Research,UBC,Academic,UBC,Occupied,,Concrete,2,8.49,10367,057,0,,,,,TOML,20230214194717,Unspecified,Good,,UBC,B2,,-123.233554,49.246819
 VBL10039,George Cunningham Building,CUNN,Complete,19600101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,17.648,4900,624;625,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.248732,49.264787
-VBL10042,Frederic Lasserre Building,LASR,Complete,19620101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,17.88196,4572,028,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.255979,49.267591
 VBL10044,Frank Forward Building,FORW,Complete,19680101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,29.635,7542,562,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.251692,49.26169
 VBL10047,Hebb Building,HEBB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,6,23.93,5957,656,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.251663,49.266129
 VBL10060,HR MacMillan Building,MCML,Complete,19670101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,19.55714,14342,386,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.250746,49.261066
@@ -208,7 +201,6 @@ VBL10085,Fred Kaiser Building,KAIS,Complete,20041012,Academic,,UBC,Academic,UBC,
 VBL10087,Aquatic Ecosystems Research Laboratory,AERL,Complete,20050826,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,6,19.33,5731,316,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.250977,49.26376
 VBL10092,Chan Gunn Pavilion,GUNN,Complete,20171027,Academic,Athletics,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,2,9.21,1810,438,0,,,PLAN,20171102230832,TOML,20230214194717,Unspecified,,,UBC,B2,,-123.241655,49.260939
 VBL10099,Hector J. MacLeod Building,MCLD,Complete,19630101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,16.58,7282,312,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.249401,49.261716
-VBL10101,Music Building,MUSC,Complete,19670101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,22.7353,6593,575,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B1,,-123.256781,49.267437
 VBL10102,P. A. Woodward Instructional Resources Centre,IRC,Complete,19720101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,26.98,10842,473;475,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.246848,49.264822
 VBL10107,School of Population & Public Health,SPPH,Complete,19790101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,17.45539,8280,513,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.248416,49.26424
 VBL10109,Indian Residential School History and Dialogue Centre (IRSHDC),IRSC,Complete,20170621,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,8.58,606,514,0,,,PLAN,20170914214805,TOML,20230214194717,Unspecified,,,UBC,B1,,-123.253741,49.266994
@@ -225,7 +217,6 @@ VBL10131,Douglas T. Kenny Building,KENN,Complete,19830101,Academic,,UBC,Academic
 VBL10134,B.C. Binning Studios,BINN,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,10.5625,1501,324,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.254871,49.264604
 VBL10162,Centre for Interactive Research on Sustainability,CIRS,Complete,20110831,Academic,,UBC,Academic,UBC,Occupied,LEED Platinum,OtherMixed,6,23.37,5691,633,0,,,,,TOML,20230214194717,Unspecified,Good,,UBC,B2,,-123.25308,49.262051
 VBL10177,Liu Institute for Global Issues,LIU,Complete,20000101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.19421,1713,496,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.259267,49.267549
-VBL10154,Walter C. Koerner Library,KLIB,Complete,19720101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,7,29.2789,17777,515;515-1,1,,,GISSTUD1,20180319192303,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.255125,49.26665
 VBL10201,Mary Bollert Hall,MBOL,Complete,19500101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,3,8.90813,1318,614,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.25602,49.270572
 VBL10204,Anthropology and Sociology Building,ANSO,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.8925,6220,048;876-1;876-2;880,1,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.257691,49.270316
 VBL10209,Theatre-Film Production Building,TFPB,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,13.78,772,036;036-1,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.253928,49.263869
@@ -233,11 +224,8 @@ VBL10221,Michael Smith Laboratories,MSL,Complete,20040101,Academic,,UBC,Academic
 VBL10223,Totem Field Studios,TFS,Complete,19630101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,9.77439,1187,668;668-1,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.249001,49.256128
 VBL10227,Asian Centre,ACEN,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,23.66056,4926,046,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.25871,49.266752
 VBL10228,Auditorium Annexes,AUDX,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,9.67894,2431,863-2;045,1,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.256625,49.266582
-VBL10229,Mathematics Building,MATH,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,3,11.83,4520,518,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.255556,49.26645
 VBL10245,UBC Farm - Harvest Hut / Market,FRM2,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Wood,1,4.73,150,670,0,,,GISSTUD2,20190514191138,TOML,20230214194717,Outbuildings,Critical,,UBC,B1,,-123.237933,49.250758
-VBL10216,Mathematics Annex,MATX,Complete,19240101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,11.03445,1481,519,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.254848,49.266103
 VBL10248,UBC Life Building,LIFE,Complete,19680101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,3,18.7017,20244,790;790-1;790-2,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.250062,49.267434
-VBL10252,The Leonard S. Klinck Building,LSK,Complete,19470101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,21.8736,10194,308;308-1,0,,,,,TOML,20230214194717,Unspecified,,,UBC,B2,,-123.255334,49.265432
 VBL10262,Woodward Library,WLIB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,21.11571,7695,536;536-1,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.24757,49.264563
 VBL10266,Wesbrook Building,WESB,Complete,19490101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,19.34,10664,864;867,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.249156,49.265251
 VBL10205,The Pemberley,PEMB,Complete,19970725,Housing,,UNA,Hampton,Private,Occupied,,Wood,6,18.67364,5733,509,0,,new GBA taken from spreadsheet,,,TOML,20220224175718,AptLess5Storey,,,,B5,,-123.232193,49.258013
@@ -409,6 +397,14 @@ VBL10250,Ritsumeikan-UBC House,RITS,Complete,19920101,StudentHousing,,UBC,Academ
 VBL10260,Acadia Park Residence - Highrise,APRH,Complete,19670101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,13,3.46,8556,002-1,0,,,GISSTUD2,20190704154828,TOML,20220224175718,Apt5StoreyPlus,Fair,,UBC,B5,,-123.236813,49.26237
 VBL10365,Place Vanier Residence - Sherwood Lett House,VNR11,Complete,19600101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,5,13.64,2112,560,0,,,GISSTUD2,20190514210111,TOML,20220224175718,AptLess5Storey,Poor,,UBC,B5,,-123.257513,49.26339
 VBL10054,Rose Garden Parkade,PARR,Complete,19940101,Parking,,UBC,Academic,Parking,Occupied,,Concrete,5,12.95924,23185,528,0,,,,,RACHELW,20230216161541,Parking,Poor,,UBC,B6,,-123.256305,49.269119
+VBL10024,Power House,POWR,Complete,19250101,Operations,,UBC,Academic,UBC,Unoccupied,,Concrete,4,15.89002,2448,724;724-1;724-2;724-3;725,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B3,,-123.254802,49.26521
+VBL10042,Frederic Lasserre Building,LASR,Complete,19620101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,17.88196,4572,028,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B2,,-123.255979,49.267591
+VBL10101,Music Building,MUSC,Complete,19670101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,22.7353,6593,575,0,,,,,RACHELW,20230302024629,Unspecified,Poor,,UBC,B1,,-123.256781,49.267437
+VBL10138,Old Administration Building,OAB,Complete,19240101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,11.68,2266,017,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B2,,-123.255511,49.267105
+VBL10154,Walter C. Koerner Library,KLIB,Complete,19720101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,7,29.2789,17777,515;515-1,1,,,GISSTUD1,20180319192303,RACHELW,20230302024629,Unspecified,Poor,,UBC,B2,,-123.255125,49.26665
+VBL10216,Mathematics Annex,MATX,Complete,19240101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,11.03445,1481,519,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B2,,-123.254848,49.266103
+VBL10229,Mathematics Building,MATH,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,3,11.83,4520,518,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B2,,-123.255556,49.26645
+VBL10252,The Leonard S. Klinck Building,LSK,Complete,19470101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,21.8736,10194,308;308-1,0,,,,,RACHELW,20230302024629,Unspecified,,,UBC,B2,,-123.255334,49.265432
 VBL10337,Building Operations Nursery,BONR,Complete,20090101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,6.57,1316,768,0,,,,,TOML,20230214195240,Outbuildings,Good,,UBC,B3,,-123.229225,49.244432
 VBL10339,Campus Energy Centre,CEC,Complete,20160101,Operations,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,2,17.66,2000,521,0,,,,,TOML,20230214195240,Unspecified,Good,,UBC,B2,,-123.245083,49.261648
 VBL10354,UBC Exchange,TRAN,Complete,20170726,Operations,,Non-UBC,Academic,TransLink,Occupied,LEED Gold,Concrete,1,6.09946,19020,772,0,,,GISSTUD2,20190524190925,TOML,20230214195240,Parking,,,,B3,LeasedFromUBC,-123.247429,49.267759
@@ -433,3 +429,7 @@ VBL10095,Neville Scarfe Building,SCRF,Complete,19620101,Academic,,UBC,Academic,U
 VBL10071,UBC Aquatic Centre,AQUA,Complete,20161128,Athletics,,UBC,Academic,Athletics,Occupied,LEED Gold,Concrete,3,14.1771,7400,213,0,,,,,TOML,20230214215946,Unspecified,Good,,UBC,B1,,-123.248595,49.267789
 VBL10064,Wayne and William White Engineering Design Centre,EDC,Complete,20110808,Academic,,UBC,Academic,UBC,Occupied,,Concrete,3,14.34,1922,301,0,,,,,TOML,20230214215946,Unspecified,Good,,UBC,B2,,-123.248164,49.262333
 VBL10355,University Boulevard Lot,ULOT,Complete,20190107,Parking,Parking,UBC,Academic,Parking,Occupied,,Concrete,1,3.83731,6039,798,0,,,GISSTUD2,20190524190134,RACHELW,20230217172937,Parking,,,UBC,B6,,-123.248943,49.266722
+VBL10278,David Lam Management Research Centre,DLAM,Complete,19920101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,28.57,5517,490;490-1;490-2,1,,,,,RACHELW,20230302024629,Unspecified,Poor,,UBC,B2,,-123.25432,49.265712
+VBL10315,Morris and Helen Belkin Art Gallery,BART,Complete,19950101,Services,Academic,UBC,Academic,UBC,Occupied,,Steel,3,12.29743,1504,568,0,,,,,RACHELW,20230302024629,Unspecified,Poor,,UBC,B1,,-123.25619,49.268169
+VBL10335,Old Auditorium,AUDI,Complete,19250101,Services,Academic,UBC,Academic,UBC,Occupied,,Wood,3,16.19,2634,044,0,,RENEW,,,RACHELW,20230302024629,Unspecified,Fair,,UBC,B1,,-123.256101,49.266902
+VBL10405,Frederic Wood Theatre,FRWO,Complete,19630101,Services,Academic,UBC,Academic,UBC,Occupied,,Concrete,3,19.44,2896,376;376-1,0,,,,,RACHELW,20230302024629,Unspecified,Poor,,UBC,B1,,-123.256958,49.268053
