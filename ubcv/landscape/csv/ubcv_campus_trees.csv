@@ -6294,7 +6294,6 @@
 9375,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,6.4,0.4,,,GISSTUD1,20200106234815,laura.grant@ubc.ca,20221215175645,49.260248,-123.240822
 9377,Pinaceae,Picea smithiana,Himalayan spruce,,,Live,,,,,,,,,,,Evergreen,,6.6,0,,,GISSTUD1,20200106234816,laura.grant@ubc.ca,20221215180144,49.260346,-123.240874
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180220,laura.grant@ubc.ca,20221215180220,49.260321,-123.240878
-,Pinaceae,Picea,,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180441,laura.grant@ubc.ca,20221215180452,49.260296,-123.240867
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180102,laura.grant@ubc.ca,20221215180503,49.26028,-123.240853
 ,Pinaceae,Picea,,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180021,laura.grant@ubc.ca,20221215180517,49.260263,-123.24084
 9376,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,5.2,0.7,,,GISSTUD1,20200106234816,laura.grant@ubc.ca,20221215180555,49.260356,-123.240842
@@ -6302,7 +6301,6 @@
 9288,Salicaceae,Populus trichocarpa,black cottonwood,,,Live,,,,,,,,,,,Deciduous,,8,0.9,,,GISSTUD1,20200106234814,laura.grant@ubc.ca,20221215180728,49.260278,-123.2408
 9285,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,8.2,0.7,,,GISSTUD1,20200106234813,laura.grant@ubc.ca,20221215180857,49.260254,-123.240759
 ,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180944,laura.grant@ubc.ca,20221215180944,49.260285,-123.240783
-,Pinaceae,Picea,,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215181013,laura.grant@ubc.ca,20221215181013,49.260306,-123.240805
 9190,Rosaceae,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,4.8,0,,,GISSTUD2,20200207223457,laura.grant@ubc.ca,20221113031852,49.261992,-123.240251
 9193,Rosaceae,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,4.4,0,,,GISSTUD2,20200207223558,laura.grant@ubc.ca,20221113031935,49.262014,-123.240153
 9198,Rosaceae,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,5.1,0,,,GISSTUD2,20200207223935,laura.grant@ubc.ca,20221113032013,49.262077,-123.239328
@@ -6844,6 +6842,9 @@
 ,Cornaceae,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220902225415,laura.grant@ubc.ca,20221213015235,49.269499,-123.248083
 ,Cornaceae,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220902233225,laura.grant@ubc.ca,20221213015734,49.269803,-123.248127
 ,Cornaceae,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220902233248,laura.grant@ubc.ca,20221213015816,49.269771,-123.248134
+9383,Pinaceae,Picea brachytyla,sargent spruce,,,Live,,,,,,,,,,,Evergreen,,5.1,0.1,,,GISSTUD1,20200106234829,laura.grant@ubc.ca,20230311205303,49.260342,-123.241025
+,Pinaceae,Picea brachytyla,sargent spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215181013,laura.grant@ubc.ca,20230311205345,49.260306,-123.240805
+,Pinaceae,Picea brachytyla,sargent spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180441,laura.grant@ubc.ca,20230311205426,49.260296,-123.240867
 7856,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,20.5,0.1,,,GISSTUD1,20200106220351,finnkopf@mail.ubc.ca,20200914230621,49.268807,-123.25138
 7857,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,19.2,0.1,,,GISSTUD1,20200106220351,finnkopf@mail.ubc.ca,20200914225823,49.268869,-123.251422
 7858,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,20.3,0.1,,,GISSTUD1,20200106220352,finnkopf@mail.ubc.ca,20200914225633,49.268928,-123.251468
@@ -6963,7 +6964,6 @@
 3228,Cupressaceae,Chamaecyparis pisifera 'Boulevard',Sawara-Cypress,,,Live,,,,,,,,,,,Evergreen,,15.6,0,,,PLAN,20190614175821,laura.grant@ubc.ca,20221128191013,49.266586,-123.251566
 9382,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,4.8,0.1,,,GISSTUD1,20200106234828,laura.grant@ubc.ca,20221129201301,49.260349,-123.240989
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,2,,Evergreen,,,,,,laura.grant@ubc.ca,20221129201403,laura.grant@ubc.ca,20221129201403,49.260346,-123.241009
-9383,Pinaceae,Picea omorika,Serbian spruce,,,Live,,,,,,,,,,,Evergreen,,5.1,0.1,,,GISSTUD1,20200106234829,laura.grant@ubc.ca,20221129201535,49.260342,-123.241025
 9378,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,9.2,0.4,,,GISSTUD1,20200106234819,laura.grant@ubc.ca,20221129201608,49.260339,-123.241047
 9380,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,4.2,0.1,,,GISSTUD1,20200106234823,laura.grant@ubc.ca,20221129201634,49.260321,-123.241072
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221129201823,laura.grant@ubc.ca,20221129201823,49.26049,-123.241097
