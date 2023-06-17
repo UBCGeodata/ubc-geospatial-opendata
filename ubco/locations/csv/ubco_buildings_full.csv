@@ -37,16 +37,14 @@ OBL10003,Quonset Office,QOT,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Ste
 OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,Steel,1,,106,4099-1,0,,,,,NIKT,20210908182514,Outbuildings,,,,B3,,-119,50
 OBL10016,Portable N,PBN,Complete,20060101,Services,,UBC,,UBC,Temporary,,Steel,1,,106,4099-14,0,,,,,NIKT,20210908182514,Outbuildings,,,,B3,,-119,50
 OBL10001,Quonset - Hut,QUO,Complete,19940101,Operations,,UBC,,UBC,Occupied,,Wood,1,,498,4098;4098-3,1,,,,,RACHELW,20230103213352,Outbuildings,,,,B3,,-119,50
-OBL10020,Quonset - Science Shed,QUS,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,75,4098-4,0,,,,,RACHELW,20230103213407,Outbuildings,,,,B3,,-119,50
-OBL10058,Quonset - Facilities Equipment Shed,QFS,PreConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,1,,75,4098-5,0,,,RACHELW,20230103213129,RACHELW,20230103213728,Outbuildings,,,,B3,,-119,50
-OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20220920165459,Unspecified,,,,B2,,-119,50
-OBL10057,Child Care Facility,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20221205233746,Unspecified,,,,B3,,-119,50
 OBL10007,The Commons,COM,Complete,20190101,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,,,,,RACHELW,20220207172108,Unspecified,,,,B2,,-119,50
+OBL10020,Quonset - Science Shed,QUS,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,75,4098-4,0,,,,,RACHELW,20230103213407,Outbuildings,,,,B3,,-119,50
+OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20220920165459,Unspecified,,,,B2,,-119,50
+OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,537,4042,0,,,RACHELW,20200416220402,RACHELW,20230516220121,Unspecified,,,,B2,,-119,50
 OBL10046,Skeena Residence,SKN,Complete,20191126,StudentHousing,,UBC,,SHHS,Occupied,,Wood,6,,6573,4040,0,,,RACHELW,20190916204317,RACHELW,20230516220104,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10045,Nechako Residence,NCH,Complete,20210801,StudentHousing,Services,UBC,,SHHS,Occupied,,Concrete,5,,11315,4041,0,,,RACHELW,20190916204528,RACHELW,20230516220107,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupied,,Steel,,,393,4039,0,,,RACHELW,20200416215859,RACHELW,20230516220110,Unspecified,,,,B2,,-119,50
 OBL10049,Office Modular Building,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,Steel,,,465,4099-23,0,,,RACHELW,20200416220620,RACHELW,20230516220117,Unspecified,,,,B3,,-119,50
-OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,537,4042,0,,,RACHELW,20200416220402,RACHELW,20230516220121,Unspecified,,,,B2,,-119,50
 OBL10050,Vector Wells,VWB,Complete,20110817,Operations,,UBC,,UBC,Occupied,,Wood,,,39,4043,0,,,RACHELW,20200416221346,RACHELW,20230516220124,Unspecified,,,,B3,,-119,50
 OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Unoccupied,,Steel,,,132,4099-24,0,,,RACHELW,20200416221350,RACHELW,20230516220126,Unspecified,,,,B3,,-119,50
 OBL10052,Innovation Precinct 1,IP1,Complete,20080101,Research,,UBC,,UBC,Occupied,,,,,3475,4034,0,,,RACHELW,20200806200207,RACHELW,20230516220129,Unspecified,,,,B2,,-119,50
@@ -54,3 +52,5 @@ OBL10053,Innovation Precinct Annex 1,IA1,Complete,20210301,Research,,UBC,,UBC,Oc
 OBL10054,Project Management Office,PRO,Complete,19900101,Operations,,UBC,,UBC,Temporary,,Steel,,,41,4099-22,0,,,RACHELW,20200806212355,RACHELW,20230516220134,Outbuildings,,,,B5,,-119,50
 OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,UnderConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,14377,,,,,NIKT,20210429232204,RACHELW,20230516220137,Unspecified,,,,,,-119,50
 OBL10056,Office Modular 2,OM2,UnderConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,,,459,4099-25,0,,,RACHELW,20220920164452,RACHELW,20230516220142,Unspecified,,,,B3,,-119,50
+OBL10057,Child Care Facility,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20221205233746,Unspecified,,,,B3,,-119,50
+OBL10058,Quonset - Facilities Equipment Shed,QFS,PreConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,1,,75,4098-5,0,,,RACHELW,20230103213129,RACHELW,20230103213728,Outbuildings,,,,B3,,-119,50
