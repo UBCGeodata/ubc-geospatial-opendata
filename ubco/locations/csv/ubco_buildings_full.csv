@@ -41,6 +41,7 @@ OBL10001,Quonset - Hut,QUO,Complete,19940101,Operations,,UBC,,UBC,Occupied,,Wood
 OBL10020,Quonset - Science Shed,QUS,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,75,4098-4,0,,,,,RACHELW,20230103213407,Outbuildings,,,,B3,,-119,50
 OBL10058,Quonset - Facilities Equipment Shed,QFS,PreConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,1,,75,4098-5,0,,,RACHELW,20230103213129,RACHELW,20230103213728,Outbuildings,,,,B3,,-119,50
 OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20220920165459,Unspecified,,,,B2,,-119,50
+OBL10055,x̌əl sic snpax̌nwixʷtn,ICI,UnderConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,14377,,,,,NIKT,20210429232204,RACHELW,20230714170833,Unspecified,,,,,,-119,50
 OBL10057,Child Care Facility,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20221205233746,Unspecified,,,,B3,,-119,50
 OBL10007,The Commons,COM,Complete,20190101,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,,,,,RACHELW,20220207172108,Unspecified,,,,B2,,-119,50
 OBL10046,Skeena Residence,SKN,Complete,20191126,StudentHousing,,UBC,,SHHS,Occupied,,Wood,6,,6573,4040,0,,,RACHELW,20190916204317,RACHELW,20230516220104,Apt5StoreyPlus,,,,B5,,-119,50
@@ -52,5 +53,4 @@ OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Unoccupied,,Steel
 OBL10052,Innovation Precinct 1,IP1,Complete,20080101,Research,,UBC,,UBC,Occupied,,,,,3475,4034,0,,,RACHELW,20200806200207,RACHELW,20230516220129,Unspecified,,,,B2,,-119,50
 OBL10053,Innovation Precinct Annex 1,IA1,Complete,20210301,Research,,UBC,,UBC,Occupied,,,,,1547,4044,0,,,RACHELW,20200806200207,RACHELW,20230516220132,Unspecified,,,,B2,,-119,50
 OBL10054,Project Management Office,PRO,Complete,19900101,Operations,,UBC,,UBC,Temporary,,Steel,,,41,4099-22,0,,,RACHELW,20200806212355,RACHELW,20230516220134,Outbuildings,,,,B5,,-119,50
-OBL10055,Interdisciplinary Collaboration Innovation Building,ICI,UnderConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,14377,,,,,NIKT,20210429232204,RACHELW,20230516220137,Unspecified,,,,,,-119,50
 OBL10056,Office Modular 2,OM2,UnderConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,,,459,4099-25,0,,,RACHELW,20220920164452,RACHELW,20230516220142,Unspecified,,,,B3,,-119,50
