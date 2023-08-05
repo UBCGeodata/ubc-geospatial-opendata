@@ -6278,14 +6278,20 @@
 9284,,Picea,,,,Dead,,,,,,,,,,,,,10.4,0.7,,,GISSTUD1,20200106234812,laura.grant@ubc.ca,20221215175055,49.260221,-123.240731
 9286,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,8.5,2,,,GISSTUD1,20200106234813,laura.grant@ubc.ca,20221215175123,49.260214,-123.240783
 9287,Pinaceae,Picea smithiana,Himalayan spruce,,,Live,,,,,,,,,,,Evergreen,,8.5,1.9,,,GISSTUD1,20200106234814,laura.grant@ubc.ca,20221215175404,49.26023,-123.240799
+,,Styrax japonicus,Japanese snowbell ,y,9580,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230801201849,finnkoepf@gmail.com,20230801201849,49.266197,-123.251192
+,,Styrax japonicus ,Japanese snowbell ,y,9579,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230801201945,finnkoepf@gmail.com,20230801201945,49.266152,-123.25116
 9289,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,7.8,2.1,,,GISSTUD1,20200106234814,laura.grant@ubc.ca,20221215175559,49.260236,-123.240814
 9375,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,6.4,0.4,,,GISSTUD1,20200106234815,laura.grant@ubc.ca,20221215175645,49.260248,-123.240822
+,,Acer circinatum,Vine maple,n,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230801202240,finnkoepf@gmail.com,20230801202240,49.26599,-123.251427
+,Sapindaceae,Acer palmatum,Japanese maple,y,9577,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215033654,finnkoepf@gmail.com,20230801202314,49.265968,-123.25155
 9377,Pinaceae,Picea smithiana,Himalayan spruce,,,Live,,,,,,,,,,,Evergreen,,6.6,0,,,GISSTUD1,20200106234816,laura.grant@ubc.ca,20221215180144,49.260346,-123.240874
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180220,laura.grant@ubc.ca,20221215180220,49.260321,-123.240878
+,Sapindaceae,Acer palmatum,Japanese maple,y,9576,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215033730,finnkoepf@gmail.com,20230801202337,49.265981,-123.251511
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180102,laura.grant@ubc.ca,20221215180503,49.26028,-123.240853
 ,Pinaceae,Picea,,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180021,laura.grant@ubc.ca,20221215180517,49.260263,-123.24084
 9376,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,5.2,0.7,,,GISSTUD1,20200106234816,laura.grant@ubc.ca,20221215180555,49.260356,-123.240842
 9290,Pinaceae,Picea smithiana,Himalayan spruce,,,Live,,,,,,,,,,,Evergreen,,6.6,0,,,GISSTUD1,20200106234815,laura.grant@ubc.ca,20221215180626,49.26033,-123.240811
+,,Styrax japonicus ,Japanese snowbell ,n,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230801202536,finnkoepf@gmail.com,20230801202536,49.265974,-123.252026
 9288,Salicaceae,Populus trichocarpa,black cottonwood,,,Live,,,,,,,,,,,Deciduous,,8,0.9,,,GISSTUD1,20200106234814,laura.grant@ubc.ca,20221215180728,49.260278,-123.2408
 9285,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,8.2,0.7,,,GISSTUD1,20200106234813,laura.grant@ubc.ca,20221215180857,49.260254,-123.240759
 ,Pinaceae,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180944,laura.grant@ubc.ca,20221215180944,49.260285,-123.240783
@@ -8018,7 +8024,6 @@
 3125,Cupressaceae,Chamaecyparis obtusa,hinoki,Y,,Live,29,7.2,7.2,1.3,3.7,2.3,10,2,,7,Evergreen,20200301,19.9,0.7,,,PLAN,20190614175818,laura.grant@ubc.ca,20221215032534,49.266623,-123.253437
 4299,Cupressaceae,Chamaecyparis pisifera 'Filifera',sawara cypress,N,,Live,29,4.6,4.6,1.2,3.5,3,30,4,,7,Evergreen,20200301,4.1,0.1,,,PLAN,20190614175907,laura.grant@ubc.ca,20221215032718,49.266567,-123.253349
 3124,Cupressaceae,Chamaecyparis pisifera 'Filifera',sawara cypress,Y,,Live,32,7.1,7.1,1,1.2,3.1,20,2,,7,Evergreen,20200301,18.7,0.1,,,PLAN,20190614175818,laura.grant@ubc.ca,20221215032807,49.26662,-123.253407
-,Sapindaceae,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215033654,laura.grant@ubc.ca,20221215033654,49.265968,-123.25155
 ,Theaceae,Stewartia pseudocamellia,Korean stewartia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220909180801,laura.grant@ubc.ca,20220909180801,49.257882,-123.253547
 ,Rosaceae,Prunus serrulata,Japanese flowering cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220909180931,laura.grant@ubc.ca,20220909180931,49.258603,-123.254084
 ,Rosaceae,Prunus serrulata,Japanese flowering cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220909181022,laura.grant@ubc.ca,20220909181022,49.258578,-123.254029
@@ -8496,7 +8501,6 @@
 8116,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,13.6,0.1,,,GISSTUD1,20200106233555,laura.grant@ubc.ca,20221007010911,49.260427,-123.244387
 8114,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,17.6,0.1,,,GISSTUD1,20200106233554,laura.grant@ubc.ca,20221007011051,49.260348,-123.244525
 8113,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,16.9,0,,,GISSTUD1,20200106233553,laura.grant@ubc.ca,20221007011123,49.260324,-123.244577
-,Sapindaceae,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215033730,laura.grant@ubc.ca,20221215033730,49.265981,-123.251511
 ,Fagaceae,Quercus robur,English oak,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215034227,laura.grant@ubc.ca,20221215034227,49.267845,-123.253784
 12076,Fagaceae,Quercus × bimundorum Crimson Spire™,crimson spire oak,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221215035114,49.265162,-123.247201
 11657,Fagaceae,Quercus robur 'Fastigiata',upright English oak,Y,3035,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221215035207,49.265153,-123.247235
