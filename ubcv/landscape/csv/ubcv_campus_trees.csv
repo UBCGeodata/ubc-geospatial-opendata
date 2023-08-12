@@ -2841,7 +2841,6 @@
 10037,,Acer negundo ,Boxelder maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.260839,-123.256674
 10038,,Cotoneaster coriaceus,Late cotoneaster ,N,,,,,,,,,,,,,,,,,,,,,,,49.260613,-123.256225
 10039,,Acer negundo ,Boxelder maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.260825,-123.256811
-10040,,Acer rubrum ,Ref maple ,Y,4999,,,,,,,,,,,,,,,,,,,,,,49.260496,-123.256734
 10042,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.260431,-123.256838
 10043,,Metasequoia glyptostroboides,Dawn redwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.260542,-123.256921
 10044,,Metasequoia glyptostroboides,Dawn redwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.260557,-123.256967
@@ -8327,6 +8326,7 @@
 10527,Pinaceae,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,,,laura.grant@ubc.ca,20220908204455,49.260046,-123.252161
 4925,Pinaceae,Pinus contorta,lodgepole Pine,N,,Dead,12,5.4,5.4,0.8,5.3,4.5,5,1,,5,Evergreen,20200301,5.4,0.1,,Removed as of 1/2023,PLAN,20190614175839,laura.grant@ubc.ca,20230104171108,49.263519,-123.249705
 ,Ulmaceae,Ulmus sp.,elm,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20230104171340,laura.grant@ubc.ca,20230104171340,49.266053,-123.249148
+10040,,Acer rubrum ,Red maple ,Y,4999,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230809002830,49.260496,-123.256734
 ,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221205211117,laura.grant@ubc.ca,20221205211117,49.268076,-123.248085
 ,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221205211202,laura.grant@ubc.ca,20221205211202,49.268052,-123.24807
 ,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221205211301,laura.grant@ubc.ca,20221205211301,49.268013,-123.24804
