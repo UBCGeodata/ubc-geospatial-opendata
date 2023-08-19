@@ -398,7 +398,6 @@ Services,UBC Hospital - Purdy Pavilion,PPAV,2221 Wesbrook Mall,V6T 1Z9,VBL10388,
 Services,UBC Hospital - Detwiller Pavilion,DPAV,2255 Wesbrook Mall,V6T 2A1,VBL10334,Complete,-123.244471,49.26356
 Services,Djavad Mowafaghian Centre for Brain Health,CBH,2215 Wesbrook Mall,V6T 1Z3,VBL10103,Complete,-123.244569,49.264275
 StudentHousing,Totem Park Residence - Haida/Salish House,TPR6,"2525 West Mall, Building 6",V6T 1W9,VBL10002,Complete,-123.252622,49.257476
-Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,UnderConstruction,-123.25262,49.269586
 Services,Morris and Helen Belkin Art Gallery,BART,1825 Main Mall,V6T 1Z2,VBL10315,Complete,-123.25619,49.268169
 Services,Old Auditorium,AUDI,6344 Memorial Road,V6T 1Z2,VBL10335,Complete,-123.256101,49.266902
 Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,UnderConstruction,-123.252382,49.269058
@@ -406,6 +405,7 @@ Commons,Brock Commons East - Tallwood House,BRCE,"6088 Walter Gage Road, Buildin
 Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V6T 1W9,VBL10231,Complete,-123.252981,49.25804
 Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,Complete,-123.253051,49.269292
 Services,Chan Centre for the Performing Arts,CHAN,6265 Crescent Road,V6T 1Z1,VBL10282,Complete,-123.25511,49.269771
+Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,Complete,-123.25262,49.269586
 Administrative,Ponderosa Office Annex C,PONC,2021 West Mall,V6T 1Z2,VBL10344,Complete,-123.256275,49.264854
 Administrative,Ponderosa Office Annex E,PONE,2034 Lower Mall,V6T 1Z2,VBL10151,Complete,-123.256694,49.264675
 Administrative,Ponderosa Office Annex F,PONF,2008 Lower Mall,V6T 1Z2,VBL10152,Complete,-123.257153,49.26492
