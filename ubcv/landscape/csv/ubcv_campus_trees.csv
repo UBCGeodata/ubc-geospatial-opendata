@@ -2755,9 +2755,6 @@
 9997,,Acer macrophyllum ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.260977,-123.257283
 9999,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.261105,-123.257418
 10000,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.261075,-123.257417
-10001,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.261053,-123.257459
-10002,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.26107,-123.257427
-10003,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.261063,-123.257445
 10006,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.261207,-123.256824
 10007,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.261214,-123.256709
 10008,,Styrax japonicus ,Japanese snowbell,N,,,,,,,,,,,,,,,,,,,,,,,49.261125,-123.25723
@@ -2999,7 +2996,6 @@
 9714,,Thuja plicata,Western red cedar,Y,4726,,,,,,,,,,,,,,,,,,,,,,49.26487,-123.258403
 9992,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.260827,-123.257295
 9998,,Thuja plicata ,Western red cedar ,N,,,,,,,,,,,,,,,,,,,,,,,49.261098,-123.257488
-10004,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.261067,-123.257436
 10010,,Styrax japonicus ,Japanese snowbell,N,,,,,,,,,,,,,,,,,,,,,,,49.261097,-123.257272
 10307,,Sequoiadendron gigantum ,Giant sequoia ,N,,,,,,,,,,,,,,,,,,,,,,,49.261521,-123.257523
 9874,,Thuja plicata ,Western red cedar ,Y,10995,,,,,,,,,,,,,,,,,,,,,,49.260158,-123.254391
@@ -6344,6 +6340,8 @@
 ,Pinaceae,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215182312,laura.grant@ubc.ca,20221215182312,49.256042,-123.23709
 1973,,Juniperus squamata 'Meyeri',Removed,N,,Dead,9,6.2,,0,7.1,6.3,30,4,,2,,20200301,10,0,,,PLAN,20190614175908,laura.grant@ubc.ca,20221215182722,49.26131,-123.249534
 1974,Betulaceae,Betula pendula,Removed,N,,Dead,60,17.6,,1.55,15.9,12.3,30,3,,2,,20200301,15.4,0,,,PLAN,20190614175908,laura.grant@ubc.ca,20221215182811,49.261369,-123.249392
+10002,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230822213303,49.261057,-123.257427
+,,Prunus serrulata,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230822221110,finnkoepf@gmail.com,20230822221110,49.261026,-123.256853
 8934,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,13.7,0.2,,,GISSTUD2,20200207222538,laura.grant@ubc.ca,20221113035125,49.261967,-123.240979
 8935,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,10.9,0,,,GISSTUD2,20200207222539,laura.grant@ubc.ca,20221113035155,49.261964,-123.240925
 8936,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,12.6,0.5,,,GISSTUD2,20200207222540,laura.grant@ubc.ca,20221113035221,49.262006,-123.240906
@@ -6837,6 +6835,9 @@
 9383,Pinaceae,Picea brachytyla,sargent spruce,,,Live,,,,,,,,,,,Evergreen,,5.1,0.1,,,GISSTUD1,20200106234829,laura.grant@ubc.ca,20230311205303,49.260342,-123.241025
 ,Pinaceae,Picea brachytyla,sargent spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215181013,laura.grant@ubc.ca,20230311205345,49.260306,-123.240805
 ,Pinaceae,Picea brachytyla,sargent spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221215180441,laura.grant@ubc.ca,20230311205426,49.260296,-123.240867
+10001,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230822213137,49.261053,-123.257459
+10003,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230822213213,49.261037,-123.257466
+10004,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230822213245,49.261044,-123.257441
 7856,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,20.5,0.1,,,GISSTUD1,20200106220351,finnkopf@mail.ubc.ca,20200914230621,49.268807,-123.25138
 7857,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,19.2,0.1,,,GISSTUD1,20200106220351,finnkopf@mail.ubc.ca,20200914225823,49.268869,-123.251422
 7858,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,20.3,0.1,,,GISSTUD1,20200106220352,finnkopf@mail.ubc.ca,20200914225633,49.268928,-123.251468
