@@ -2639,7 +2639,6 @@
 10169,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,,,,,,,,,49.260666,-123.257239
 10170,,Pinus ponderosa ,Ponderosa pine ,N,,,,,,,,,,,,,,,,,,,,,,,49.260718,-123.257235
 10172,,Acer circinatum ,Vine maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.260773,-123.257109
-10173,,Pinus ponderosa ,Ponderosa pine ,N,,,,,,,,,,,,,,,,,,,,,,,49.260696,-123.257251
 7533,,,,,,,,,,,,,,,,,,,16,0.3,,,GISSTUD1,20200107000646,PLAN,20200914230315,49.258593,-123.239104
 7534,,,,,,,,,,,,,,,,,,,15.1,0.2,,,GISSTUD1,20200107000648,PLAN,20200914230034,49.258782,-123.239254
 7535,,,,,,,,,,,,,,,,,,,17.8,0,,,GISSTUD1,20200107000649,PLAN,20200914225826,49.258877,-123.239344
@@ -7644,6 +7643,10 @@
 12175,,Fagus sylvatica 'Dawyck Purple',purple upright European beech,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212212859,49.270875,-123.248198
 ,Cornaceae,Cornus nuttallii,Pacific dogwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213049,laura.grant@ubc.ca,20221212213119,49.271968,-123.248628
 ,Cornaceae,Cornus nuttallii,Pacific nuttallii,,,Live,,,,,,,,,3,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213158,laura.grant@ubc.ca,20221212213158,49.27196,-123.24864
+,,Acer circinatum ,Vine maple,N,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230830211710,finnkoepf@gmail.com,20230830211710,49.260781,-123.257109
+,,Acer circinatum ,Vine maple,N,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230830211742,finnkoepf@gmail.com,20230830211742,49.260776,-123.257121
+10173,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230830212320,49.260717,-123.257124
+,,Acer macrophyllum ,Big leaf maple,N,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230830215239,finnkoepf@gmail.com,20230830215239,49.260543,-123.257064
 ,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221114213103,laura.grant@ubc.ca,20221114213103,49.265806,-123.257679
 ,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221114213323,laura.grant@ubc.ca,20221114213323,49.26584,-123.257586
 ,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221114213353,laura.grant@ubc.ca,20221114213353,49.265864,-123.257514
