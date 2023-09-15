@@ -906,7 +906,6 @@ VAD11192,Focal - Retail,Vancouver,V6T 0C7,BC,VBL10232,Commercial,CanadaPost,"611
 VAD10488,The Laureates - Highrise,Vancouver,V6S 0H7,BC,VBL10241,NeighbourhoodBldg,CanadaPost,5628 Birney Avenue,-123.230914,49.254206
 VAD10387,Prodigy - Building 2,Vancouver,V6S 0H6,BC,VBL10336,NeighbourhoodBldg,CanadaPost,3462 Ross Drive,-123.236762,49.251487
 VAD11219,MBA House - Retail,Vancouver,V6S 0B1,BC,VBL10403,Commercial,CanadaPost,3387 Wesbrook Mall,-123.234908,49.253828
-VAD11191,The Conservatory,Vancouver,V6S 2L2,BC,VBL10427,NeighbourhoodBldg,CanadaPost,5608 Berton Avenue,-123.23162,49.256222
 VAD10584,The Wesbrook,Vancouver,V6S 0A5,BC,VBL10184,NeighbourhoodBldg,CanadaPost,5838 Berton Avenue,-123.234668,49.255178
 VAD10282,Frederic Lasserre Building,Vancouver,V6T 1Z2,BC,VBL10042,CampusBuilding,CampusMail,6333 Memorial Road,-123.256207,49.267473
 VAD10434,St Mark's Duplex (8A),Vancouver,V6T 0A1,BC,VBL10279,NeighbourhoodBldg,CanadaPost,5902 Chancellor Boulevard,-123.24894,49.27291
@@ -1009,6 +1008,7 @@ VAD11211,SBME,Vancouver,V6T 1Z3,BC,VBL10444,CampusBuilding,,6088 University Boul
 VAD10889,Centre for Interactive Research on Sustainability,Vancouver,V6T 1Z4,BC,VBL10162,CampusBuilding,CampusMail,2260 West Mall,-123.253354,49.262063
 VAD11106,UBC Life Building,Vancouver,V6T 1Z1,BC,VBL10248,CampusBuilding,CampusMail,6138 Student Union Boulevard,-123.249658,49.267765
 VAD11094,UBC Aquatic Centre,Vancouver,V6T 1Z1,BC,VBL10071,CampusBuilding,CampusMail,6080 Student Union Boulevard,-123.249291,49.267857
+VAD11191,The Conservatory,Vancouver,V6S 2L2,BC,VBL10427,NeighbourhoodBldg,CanadaPost,5608 Berton Avenue,-123.23162,49.256222
 VAD10708,Chemical and Biological Engineering Building,Vancouver,V6T 1Z3,BC,VBL10062,CampusBuilding,CampusMail,2360 East Mall,-123.247268,49.262297
 VAD10888,Chan Gunn Pavilion,Vancouver,V6T 1Z3,BC,VBL10092,CampusBuilding,CampusMail,2553 Wesbrook Mall,-123.241364,49.260782
 VAD11023,John Barfoot Macdonald Building,Vancouver,V6T 1Z3,BC,VBL10366,CampusBuilding,CampusMail,2199 Wesbrook Mall,-123.245305,49.265022
