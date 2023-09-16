@@ -1,20 +1,19 @@
 # ubc-geospatial-opendata
-UBC open geospatial data 
+UBC geospatial open data 'portal'
 
-Going forward, this single repository will host UBC's operational geospatial data.
+A github repository to host UBC's operational/wayfinding geospatial data.
 - Locations: Bulidings, addresses, campus services, food outlets and other point of interest data.
 - Landscape: Soft and hard landscape. Trees, lawn areas, water features, etc.
 
-
-GitHub
-------
-* GitHub is used most often to host code for version control and collaboration. 
-* It is also an easy way to make geospatial data browsable, viewable and downloadable.
+Why GitHub?
+-----------
+* GitHub is used most often to host/manage code for version control and collaboration. 
+* But it also previes geojson files, and so makes geospatial data browsable, viewable and downloadable.
 * Information about using GitHub: [here](https://guides.github.com/activities/hello-world/)
 
 ### Viewing data in the repositories
 * GitHub uses [Leaflet](http://leafletjs.com/) to display any geojson file.
-* You can click on any .geojson file and it will display as a map, allowing you to click on features.
+* You can click on any .geojson file and it will display as a map, allowing you to click on features and review their attributes.
 * For example: [UBC Vancouver Buildings](https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/master/ubcv/locations/geojson/ubcv_buildings_simple.geojson)
 * CSV files can also be previewed within github: [UBC Vancouver Mailing Addresses](https://github.com/UBCGeodata/ubc-geospatial-opendata/blob/master/ubcv/locations/csv/ubcv_address_mailing.csv)
 
