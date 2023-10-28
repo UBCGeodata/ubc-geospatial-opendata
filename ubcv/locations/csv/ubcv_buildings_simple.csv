@@ -160,7 +160,6 @@ Academic,Medical Sciences Block C,MEDC,2176 Health Sciences Mall,V6T 1Z3,VBL1009
 Academic,Friedman Building,FRDM,2177 Wesbrook Mall,V6T 1Z3,VBL10120,Complete,-123.246237,49.265368
 Academic,Life Sciences Centre,LSC,2350 Health Sciences Mall,V6T 1Z3,VBL10111,Complete,-123.245112,49.262548
 Academic,Douglas T. Kenny Building,KENN,2136 West Mall,V6T 1Z4,VBL10131,Complete,-123.253841,49.263318
-Academic,B.C. Binning Studios,BINN,6373 University Boulevard,V6T 1Z2,VBL10134,Complete,-123.254871,49.264604
 Academic,Liu Institute for Global Issues,LIU,6476 NW Marine Drive,V6T 1Z2,VBL10177,Complete,-123.259267,49.267549
 Academic,Mary Bollert Hall,MBOL,6253 NW Marine Drive,V6T 1Z1,VBL10201,Complete,-123.25602,49.270572
 Academic,Anthropology and Sociology Building,ANSO,6303 NW Marine Drive,V6T 1Z1,VBL10204,Complete,-123.257691,49.270316
@@ -330,7 +329,6 @@ Academic,Frederic Lasserre Building,LASR,6333 Memorial Road,V6T 1Z2,VBL10042,Com
 Administrative,Old Administration Building,OAB,6328 Memorial Road,V6T 1Z2,VBL10138,Complete,-123.255511,49.267105
 Academic,Mathematics Annex,MATX,1986 Mathematics Road,V6T 1Z2,VBL10216,Complete,-123.254848,49.266103
 Academic,Mathematics Building,MATH,1984 Mathematics Road,V6T 1Z2,VBL10229,Complete,-123.255556,49.26645
-Academic,The Leonard S. Klinck Building,LSK,6356 Agricultural Road,V6T 1Z2,VBL10252,Complete,-123.255334,49.265432
 Operations,Building Operations Nursery,BONR,6029 Nurseries Road,V6T 1W5,VBL10337,Complete,-123.229225,49.244432
 Operations,Campus Energy Centre,CEC,6130 Agronomy Road,V6T 1Z3,VBL10339,Complete,-123.245083,49.261648
 Operations,UBC Exchange,TRAN,1985 Wesbrook Mall,V6T 2C9,VBL10354,Complete,-123.247429,49.267759
@@ -371,11 +369,9 @@ Parking,Rose Garden Parkade,PARR,6278 NW Marine Drive,V6T 1Z1,VBL10054,Complete,
 Housing,Central,CNTL,6015 University Boulevard,V6T 0C4,VBL10356,Complete,-123.24722,49.26634
 Administrative,UBC Gateway Building,GATE,5955 University Boulevard,V6T 0C4,VBL10442,UnderConstruction,-123.246503,49.266744
 Academic,David Lam Management Research Centre,DLAM,2033 Main Mall,V6T 1Z2,VBL10278,Complete,-123.254319,49.265711
-Academic,Dorothy Somerset Studios,DSOM,6361 University Boulevard,V6T 1Z2,VBL10130,Complete,-123.254584,49.264696
 Parking,North Parkade,PARN,6115 Student Union Boulevard,V6T 1Z1,VBL10234,Complete,-123.250913,49.269028
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,UnderConstruction,-123.250421,49.267994
 Academic,Buchanan Building,BUCH,1866 Main Mall,V6T 1Z1,VBL10323,Complete,-123.254441,49.268701
-Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247066,49.262481
 Academic,Walter C. Koerner Library,KLIB,1958 Main Mall,V6T 1Z2,VBL10154,Complete,-123.255125,49.26665
 Academic,Civil and Mechanical Engineering Building,CEME,6250 Applied Science Lane,V6T 1Z4,VBL10329,Complete,-123.248881,49.262545
 StudentHousing,Thunderbird Residence - Cassiar,THR1,"6335 Thunderbird Crescent, Building 5",V6T 2G9,VBL10079,Complete,-123.246685,49.260243
@@ -391,12 +387,17 @@ Commons,Brock Commons East - Tallwood House,BRCE,"6088 Walter Gage Road, Buildin
 Services,Arts Student Centre,ARTC,1860 East Mall,V6T 1Z1,VBL10426,Complete,-123.253051,49.269292
 Services,Chan Centre for the Performing Arts,CHAN,6265 Crescent Road,V6T 1Z1,VBL10282,Complete,-123.25511,49.269771
 Academic,Earth Sciences Building,ESB,2207 Main Mall,V6T 1Z4,VBL10072,Complete,-123.252188,49.263067
-Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129
 Academic,Centre for Interactive Research on Sustainability,CIRS,2260 West Mall,V6T 1Z4,VBL10162,Complete,-123.25308,49.262051
 Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,Complete,-123.25262,49.269586
 Academic,Neville Scarfe Building,SCRF,2125 Main Mall,V6T 1Z4,VBL10095,Complete,-123.253095,49.263965
+Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247066,49.262481
 Administrative,Ponderosa Office Annex F,PONF,2008 Lower Mall,V6T 1Z2,VBL10152,Complete,-123.257153,49.264919
 Academic,West Mall Swing Space Building,SWNG,2175 West Mall,V6T 1Z4,VBL10304,Complete,-123.254384,49.262795
+Academic,Dorothy Somerset Studios,DSOM,6361 University Boulevard,V6T 1Z2,VBL10130,Complete,-123.254591,49.264693
+Academic,The Leonard S. Klinck Building,LSK,6356 Agricultural Road,V6T 1Z2,VBL10252,Complete,-123.255339,49.265432
+Academic,B.C. Binning Studios,BINN,6373 University Boulevard,V6T 1Z2,VBL10134,Complete,-123.254879,49.264604
+Academic,Henry Angus Building,ANGU,2053 Main Mall,V6T 1Z2,VBL10067,Complete,-123.25388,49.265107
+Academic,Jack Bell Building for the School of Social Work,SOWK,2080 West Mall,V6T 1Z2,VBL10081,Complete,-123.255099,49.264475
 Housing,Conservatory - Townhouses,CSY1,"5608 Berton Avenue, Building 1",V6S 2L2,VBL10428,Complete,-123.232103,49.255839
 Housing,Conservatory - Highrise,CSY2,5608 Berton Avenue,V6S 2L2,VBL10427,Complete,-123.231514,49.256042
 Housing,BCR9,BCR9,5728 Gray Avenue,,VBL10443,UnderConstruction,-123.232318,49.2525
@@ -419,12 +420,12 @@ Athletics,War Memorial Gymnasium,MGYM,6081 University Boulevard,V6T 1Z1,VBL10161
 Academic,Stores Road Annex,STRX,6368 Stores Road,V6T 1Z4,VBL10124,Complete,-123.252359,49.261667
 Academic,Irving K. Barber Learning Centre,IBLC,1961 East Mall,V6T 1Z1,VBL10080,Complete,-123.252738,49.267595
 Housing,Lot 6 - Midrise B,WL6B,3638 Wesbrook Mall,,VBL10454,UnderConstruction,-123.232337,49.251114
+Housing,Lot 6 - Highrise A,WL6A,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
+Housing,Lot 6 - Midrise C,WL6C,5781 Binning Avenue,,VBL10455,UnderConstruction,-123.231135,49.251054
 Other,Carey College Lot 42,CRYC2,5950 Iona Drive,,VBL10450,UnderConstruction,-123.248739,49.271016
 Housing,Wordsworth - Townhouses,WSW2,"6138 Birney Avenue, Building 1",,VBL10446,UnderConstruction,-123.237199,49.251943
 Services,Third Space,THSP,6363 Biological Sciences Road,V6T 1Z4,VBL10447,Complete,-123.253241,49.263008
-Academic,Henry Angus Building,ANGU,2053 Main Mall,V6T 1Z2,VBL10067,Complete,-123.253881,49.265107
 Academic,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Complete,-123.248057,49.261242
-Academic,Jack Bell Building for the School of Social Work,SOWK,2080 West Mall,V6T 1Z2,VBL10081,Complete,-123.2551,49.264474
 Administrative,Ponderosa Office Annex A,PONA,2011 West Mall,V6T 1Z2,VBL10146,Complete,-123.256382,49.265167
 Academic,Music Building,MUSC,6361 Memorial Road,V6T 1Z2,VBL10101,Complete,-123.256781,49.267437
 Housing,Wordsworth - Highrise,WSW1,6138 Birney Avenue,,VBL10445,UnderConstruction,-123.236845,49.252441
@@ -432,9 +433,9 @@ Academic,Totem Field Studios,TFS,2613 West Mall,V6T 1Z4,VBL10223,Complete,-123.2
 Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V6T 1W9,VBL10231,Complete,-123.252981,49.25804
 Administrative,Ponderosa Office Annex B,PONB,2029 West Mall,V6T 1Z2,VBL10343,Complete,-123.255962,49.264844
 StudentHousing,St. John's College,STJC,2111 Lower Mall,V6T 1Z4,VBL10116,Complete,-123.25679,49.262595
+Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
 Housing,Wesbrook Lot 26 - Highrise,WL26H,,,VBL10451,PreConstruction,-123.235487,49.251323
 Housing,Wesbrook Lot 26 - Townhouses,WL26T,,,VBL10452,PreConstruction,-123.234991,49.251433
-Housing,Lot 6 - Highrise A,WL6A,,,VBL10453,UnderConstruction,-123.231851,49.250869
-Housing,Lot 6 - Midrise C,WL6C,,,VBL10455,UnderConstruction,-123.231135,49.251054
 Other,Carey College Lot 40,CRYC1,,,VBL10449,UnderConstruction,-123.24857,49.271747
+,Sauder Expansion,SBUS,,,VBL10456,PreConstruction,-123.254889,49.265098

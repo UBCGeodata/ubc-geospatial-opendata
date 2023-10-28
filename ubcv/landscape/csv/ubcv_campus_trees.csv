@@ -4251,7 +4251,6 @@
 4268,,Magnolia hybrid,,N,,Live,12,5,5,1.4,5.3,4.9,20,4,,7,,20200301,6.6,0,,,PLAN,20190614175907,PLAN,20200914230404,49.266828,-123.252383
 4293,,Acer palmatum,Japanese Maple,N,,Live,19,4.6,4.6,1.7,6.3,5.9,5,3,,7,,20200301,4.4,0,,,PLAN,20190614175907,PLAN,20200914230037,49.267233,-123.252985
 3112,,Laburnum x watereri 'Vossii',,N,,Live,58,8.2,8.2,2.8,8.4,7.3,25,4,,7,,20200301,7.4,0.1,,,PLAN,20190614175818,PLAN,20200914230119,49.266743,-123.253028
-4343,,Cornus 'Eddie's White Wonder',,N,,Live,2,2.4,2.4,0.3,0.8,0.7,40,5,,7,,20200301,,,,,PLAN,20190614175828,PLAN,20190620215211,49.266693,-123.253655
 4307,,Prunus lusitanica,Portuguese Laurel Cherry,Y,,Live,36,8.4,8.4,2.4,7,4.2,55,3,,7,,20200301,9.1,0,,,PLAN,20190614175908,PLAN,20200914225728,49.266523,-123.253449
 3191,,Quercus robur,Pedunculate Oak,Y,,Live,71,18.8,18.8,2.2,19.6,15,10,3,,8,,20200301,20.1,0.1,,,PLAN,20190614175819,PLAN,20200914225722,49.268174,-123.252556
 3221,,Quercus robur,Pedunculate Oak,Y,,Live,60,12.2,12.2,2,10.8,10.26,20,2,,8,,20200301,17,0,,,PLAN,20190614175820,PLAN,20200914230511,49.267119,-123.251771
@@ -7449,6 +7448,8 @@
 8466,Sapindaceae,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,11.6,0.1,,,GISSTUD1,20200107002423,laura.grant@ubc.ca,20221206200023,49.259803,-123.245271
 8467,Sapindaceae,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,11.2,0.1,,,GISSTUD1,20200107002424,laura.grant@ubc.ca,20221206200038,49.259865,-123.245316
 8568,Sapindaceae,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,12.8,0.1,,,GISSTUD1,20200107002424,laura.grant@ubc.ca,20221206200058,49.259925,-123.245363
+4343,Cupressaceae,Thuja plicata,,N,,Live,2,2.4,2.4,0.3,0.8,0.7,40,5,,7,Evergreen,20200301,,,,,PLAN,20190614175828,laura.grant@ubc.ca,20190620215211,49.266693,-123.253655
+,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221201193537,laura.grant@ubc.ca,20221201193537,49.266783,-123.253593
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221006210856,laura.grant@ubc.ca,20221006210856,49.260962,-123.242794
 ,Cupressaceae,Thuja plicata,western red-cedar,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221006210934,laura.grant@ubc.ca,20221006210934,49.261,-123.24269
 9408,Cornaceae,Cornus kousa,Japanese dogwood,,,Live,,,,,,,,,,,Deciduous,,4.4,0.1,,,GISSTUD1,20200106235019,laura.grant@ubc.ca,20221006211038,49.261055,-123.242432

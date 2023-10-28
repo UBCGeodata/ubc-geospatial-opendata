@@ -1,6 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-,Building C,,,,,,CanadaPost,,-123.231745,49.250729
-,Building C,,,,,,CanadaPost,,-123.230855,49.250828
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
 VAD10792,Westchester (C1),Vancouver,V6T 2J9,BC,VBL10220,Residential,CanadaPost,2578 West Mall,-123.249378,49.257294
@@ -996,6 +994,9 @@ VAD10409,Rose Garden Parkade,Vancouver,V6T 1Z1,BC,VBL10054,CampusBuilding,Campus
 VAD10605,Marine Drive Residence - Front Desk,Vancouver,V6T 1Z4,BC,VBL10088,Complex,CampusMail,2205 Lower Mall,-123.256534,49.261492
 VAD10811,Auditorium Annexes,Vancouver,V6T 1Z2,BC,VBL10228,CampusBuilding,CampusMail,1924 West Mall,-123.256931,49.266726
 VAD10814,B.C. Binning Studios,Vancouver,V6T 1Z2,BC,VBL10134,CampusBuilding,CampusMail,6373 University Boulevard,-123.25478,49.264642
+VAD11221,Lot 6 - Midrise B,Vancouver,,BC,VBL10454,NeighbourhoodBldg,CanadaPost,3638 Wesbrook Mall,-123.232727,49.251065
+VAD11224,Lot 6 - Midrise C,Vancouver,,BC,VBL10455,NeighbourhoodBldg,CanadaPost,5781 Binning Avenue,-123.230855,49.250828
+VAD11225,Lot 6 - Highrise A,Vancouver,,BC,VBL10453,NeighbourhoodBldg,CanadaPost,5855 Binning Avenue,-123.231745,49.250729
 VAD10828,Carey Hall (Carey Theological College),Vancouver,V6T 1J6,BC,VBL10208,OtherBuilding,CanadaPost,1815 Wesbrook Mall,-123.248494,49.271734
 VAD10011,Health Sciences Parkade,Vancouver,V6T 1Z3,BC,VBL10357,CampusBuilding,CampusMail,2250 Health Sciences Mall,-123.24736,49.263054
 VAD10020,"Institute for Computing, Information and Cognitive Systems / Computer Science (ICICS/CS)",Vancouver,V6T 1Z4,BC,VBL10078,CampusBuilding,CampusMail,2366 Main Mall,-123.249279,49.261098
