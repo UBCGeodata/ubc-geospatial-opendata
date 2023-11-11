@@ -5703,7 +5703,6 @@
 5408,Cornaceae,Cornus stolonifera,red-osier dogwood,N,,Live,7,4.4,,,3.5,3.7,15,5,,1,Deciduous,20200301,4.5,0,,,PLAN,20190614175858,laura.grant@ubc.ca,20220825195618,49.26055,-123.247728
 5411,Rosaceae,Sorbus aucuparia,European mountain ash,N,,Live,4,4.3,,,3.3,3.4,15,3,,1,Deciduous,20200301,10,0.1,,,PLAN,20190614175858,laura.grant@ubc.ca,20220825195704,49.260582,-123.247643
 5412,Rosaceae,Sorbus aucuparia,European mountain ash,N,,Live,5,4.2,,,3.8,3.6,15,4,,1,Deciduous,20200301,9.8,0.1,,,PLAN,20190614175858,laura.grant@ubc.ca,20220825195747,49.260591,-123.247606
-8359,,Ulmus americana,American elm,N,,,,,,,,,,,,,,,6.1,0.1,,,GISSTUD1,20200106224418,finnkopf@mail.ubc.ca,20220829233044,49.265868,-123.250444
 11571,,Arbutus ,Arbutus ,Y,10285,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270706,-123.252235
 11572,,Quercus robur ,European oak ,,,,,,,,,,,,,,,,,,,,,,,,49.265012,-123.249113
 11573,,Prunus serrulata ,Japanese cherry ,N,,,,,,,,,,,,,,,,,,,,,,,49.268537,-123.24959
@@ -8332,6 +8331,28 @@
 4925,Pinaceae,Pinus contorta,lodgepole Pine,N,,Dead,12,5.4,5.4,0.8,5.3,4.5,5,1,,5,Evergreen,20200301,5.4,0.1,,Removed as of 1/2023,PLAN,20190614175839,laura.grant@ubc.ca,20230104171108,49.263519,-123.249705
 ,Ulmaceae,Ulmus sp.,elm,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20230104171340,laura.grant@ubc.ca,20230104171340,49.266053,-123.249148
 10040,,Acer rubrum ,Red maple ,Y,4999,,,,,,,,,,,,,,,,,,,,finnkoepf@gmail.com,20230809002830,49.260496,-123.256734
+8359,,Ulmus americana,American elm,N,,,,,,,,,,,,,,,6.1,0.1,,,GISSTUD1,20200106224418,finnkopf@mail.ubc.ca,20220903001135,49.265868,-123.250444
+,,Magnolia acuminata ,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000200,finnkopf@mail.ubc.ca,20220903000200,49.267974,-123.249356
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903001022,finnkopf@mail.ubc.ca,20220903001212,49.26606,-123.250105
+,,Acer palmatum ,Japanese maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000433,finnkopf@mail.ubc.ca,20220903000433,49.268261,-123.248517
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903001051,finnkopf@mail.ubc.ca,20220903001211,49.265993,-123.250231
+,,Acer rubrum ,Red maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000855,finnkopf@mail.ubc.ca,20220903000855,49.266488,-123.250357
+,,Acer palmatum ,Japanese maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000341,finnkopf@mail.ubc.ca,20220903000341,49.268193,-123.24871
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903001007,finnkopf@mail.ubc.ca,20220903001212,49.266307,-123.250347
+,,Acer palmatum ,Japanese maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000310,finnkopf@mail.ubc.ca,20220903000310,49.268139,-123.248858
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903001103,finnkopf@mail.ubc.ca,20220903001211,49.265951,-123.250305
+,,Acer palmatum ,Japanese maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000401,finnkopf@mail.ubc.ca,20220903000401,49.26822,-123.248639
+,,Acer palmatum ,Japanese maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000419,finnkopf@mail.ubc.ca,20220903000419,49.268238,-123.248586
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903001034,finnkopf@mail.ubc.ca,20220903001211,49.266023,-123.250175
+,,Acer palmatum ,Japanese maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000326,finnkopf@mail.ubc.ca,20220903000326,49.268173,-123.248769
+,,Gleditsia triacanthos ,Honey locust,Y,9752,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000111,finnkopf@mail.ubc.ca,20220903000111,49.268109,-123.249438
+,,Magnolia acuminata ,Cucumber magnolia ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000133,finnkopf@mail.ubc.ca,20220903000133,49.268012,-123.249388
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000956,finnkopf@mail.ubc.ca,20220903001212,49.266304,-123.250282
+,,Gleditsia triacanthos ,Honey locust,Y,9751,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000048,finnkopf@mail.ubc.ca,20220903000048,49.268148,-123.249482
+,,Prunus serrulata ,Flowering cherry ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000947,finnkopf@mail.ubc.ca,20220903001212,49.266345,-123.250271
+,,Acer rubrum ,Red maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220903000926,finnkopf@mail.ubc.ca,20220903000926,49.266415,-123.250426
+8360,Rosaceae,Prunus serrulata ,Flowering cherry ,N,,Live,,,,,,,,,,,Deciduous,,5,0.5,,,GISSTUD1,20200106224422,finnkopf@mail.ubc.ca,20220903001235,49.265789,-123.250024
+8361,Rosaceae,Prunus serrulata ,Flowering cherry ,N,,Live,,,,,,,,,,,Deciduous,,4.3,0,,,GISSTUD1,20200106224423,finnkopf@mail.ubc.ca,20220903001235,49.265798,-123.249947
 ,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221205211117,laura.grant@ubc.ca,20221205211117,49.268076,-123.248085
 ,Pinaceae,Abies grandis,grand fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221205211202,laura.grant@ubc.ca,20221205211202,49.268052,-123.24807
 ,Sapindaceae,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221205211301,laura.grant@ubc.ca,20221205211301,49.268013,-123.24804
@@ -8549,8 +8570,6 @@
 7798,Moraceae,Morus alba 'Chaparral',weeping mulberry,Y,8130,Live,,,,,,,,,,,Deciduous,,2.5,0.3,,,GISSTUD1,20200106215926,laura.grant@ubc.ca,20221205230814,49.26861,-123.252667
 7882,Magnoliaceae,Magnolia sp.,magnolia,Y,9810,Live,,,,,,,,,,,Deciduous,,6.1,0.1,,,GISSTUD1,20200106221850,laura.grant@ubc.ca,20221205230935,49.270122,-123.249866
 7897,Plantaceae,Platanus x hispanica,London plane tree,,,Live,,,,,,,,,,,Deciduous,,15.8,0.1,,,GISSTUD1,20200107001118,laura.grant@ubc.ca,20221205231018,49.257609,-123.238317
-8360,Rosaceae,Prunus serrulata,Japanese flowering cherry,,,Live,,,,,,,,,,,Deciduous,,5,0.5,,,GISSTUD1,20200106224422,laura.grant@ubc.ca,20221205231201,49.265789,-123.250024
-8361,Rosaceae,Prunus serrulata,Japanese flowering cherry,,,Live,,,,,,,,,,,Deciduous,,4.3,0,,,GISSTUD1,20200106224423,laura.grant@ubc.ca,20221205231246,49.265798,-123.249947
 8381,Cupressaceae,Metasequoia glyptostroboides,dawn redwood,Y,2457,Live,,,,,,,,,,,Deciduous,,16.1,0.5,,,GISSTUD1,20200106220709,laura.grant@ubc.ca,20221205231542,49.268384,-123.250963
 8382,Cupressaceae,Metasequoia glyptostroboides,dawn redwood,Y,2458,Live,,,,,,,,,,,Deciduous,,12.8,0,,,GISSTUD1,20200106220709,laura.grant@ubc.ca,20221205231614,49.268451,-123.25093
 8383,Cupressaceae,Metasequoia glyptostroboides,dawn redwood,Y,2459,Live,,,,,,,,,,,Deciduous,,15.4,0,,,GISSTUD1,20200106220710,laura.grant@ubc.ca,20221205231930,49.268471,-123.250815
