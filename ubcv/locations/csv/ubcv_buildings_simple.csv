@@ -418,7 +418,7 @@ StudentHousing,Acadia Park Residence - Yalta Place,APR6,5501 Yalta Place,V6T 1L7
 StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.2371,49.264247
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,UnderConstruction,-123.250421,49.267994
 Administrative,UBC Gateway Building,GATE,5955 University Boulevard,V6T 0C4,VBL10442,UnderConstruction,-123.246503,49.266744
-Housing,BCR9,BCR9,5728 Gray Avenue,,VBL10443,UnderConstruction,-123.232318,49.2525
+Housing,Echo,ECHO,5728 Gray Avenue,V6S 0M4,VBL10443,Complete,-123.232318,49.2525
 Academic,SBME,SBME,6088 University Boulevard,V6T 1Z3,VBL10444,UnderConstruction,-123.24731,49.265635
 Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,Complete,-123.25262,49.269586
 Services,Child Care Services - Acadia,CCS1,2865 Revelstoke Court,V6T 1S1,VBL10272,Complete,-123.234734,49.260896
@@ -438,4 +438,4 @@ Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.25527
 Other,Carey College Lot 40,CRYC1,,,VBL10449,UnderConstruction,-123.24857,49.271747
 Housing,Wesbrook Lot 26 - Highrise,WL26H,,,VBL10451,PreConstruction,-123.235487,49.251323
 Housing,Wesbrook Lot 26 - Townhouses,WL26T,,,VBL10452,PreConstruction,-123.234991,49.251433
-,Sauder Expansion,SBUS,,,VBL10456,PreConstruction,-123.254889,49.265098
+Academic,Sauder Expansion,SBUS,,,VBL10456,PreConstruction,-123.254889,49.265098
