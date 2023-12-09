@@ -995,6 +995,8 @@ VAD10409,Rose Garden Parkade,Vancouver,V6T 1Z1,BC,VBL10054,CampusBuilding,Campus
 VAD10605,Marine Drive Residence - Front Desk,Vancouver,V6T 1Z4,BC,VBL10088,Complex,CampusMail,2205 Lower Mall,-123.256534,49.261492
 VAD10811,Auditorium Annexes,Vancouver,V6T 1Z2,BC,VBL10228,CampusBuilding,CampusMail,1924 West Mall,-123.256931,49.266726
 VAD10814,B.C. Binning Studios,Vancouver,V6T 1Z2,BC,VBL10134,CampusBuilding,CampusMail,6373 University Boulevard,-123.25478,49.264642
+VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10423,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252594,49.269389
+VAD11181,Brock Commons South - House,Vancouver,V6T 1K2,BC,VBL10424,Residential,CampusMail,6122 Walter Gage Road,-123.252089,49.269277
 VAD11221,Lot 6 - Midrise B,Vancouver,,BC,VBL10454,NeighbourhoodBldg,CanadaPost,3638 Wesbrook Mall,-123.232727,49.251065
 VAD11224,Lot 6 - Midrise C,Vancouver,,BC,VBL10455,NeighbourhoodBldg,CanadaPost,5781 Binning Avenue,-123.230855,49.250828
 VAD11225,Lot 6 - Highrise A,Vancouver,,BC,VBL10453,NeighbourhoodBldg,CanadaPost,5855 Binning Avenue,-123.231745,49.250729
@@ -1018,11 +1020,9 @@ VAD10888,Chan Gunn Pavilion,Vancouver,V6T 1Z3,BC,VBL10092,CampusBuilding,CampusM
 VAD11023,John Barfoot Macdonald Building,Vancouver,V6T 1Z3,BC,VBL10366,CampusBuilding,CampusMail,2199 Wesbrook Mall,-123.245305,49.265022
 VAD11033,Djavad Mowafaghian Centre for Brain Health (CBH),Vancouver,V6T 1Z3,BC,VBL10103,OtherBuilding,CampusMail,2215 Wesbrook Mall,-123.24473,49.264412
 VAD11076,Thunderbird Parkade,Vancouver,V6T 1Z3,BC,VBL10113,CampusBuilding,CampusMail,6085 Thunderbird Boulevard,-123.243443,49.261157
-VAD11181,Brock Commons South - House,Vancouver,V6T 1K2,BC,VBL10424,Residential,CampusMail,6122 Walter Gage Road,-123.252009,49.2693
 VAD10602,Totem Park Residence - Front Desk,Vancouver,V6T 1W9,BC,VBL10231,Complex,CampusMail,2525 West Mall,-123.252795,49.257903
 VAD10103,Orchard Commons,Vancouver,V6T 1Z4,BC,VBL10013,CampusBuilding,CampusMail,6363 Agronomy Road,-123.250837,49.260109
 VAD10230,HR MacMillan Building,Vancouver,V6T 1Z4,BC,VBL10060,CampusBuilding,CampusMail,2357 Main Mall,-123.250829,49.260867
 VAD10281,Fred Kaiser Building,Vancouver,V6T 1Z4,BC,VBL10085,CampusBuilding,CampusMail,2332 Main Mall,-123.250168,49.262144
 VAD11180,Brock Commons South,Vancouver,V6T 1K2,BC,VBL10424,CampusBuilding,CampusMail,6180 Walter Gage Road,-123.25262,49.26909
 VAD11205,Arts Student Centre,Vancouver,V6T 1Z1,BC,VBL10426,CampusBuilding,CampusMail,1860 East Mall,-123.253156,49.269227
-VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10423,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252637,49.269374
