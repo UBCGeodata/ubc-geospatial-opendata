@@ -1,5 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-VAD11227,Orchard Commons - Childcare,Vancouver,V6T 1Z4,BC,,CampusBuilding,,2378 West Mall,-123.252159,49.260528
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -906,6 +905,7 @@ VAD10479,Woodward Library,Vancouver,V6T 1Z3,BC,VBL10262,CampusBuilding,CampusMai
 VAD10166,Mary Bollert Hall,Vancouver,V6T 1Z1,BC,VBL10201,CampusBuilding,CampusMail,6253 NW Marine Drive,-123.256281,49.270543
 VAD10838,Biological Sciences Building,Vancouver,V6T 1Z4,BC,VBL10409,CampusBuilding,CampusMail,6270 University Boulevard,-123.251932,49.264693
 VAD10402,Rodney Graham Millennial Time Machine,Vancouver,V6T 1Z1,BC,VBL10051,CampusBuilding,CampusMail,1940 Main Mall,-123.254524,49.26755
+VAD11227,Orchard Commons - Childcare,Vancouver,V6T 1Z4,BC,VBL10458,CampusBuilding,,2378 West Mall,-123.252159,49.260528
 VAD11103,UBC Bookstore,Vancouver,V6T 1Z4,BC,VBL10065,CampusBuilding,CampusMail,6200 University Boulevard,-123.250649,49.265257
 VAD10492,Anthropology and Sociology Building,Vancouver,V6T 1Z1,BC,VBL10204,CampusBuilding,CampusMail,6303 NW Marine Drive,-123.257573,49.270129
 VAD10808,Argyll House East,Vancouver,V6T 2L2,BC,VBL10288,NeighbourhoodBldg,CanadaPost,5958 Iona Drive,-123.249768,49.27141
@@ -925,6 +925,7 @@ VAD10713,Child Care Services - Sitka/Discovery,Vancouver,V6T 2E6,BC,VBL10140,Cam
 VAD10715,Child Care Services - Tillicum/Canada Goose,Vancouver,V6T 2E6,BC,VBL10142,CampusBuilding,CampusMail,5660 Osoyoos Crescent,-123.235196,49.259529
 VAD10714,Child Care Services - Summer of 73/Lilliput,Vancouver,V6T 2E6,BC,VBL10141,CampusBuilding,CampusMail,5690 Osoyoos Crescent,-123.235744,49.259387
 VAD10280,Fraternity Village,Vancouver,V6T 2J3,BC,VBL10404,OtherBuilding,CampusMail,2880 Wesbrook Mall,-123.239288,49.259507
+VAD11228,Exeter Hall,Vancouver,,BC,VBL10451,NeighbourhoodBldg,CanadaPost,6068 Gray Avenue,-123.235534,49.251437
 VAD10018,In-Vessel Composting Facility,Vancouver,V6T 1W5,BC,VBL10364,CampusBuilding,CampusMail,6035 Nurseries Road,-123.228103,49.244922
 VAD11189,UBC Botanical Garden Nursery,Vancouver,V6T 1W5,BC,VBL10195,CampusBuilding,CampusMail,3929 Wesbrook Mall,-123.234689,49.249444
 VAD11069,Tapestry South,Vancouver,V6S 0A7,BC,VBL10182,NeighbourhoodBldg,CanadaPost,3382 Wesbrook Mall,-123.234745,49.254109
