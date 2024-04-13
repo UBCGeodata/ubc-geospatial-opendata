@@ -5,6 +5,7 @@ OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupi
 OBL10028,Upper Cascades K,CASK,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1166,4027,0,,,,,RACHELW,20240215020124,AptLess5Storey,,,,B5,,-119,50
 OBL10040,Library,LIB,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,6179,4000,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10007,The Commons,COM,Complete,20190101,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
+OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Temporary,,Steel,,,132,4099-24,0,,,RACHELW,20200416221350,RACHELW,20240408194622,Unspecified,,,,B3,,-119,50
 OBL10010,Arts and Sciences Centre,ASC,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,7801,4028,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10012,Arts Building,ART,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,9667,4002,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,537,4042,0,,,RACHELW,20200416220402,RACHELW,20240126182601,Unspecified,,,,B2,,-119,50
@@ -53,4 +54,3 @@ OBL10017,Upper Cascades H,CASH,Complete,20090101,StudentHousing,,UBC,,SHHS,Occup
 OBL10043,Upper Cascades I,CASI,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1166,4025,0,,,,,RACHELW,20240215020124,AptLess5Storey,,,,B5,,-119,50
 OBL10003,Quonset Office,QOT,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,89,4097,0,,,,,RACHELW,20240129182832,Unspecified,,,,B3,,-119,50
 OBL10020,Quonset - Science Shed,QUS,Complete,20050101,Operations,,UBC,,UBC,Occupied,,Steel,1,,75,4098-4,0,,,,,RACHELW,20240129182832,Outbuildings,,,,B3,,-119,50
-OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Unoccupied,,Steel,,,132,4099-24,0,,,RACHELW,20200416221350,RACHELW,20240129182832,Unspecified,,,,B3,,-119,50
