@@ -13,7 +13,6 @@ OBL10001,Quonset - Hut,QUO,Complete,19940101,Operations,,UBC,,UBC,Occupied,,Wood
 OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10029,Science Building,SCI,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,8952,4003,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10039,University Centre,UNC,Complete,20090101,Administrative,,UBC,,UBC,Occupied,,Concrete,3,,7238,4022,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
-OBL10058,Quonset - Facilities Equipment Shed,QFS,PreConstruction,,Operations,,UBC,,UBC,Unoccupied,,Wood,1,,75,4098-5,0,,,RACHELW,20230103213129,RACHELW,20230103213728,Outbuildings,,,,B3,,-119,50
 OBL10018,Reichwald Health Sciences Centre,RHS,Complete,20110101,Academic,Research,UBC,,UBC,Occupied,,Concrete,3,,5021,4033,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10045,Nechako Residence,NCH,Complete,20210801,StudentHousing,Services,UBC,,SHHS,Occupied,,Concrete,5,,11315,4041,0,,,RACHELW,20190916204528,RACHELW,20231010204650,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10038,Gymnasium,GYM,Complete,19940101,Athletics,,UBC,,Athletics,Occupied,,Steel,3,,5168,4005;4005-1;4005-2,1,,,,,RACHELW,20240227224328,Unspecified,,,,B3,,-119,50
@@ -34,6 +33,7 @@ OBL10024,Kalamalka Residence,KAL,Complete,20050101,StudentHousing,,UBC,,SHHS,Occ
 OBL10055,x̌əl sic snpax̌nwixʷtn,XSS,UnderConstruction,,Other,,UBC,,UBC,Unoccupied,,,,,14377,4045,,,Xel Sic Snpaxnwixtn,NIKT,20210429232204,RACHELW,20240227223227,Unspecified,,,,,,-119,50
 OBL10026,Cassiar Residence,CSR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3951,4029,0,,,,,RACHELW,20240201173527,AptLess5Storey,,,,B5,,-119,50
 OBL10013,Purcell Residence,PUR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,6209,4031,0,,,,,RACHELW,20240201195453,Apt5StoreyPlus,,,,B5,,-119,50
+OBL10058,Quonset - Facilities Equipment Shed,QFS,Complete,20230301,Operations,,UBC,,UBC,Occupied,,Wood,1,,75,4098-5,0,,,RACHELW,20230103213129,RACHELW,20240419202518,Outbuildings,,,,B3,,-119,50
 OBL10014,University House,UNI,Complete,19750101,Operations,,UBC,,UBC,Occupied,,Concrete,2,,282,4007,0,,,,,RACHELW,20240207000234,Unspecified,,,,B2,,-119,50
 OBL10037,Daycare Building,DAY,Complete,19930101,Services,,UBC,,UBC,Occupied,,Steel,1,,387,4032,0,,,,,RACHELW,20240201202054,Unspecified,,,,B3,,-119,50
 OBL10021,Nicola Residence,NIC,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,5667,4023,0,,,,,RACHELW,20240201195453,AptLess5Storey,,,,B5,,-119,50

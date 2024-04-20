@@ -73,7 +73,6 @@ StudentHousing,Walter H. Gage Residence - South Tower,WGR6,"5959 Student Union B
 Academic,West Mall Annex,WMAX,1933 West Mall,V6T 1Z2,VBL10283,Complete,-123.257156,49.26625
 Academic,Wood Drying Laboratory,WDL,2324 West Mall,V6T 1Z4,VBL10285,Complete,-123.252249,49.261475
 Academic,Iona Building,IONA,6000 Iona Drive,V6T 1L4,VBL10292,Complete,-123.250309,49.270988
-Academic,Robert F. Osborne Centre - Unit 2,OSB2,"6108 Thunderbird Boulevard, Building 2",V6T 1Z3,VBL10296,Complete,-123.244315,49.259976
 Housing,Keenleyside,KEEN,5788 Birney Avenue,V6S 0A2,VBL10040,Complete,-123.233169,49.253967
 Other,Vancouver School of Theology,VST,6015 Walter Gage Road,V6T 1Z1,VBL10302,Complete,-123.251044,49.270391
 Academic,Buchanan Tower,BUTO,1873 East Mall,V6T 1Z1,VBL10324,Complete,-123.253487,49.268579
@@ -237,7 +236,9 @@ StudentHousing,Acadia Park Residence - Yalta Place,APR6,5501 Yalta Place,V6T 1L7
 StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.2371,49.264247
 StudentHousing,Acadia Park Residence - Montgomery Place,APR2,5501 Montgomery Place,V6T 2C8,VBL10439,Complete,-123.238725,49.264815
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.262634
-Housing,Exeter Hall - Townhouses,EXH2,6036 Gray Avenue,,VBL10452,PreConstruction,-123.234999,49.251473
+Housing,Exeter Hall - Townhouses,EXH2,"6036 Gray Avenue, Building 1",,VBL10452,PreConstruction,-123.234999,49.251473
+Academic,Robert F. Osborne Centre - Unit 2,OSB2,"6108 Thunderbird Boulevard, Building 2",V6T 1Z3,VBL10296,Complete,-123.244315,49.259976
+Academic,Robert F. Osborne Centre - Unit 1,OSB1,"6108 Thunderbird Boulevard, Building 1",V6T 1Z3,VBL10251,Complete,-123.24372,49.260296
 StudentHousing,Acadia Park Residence - Tennis Crescent,APR5,2621 Tennis Crescent,V6T 2C1,VBL10436,Complete,-123.237716,49.263483
 StudentHousing,Acadia Park Residence - Pearkes Lane,APR4,2500 Pearkes Lane,V6T 2C4,VBL10440,Complete,-123.239427,49.264274
 StudentHousing,Acadia Park Residence - Fairview Place,APR3,5501 Fairview Place,V6T 2E2,VBL10437,Complete,-123.236838,49.263269
@@ -291,7 +292,6 @@ Housing,Folio - Apartment,FOL1,5955 Iona Drive,V6T 2L4,VBL10309,Complete,-123.24
 Housing,Corus,CORS,5989 Walter Gage Road,V6T 0A8,VBL10303,Complete,-123.249347,49.270653
 Academic,Leon and Thea Koerner University Centre,UCEN,6331 Crescent Road,V6T 1Z2,VBL10093,Complete,-123.257225,49.268901
 Services,UBC Bookstore / NCE,BOOK,6200 University Boulevard,V6T 1Z4,VBL10065,Complete,-123.250592,49.264988
-Academic,Robert F. Osborne Centre - Unit 1,OSB1,"6108 Thunderbird Boulevard, Building 1",V6T 1Z3,VBL10251,Complete,-123.24372,49.260296
 Academic,UBC Farm - Harvest Hut/Market,FRM2,"3461 Ross Drive, Building 5",V6T 1W5,VBL10245,Complete,-123.237933,49.250758
 Services,Nitobe Memorial Garden,NITO,1895 Lower Mall,V6T 1Z2,VBL10230,Complete,-123.259189,49.266168
 Housing,Folio - Duplexes,FOL3,5998 Chancellor Boulevard,V6T 0A1,VBL10291,Complete,-123.250604,49.272415
