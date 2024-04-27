@@ -1,24 +1,24 @@
 ﻿BLDG_UID,NAME,BLDG_CODE,CONSTR_STATUS,OCCU_DATE,BLDG_USAGE,BLDG_SEC_USAGE,JURISDICTION,NEIGHBOURHOOD,MANAGE_ORG,BLDG_STATE,GREEN_STATUS,CONSTR_TYPE,MAX_FLOORS,BLDG_HEIGHT,GBA,REC_IDS,HAS_SUBBLDGS,GEOM_SOURCE,NOTES,CREATED_USER,CREATED_DATE,LAST_EDITED_USER,LAST_EDITED_DATE,BLDG_FORM,BLDG_MAINTENANCE,ACCESSIBILITY_RATING,BLDG_CONDITION,BLDG_CLASS,PROPERTY_TYPE,LONG,LAT
 OBL10015,Upper Cascades J,CASJ,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1173,4026,0,,,,,RACHELW,20240215020124,AptLess5Storey,,,,B5,,-119,50
 OBL10056,Office Modular 2,OM2,Complete,20230801,Operations,,UBC,,UBC,Occupied,,Wood,,,459,4099-25,0,,,RACHELW,20220920164452,RACHELW,20230804203807,Unspecified,,,,B3,,-119,50
-OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupied,,Steel,,,393,4039,0,,,RACHELW,20200416215859,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10028,Upper Cascades K,CASK,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,3,,1166,4027,0,,,,,RACHELW,20240215020124,AptLess5Storey,,,,B5,,-119,50
 OBL10040,Library,LIB,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,6179,4000,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10007,The Commons,COM,Complete,20190101,Academic,,UBC,,UBC,Occupied,,,4,,6596,4035,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10051,Portable V,PBV,Complete,20200407,Operations,,UBC,,UBC,Temporary,,Steel,,,132,4099-24,0,,,RACHELW,20200416221350,RACHELW,20240408194622,Unspecified,,,,B3,,-119,50
 OBL10010,Arts and Sciences Centre,ASC,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,7801,4028,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10012,Arts Building,ART,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,9667,4002,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
-OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,537,4042,0,,,RACHELW,20200416220402,RACHELW,20240126182601,Unspecified,,,,B2,,-119,50
 OBL10001,Quonset - Hut,QUO,Complete,19940101,Operations,,UBC,,UBC,Occupied,,Wood,1,,498,4098;4098-3,1,,,,,RACHELW,20230103213352,Outbuildings,,,,B3,,-119,50
 OBL10027,"Engineering, Management and Education Building",EME,Complete,20100101,Academic,,UBC,,UBC,Occupied,,Concrete,5,,16520,4030,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10029,Science Building,SCI,Complete,19920101,Academic,,UBC,,UBC,Occupied,,Steel,4,,8952,4003,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10039,University Centre,UNC,Complete,20090101,Administrative,,UBC,,UBC,Occupied,,Concrete,3,,7238,4022,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10018,Reichwald Health Sciences Centre,RHS,Complete,20110101,Academic,Research,UBC,,UBC,Occupied,,Concrete,3,,5021,4033,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10045,Nechako Residence,NCH,Complete,20210801,StudentHousing,Services,UBC,,SHHS,Occupied,,Concrete,5,,11315,4041,0,,,RACHELW,20190916204528,RACHELW,20231010204650,Apt5StoreyPlus,,,,B5,,-119,50
-OBL10038,Gymnasium,GYM,Complete,19940101,Athletics,,UBC,,Athletics,Occupied,,Steel,3,,5168,4005;4005-1;4005-2,1,,,,,RACHELW,20240227224328,Unspecified,,,,B3,,-119,50
-OBL10030,Campus Administration Building,ADM,Complete,19920101,Administrative,,UBC,,UBC,Occupied,,Steel,2,,5792,4001,0,,,,,RACHELW,20240227224328,Unspecified,,,,B3,,-119,50
+OBL10038,Gymnasium,GYM,Complete,19940101,Athletics,,UBC,,Athletics,Occupied,,Steel,3,,5168,4005;4005-1;4005-2,1,,,,,RACHELW,20240423225450,Unspecified,,,,B2,,-119,50
+OBL10030,Campus Administration Building,ADM,Complete,19920101,Administrative,,UBC,,UBC,Occupied,,Steel,2,,5792,4001,0,,,,,RACHELW,20240423225450,Unspecified,,,,B2,,-119,50
 OBL10044,Upper Campus Health Building,UCH,Complete,19930101,Academic,Research,UBC,,UBC,Occupied,,,3,,1681,4008,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10011,Valhalla Residence,VAL,Complete,20050101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,4797,4011,0,,,,,RACHELW,20240125194628,AptLess5Storey,,,,B5,,-119,50
+OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,537,4042,0,,,RACHELW,20200416220402,RACHELW,20240423225450,Unspecified,,,,B3,,-119,50
+OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupied,,Steel,,,393,4039,0,,,RACHELW,20200416215859,RACHELW,20240423230737,Unspecified,,,,B3,,-119,50
 OBL10057,Child Care Facility,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20221205233746,Unspecified,,,,B3,,-119,50
 OBL10022,Monashee Residence,MON,Complete,19920101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,7685,4010,0,,,,,RACHELW,20240125230115,AptLess5Storey,,,,B5,,-119,50
 OBL10005,Similkameen Residence,SIM,Complete,19920101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3528,4009,0,,,,,RACHELW,20240125230115,AptLess5Storey,,,,B5,,-119,50
