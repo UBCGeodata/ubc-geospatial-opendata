@@ -1,4 +1,5 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
+VAD10171,Mathematics Annex,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,1986 Mathematics Road,-123.254567,49.266214
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -958,7 +959,6 @@ VAD11225,Verve,Vancouver,,BC,VBL10453,NeighbourhoodBldg,CanadaPost,5855 Binning 
 VAD11067,The Mews - Retail,Vancouver,V6S 0B1,BC,VBL10165,Commercial,CanadaPost,3309 Wesbrook Mall,-123.235733,49.254845
 VAD10074,The Leonard S. Klinck Building,Vancouver,V6T 1Z2,BC,VBL10252,CampusBuilding,CampusMail,6356 Agricultural Road,-123.255151,49.265661
 VAD10097,Old Administration Building,Vancouver,V6T 1Z2,BC,VBL10138,CampusBuilding,CampusMail,6328 Memorial Road,-123.255526,49.267257
-VAD10171,Mathematics Annex,Vancouver,V6T 1Z2,BC,VBL10216,CampusBuilding,CampusMail,1986 Mathematics Road,-123.254567,49.266214
 VAD10825,Campus and Community Planning,Vancouver,V6T 1Z4,BC,VBL10332,CampusBuilding,CampusMail,2210 West Mall,-123.253297,49.262433
 VAD10841,Buchanan Building,Vancouver,V6T 1Z1,BC,VBL10323,CampusBuilding,CampusMail,1866 Main Mall,-123.254908,49.268283
 VAD10849,Cecil Green Park Coach House,Vancouver,V6T 1Z1,BC,VBL10341,CampusBuilding,CampusMail,6323 Cecil Green Park Road,-123.258582,49.270993
