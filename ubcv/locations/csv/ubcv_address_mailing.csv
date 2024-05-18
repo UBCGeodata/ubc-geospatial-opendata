@@ -1,5 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-VAD10171,Mathematics Annex,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,1986 Mathematics Road,-123.254567,49.266214
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -851,6 +850,7 @@ VAD10882,Acadia Park Highrise,Vancouver,V6T 1N4,BC,VBL10260,CampusBuilding,Campu
 VAD10958,Acadia Park Residence - Tennis Crescent (2663),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2663 Tennis Crescent,-123.237542,49.262951
 VAD11008,Acadia Park Residence - Yalta Place (5508),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5508 Yalta Place,-123.237405,49.264259
 VAD10711,Child Care Services - Little Goslings/Coho,Vancouver,V6T 2E6,BC,VBL10274,CampusBuilding,CampusMail,5590 Osoyoos Crescent,-123.234238,49.259859
+VAD11181,Brock Commons South - Residential,Vancouver,V6T 1K2,BC,VBL10424,Residential,CampusMail,6122 Walter Gage Road,-123.252089,49.269277
 VAD11107,Child Care Services - Auklet,Vancouver,V6T 1S1,BC,VBL10276,CampusBuilding,CampusMail,5615 Osoyoos Crescent,-123.234687,49.260096
 VAD11101,Child Care Services - Salal,Vancouver,V6T 1S1,BC,VBL10273,CampusBuilding,CampusMail,5655 Osoyoos Crescent,-123.235113,49.25983
 VAD11089,Central - Retail,Vancouver,V6T 0C4,BC,VBL10356,Commercial,CanadaPost,6065 University Boulevard,-123.247689,49.266182
@@ -875,6 +875,7 @@ VAD10128,Nitobe Memorial Garden,Vancouver,V6T 1Z2,BC,VBL10230,CampusBuilding,Cam
 VAD11221,Symphony,Vancouver,,BC,VBL10454,NeighbourhoodBldg,CanadaPost,3638 Wesbrook Mall,-123.2327,49.251071
 VAD11038,Earth Sciences Building (ESB),Vancouver,V6T 1Z4,BC,VBL10072,CampusBuilding,CampusMail,2207 Main Mall,-123.251973,49.263195
 VAD10821,Building Operations Storage Shed,Vancouver,V6T 1Z4,BC,VBL10207,CampusBuilding,CampusMail,2214 Lower Mall,-123.254572,49.262084
+VAD10171,Mathematics Annex,Vancouver,V6T 1Z2,BC,VBL10216,CampusBuilding,CampusMail,1986 Mathematics Road,-123.254567,49.266214
 VAD10015,Hillel House,Vancouver,V6T 1Z1,BC,VBL10361,OtherBuilding,CampusMail,6145 Student Union Boulevard,-123.251292,49.268481
 VAD10427,UBC Counselling Services,Vancouver,V6T 1Z1,BC,VBL10421,CampusBuilding,CampusMail,1930 East Mall,-123.251824,49.268169
 VAD11213,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - Front Desk,Vancouver,V6T 1K2,BC,VBL10378,Complex,CampusMail,5955 Student Union Boulevard,-123.248612,49.269118
@@ -974,7 +975,6 @@ VAD10811,Auditorium Annexes,Vancouver,V6T 1Z2,BC,VBL10228,CampusBuilding,CampusM
 VAD10814,B.C. Binning Studios,Vancouver,V6T 1Z2,BC,VBL10134,CampusBuilding,CampusMail,6373 University Boulevard,-123.25478,49.264642
 VAD10732,Civil and Mechanical Engineering Laboratories,Vancouver,V6T 1Z4,BC,VBL10330,CampusBuilding,CampusMail,2275 East Mall,-123.249597,49.263177
 VAD11183,Brock Commons North,Vancouver,V6T 1K2,BC,VBL10423,CampusBuilding,CampusMail,6177 Walter Gage Road,-123.252594,49.269389
-VAD11181,Brock Commons South - House,Vancouver,V6T 1K2,BC,VBL10424,Residential,CampusMail,6122 Walter Gage Road,-123.252089,49.269277
 VAD10827,David Lam Learning Centre,Vancouver,V6T 1Z2,BC,VBL10278,Occupant,CampusMail,6326 Agricultural Road,-123.25461,49.265776
 VAD10559,David Lam Management Research Centre,Vancouver,V6T 1Z2,BC,VBL10278,Occupant,CampusMail,2015 Main Mall,-123.254304,49.265931
 VAD10027,Landscape Operations Building,Vancouver,V6T 1Z4,BC,VBL10097,Occupant,CampusMail,2333 Lower Mall,-123.254794,49.260522
