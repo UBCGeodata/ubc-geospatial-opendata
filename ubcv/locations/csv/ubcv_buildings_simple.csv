@@ -84,11 +84,17 @@ Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.23320
 Academic,Sing Tao Building,STAO,6388 Crescent Road,V6T 1Z2,VBL10348,Complete,-123.257756,49.267833
 Academic,Library PARC@UBC,PARC,6049 Nurseries Road,V6T 1W5,VBL10351,Complete,-123.229708,49.245082
 Academic,JB Macdonald Building,MCDN,2199 Wesbrook Mall,V6T 1Z3,VBL10366,Complete,-123.24533,49.265345
+Housing,Evolve,EVLV,3518 Wesbrook Mall,V6T 1W5,VBL10422,Complete,-123.233236,49.252346
+Housing,Symphony,SYMY,3638 Wesbrook Mall,,VBL10454,UnderConstruction,-123.232337,49.251114
 Housing,Cypress House,CYPR,5988 Gray Avenue,V6S 0K4,VBL10322,Complete,-123.23469,49.25194
 Housing,Pine House,PINE,3588 Ross Drive,V6S 0K3,VBL10321,Complete,-123.234274,49.251443
+Housing,Theory,THRY,5781 Binning Avenue,,VBL10455,UnderConstruction,-123.231135,49.251054
 Housing,Cascara House,CSCA,6385 Hawthorn Lane,V6T 0C1,VBL10347,Complete,-123.249667,49.258468
 Housing,Gardenia House,GARD,6309 Larkin Drive,V6T 0C2,VBL10224,Complete,-123.248967,49.25873
 Housing,Magnolia House,MAGN,3565 Wesbrook Mall,V6S 0H1,VBL10191,Complete,-123.233539,49.251541
+Housing,BCR7 - Building A,BCR7A,3588 Wesbrook Mall,,VBL10459,PreConstruction,-123.232759,49.251598
+Housing,BCR7 - Building B,BCR7B,3562 Wesbrook Mall,,VBL10460,PreConstruction,-123.232902,49.251901
+Housing,BCR7 - Building C,BCR7C,3578 Wesbrook Mall,,VBL10461,PreConstruction,-123.232203,49.251849
 StudentHousing,Place Vanier Residence - Margaret Mackenzie House,VNR07,"1935 Lower Mall, Building 12",V6T 1X1,VBL10326,Complete,-123.259143,49.265692
 StudentHousing,Place Vanier Residence - Phyllis Ross House,VNR09,"1935 Lower Mall, Building 11",V6T 1X1,VBL10368,Complete,-123.259614,49.265329
 StudentHousing,Place Vanier Residence - Aldyen Hamber House,VNR01,"1935 Lower Mall, Building 13",V6T 1X1,VBL10325,Complete,-123.258795,49.265266
@@ -165,7 +171,6 @@ Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4
 Academic,Asian Centre,ACEN,1871 West Mall,V6T 1Z2,VBL10227,Complete,-123.25871,49.266752
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
 Academic,Wesbrook Building,WESB,6174 University Boulevard,V6T 1Z3,VBL10266,Complete,-123.249156,49.265251
-Housing,Theory,THRY,5781 Binning Avenue,,VBL10455,UnderConstruction,-123.231135,49.251054
 Other,AYO Smart Home,AYOH,5935 Agronomy Road,V6T 1Z3,VBL10294,Complete,-123.243407,49.263038
 Commons,"Orchard Commons - Vantage College, Bartlett/Braeburn House",ORCH,6363 Agronomy Road,V6T 1Z4,VBL10013,Complete,-123.251332,49.260461
 Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.239979,49.257149
@@ -185,7 +190,6 @@ StudentHousing,MBA House,MBAH,3385 Wesbrook Mall,V6T 1Z4,VBL10403,Complete,-123.
 Academic,Irving K. Barber Learning Centre,IBLC,1961 East Mall,V6T 1Z1,VBL10080,Complete,-123.252738,49.267595
 Academic,Gas Gun Facility,GASG,6301 Stadium Road,V6T 1Z4,VBL10410,Complete,-123.246052,49.256017
 Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
-Housing,Symphony,SYMY,3638 Wesbrook Mall,,VBL10454,UnderConstruction,-123.232337,49.251114
 Academic,First Nations Longhouse,FNLH,1985 West Mall,V6T 1Z2,VBL10386,Complete,-123.257188,49.265561
 Academic,Henry Angus Building,ANGU,2053 Main Mall,V6T 1Z2,VBL10067,Complete,-123.25388,49.265107
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,UnderConstruction,-123.250421,49.267994
@@ -209,7 +213,6 @@ StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - q�
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sɬewət̕ leləm̓ (Herring),SLWT,1945 Wesbrook Mall,V6T 1K2,VBL10383,Complete,-123.247923,49.269589
 Academic,Geography Building,GEOG,1984 West Mall,V6T 1Z2,VBL10411,Complete,-123.256128,49.265984
 Academic,Plant Science Field Station,PLS1,"2613 West Mall, Building 2",V6T 1Z4,VBL10433,Complete,-123.249481,49.256307
-Housing,Evolve,EVLV,3518 Wesbrook Mall,V6T 1W5,VBL10422,Complete,-123.233231,49.252338
 Housing,Ivy on the Park - Midrise,IVYM,"5681 Birney Avenue, Building 1",V6S 0A5,VBL10457,Complete,-123.231847,49.254882
 Housing,Dahlia House,DAHL,3515 Wesbrook Mall,V6S 0H2,VBL10096,Complete,-123.233927,49.252149
 Housing,Virtuoso,VIRT,3581 Ross Drive,V6S 0K5,VBL10345,Complete,-123.233967,49.250732
