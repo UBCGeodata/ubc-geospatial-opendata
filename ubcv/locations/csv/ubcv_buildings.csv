@@ -187,7 +187,6 @@ VBL10410,Gas Gun Facility,GASG,Complete,19890101,Academic,,UBC,Academic,UBC,Occu
 VBL10453,Verve,VERV,UnderConstruction,,Housing,,UNA,Wesbrook,Private,Unoccupied,REAP Gold,Concrete,16,54,13000,,0,,Lot 6 - Midrise A,RACHELW,20230603002133,RACHELW,20240410195447,Apt5StoreyPlus,,,,B5,,-123.231851,49.250869
 VBL10386,First Nations Longhouse,FNLH,Complete,19930101,Academic,,UBC,Academic,UBC,Occupied,,Wood,1,11.63,2157,337;337-1,1,,,,,RACHELW,20231222235344,Unspecified,Poor,,UBC,B2,,-123.257188,49.265561
 VBL10067,Henry Angus Building,ANGU,Complete,20090903,Academic,,UBC,Academic,UBC,Occupied,,Concrete,10,31.27,22458,023;026;023-1,1,,,,,RACHELW,20240229033841,Unspecified,Fair,,UBC,B2,,-123.25388,49.265107
-VBL10441,Recreation Centre North,RCN,UnderConstruction,,Athletics,,UBC,Academic,Atheltics,Unoccupied,,Wood,3,20,9377,775,0,,,NIKT,20210323215825,RACHELW,20231127040801,Unspecified,,,,B2,,-123.250421,49.267994
 VBL10161,War Memorial Gymnasium,MGYM,Complete,19500101,Athletics,,UBC,Academic,Athletics,Occupied,,Concrete,5,21.55,8945,428,0,,,,,RACHELW,20240229033841,Unspecified,Critical,,UBC,B1,,-123.247656,49.266772
 VBL10444,SBME,SBME,UnderConstruction,,Academic,,UBC,Academic,UBC,Unoccupied,,Concrete,5,32,14530,459,0,,,NIKT,20210325152429,RACHELW,20231127040801,Unspecified,,,,B2,,-123.24731,49.265635
 VBL10090,UBC Tennis Centre,TENN,Complete,20110706,Athletics,,UBC,Academic,Athletics,Occupied,,Steel,2,14.32812,10661,432;433,1,,,,,RACHELW,20240229033841,Unspecified,Good,,UBC,B1,,-123.243836,49.259487
@@ -300,7 +299,6 @@ VBL10289,Stirling House,STIR,Complete,20080730,Housing,,UNA,Chancellor,Private,O
 VBL10288,Argyll House East,ARGE,Complete,20060929,Housing,,UNA,Chancellor,Private,Occupied,,Concrete,8,23.18321,6878,810,0,,,,,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.249551,49.271406
 VBL10280,Esse,ESSE,Complete,20050811,Housing,,UNA,Chancellor,Private,Occupied,,Wood,4,13.12852,2534,808,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.24831,49.271197
 VBL10279,St. Mark's Duplexes,STMD,Complete,20081110,Housing,,UNA,Chancellor,Private,Occupied,,Wood,4,13.21,1727,827-5;827-6;827-7;827-8,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.249405,49.272739
-VBL10448,Food and Beverage Innovation Centre,FBIC,UnderConstruction,,Services,,UBC,Academic,SHHS,Unoccupied,,Wood,2,7.5,743,466,0,,,RACHELW,20220722015555,PLAN,20230713154114,Unspecified,,,,B5,,-123.248195,49.263897
 VBL10119,Forest Sciences Centre,FSC,Complete,19980101,Academic,,UBC,Academic,UBC,Occupied,,OtherMixed,6,25.59,22459,353,0,,,,,RACHELW,20230803213336,Unspecified,Fair,,UBC,B2,,-123.247827,49.260597
 VBL10044,Frank Forward Building,FORW,Complete,19680101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,29.635,7542,562,0,,,,,RACHELW,20230803213345,Unspecified,Critical,,UBC,B2,,-123.251692,49.26169
 VBL10085,Fred Kaiser Building,KAIS,Complete,20041012,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,20.7,12792,313,0,,,,,RACHELW,20230803213401,Unspecified,Fair,,UBC,B2,,-123.250082,49.262371
@@ -425,6 +423,8 @@ VBL10231,Totem Park Residence - Commonsblock,TPR1,Complete,19640101,Services,Stu
 VBL10116,St. John's College,STJC,Complete,19970101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,12.52361,9178,822-1;822-2;822-3,0,,,,,PLAN,20230908210733,Unspecified,Critical,,UBC,B5,,-123.25679,49.262595
 VBL10007,UBC Botanical Garden - Ting Lookout,BOT7,Complete,19900101,Services,,UBC,Academic,UBC,Occupied,,Wood,1,7.69714,25,100,0,,,GISSTUD2,20190513201345,RACHELW,20240308214908,Outbuildings,Good,,UBC,B3,,-123.25166,49.254091
 VBL10396,Walter H. Gage Residence - West Coast Suites (Gage Court),WGR3,Complete,19720101,StudentHousing,,UBC,Academic,SHHS,Occupied,LEED Gold,Concrete,4,11.80222,3597,872-2,0,,,GISSTUD2,20190514202820,RACHELW,20240229230217,AptLess5Storey,Poor,,UBC,B1,,-123.248586,49.269593
+VBL10448,Food and Beverage Innovation Centre,FBIC,UnderConstruction,,Services,,UBC,Academic,UBC,Unoccupied,,Wood,2,7.5,743,466,0,,,RACHELW,20220722015555,RACHELW,20240617212154,Unspecified,,,,B5,,-123.248195,49.263897
+VBL10441,Recreation Centre North,RCN,UnderConstruction,,Athletics,,UBC,Academic,Athletics,Unoccupied,,Wood,3,20,9377,775,0,,,NIKT,20210323215825,RACHELW,20240617212225,Unspecified,,,,B2,,-123.250421,49.267994
 VBL10407,AMS Student Nest,NEST,Complete,20150101,Services,,UBC,Academic,AMS,Occupied,LEED Platinum,Concrete,5,30.15,20282,795,1,,Leased to AMS,,,RACHELW,20240326222407,Unspecified,Good,,UBC,B1,LeasedFromUBC,-123.249807,49.26657
 VBL10327,Chemistry A - Physics,CHPH,Complete,19890101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,24.48,7631,447,1,,,RACHELW,20190325220100,RACHELW,20240326222407,Unspecified,Poor,,UBC,B2,,-123.251513,49.265736
 VBL10328,"Chemistry - B, C, D, E",CHEM,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,24.85,26438,140;136;148;144;132,1,,,,,RACHELW,20240326222407,Unspecified,Poor,,UBC,B2,,-123.252665,49.265817
