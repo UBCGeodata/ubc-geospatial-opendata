@@ -47,7 +47,6 @@ Services,UBC Botanical Garden - Alpine Garden Greenhouse,BOT8,"6804 SW Marine Dr
 Services,Green College - D Graham House,GRN7,"6201 Cecil Green Park Road, Building 4",V6T 1Z1,VBL10189,Complete,-123.256266,49.27128
 Housing,Logan Lane,LOGN,6226 Logan Lane,V6T 2K9,VBL10226,Complete,-123.245728,49.258901
 Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V6T 1W5,VBL10015,Complete,-123.239793,49.251477
-Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,UnderConstruction,-123.252352,49.26907
 Operations,Bioenergy Research and Demonstration Facility,BRDF,2337 Lower Mall,V6T 1Z4,VBL10069,Complete,-123.254521,49.260296
 Research,Pulp and Paper Centre,PAPC,2385 East Mall,V6T 1Z4,VBL10045,Complete,-123.247568,49.261416
 Housing,Journey,JOUR,6328 Larkin Drive,V6T 2K2,VBL10225,Complete,-123.247481,49.258036
@@ -198,11 +197,14 @@ Services,Child Care Services - Saw-Whet,MCC1,2850 Salmo Court,V6T 1S1,VBL10372,C
 Services,Child Care Services - Acadia,CCS1,2865 Revelstoke Court,V6T 1S1,VBL10272,Complete,-123.234734,49.260896
 Housing,Azalea House,AZAL,6388 Hawthorn Lane,V6T 0B9,VBL10133,Complete,-123.249486,49.257895
 StudentHousing,Marine Drive Residence - 2,MAR2,"2205 Lower Mall, Building 2",V6T 1Z4,VBL10317,Complete,-123.256765,49.261877
+Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,Complete,-123.25262,49.269586
 Housing,Webber House,WEBH,3388 Webber Lane,V6S 0J8,VBL10171,Complete,-123.236779,49.253308
 Housing,Tamarack House,TAMK,6230 Thunderbird Boulevard,V6T 0C3,VBL10159,Complete,-123.246328,49.259596
 Housing,The Mews,MEWS,3333 Wesbrook Mall,V6S 0E3,VBL10165,Complete,-123.235709,49.254534
 Commercial,Wesbrook Professional Centre,WPRO,3313 Shrum Lane,V6S 0C8,VBL10166,Complete,-123.236356,49.254484
 Housing,Village Square,VSQU,3338 Webber Lane,V6S 0J7,VBL10170,Complete,-123.236379,49.25396
+Commons,Brock Commons South,BRCS,6180 Walter Gage Road,V6T 1K2,VBL10424,Complete,-123.252352,49.26907
+Services,Food and Beverage Innovation Centre,FBIC,2220 East Mall,V6T 1Z3,VBL10448,Complete,-123.248195,49.263897
 Housing,Larkspur House,LARK,3428 Wesbrook Mall,V6S 0G9,VBL10018,Complete,-123.234055,49.25356
 Athletics,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,V6T 1Z3,VBL10412,Complete,-123.241314,49.259582
 Housing,Sumac House,SUMA,6395 Hawthorn Lane,V6T 0C1,VBL10041,Complete,-123.250057,49.258279
@@ -332,7 +334,6 @@ Commons,Ponderosa Commons West - Arbutus/Maple House,PCW,6488 University Bouleva
 Commons,Ponderosa Commons East - Audain Art Centre/Spruce House,PCE,6398 University Boulevard,V6T 1Z4,VBL10311,Complete,-123.25441,49.263781
 Parking,University Boulevard Lot,ULOT,6131 University Boulevard,V6T 1Z3,VBL10355,Complete,-123.248943,49.266722
 Commons,Ponderosa Commons North - Oak/Cedar House,PCN,6445 University Boulevard,V6T 1Z2,VBL10312,Complete,-123.256151,49.264092
-Commons,Brock Commons North,BRCN,6177 Walter Gage Road,V6T 1K2,VBL10423,Complete,-123.25262,49.269586
 StudentHousing,Totem Park Residence - Dene/Nootka House,TPR2,"2525 West Mall, Building 2",V6T 1W9,VBL10126,Complete,-123.253225,49.258715
 Academic,Beaty Biodiversity Centre,BETY,2212 Main Mall,V6T 1Z4,VBL10086,Complete,-123.250353,49.263372
 Parking,Health Sciences Parkade,PARH,2250 Health Sciences Mall,V6T 1Z3,VBL10357,Complete,-123.247842,49.263405
@@ -420,7 +421,6 @@ Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V
 StudentHousing,St. John's College,STJC,2111 Lower Mall,V6T 1Z4,VBL10116,Complete,-123.25679,49.262595
 Services,UBC Botanical Garden - Ting Lookout,BOT7,"6804 SW Marine Drive, Building 4",V6T 1Z4,VBL10007,Complete,-123.25166,49.254091
 StudentHousing,Walter H. Gage Residence - West Coast Suites (Gage Court),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
-Services,Food and Beverage Innovation Centre,FBIC,2220 East Mall,V6T 1Z3,VBL10448,UnderConstruction,-123.248195,49.263897
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,UnderConstruction,-123.250421,49.267994
 Services,AMS Student Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Complete,-123.249807,49.26657
 Academic,Chemistry A - Physics,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251513,49.265736
