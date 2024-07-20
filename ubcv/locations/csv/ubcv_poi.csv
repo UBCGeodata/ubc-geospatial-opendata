@@ -259,7 +259,6 @@ VPOI10344,VAD10490,Law Library,,,,,library,http://www.infrastructuredevelopment.
 VPOI10345,,Sauder Family Garden,,,,,garden,,,,,N,,Current,Civic,,,,RACHELW,20240116214918,{28361191-DFD7-43C4-8BE7-08295BAD0B4B},,,,,-123.244986,49.264417
 VPOI10346,,Money and Raymond M.C. Lee Square,,Lee Square,,garden,plaza,,,,,N,,Current,Civic,,,,RACHELW,20240116214918,{881A8FFB-76F9-4E4C-AAD1-C29FF5D92D46},,,,,-123.25049,49.265578
 VPOI10354,VAD10616,AMS Nest Food Court,,Food Court,,restaurant,restaurant,,https://www.ams.ubc.ca/the-nest/eat/,Phone: (604) 822-2901,,N,,Current,Services,,GISSTUD1,20180515201558,RACHELW,20240116214918,{B51C4529-C5EB-4DA8-A270-B279A7EAD998},,,,,-123.250353,49.266863
-VPOI10347,,The Knoll,,,,,garden,,,,,N,,Current,Civic,,,,RACHELW,20240116214918,{5C6D6889-7043-470B-B227-C9AB4F77EAC7},,,,,-123.25035,49.266481
 VPOI10348,,Davidson Arboretum,,,,,garden,,,,,N,,Current,Civic,,,,RACHELW,20240116214918,{C6D69A48-2826-4FD1-B333-52715EB9A691},,,,,-123.257123,49.265197
 VPOI10349,,Stephen Toope Gardens,,,,garden-l,garden,,,,,N,,Current,Civic,,,,RACHELW,20240116214918,{0CB0F064-4CA4-4516-85B8-4EAFEA6B4434},,,,,-123.254051,49.267655
 VPOI10350,,Koerner Plaza,,,,,plaza,,,,,N,,Current,Civic,,,,RACHELW,20240116214918,{1D0EFD60-D67B-402F-89A3-E73688EFFA2C},,,,,-123.254661,49.266833
@@ -462,3 +461,4 @@ VPOI10001,VAD10127,Green College Front Desk,,,,Front Desk,housing_student,,http:
 VPOI10241,VAD10612,Fairiew Crescent Residence Front Desk,,,,Front Desk,housing_student,,http://vancouver.housing.ubc.ca/residences/fairview-crescent/,Phone: (604) 822-3172; Email: information@housing.ubc.ca,,N,,Current,Anchor,,,,RACHELW,20240710193716,{4A532C3E-30EB-48CE-84A0-7243202CE043},,,,,-123.239711,49.263411
 VPOI10423,VAD11040,Pacific Museum of Earth,,Museum,,,attraction,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/402.jpg,https://pme.ubc.ca/,Phone: (604) 822-6992; Email: pme@eos.ubc.ca,M-F: 10 am - 5 pm; Sat-Sun: Closed,N,,Current,Civic,,,,RACHELW,20240710194343,{0B417750-07F3-441F-B405-A7A140C91348},,,,,-123.252256,49.262642
 VPOI10290,VAD10357,X̱wi7x̱wa Library,,,,,library,http://www.infrastructuredevelopment.ubc.ca/rrs2/photos/337.jpg,http://xwi7xwa.library.ubc.ca/,Phone: (604) 822-8738,M-F: 9 am - 5 pm; Sat-Sun: Closed,N,,Current,Civic,,,,RACHELW,20240710194805,{20820226-A8AB-44B4-B692-0CFDEF16FE83},,,,,-123.256628,49.2655
+VPOI10347,,The Knoll,,,,garden,garden,,,,,N,,Current,Civic,,,,RACHELW,20240719214300,{5C6D6889-7043-470B-B227-C9AB4F77EAC7},,,,,-123.25035,49.266481
