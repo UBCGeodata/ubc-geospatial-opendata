@@ -1450,8 +1450,6 @@
 3532,,Thuja plicata 'Zebrina',Western red cedar 'Zebrina',Y,5779,,,,,,,,,,,,,,,,,,PLAN,20190614175907,PLAN,20200914225654,49.268308,-123.252169
 3198,,Cercis canadensis 'Forest Pansy',Purple leaved eastern redbud,,,,,,,,,,,,,,,,,,,,PLAN,20190614175819,PLAN,20200914230159,49.267928,-123.252098
 8083,,Acer platanoides ,Norway maple ,Y,1993,,,,,,,,,,,,,,,,,,GISSTUD1,20200106223711,PLAN,20200914230219,49.268584,-123.249112
-8206,,Pinus ssp.,Pine,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106224033,PLAN,20200914230145,49.267465,-123.2509
-8207,,Pinus ssp.,Pine ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106224034,PLAN,20200914225833,49.26741,-123.250856
 7986,,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233047,laura.grant@ubc.ca,20221007021018,49.260274,-123.24514
 7985,,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233046,laura.grant@ubc.ca,20221007021102,49.260235,-123.245252
 7984,,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233046,laura.grant@ubc.ca,20221007021221,49.260206,-123.24534
@@ -1775,6 +1773,11 @@
 2723,,Betula nigra heritage,,N,,Live,15,5.36,5.36,0.5,8.69,2.8,10,5,,6,,20190301,,,,,PLAN,20190614175928,PLAN,20200914230915,49.262987,-123.25298
 6552,,Chamaecyparis pisifera 'filifera',Sawara cypress,N,,,,,,,,,,,,,,,,,,,PLAN,20190614175900,PLAN,20200914225930,49.263469,-123.244715
 6551,,Chamaecyparis pisifera 'filifera',Sawara cypress ,N,,,,,,,,,,,,,,,,,,,PLAN,20190614175900,PLAN,20200914230157,49.263532,-123.24456
+3149,,Quercus palustris,Removed,,,Dead,,,,,,,,,,,,,,,,,PLAN,20190614175818,finnkopf@mail.ubc.ca,20240815194535,49.267807,-123.251902
+8207,,Pinus ssp.,Removed,N,,Dead,,,,,,,,,,,,,,,,,GISSTUD1,20200106224034,finnkopf@mail.ubc.ca,20240815194919,49.26741,-123.250856
+8206,,Pinus ssp.,Removed,N,,Dead,,,,,,,,,,,,,,,,,GISSTUD1,20200106224033,finnkopf@mail.ubc.ca,20240815194939,49.267465,-123.2509
+8205,,Fagus sylvatica ,Removed,N,,Dead,,,,,,,,,,,,,,,,,GISSTUD1,20200106224029,finnkopf@mail.ubc.ca,20240815194959,49.267594,-123.250921
+8208,,Fagus sylvatica ,Removed,N,,Dead,,,,,,,,,,,,,,,,,GISSTUD1,20200106224053,finnkopf@mail.ubc.ca,20240815195025,49.267568,-123.250844
 7443,,Cotinus coggygria ‘Royal purple’,European smoke tree,N,,,,,,,,,,,,,,,,,,,GISSTUD2,20200117202355,PLAN,20200914230520,49.264309,-123.247721
 6921,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231627,PLAN,20200914225641,49.265328,-123.245641
 6915,,Acer palmatum ,Japanese maple ,Y,3005,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231614,PLAN,20200914230332,49.26519,-123.245523
@@ -4893,8 +4896,6 @@
 6592,,Tilia cordata,little-leaved linden,N,,Live,40,17.8,17.8,1.9,7.55,9.1,20,4,,3,Angiosperm,,,,2022,,PLAN,20190614175903,PLAN,20240420000539,49.263858,-123.244292
 6596,,Tilia cordata,little-leaved linden,N,,Live,39,21.4,21.4,1.8,7.65,10.6,35,3,,3,Angiosperm,,,,2022,,PLAN,20190614175904,PLAN,20240420000539,49.263836,-123.244276
 7120,,Tilia cordata,little-leaved linden,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200208001656,PLAN,20240420000539,49.261011,-123.237062
-8205,,Fagus sylvatica ,beech,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106224029,PLAN,20240420000539,49.267594,-123.250921
-8208,,Fagus sylvatica ,beech,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106224053,PLAN,20240420000539,49.267568,-123.250844
 8012,,Fagus sylvatica,beech,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106234200,PLAN,20240420000539,49.259861,-123.243266
 8013,,Fagus sylvatica,beech,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106234201,PLAN,20240420000539,49.259829,-123.243333
 8014,,Fagus sylvatica,beech,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106234201,PLAN,20240420000539,49.259802,-123.243409
@@ -7091,7 +7092,6 @@
 3146,,Quercus palustris,pin oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175818,PLAN,20240420000539,49.267785,-123.251691
 3147,,Quercus palustris,pin oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175818,PLAN,20240420000539,49.26786,-123.251749
 3148,,Quercus palustris,pin oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175818,PLAN,20240420000539,49.267948,-123.251812
-3149,,Quercus palustris,pin oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175818,PLAN,20240420000539,49.267807,-123.251902
 4366,,Thuja plicata ,western red cedar,N,,Live,3,3,3,0.1,1.9,1.7,5,5,,8,Coniferous,20200301,,,2020,,PLAN,20190614175828,PLAN,20240420000539,49.26705,-123.253418
 4359,,Thuja plicata ,western red cedar,N,,Live,3,2.4,2.4,0.4,1.84,1.44,5,5,,8,Coniferous,20200301,,,2020,,PLAN,20190614175828,PLAN,20240420000539,49.266991,-123.253339
 5045,,Thuja plicata ,western red cedar,N,,Live,2,2,2,0.1,1.9,1.6,20,3,,8,Coniferous,20200301,,,2020,,PLAN,20190614175842,PLAN,20240420000539,49.267391,-123.253519
