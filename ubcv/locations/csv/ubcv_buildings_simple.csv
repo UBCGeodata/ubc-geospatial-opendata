@@ -13,6 +13,8 @@ Operations,UBC Botanical Garden Nursery - Workshop,BON2,"3929 Wesbrook Mall, Bui
 Operations,UBC Botanical Garden Nursery - Greenhouses,BON1,"3929 Wesbrook Mall, Building 2",V6T 1W5,VBL10196,Complete,-123.234972,49.249451
 Operations,Materials Recovery Facility,MARF,6055 Nurseries Road,V6T 1W5,VBL10203,Complete,-123.228539,49.245784
 Other,Telus Hub,TELS,5895 Berton Avenue,V6T 1W5,VBL10179,Complete,-123.235473,49.255225
+Academic,Chemistry Physics Building A,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251513,49.265736
+Academic,"Chemistry Building - B, C, D, E",CHEM,2036 Main Mall,V6T 1Z1,VBL10328,Complete,-123.252665,49.265817
 Housing,Academy - Highrise,ACD1,5728 Berton Avenue,V6S 0E5,VBL10183,Complete,-123.233051,49.255577
 Housing,Sail - Building 1,SAL1,5983 Gray Avenue,V6S 0G8,VBL10172,Complete,-123.235232,49.252238
 Housing,Pacific,PACC,5928 Birney Avenue,V6S 0B5,VBL10169,Complete,-123.234987,49.253278
@@ -70,7 +72,6 @@ Academic,Sing Tao Building,STAO,6388 Crescent Road,V6T 1Z2,VBL10348,Complete,-12
 Academic,Library PARC@UBC,PARC,6049 Nurseries Road,V6T 1W5,VBL10351,Complete,-123.229708,49.245082
 Academic,JB Macdonald Building,MCDN,2199 Wesbrook Mall,V6T 1Z3,VBL10366,Complete,-123.24533,49.265345
 Housing,Evolve,EVLV,3518 Wesbrook Mall,V6T 1W5,VBL10422,Complete,-123.233236,49.252346
-Housing,Symphony,SYMY,3638 Wesbrook Mall,,VBL10454,UnderConstruction,-123.232337,49.251114
 Housing,Cypress House,CYPR,5988 Gray Avenue,V6S 0K4,VBL10322,Complete,-123.23469,49.25194
 Housing,Pine House,PINE,3588 Ross Drive,V6S 0K3,VBL10321,Complete,-123.234274,49.251443
 Housing,Cascara House,CSCA,6385 Hawthorn Lane,V6T 0C1,VBL10347,Complete,-123.249667,49.258468
@@ -178,7 +179,6 @@ Housing,Eton - Apartment,ETN2,5687 Gray Avenue,V6S 0K7,VBL10136,Complete,-123.23
 StudentHousing,MBA House,MBAH,3385 Wesbrook Mall,V6T 1Z4,VBL10403,Complete,-123.235169,49.253876
 Academic,Irving K. Barber Learning Centre,IBLC,1961 East Mall,V6T 1Z1,VBL10080,Complete,-123.252738,49.267595
 Academic,Gas Gun Facility,GASG,6301 Stadium Road,V6T 1Z4,VBL10410,Complete,-123.246052,49.256017
-Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
 Housing,Coast - Apartment West,COSW,6093 Iona Drive,V6T 0B2,VBL10297,Complete,-123.253207,49.270742
 Academic,First Nations Longhouse,FNLH,1985 West Mall,V6T 1Z2,VBL10386,Complete,-123.257188,49.265561
 Academic,Henry Angus Building,ANGU,2053 Main Mall,V6T 1Z2,VBL10067,Complete,-123.25388,49.265107
@@ -227,6 +227,12 @@ Parking,Thunderbird Parkade,PART,6085 Thunderbird Boulevard,V6T 1Z3,VBL10113,Com
 Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234399,49.25274
 Housing,West Hampstead - Building 1,WHM1,5760 Hampton Place,V6T 2G1,VBL10281,Complete,-123.235241,49.257587
 Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,V6S 0L3,VBL10353,Complete,-123.235007,49.250613
+Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
+Housing,Symphony,SYMY,3638 Wesbrook Mall,,VBL10454,UnderConstruction,-123.232337,49.251114
+Housing,Theory,THRY,5781 Binning Avenue,,VBL10455,UnderConstruction,-123.231135,49.251054
+Housing,BCR7 - Building A,BCR7A,3588 Wesbrook Mall,,VBL10459,PreConstruction,-123.232759,49.251598
+Housing,BCR7 - Building B,BCR7B,3562 Wesbrook Mall,,VBL10460,PreConstruction,-123.232902,49.251901
+Housing,BCR7 - Building C,BCR7C,3578 Wesbrook Mall,,VBL10461,PreConstruction,-123.232203,49.251849
 Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234582,49.257507
 Parking,West Parkade,PARW,2140 Lower Mall,V6T 1Z4,VBL10284,Complete,-123.255016,49.262597
 Services,UBC Botanical Garden - Scholar's Retreat,BOT5,6380 Stadium Road,V6T 1Z4,VBL10004,Complete,-123.24692,49.254985
@@ -423,8 +429,6 @@ Services,UBC Botanical Garden - Ting Lookout,BOT7,"6804 SW Marine Drive, Buildin
 StudentHousing,Walter H. Gage Residence - West Coast Suites (Gage Court),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,UnderConstruction,-123.250421,49.267994
 Services,AMS Student Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Complete,-123.249807,49.26657
-Academic,Chemistry A - Physics,CHPH,6221 University Boulevard,V6T 1Z1,VBL10327,Complete,-123.251513,49.265736
-Academic,"Chemistry - B, C, D, E",CHEM,2036 Main Mall,V6T 1Z1,VBL10328,Complete,-123.252665,49.265817
 Administrative,Gateway,GATE,5955 University Boulevard,V6T 0C4,VBL10442,UnderConstruction,-123.246503,49.266744
 Administrative,Ponderosa Annex A,PONA,2011 West Mall,V6T 1Z2,VBL10146,Complete,-123.256382,49.265167
 Administrative,Ponderosa Annex B,PONB,2029 West Mall,V6T 1Z2,VBL10343,Complete,-123.255962,49.264844
@@ -434,10 +438,6 @@ Administrative,Ponderosa Annex F,PONF,2008 Lower Mall,V6T 1Z2,VBL10152,Complete,
 Administrative,Ponderosa Annex G,PONG,2044 Lower Mall,V6T 1Z2,VBL10153,Complete,-123.256434,49.264507
 Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.233206,49.25084
 Housing,Exeter Hall - Townhouses,EXH2,"6036 Gray Avenue, Building 1",,VBL10452,PreConstruction,-123.234964,49.25146
-Housing,Theory,THRY,5781 Binning Avenue,,VBL10455,UnderConstruction,-123.231135,49.251054
-Housing,BCR7 - Building A,BCR7A,3588 Wesbrook Mall,,VBL10459,PreConstruction,-123.232759,49.251598
-Housing,BCR7 - Building B,BCR7B,3562 Wesbrook Mall,,VBL10460,PreConstruction,-123.232902,49.251901
-Housing,BCR7 - Building C,BCR7C,3578 Wesbrook Mall,,VBL10461,PreConstruction,-123.232203,49.251849
 Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
