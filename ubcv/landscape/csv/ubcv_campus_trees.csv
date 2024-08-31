@@ -904,7 +904,6 @@
 10077,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,,,,,49.260643,-123.257199
 10088,,Pseudotsuga menziesii ,Douglas-fir,Y,,,,,,,,,,,,,,,,,,,,,,,49.260535,-123.254131
 6899,,,,,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231450,PLAN,20200914230016,49.265512,-123.246512
-6904,,,,,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231506,PLAN,20200914230101,49.265105,-123.245923
 7847,,,,,,,,,,,,,,,,,,,,,,,GISSTUD1,20200107001052,PLAN,20200914230257,49.257582,-123.237964
 9060,,,,,,,,,,,,,,,,,,,,,,,GISSTUD2,20200207232838,PLAN,20200914225632,49.259946,-123.239041
 9062,,,,,,,,,,,,,,,,,,,,,,,GISSTUD2,20200207232840,PLAN,20200914230918,49.259838,-123.23895
@@ -1674,6 +1673,9 @@
 5157,,Cornus 'Eddie's White Wonder',,N,,Live,10,4.6,,,3.2,3.3,10,1,,1,,20200301,,,,,PLAN,20190614175827,PLAN,20200914225737,49.259676,-123.248967
 4258,,Lagerstroemia faurei,,N,,Live,5,2.9,2.9,1.6,1.4,1.28,7,3,,3,,20190301,,,,,PLAN,20190614175913,PLAN,20200914225653,49.265892,-123.255053
 2703,,Betula nigra heritage,,N,,Live,34,7.71,7.71,0.3,4.8,4.6,5,5,,6,,20190301,,,,,PLAN,20190614175913,PLAN,20200914225911,49.262898,-123.253005
+6906,,Quercus ssp.,Removed,N,,Dead,,,,,,,,,,,,,,,,,GISSTUD1,20200106231641,finnkopf@mail.ubc.ca,20240826205542,49.265182,-123.246561
+11944,,Cornus nuttallii,Removed,N,,Dead,,,,,,,,,,,Deciduous,,,,,,,,finnkopf@mail.ubc.ca,20240826211556,49.264509,-123.246286
+11709,,Tsuga heterophylla ,Removed,N,,Dead,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20240826212923,49.264512,-123.246402
 2110,,Fraxinus angustifolia 'Raywood',,no,,Live,25,8.6,,1.8,10.2,5.7,20,5,,11,,20200301,,,,,PLAN,20190614175909,PLAN,20200914225739,49.269343,-123.254771
 3020,,Fagus sylvatica 'Dawyck',,Y,,Live,25,15,,1.4,6.5,2.3,30,5,,11,,20200301,,,,,PLAN,20190614175827,PLAN,20200914225649,49.26915,-123.253554
 4153,,Malus x domestica,,Y,6354,Live,5,3.96,3.24,0.6,2.6,2.2,50,4,,5,,20190301,,,,,PLAN,20190614175918,PLAN,20200914225842,49.263458,-123.253178
@@ -1788,10 +1790,8 @@
 8998,,Acer palmatum,Japanese maple ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106225452,PLAN,20200914230357,49.264868,-123.245368
 9001,,Hamamelis mollis,Witch hazel,,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106225505,PLAN,20200914230941,49.264832,-123.245453
 8997,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106225452,PLAN,20200914230946,49.264897,-123.24529
-6914,,Acer palmatum,Japanese maple,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231609,PLAN,20200914230352,49.264965,-123.245341
 8995,,Corylus colurna,Hazelnut ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106225446,PLAN,20200914225843,49.264995,-123.245023
 6928,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231647,PLAN,20200914230001,49.265046,-123.246723
-6906,,Quercus ssp.,Oak,Y,3028,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231641,PLAN,20200914230536,49.265182,-123.246561
 6930,,Corylus colurna ,Hazelnut ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231651,PLAN,20200914230435,49.265114,-123.246508
 6896,,Pinus ssp.,Pine,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231444,PLAN,20200914230005,49.265329,-123.246795
 8018,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106234217,laura.grant@ubc.ca,20221005173622,49.259927,-123.243674
@@ -2582,7 +2582,10 @@
 12581,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220920191502,laura.grant@ubc.ca,20220920191502,49.265059,-123.258506
 8322,,Quercus palustris,pin oak,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207233537,laura.grant@ubc.ca,20221120063329,49.260828,-123.238988
 8320,,Liriodendron tulipifera,tulip tree,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207233535,laura.grant@ubc.ca,20221120063424,49.260716,-123.238943
+11613,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20240827204452,49.264536,-123.24637
+12098,,Acer circinatum ,Removed ,N,,Dead,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20240827204518,49.264557,-123.246355
 8334,,,,,,,,,,,,,,,,,,,,,,,GISSTUD2,20200207233548,laura.grant@ubc.ca,20221120063853,49.261123,-123.239034
+6914,,Acer palmatum,Removed,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231609,finnkopf@mail.ubc.ca,20240827210731,49.264965,-123.245341
 9299,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207231254,laura.grant@ubc.ca,20221120064534,49.261337,-123.239099
 9297,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD2,20200207231248,laura.grant@ubc.ca,20221120064725,49.261411,-123.239069
 9295,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207231244,laura.grant@ubc.ca,20221120064900,49.261568,-123.239184
@@ -3678,7 +3681,6 @@
 6955,,Cornus nuttallii,Pacific dogwood,Y,3088,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106232014,laura.grant@ubc.ca,20221122223347,49.264486,-123.246516
 11971,,Cornus nuttallii,Pacific dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221122224025,49.264467,-123.246284
 11787,,Cornus nuttallii,Pacific dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221122224316,49.264571,-123.246421
-11944,,Cornus nuttallii,Pacific dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221122224615,49.264509,-123.246286
 8362,,Ulmus sp.,elm,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106224446,laura.grant@ubc.ca,20221122233809,49.265954,-123.249424
 8846,,Parrotia persica,Persian ironwood,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000241,laura.grant@ubc.ca,20221128153946,49.256836,-123.24036
 8847,,Parrotia persica,Persian ironwood,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000241,laura.grant@ubc.ca,20221128154147,49.256939,-123.240331
@@ -5721,7 +5723,6 @@
 4033,,Zelkova serrata,Saw-leaf Zelkova/Japanese zelkova,N,,Live,13,5.44,5.44,1.35,5.3,5.7,10,5,,7,Angiosperm,20190301,,,2019,,PLAN,20190614175917,PLAN,20240420000539,49.262255,-123.252092
 4035,,Zelkova serrata,Saw-leaf Zelkova/Japanese zelkova,N,,Live,13,3.968,3.968,1.35,6,5,35,5,,7,Angiosperm,20190301,,,2019,,PLAN,20190614175918,PLAN,20240420000539,49.262102,-123.252029
 4907,,Malus domestica,apple,N,,Dead,,,,,,,,,,4,Angiosperm,20200301,,,2020,,PLAN,20190614175839,PLAN,20240420000539,49.263165,-123.250169
-12814,,Catalpa speciosa,Indian-bean,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221122222559,PLAN,20240420000539,49.265071,-123.24553
 2045,,Catalpa speciosa,Indian-bean,Y,9584,Live,76,16.8,23.6,4.2,12.3,8.5,80,2,,10,Angiosperm,20200301,,,2020,,PLAN,20190614175909,PLAN,20240420000539,49.267846,-123.254571
 2039,,Catalpa speciosa,Indian-bean,Y,5794,Live,13,11.2,7,1.8,4.6,2.7,65,2,,10,Angiosperm,20200301,,,2020,,PLAN,20190614175909,PLAN,20240420000539,49.267735,-123.254889
 2065,,Catalpa speciosa,Indian-bean,Y,5859,Live,2,15.8,15.8,3.8,7.7,7.7,70,4,,10,Angiosperm,20200301,,,2020,,PLAN,20190614175910,PLAN,20240420000539,49.268334,-123.253173
@@ -5856,7 +5857,6 @@
 9282,,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD1,20200106234811,PLAN,20240420000539,49.260152,-123.240712
 9283,,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD1,20200106234812,PLAN,20240420000539,49.260178,-123.240742
 8587,,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD1,20200106234011,PLAN,20240420000539,49.259838,-123.242342
-11709,,Tsuga heterophylla ,western hemlock,N,,Dead,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.264512,-123.246402
 6495,,Tsuga heterophylla,western hemlock,Y,3595,Dead,34,2.5,,,,,,,,4,Coniferous,,,,2022,"Dead standing tree, was cut at the trunk ",PLAN,20190614175850,PLAN,20240420000539,49.26361,-123.246448
 7010,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106232518,PLAN,20240420000539,49.262073,-123.244671
 11436,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271525,-123.249164
@@ -7032,6 +7032,7 @@
 9108,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106235557,PLAN,20240420000539,49.2581,-123.241591
 9109,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106235558,PLAN,20240420000539,49.258119,-123.241523
 8960,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106235333,PLAN,20240420000539,49.259065,-123.242854
+12814,,Catalpa speciosa,Removed,,,Dead,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221122222559,finnkopf@mail.ubc.ca,20240827174041,49.265071,-123.24553
 12204,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220901185533,PLAN,20240420000539,49.26789,-123.257241
 12947,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221219182627,PLAN,20240420000539,49.262649,-123.256857
 12948,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221219182704,PLAN,20240420000539,49.262607,-123.256819
@@ -7740,7 +7741,6 @@
 12158,,Acer circinatum,vine maple,N,,Live,7,3.6,3.6,0.3,4,3.3,40,2,,10,Angiosperm,,,,2022,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.269656,-123.250974
 10174,,Acer circinatum,vine maple,N,,Live,3,12.7,12.7,0.1,4,1.1,95,0,,6,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.260667,-123.257185
 11959,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270995,-123.249095
-11613,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.264563,-123.246329
 11619,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270873,-123.248954
 11660,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27082,-123.248907
 5085,,Thuja plicata,western red cedar,,,,,,,,,,,,,,,,,,,,PLAN,20190614175831,PLAN,20240420000539,49.269672,-123.255635
@@ -7819,7 +7819,6 @@
 5263,,Quercus garryana,Garry oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175835,PLAN,20240420000539,49.259405,-123.248944
 5264,,Quercus garryana,Garry oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175835,PLAN,20240420000539,49.259319,-123.248884
 5265,,Quercus garryana,Garry oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175836,PLAN,20240420000539,49.25932,-123.248851
-12098,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.264534,-123.246362
 11683,,Acer circinatum ,vine maple,Y ,10002,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271818,-123.248733
 11895,,Acer circinatum ,vine maple,Y,9978,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271436,-123.2486
 12029,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270887,-123.248967
