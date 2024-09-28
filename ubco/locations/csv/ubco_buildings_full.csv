@@ -17,7 +17,6 @@ OBL10030,Campus Administration Building,ADM,Complete,19920101,Administrative,,UB
 OBL10044,Upper Campus Health Building,UCH,Complete,19930101,Academic,Research,UBC,,UBC,Occupied,,,3,,1681,4008,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10048,Plant Growth Facility,PGF,Complete,20200131,Research,,UBC,,UBC,Occupied,,Steel,,,537,4042,0,,,RACHELW,20200416220402,RACHELW,20240423225450,Unspecified,,,,B3,,-119,50
 OBL10047,Engineering Design Labs,EDL,Complete,20191115,Academic,,UBC,,UBC,Occupied,,Steel,,,393,4039,0,,,RACHELW,20200416215859,RACHELW,20240423230737,Unspecified,,,,B3,,-119,50
-OBL10057,Child Care Facility,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20221205233746,Unspecified,,,,B3,,-119,50
 OBL10022,Monashee Residence,MON,Complete,19920101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,7685,4010,0,,,,,RACHELW,20240125230115,AptLess5Storey,,,,B5,,-119,50
 OBL10005,Similkameen Residence,SIM,Complete,19920101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3528,4009,0,,,,,RACHELW,20240125230115,AptLess5Storey,,,,B5,,-119,50
 OBL10004,Central Heating Plant,CHP,Complete,19920101,Operations,,UBC,,UBC,Occupied,,Steel,3,,528,4006,0,,,,,RACHELW,20240206172714,Unspecified,,,,B3,,-119,50
@@ -35,10 +34,11 @@ OBL10055,x̌əl sic snpax̌nwixʷtn,XSS,UnderConstruction,,Other,,UBC,,UBC,Unocc
 OBL10026,Cassiar Residence,CSR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,4,,3951,4029,0,,,,,RACHELW,20240201173527,AptLess5Storey,,,,B5,,-119,50
 OBL10013,Purcell Residence,PUR,Complete,20100101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,6209,4031,0,,,,,RACHELW,20240201195453,Apt5StoreyPlus,,,,B5,,-119,50
 OBL10014,University House,UNI,Complete,19750101,Operations,,UBC,,UBC,Occupied,,Concrete,2,,282,4007,0,,,,,RACHELW,20240207000234,Unspecified,,,,B2,,-119,50
-OBL10037,Daycare Building,DAY,Complete,19930101,Services,,UBC,,UBC,Occupied,,Steel,1,,387,4032,0,,,,,RACHELW,20240201202054,Unspecified,,,,B3,,-119,50
 OBL10021,Nicola Residence,NIC,Complete,20090101,StudentHousing,,UBC,,SHHS,Occupied,,Wood,5,,5667,4023,0,,,,,RACHELW,20240201195453,AptLess5Storey,,,,B5,,-119,50
 OBL10049,Office Modular 1,OM1,Complete,20200131,Operations,,UBC,,UBC,Occupied,,Steel,,,465,4099-23,0,,,RACHELW,20200416220620,RACHELW,20240207000234,Unspecified,,,,B3,,-119,50
 OBL10019,Quonset - Hazardous Waste Depot,QUW,Complete,20070101,Operations,,UBC,,UBC,Occupied,,Steel,,,26,4098-2,,,,RACHELW,20211021162638,RACHELW,20240207003043,Outbuildings,,,,B3,,-119,50
+OBL10037,spəqmix,DAY,Complete,19930101,Services,,UBC,,UBC,Occupied,,Steel,1,,387,4032,0,,,,,RACHELW,20240926222635,Unspecified,,,,B3,,-119,50
+OBL10057,sʔitwənx,CCF,UnderConstruction,,Services,,UBC,,UBC,Unoccupied,,Wood,1,,530,,0,,,RACHELW,20221205233008,RACHELW,20240926222635,Unspecified,,,,B3,,-119,50
 OBL10008,Portable A,PBA,Complete,20060101,Operations,,UBC,,UBC,Temporary,,Steel,1,,106,4099-1,0,,,,,RACHELW,20240129182832,Outbuildings,,,,B3,,-119,50
 OBL10023,Charles E. Fipke Centre for Innovative Research,FIP,Complete,20080101,Academic,Research,UBC,,UBC,Occupied,,Steel,3,,6725,4020,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
 OBL10025,Creative and Critical Studies Building,CCS,Complete,20010101,Academic,,UBC,,UBC,Occupied,,Steel,3,,4797,4004,0,,,,,RACHELW,20240227224328,Unspecified,,,,B2,,-119,50
