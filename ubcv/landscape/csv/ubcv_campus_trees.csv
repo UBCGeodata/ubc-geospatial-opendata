@@ -1698,7 +1698,11 @@
 4173,,Platanus hispanica,,N,,Live,15,10.52,10.52,2.04,7.3,7,5,4,,4,,20190301,,,,,PLAN,20190614175919,PLAN,20200914230103,49.264399,-123.254353
 4198,,Magnolia,Magnolia,Y,7705,Live,12,5.28,4.62,0.51,4.8,4.4,10,3,,5,,20190301,,,,,PLAN,20190614175919,PLAN,20200914230811,49.264486,-123.253114
 4132,,Salix sp.,,N,,Live,27,13.94,11.46,1.55,8.15,6.25,40,4,,5,,20190301,,,,,PLAN,20190614175926,PLAN,20200914230930,49.263585,-123.25303
+11677,,Styrax japonicum ,Japanese snowbell ,y,10183,Live,17,4.9,4.9,1.4,5.6,5.4,25,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029173800,49.270643,-123.251476
 4197,,Magnolia,Magnolia,Y,7706,Live,9,4.95,4.68,0,3.7,3.5,15,3,,5,,20190301,,,,,PLAN,20190614175911,PLAN,20200914230553,49.264467,-123.25314
+11692,,Pyrus calleryana,callery pear,Y,10184,Live,11,5,5,1.6,3.6,35,4,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029173950,49.270568,-123.251468
+11531,,Pyrus calleryana,callery pear,N,,Live,12,5.9,5.9,1,3.5,4.1,30,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029174112,49.270487,-123.251448
+11805,,Pyrus calleryana,callery pear,Y,10208,Live,11,4.3,4.3,1.5,4,3,25,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029174424,49.270429,-123.251418
 4015,,Acer x freemanii 'Armstrong',,N,,Live,403,16.17,,2.15,5,4.2,0,5,,7,,20190301,,,,,PLAN,20190614175911,PLAN,20200914225700,49.261132,-123.252946
 4527,,Laburnum x wateri vossil,,Y,5957,Live,54,10.22,9.23,2.13,11,6.25,50,4,,3,,20190301,,,,,PLAN,20190614175911,PLAN,20200914230514,49.266123,-123.255606
 4130,,Parrotia persica,,Y,7895,Live,11,6.8,6.34,0.9,5.7,4.6,30,4,,5,,20190301,,,,,PLAN,20190614175911,PLAN,20200914225824,49.263538,-123.253002
@@ -1716,6 +1720,10 @@
 4240,,Lagerstroemia faurei,,N,,Live,6,4.28,4.28,1.62,2.4,1.64,15,3,,3,,20190301,,,,,PLAN,20190614175911,PLAN,20200914230219,49.265927,-123.254944
 2145,,Acer Rubrum,,Y,8138,Live,48,42.9,39,3.9,16.3,16.2,10,4,,8,,20190301,,,,,PLAN,20190614175911,PLAN,20200914230409,49.260539,-123.250195
 2934,,Carpinus betulus 'Fastigiata',,Y,163,Live,21,13.74,13.74,1.35,10.6,10.5,10,2,,2,,20190301,,,,,PLAN,20190614175927,PLAN,20200914225742,49.267009,-123.256399
+12181,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,Live,,4.5,4.5,1.4,3.9,4.8,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029174905,49.27048,-123.251334
+11810,,Styrax japonicum ,Japanese snowbell ,N,,Live,10,5.1,5.1,1.2,3.7,3.5,10,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029175054,49.270444,-123.251305
+11912,,Styrax japonicum ,Japanese snowbell ,N,,Live,10,5.3,5.3,0.4,3.4,3.9,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029175404,49.270218,-123.251118
+11728,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,5.3,5.3,0.7,4.6,4.9,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029175626,49.270182,-123.251093
 2766,,Magnolia hybrid,,Y,7915,Live,13,4.96,4.03,1.9,4.4,3.4,40,2,,5,,20190301,,,,,PLAN,20190614175919,PLAN,20200914230127,49.263716,-123.253489
 4508,,Prunus yedonensis 'Akebono',,N,,Live,23,7.98,7.98,1.98,7.1,7.1,20,5,,2,,20190301,,,,,PLAN,20190614175921,PLAN,20200914230148,49.267532,-123.255602
 321,,,,,,,20,,,,,,,,,,,20190301,,,,,PLAN,20190614175908,PLAN,20200914230459,49.267316,-123.251854
@@ -1765,9 +1773,14 @@
 4512,,Prunus Yedonensis 'Akebono',,N ,,Live,18,3.83,3.83,2.7,4.74,4.68,5,5,,9,,20190301,,,,,PLAN,20190614175918,PLAN,20200914225829,49.267399,-123.255493
 4066,,Magnolia,Magnolia,N,,Live,14,9.7,8.57,1.13,9.5,8,14,2,,11,,20190301,,,,,PLAN,20190614175918,PLAN,20200914230657,49.261554,-123.25045
 1960,,Quercus plaustris,,N,,Live,56,15.4,12.61,2.8,18.5,16,10,2,,11,,20190301,,,,,PLAN,20190614175918,PLAN,20200914230836,49.260796,-123.250018
+12031,,Pyrus calleryana,callery pear,Y,10178,Live,9,4.8,4.8,1.3,3.1,2.5,30,3,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029172646,49.270782,-123.251649
 4102,,Chamaecypairs obtusa,,Y,7860,Live,51,6.45,6.45,1.15,3.5,3.1,30,2,,6,,20190301,,,,,PLAN,20190614175918,PLAN,20200914225730,49.26249,-123.253316
+12154,,Carpinus betulus ,European hornbeam ,Y,10179,Live,22,10.7,10.7,1.9,4.5,5.3,10,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029172955,49.270742,-123.251613
 4497,,Styrax japonica,,Y,6675,Live,13,6.8,6.8,1.68,6,5.8,0,4,,2,,20190301,,,,,PLAN,20190614175918,PLAN,20200914225702,49.267583,-123.256413
+11711,,Pyrus calleryana,callery pear,Y,10180,Live,17,7.3,7.3,1.9,4.9,3.9,25,3,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029173133,49.270699,-123.251646
 2153,,Aesculus x carnea 'Rosea',,N,,Live,6,2.97,1.56,1.42,3.6,3.1,0,3,,11,,20190301,,,,,PLAN,20190614175918,PLAN,20200914225917,49.260447,-123.24967
+11970,,Pyrus calleryana,callery pear,Y,10181,Live,13,6.1,6.1,1.8,4.4,3.7,20,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029173243,49.270673,-123.251627
+11845,,Pyrus communis ,common pear,Y,10182,Live,11,5.6,5.6,1.5,3.1,2.8,15,3,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029173414,49.270638,-123.251528
 4013,,Acer Rubrum,,N,,Live,12,9.12,8.02,1.1,5.9,5.8,10,4,,8,,20190301,,,,,PLAN,20190614175918,PLAN,20200914230613,49.259958,-123.251704
 4510,,Prunus Yedonensis 'Akebono',,N ,,Live,13,5.19,5.19,2.9,4.06,3.92,5,5,,9,,20190301,,,,,PLAN,20190614175927,PLAN,20200914230105,49.267445,-123.255357
 4523,,Prunus sato zakura group,,Y,5965,Live,37,7.07,7.07,2.73,11.3,5.4,35,4,,3,,20190301,,,,,PLAN,20190614175927,PLAN,20200914225658,49.266493,-123.255893
@@ -1775,7 +1788,10 @@
 2723,,Betula nigra heritage,,N,,Live,15,5.36,5.36,0.5,8.69,2.8,10,5,,6,,20190301,,,,,PLAN,20190614175928,PLAN,20200914230915,49.262987,-123.25298
 11919,,Pyrus calleryana,callery pear,Y,10213,Live,15,5.6,5.6,1.7,3.9,4,15,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241003234538,49.269917,-123.250988
 12152,,Pyrus calleryana,callery pear,Y,9854,Live,14,5.5,5.5,1.2,4,4.3,10,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241003235247,49.269873,-123.250937
+11745,,Pyrus calleryana,callery pear,Y,10220,Live,11,5.2,5.2,1.7,3.7,3.2,10,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029172103,49.270824,-123.251906
+12117,,Pyrus calleryana,callery pear,Y,10176,Live,17,7.5,7.5,1.4,6.1,5,10,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029172313,49.270873,-123.251781
 6552,,Chamaecyparis pisifera 'filifera',Sawara cypress,N,,,,,,,,,,,,,,,,,,,PLAN,20190614175900,PLAN,20200914225930,49.263469,-123.244715
+11448,,Pyrus calleryana,callery pear,Y,10177,Live,11,4.9,4.9,1.6,3.2,3.3,15,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029172507,49.270837,-123.251691
 6551,,Chamaecyparis pisifera 'filifera',Sawara cypress ,N,,,,,,,,,,,,,,,,,,,PLAN,20190614175900,PLAN,20200914230157,49.263532,-123.24456
 3149,,Quercus palustris,Removed,,,Dead,,,,,,,,,,,,,,,,,PLAN,20190614175818,finnkopf@mail.ubc.ca,20240815194535,49.267807,-123.251902
 8207,,Pinus ssp.,Removed,N,,Dead,,,,,,,,,,,,,,,,,GISSTUD1,20200106224034,finnkopf@mail.ubc.ca,20240815194919,49.26741,-123.250856
@@ -1822,7 +1838,15 @@
 11544,,Cercidiphyllum japonicum ,katsura-tree,N,,Live,22,9.6,9.6,1.6,6.9,7.5,30,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241003224818,49.270277,-123.252101
 11444,,Cercidiphyllum japonicum ,katsura-tree,N,,Live,24,8.8,8.8,1.8,7.4,8.7,35,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241003225153,49.2703,-123.252156
 6921,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231627,PLAN,20200914225641,49.265328,-123.245641
+12007,,Pyrus calleryana,callery pear,Y,10215,Live,10,4.4,4.4,1.3,3.8,4.1,25,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029165900,49.270071,-123.251281
+11854,,Populus tremula 'Erecta',European aspen ,N,,Live,12,12.4,11.8,1.4,1.8,1.8,45,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029170236,49.270083,-123.251386
+12119,,Pyrus calleryana,callery pear,Y,10216,Live,9,4.5,4.5,1.7,3,3.5,20,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029170446,49.270223,-123.251409
 6915,,Acer palmatum ,Japanese maple ,Y,3005,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231614,PLAN,20200914230332,49.26519,-123.245523
+11460,,Populus tremula 'Erecta',European aspen ,N,,Live,11,11.6,11.6,1.3,1.9,2.2,25,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029170750,49.270181,-123.251467
+11947,,Populus tremula 'Erecta',European aspen ,N,,Live,11,12.6,12.4,1,1.8,2.1,50,4,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029171057,49.270272,-123.251549
+12006,,Pyrus calleryana,callery pear,N,,Live,14,4.6,4.6,1.2,4.6,4.2,20,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029171226,49.270364,-123.251542
+12133,,Pyrus calleryana,callery pear,Y,10218,Live,10,4.6,4.6,1.7,3.4,3.3,30,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029171446,49.270433,-123.251601
+11503,,Pyrus calleryana,callery pear,Y,10219,Live,8,3.9,3.6,,2.8,2.6,75,,,,Deciduous,,,,,"not doing too good, die back ",finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029171848,49.270639,-123.251757
 12386,,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,,,Live,10,4.8,4.8,1.5,2.5,2.4,15,3,,,Deciduous,,,,,,laura.grant@ubc.ca,20221202202347,finnkopf@mail.ubc.ca,20241003225800,49.270149,-123.252333
 12385,,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,N,,Live,9,3.5,3.5,1.6,2,2,15,3,,,Deciduous,,,,,,laura.grant@ubc.ca,20221202202255,finnkopf@mail.ubc.ca,20241003225816,49.270169,-123.252351
 6911,,Metasequoia glybtostroboides ,Dawn cypress,n,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231542,PLAN,20200914225736,49.264918,-123.245744
@@ -1923,8 +1947,6 @@
 8754,,Acer pseudoplatanus 'atropurpureum',Purple mountain maple,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231005,PLAN,20200914225734,49.261899,-123.245143
 8138,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106234509,PLAN,20200914225856,49.261883,-123.242083
 8140,,Pseudotsuga menziesii ,Douglas-fir,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106234510,PLAN,20200914225646,49.261938,-123.242131
-11843,,Fagus sylvatica 'Dawyck',European beech ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221209174140,49.27096,-123.251141
-11782,,Parrotia persica ,Persian ironwood ,Y,10161,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271348,-123.250156
 11791,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825172544,laura.grant@ubc.ca,20220825172544,49.260622,-123.250154
 11792,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271485,-123.248213
 11794,,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831200513,laura.grant@ubc.ca,20220831200513,49.264358,-123.252813
@@ -1952,10 +1974,8 @@
 7835,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000954,laura.grant@ubc.ca,20221113004715,49.259831,-123.239912
 11435,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831211534,laura.grant@ubc.ca,20220831211534,49.264884,-123.254922
 11439,,Ilex aquifolium ,English holly ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270737,-123.248806
-11810,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270444,-123.251305
 11817,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824163430,laura.grant@ubc.ca,20220824163430,49.263678,-123.250294
 11820,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270813,-123.248614
-11821,,Styrax japonicum ,Japanese snowbell ,Y,10127,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270881,-123.250135
 11823,,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831200744,laura.grant@ubc.ca,20220831200744,49.264401,-123.252868
 11826,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831203515,laura.grant@ubc.ca,20220831203515,49.26465,-123.255299
 4289,,Cupressus lawsowniana,,,,,,,,,,,,,,,,,,,,,PLAN,20190614175907,RACHELW,20220831155941,49.266518,-123.251262
@@ -1973,10 +1993,8 @@
 11468,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270756,-123.248792
 11473,,Thuja plicata 'Zebrina',Western red cedar 'Zebrina',N,,,,,,,,,,,,,,,,,,,,,,,49.268318,-123.252137
 11474,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271262,-123.248122
-11476,,Pseudotsuga menziesii ,Douglas-fir ,Y,2282,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270764,-123.249879
 11837,,Metasequoia glybtostroboides ,Dawn cypress ,N,,,,,,,,,,,,,,,,,,,,,,,49.264956,-123.245547
 11849,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270548,-123.252167
-11851,,Pseudotsuga menziesii ,Douglas-fir ,Y,2318,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271075,-123.249712
 11853,,Acer platanoides 'Emerald Queen',Norway maple 'Emerald Queen',N,,,,,,,,,,,,,,,,,,,,,,,49.26067,-123.244996
 9837,,Quercus hypoleucoides,Silver leaf oak ,N,,,,,,,,,,,,,,,,,,,,,RACHELW,20220831170021,49.265354,-123.257099
 12194,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220901180600,laura.grant@ubc.ca,20220901180600,49.268846,-123.258292
@@ -2002,14 +2020,10 @@
 3912,,Acer rubrum,red maple,N,,Live,6,8,8,2,3.2,3.8,30,4,,8,Deciduous,20190301,,,,,PLAN,20190614175918,laura.grant@ubc.ca,20220825171552,49.260437,-123.250391
 3913,,Acer rubrum,red maple,N,,Live,7,7.2,7.2,1.9,3.2,3.7,40,5,,8,Deciduous,20190301,,,,,PLAN,20190614175918,laura.grant@ubc.ca,20220825171717,49.260516,-123.25055
 2181,,Chamaecyparis lawsoniana,Port Orford-cedar,Y,5589,Live,61,19.26,18.94,2.2,17,16.3,15,3,,11,Evergreen,20190301,,,,,PLAN,20190614175919,laura.grant@ubc.ca,20220825171926,49.262119,-123.251147
-11478,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270353,-123.250791
 11479,,Malus domestica,apple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831200338,laura.grant@ubc.ca,20220831200338,49.264235,-123.252846
 11484,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831212909,laura.grant@ubc.ca,20220831212909,49.26438,-123.255546
-11489,,Styrax japonicum ,Japanese snowbell ,N,10129,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270849,-123.250287
-11855,,Parrotia persica ,Persian ironwood ,Y,10152,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271111,-123.251056
 11856,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.26213,-123.242857
 11859,,Cornus nuttallii ,Pacific dogwood ,Y,1863,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270358,-123.249096
-11861,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270679,-123.250746
 11865,,Carpinus betulus ,European hornbeam ,Y,1825,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.268926,-123.252045
 11871,,Acer platanoides ,Norway maple ,Y,10054,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270824,-123.24854
 11873,,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825171635,laura.grant@ubc.ca,20220825171635,49.260508,-123.25047
@@ -2033,18 +2047,20 @@
 11501,,Magnolia stellata,star magnolia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824175656,laura.grant@ubc.ca,20220824175656,49.266612,-123.252533
 11502,,fake2,jdhfjfj,,,,,,,,,,,,,,,,,,,,jeff.burton@ubc.ca,20220819180408,jeff.burton@ubc.ca,20220819180408,49.256297,-123.238286
 11505,,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831201034,laura.grant@ubc.ca,20220831201034,49.264636,-123.253818
-11511,,Juniperus scopulorum 'Blue Arrow',Blue Arrow juniper ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27049,-123.250898
 11516,,Thujopsis dolobrata ,Asunaro,Y,2477,,,,,,,,,,,,,,,,,,,,,,49.268405,-123.251913
 11522,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831201409,laura.grant@ubc.ca,20220831201409,49.264518,-123.254269
 11523,,Cornus 'Eddie's White Wonder',White Wonder dogwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220830160245,laura.grant@ubc.ca,20220830160245,49.259621,-123.247938
 12069,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270536,-123.252116
 12072,,Carpinus betulus ,European hornbeam ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271025,-123.251356
 12075,,Chamaecyparis pisifera 'Filifera Aurea',golden threadleaf falsecypress,,,,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831204129,laura.grant@ubc.ca,20220831204129,49.265146,-123.255815
-12084,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270385,-123.250814
 12085,,Pseudotsuga menziesii ,Douglas-fir ,Y,2314,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271065,-123.249337
+11821,,Styrax japonicum ,Japanese snowbell ,Y,10127,Live,12,3.6,3.6,1,4.4,4.3,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029203514,49.270881,-123.250135
+12027,,Acer palmatum 'Atropurpureum',Red japanese maple ,Y,10126,Live,,4.6,4.6,1,5.7,5.7,10,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029203635,49.270824,-123.250105
 11430,,Acer Palmatum,Japanese Maple,N,,Live,86,5.1,,0.75,4.2,4.8,25,5,,7,,20190301,,,,,RACHELW,20220831170450,RACHELW,20220831170701,49.266544,-123.259162
+12737,,Pseudotsuga menziesii,Douglas-fir,y,2282,Live,92,37.3,37.3,6.2,15.3,11.7,35,5,,,Coniferous,,,,,,laura.grant@ubc.ca,20221212213324,finnkopf@mail.ubc.ca,20241029204107,49.270821,-123.249939
 12176,,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831200415,laura.grant@ubc.ca,20220831200415,49.26427,-123.252755
-12181,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27048,-123.251334
+11556,,Thuja plicata ,western red cedar,Y,10081,Live,39,13.8,13.8,2,8,7.2,5,2,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029204551,49.270749,-123.249839
+11769,,Thuja plicata ,western red cedar,Y,10080,Live,39,13.8,13.8,1.1,8.3,6.8,5,2,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029204710,49.270751,-123.249815
 12185,,Acer platanoides 'Emerald Queen',Norway maple 'Emerald Queen',Y,8221,,,,,,,,,,,,,,,,,,,,,,49.260722,-123.245034
 12189,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825223143,laura.grant@ubc.ca,20220825223143,49.261794,-123.253096
 4053,,Magnolia hybrid,Magnolia,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175830,laura.grant@ubc.ca,20220825174733,49.262819,-123.252922
@@ -2059,24 +2075,46 @@
 4076,,Prunus serrulata Sato zakura group,Japanese flowering cherry,N,,Live,26,4.32,4.32,1.64,2.9,2.2,25,5,,6,Deciduous,20190301,,,,,PLAN,20190614175931,laura.grant@ubc.ca,20220825182834,49.262469,-123.251701
 4077,,Prunus serrulata Sato zakura group,Japanese flowering cherry,N,,Live,24,4.44,4.44,1.86,2.55,2.1,10,5,,6,Deciduous,20190301,,,,,PLAN,20190614175919,laura.grant@ubc.ca,20220825182911,49.262514,-123.251784
 4163,,Magnolia hybrids,Magnolia,N,,Live,28,5.31,5.31,0.43,5.7,4.4,20,4,,6,Deciduous,20190301,,,,,PLAN,20190614175911,laura.grant@ubc.ca,20220825183105,49.262801,-123.253573
-11527,,Styrax japonicum ,Japanese snowbell ,Y,10128,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270908,-123.250159
 11529,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.262141,-123.242825
 11535,,Acer rubrum,red maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825171909,laura.grant@ubc.ca,20220825171909,49.262222,-123.251144
 11538,,Ilex aquifolium ,English holly ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270962,-123.248564
-11545,,Parrotia persica ,Persian ironwood ,Y,10153,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271139,-123.251082
-11546,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270573,-123.251104
 10548,,Acer platanoides,Norway maple ,N,,Live,19,10,10,2,8.5,7.5,10,4,,1,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.257853,-123.252399
+,,Acer platanoides,Norway maple,n,,Live,12,5.9,5.9,0,3.7,4,5,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20241029192110,finnkopf@mail.ubc.ca,20241029192110,49.270487,-123.250346
 11537,,Acer platanoides,Norway maple ,N,,Dead,28,11.2,0,1.2,8.51,6.58,100,5,,2,Angiosperm,,,,2022,,,,PLAN,20240419162915,49.263159,-123.243093
 10141,,Acer platanoides,Norway maple ,N,,Live,36,13.1,13.1,3.2,13.3,12,15,3,,8,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.261075,-123.254577
 10581,,Picea sitchensis,Sitka spruce ,N,,Live,10,5.6,5.6,1.7,3.9,3.5,30,3,,3,Coniferous,,,,2021,,,,PLAN,20240419162915,49.259667,-123.251807
 8415,,Acer platanoides,Norway maple ,N,,Live,16,6.6,6.6,2.35,5.18,3.82,80,5,,2,Angiosperm,,,,2022,,GISSTUD1,20200106231200,PLAN,20240419162915,49.263015,-123.242977
+,,Fraxinus pennsylvania ,green ash,n,,Live,4,4.1,4.1,0,3.1,2.3,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20241029192257,finnkopf@mail.ubc.ca,20241029192257,49.270468,-123.250392
+11587,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,28,14.3,14.3,1.4,9.3,7.8,35,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029192413,49.270413,-123.250525
+11757,,Fraxinus angustifolia ,narrow-leaf ash,y,10139,Live,14,7,7,1.7,6.5,5.6,55,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029192608,49.270487,-123.250618
+12028,,Parrotia persica ,Persian ironwood ,N,,Live,23,10.1,9.8,1.4,8.9,9.2,10,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029192807,49.270401,-123.250747
 10551,,Acer platanoides,Norway maple ,N,,Live,37,11.4,11.4,2.4,12.3,8.9,5,4,,1,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.257728,-123.252561
+11670,,Acer palmatum ,Japanese maple ,N,,Live,14,5.5,5.5,0.7,7.2,6.3,10,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029193411,49.27033,-123.250772
 8278,,Carpinus betulus,European hornbeam,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200110231515,laura.grant@ubc.ca,20220901185636,49.267843,-123.257468
+11478,,Styrax japonicum ,Japanese snowbell ,N,,Live,11,6.2,6.2,0.6,5.8,5,20,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029193710,49.270353,-123.250791
+12084,,Styrax japonicum ,Japanese snowbell ,N,,Live,,5.9,5.9,1.4,4.9,4.2,20,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029193955,49.270385,-123.250814
+11940,,Juniperus scopulorum 'Blue Arrow',Blue Arrow juniper ,N,,Live,10,6.6,6.6,0.5,2.3,3.2,25,3,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029194233,49.27041,-123.250838
 11838,,Acer platanoides,Norway maple ,N,,Live,18,7.2,7.2,2.03,5.38,4.54,80,5,,2,Angiosperm,,,,2022,,,,PLAN,20240419162915,49.263083,-123.243037
 10142,,Acer platanoides,Norway maple ,N,,Live,32,12.4,12.4,2,11.3,9.2,25,3,,8,Angiosperm,,,,2021,There is birds' nest and some birds libe in it.,,,PLAN,20240419162915,49.261176,-123.254676
 10616,,Acer platanoides,Norway maple ,N,,Live,90,15.4,15.4,2.3,7.9,7.3,20,4,,2,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.258931,-123.252451
 10680,,Acer platanoides,Norway maple ,N,,Live,35,10.8,10.8,1.7,8.9,8.3,45,5,,2,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.258549,-123.25344
+11952,,Prunus emarginata,bitter cherry,N,,Live,42,15,15,6.4,14.2,14.6,20,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029214037,49.270933,-123.249844
+11851,,Pseudotsuga menziesii ,Douglas-fir ,Y,2318,Live,112,36.9,36.9,8.9,17.7,15,25,5,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029214317,49.271075,-123.249712
+12019,,Prunus serrulata,Japanese cherry,Y,2319,Live,,22.4,21.8,4.2,16.3,10.4,80,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029214609,49.271004,-123.249635
+12118,,Carpinus japonica,Japanese hornbeam,Y,10191,Live,17,4.3,4.3,1.5,6.7,7.5,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029215054,49.270685,-123.250936
+11610,,Carpinus japonica,Japanese hornbeam,Y,10192,Live,16,6.4,6.4,2,8.6,6.5,25,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029215515,49.270718,-123.251007
+11763,,Carpinus japonica,Japanese hornbeam,Y,10193,Live,13,6.5,6.5,2.3,5.8,7.6,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029215637,49.270759,-123.251038
+11843,,Fagus sylvatica 'Dawyck',European beech ,N,,Live,30,14.1,14.1,0.8,8.5,7.4,5,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029215923,49.27096,-123.251141
+11494,,Cedrus deodara ,deodar cedar,Y,2257,Live,,21.8,21.8,1.6,21.6,20.5,15,3,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029220305,49.270937,-123.250869
+11562,,Cedrus deodara ,deodar cedar,Y,2256,Live,95,24.1,24.1,2.2,20.4,19.6,25,3,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029220456,49.270991,-123.250693
+12308,,Acer circinatum,vine maple,n,,Live,,3.5,3.5,0.1,3.2,3.4,15,1,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209174607,finnkopf@mail.ubc.ca,20241029220715,49.271013,-123.250593
+12067,,Parrotia persica ,Persian ironwood ,Y,10150,Live,19,10.5,10,1.7,7.4,7.8,40,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029220911,49.271097,-123.250901
+11706,,Parrotia persica ,Persian ironwood ,Y,10151,Live,20,10.5,10,1.5,6.9,7.2,35,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029221027,49.271086,-123.251003
+11855,,Parrotia persica ,Persian ironwood ,Y,10152,,19,9,9,1,6.3,6.9,35,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029221133,49.271111,-123.251056
 6519,,Corylus colurna,Hazelnut ,N,,Live,11,3.6,3.6,1.01,6.83,4.82,45,2,,4,Angiosperm,,,,2022,,PLAN,20190614175850,PLAN,20240419162915,49.26369,-123.246745
+11545,,Parrotia persica ,Persian ironwood ,Y,10153,Live,23,8.7,8.5,1.1,8.1,10.7,40,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029221256,49.271139,-123.251082
+12017,,Pseudotsuga menziesii ,Douglas-fir ,N,,Live,115,27.1,27.1,1.2,22.3,26.1,15,5,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029221626,49.271156,-123.250957
+11592,,Acer rubrum ,red maple,N,,,25,10.4,10.4,1.7,10.5,10.1,10,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029221751,49.271275,-123.250848
 4326,,Quercus frainetto,Hungarian oak,N,,Live,10,7.6,7.6,1.5,3.1,2.7,40,5,,7,Deciduous,20200301,,,,,PLAN,20190614175908,laura.grant@ubc.ca,20220825184356,49.267167,-123.253215
 4328,,Acer glabrum,Rocky Mountain maple,N,,Live,,,,,,,,,,9,Deciduous,,,,,,PLAN,20190614175912,laura.grant@ubc.ca,20220825184503,49.266628,-123.253981
 4329,,Acer glabrum,Rocky Mountain maple,N,,Live,,,,,,,,,,9,Deciduous,,,,,,PLAN,20190614175922,laura.grant@ubc.ca,20220825184600,49.26665,-123.253998
@@ -2091,8 +2129,6 @@
 4990,,Picea omorika,Serbian spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,PLAN,20190614175841,laura.grant@ubc.ca,20220825191538,49.265793,-123.250939
 11555,,Chamaecyparis pisifera 'Filifera Aurea',golden threadleaf falsecypress,,,,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831204316,laura.grant@ubc.ca,20220831204316,49.264876,-123.255587
 11557,,Ficus sp.,fig,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825182152,laura.grant@ubc.ca,20220825182152,49.263042,-123.252569
-11567,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271474,-123.25017
-11940,,Juniperus scopulorum 'Blue Arrow',Blue Arrow juniper ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27041,-123.250838
 8081,,Acer platanoides,Norway maple ,N,,Dead,47,10.2,10.2,2.5,12.2,8.7,15,3,,9,Angiosperm,,,,2022,"No leaves in the branches, might be dead",GISSTUD1,20200106223654,PLAN,20240419162915,49.268661,-123.248897
 11943,,Chamaecyparis pisifera 'Filifera Aurea',golden threadleaf falsecypress,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831204224,laura.grant@ubc.ca,20220831204224,49.264962,-123.255649
 11946,,Metasequoia glyptostroboides,dawn redwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220827024733,RACHELW,20220831160044,49.269267,-123.254717
@@ -2102,9 +2138,26 @@
 7857,,Pseudotsuga menziesii,Douglas-fir ,N,,Live,55,22,22,0,11.8,9.4,70,3,,10,Coniferous,,,,2022,,GISSTUD1,20200106220351,PLAN,20240419162915,49.268869,-123.251422
 11953,,Acer palmatum ,Japanese maple ,Y,2328,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271625,-123.248327
 11955,,Carpinus betulus ,European hornbeam ,Y,1827,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.268962,-123.251941
-11957,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270687,-123.250699
 8514,,Pseudotsuga menziesii,Douglas-fir ,N,,Live,7,3.4,3.4,0,2.8,2.4,60,5,,10,Coniferous,,,,2022,,GISSTUD1,20200106220905,PLAN,20240419162915,49.268754,-123.250294
 11961,,Acer platanoides ,Norway maple ,Y,9948,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270923,-123.248567
+11653,,Quercus palustris ,pin oak,N,,Live,37,16.7,16.7,1.8,9.8,8.5,10,4,,,Angiosperm,,,,,plaque,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222042,49.271376,-123.250465
+11649,,Acer rubrum ,red maple,N,,Live,28,9.4,9.4,1.9,11.2,10.5,10,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222210,49.271447,-123.250378
+11733,,Styrax obassia,fragrant snowbell,N,,Live,,6.4,6.4,1.8,6.2,5.3,15,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222409,49.271422,-123.250247
+11567,,Parrotia persica ,Persian ironwood ,N,,,24,10.9,10.9,1.3,7.1,9.2,30,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222523,49.271474,-123.25017
+11577,,Parrotia persica ,Persian ironwood ,N,,Live,20,10.8,10.8,1.1,7.6,8.1,45,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222638,49.271433,-123.250134
+12093,,Parrotia persica ,Persian ironwood ,Y,10160,Live,21,9,9,1.6,8.3,9.2,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222830,49.271388,-123.250119
+11782,,Parrotia persica ,Persian ironwood ,Y,10161,Live,22,9.3,9.3,1.7,9.8,7.9,20,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029222919,49.271348,-123.250156
+11507,,Cedrus deodara ,deodar cedar,Y,2252,Live,73,23.2,23.2,3.8,14.7,15,10,4,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029223148,49.271229,-123.250062
+12738,,Carpinus japonica,Japanese hornbeam,y,10022,Live,16,8.2,8.2,1.1,7.3,6.2,15,3,,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213652,finnkopf@mail.ubc.ca,20241029223344,49.27129,-123.24982
+11898,,Parrotia persica ,Persian ironwood ,n,,Live,18,9.1,9.1,1.7,5.4,6.3,5,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029223641,49.271416,-123.249898
+12039,,Carpinus japonica,Japanese hornbeam ,,,Live,21,6.2,6.2,1.3,8,5.7,15,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029223852,49.271433,-123.249848
+11907,,Pyrus calleryana,callery pear,Y,10018,Live,23,7.4,7.4,1.1,6.3,6.3,25,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029224114,49.271459,-123.24993
+11714,,Pyrus calleryana,callery pear,Y,10017,Live,23,8.9,8.9,2.6,8.8,7.6,25,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029224255,49.271489,-123.249959
+11624,,,removed,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029224339,49.271552,-123.249943
+11628,,Pyrus calleryana,removed,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029224727,49.271576,-123.24977
+11526,,Pyrus calleryana,callery pear,N,,Live,21,7.6,7.6,1.6,8.7,8.1,15,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029224741,49.271636,-123.249649
+11548,,Pyrus calleryana ,callery pear,Y,10009,Live,21,7,7,2,8,8.3,30,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029224958,49.271565,-123.249385
+12182,,Pyrus calleryana ,callery pear,Y,10008,,20,9.8,9.8,1.7,7.2,8.3,35,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029225159,49.271465,-123.249306
 4988,,Picea omorika,Serbian spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,PLAN,20190614175841,laura.grant@ubc.ca,20220825191654,49.265806,-123.250917
 5004,,Styrax japonicus,Japanese snowbell,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175841,laura.grant@ubc.ca,20220825191805,49.265812,-123.251106
 5008,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175841,laura.grant@ubc.ca,20220825191919,49.265645,-123.251268
@@ -2113,12 +2166,10 @@
 5025,,Larix decidua,European larch,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175841,laura.grant@ubc.ca,20220825192602,49.265489,-123.252802
 5408,,Cornus stolonifera,red-osier dogwood,N,,Live,7,4.4,,,3.5,3.7,15,5,,1,Deciduous,20200301,,,,,PLAN,20190614175858,laura.grant@ubc.ca,20220825195618,49.26055,-123.247728
 11571,,Arbutus ,Arbutus ,Y,10285,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270706,-123.252235
-11577,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271433,-123.250134
 11579,,Acer platanoides 'Emerald Queen',Norway maple 'Emerald Queen',Y,8223,,,,,,,,,,,,,,,,,,,,,,49.260872,-123.245159
 11580,,Cornus ,Dogwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270722,-123.249681
 11581,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270792,-123.248524
 11590,,Acer macrophylla ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270902,-123.249562
-11593,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27061,-123.250914
 11594,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261951,-123.24338
 11496,,Hamamelis mollis,Witch hazel ,N,,Live,13,20,20,1.5,13.72,8.32,10,2,,4,Angiosperm,,,,2022,,,,PLAN,20240419162915,49.263638,-123.246876
 11813,,Pseudotsuga menziesii,Douglas-fir ,N,,Live,14,8.6,8.6,0.5,6.1,3.3,80,2,,10,Coniferous,,,,2022,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240419162915,49.268549,-123.25115
@@ -2135,6 +2186,24 @@
 2956,,Styrax japonicus,Japanese snowbell,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175847,laura.grant@ubc.ca,20220901210904,49.268122,-123.25652
 4498,,Betula pendula 'Purpurea',purple European birch,Y,168,Live,31,18.88,18.88,1.17,7.2,5.7,20,4,,2,Deciduous,20190301,,,,,PLAN,20190614175929,laura.grant@ubc.ca,20220902160245,49.267543,-123.255714
 8526,,Pseudotsuga menziesii,Douglas-fir ,N,,Live,53,23.1,23.1,2,11.5,10.7,45,4,,11,Coniferous,,,,2022,,GISSTUD1,20200106221017,PLAN,20240419162915,49.269475,-123.250607
+11702,,Pyrus calleryana ,callery pear,Y,10007,,19,8,8,1.7,7.4,9.1,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029225319,49.271375,-123.249232
+11483,,Pyrus calleryana ,callery pear,Y,10006,Live,25,8.6,8.6,1.6,9.5,7.5,20,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029225545,49.271314,-123.249186
+11436,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,Live,21,12.4,12.4,2.8,5.8,6.7,10,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029225806,49.271525,-123.249164
+11806,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,Live,25,11.5,11.5,1.9,8.9,7.6,10,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029225925,49.271605,-123.249226
+11668,,Acer platanoides ,Norway maple ,Y,2524,Live,60,19.3,19.3,2.3,16.3,13.7,35,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029230158,49.271774,-123.249157
+11625,,Acer palmatum ,Japanese maple ,N,,Live,12,2.4,2.4,0.6,5.7,3.6,40,1,,,Angiosperm,,,,,plaque ,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029230353,49.271797,-123.249072
+11752,,Acer platanoides ,Norway maple ,Y,2523,,59,19.5,19.5,1,11.5,15.8,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029230632,49.271832,-123.249011
+12184,,Thuja plicata ,western red cedar,Y,2210,Live,90,24.2,24.2,0.1,17.9,12.4,15,3,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029230951,49.271708,-123.248874
+11510,,Thuja plicata ,western red cedar,Y,2239,Live,114,24.5,24.5,0.8,15.8,19.3,15,4,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029231128,49.271715,-123.248785
+12052,,Acer circinatum ,vine maple,Y,10003,Live,,7.8,7.8,2,5.8,6.8,25,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029231745,49.271776,-123.248699
+11683,,Acer circinatum ,vine maple,Y ,10002,Live,,10.4,10.4,0.8,8.4,7.8,35,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029232033,49.271818,-123.248733
+11630,,Cornus nuttallii ,Pacific dogwood ,Y,2238,Live,,13.4,13.4,1.7,10.1,8.3,35,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029232324,49.271872,-123.248849
+11812,,Thuja plicata ,western red cedar,Y,2236,,61,21.4,21.4,1.7,10.8,9.3,5,3,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029232523,49.271918,-123.248851
+12070,,Cornus nuttallii ,Pacific dogwood ,Y,2237,Live,,15.4,14.8,5,9.7,6.1,50,1,,,Angiosperm,,,,,"dieback, bark coming loose ",finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029232843,49.271895,-123.248798
+11513,,Thuja plicata ,western red cedar,Y,2235,Live,48,22.1,22.1,1.6,9.1,7.3,15,2,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029233030,49.271927,-123.248806
+11685,,Thuja plicata ,western red cedar,Y,2234,Live,73,24.9,24.9,3.1,8.6,11,15,4,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029233235,49.271932,-123.248747
+12720,,Cornus nuttallii,Pacific dogwood,,,Live,26,13.6,13.6,0,2.9,5.5,40,3,,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213158,finnkopf@mail.ubc.ca,20241029233628,49.27196,-123.24864
+11844,,Thuja plicata ,western red cedar,Y,,Live,89,25.9,25.9,1.7,10.5,11.3,15,4,,,Coniferous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029234136,49.271963,-123.248573
 7836,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000955,laura.grant@ubc.ca,20221113004744,49.259915,-123.239978
 3033,,Cedrus atlantica 'Glauca',,Y,,Live,67,16.2,,1,16.1,9.2,10,5,,11,,20200301,,,,,PLAN,20190614175827,RACHELW,20220830235820,49.269654,-123.253803
 4236,,Amelanchier grandiflora,serviceberry,N,,Dead,,,,,,,30,5,,4,Deciduous,,,,,,PLAN,20190614175922,laura.grant@ubc.ca,20220831204908,49.265762,-123.25498
@@ -2153,7 +2222,6 @@
 7135,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207220748,laura.grant@ubc.ca,20221113010053,49.259944,-123.239782
 7136,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207220749,laura.grant@ubc.ca,20221113010126,49.259853,-123.2397
 11595,,Carpinus betulus ,European hornbeam ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271048,-123.251309
-11601,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270586,-123.251071
 11602,,Picea omorika ,Serbian spruce ,Y,2517,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271924,-123.24847
 11605,,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831200601,laura.grant@ubc.ca,20220831200601,49.264344,-123.252837
 11614,,Cercidiphyllim japonicum,katsura,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825173850,laura.grant@ubc.ca,20220825173850,49.261087,-123.252485
@@ -2194,18 +2262,14 @@
 7637,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207213451,laura.grant@ubc.ca,20221113012541,49.260513,-123.240286
 7638,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207213452,laura.grant@ubc.ca,20221113012714,49.260562,-123.240332
 11620,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271133,-123.248669
-11625,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271797,-123.249072
 11631,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27087,-123.249461
 11633,,Acer macrophylla ,Big leaf maple ,Y,10035,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270932,-123.249424
 11636,,Acer platanoides ,Norway maple ,Y,9957,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270819,-123.24848
-11638,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.2706,-123.251028
 11640,,Gleditsia triacanthos var. inermis,three-horned acacia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824163051,laura.grant@ubc.ca,20220824163051,49.263652,-123.250537
 11969,,Acer platanoides ,Norway maple ,Y,9951,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270874,-123.248631
 11973,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824172155,laura.grant@ubc.ca,20220824172155,49.263377,-123.25052
 11974,,Acer platanoides 'Emerald Queen',Norway maple 'Emerald Queen',Y,8224,,,,,,,,,,,,,,,,,,,,,,49.260955,-123.245235
-11979,,Acer palmatum 'Atropurpureum',Red japanese maple ,Y,10131,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270782,-123.250248
 7645,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207213559,laura.grant@ubc.ca,20221113012747,49.260388,-123.240185
-11877,,Styrax japonicum ,Japanese snowbell ,Y,10130,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270827,-123.250267
 11879,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,,,,,49.260431,-123.2459
 11880,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270841,-123.248453
 11885,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271377,-123.24817
@@ -2214,58 +2278,53 @@
 11889,,Acer macrophylla ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270883,-123.249341
 11892,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831212947,laura.grant@ubc.ca,20220831212947,49.264363,-123.255521
 11645,,Magnolia stellata,star magnolia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824175735,laura.grant@ubc.ca,20220824175735,49.266639,-123.252576
-11652,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270563,-123.250983
 11656,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824163654,laura.grant@ubc.ca,20220824163654,49.263344,-123.250609
 11662,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271205,-123.248102
 5336,,Pinus flexilis,limber pine,N,,Live,19,3.8,,,5.8,5.6,10,5,,1,Evergreen,20200301,,,,,PLAN,20190614175837,laura.grant@ubc.ca,20220824214419,49.26002,-123.248452
 5335,,Pinus flexilis,limber pine,N,,Live,8,9.2,,,3.3,2.8,10,5,,1,Evergreen,20200301,,,,,PLAN,20190614175837,laura.grant@ubc.ca,20220824214459,49.259996,-123.248383
-12093,,Parrotia persica ,Persian ironwood ,Y,10160,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271388,-123.250119
 12096,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825172402,laura.grant@ubc.ca,20220825172402,49.260795,-123.251168
 12103,,Pseudotsuga menziesii ,Douglas-fir ,Y,2320,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270977,-123.249507
-12105,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270522,-123.250081
 12107,,Acer platanoides ,Norway maple ,Y,9947,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270909,-123.248569
 11987,,Prunus cerasifera 'Thundercloud',flowering plum,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825161200,laura.grant@ubc.ca,20220825161200,49.261186,-123.250805
 12005,,Carpinus betulus ,European hornbeam ,Y,1826,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.268945,-123.25199
 11666,,Picea omorika ,Serbian spruce ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20220819195616,49.270518,-123.25355
 11667,,Acer platanoides ,Norway maple ,Y,9942,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271068,-123.248649
-11668,,Acer platanoides ,Norway maple ,Y,2524,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271774,-123.249157
 11669,,Pinus contorta,lodgepole pine,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831203612,laura.grant@ubc.ca,20220831203612,49.264602,-123.255358
-11670,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27033,-123.250772
 11671,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824172101,laura.grant@ubc.ca,20220824172101,49.263361,-123.250567
 11675,,Acer platanoides ,Norway maple ,Y,2525,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271087,-123.248619
-11677,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270643,-123.251476
 11680,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831213309,laura.grant@ubc.ca,20220831213309,49.264277,-123.255505
 11893,,Acer platanoides 'Emerald Queen',Norway maple 'Emerald Queen',N,,,,,,,,,,,,,,,,,,,,,,,49.260812,-123.245104
-11898,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271416,-123.249898
 11901,,Acer macrophylla ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270791,-123.249695
-11902,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270589,-123.251001
-11903,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270775,-123.250446
 11906,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27046,-123.252093
-11910,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270548,-123.250946
-11912,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270218,-123.251118
 12112,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270496,-123.252088
 12116,,,fake tree,,,,,,,,,,,,,,,,,,,,jeff.burton@ubc.ca,20220819182717,jeff.burton@ubc.ca,20220819182717,49.269538,-123.259372
 12124,,Chamaecyparis pisifera 'Squarrosa',moss false cypress,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220831212237,laura.grant@ubc.ca,20220831212237,49.264626,-123.255886
-12125,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270759,-123.250491
+11447,,Magnolia sp.,magnolia,N,,Live,18,6.2,6.2,2.1,7.1,5.3,15,2,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029183458,49.270401,-123.249948
+12082,,Magnolia sp.,magnolia,N,,Live,19,6,6,1.7,4.6,5.8,25,2,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029183614,49.270432,-123.249973
 11695,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270607,-123.252177
+11612,,"Magnolia sp,",magnolia,N,,Live,21,7.1,7.1,1.9,6.6,6.3,10,3,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029183804,49.270485,-123.250015
+12105,,Styrax japonicum ,Japanese snowbell ,y,10120,Live,13,5.3,5.3,1.5,5.7,4.9,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029184351,49.270522,-123.250081
 11701,,Thuja plicata 'Zebrina',Western red cedar 'Zebrina',y,2518,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271956,-123.248396
-11706,,Parrotia persica ,Persian ironwood ,Y,10151,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271086,-123.251003
+11542,,Magnolia sp,magnolia,y,10144,Live,14,5.3,5.3,1.2,4.2,4.1,15,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029191229,49.270591,-123.250023
+11508,,Fraxinus pennsylvanica ,green ash,N,,Live,,6.4,6.4,1.7,6.6,6.8,10,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029191532,49.270543,-123.25016
+11446,,Fraxinus pennsylvanica ,green ash,N,,Live,,7.4,7.4,1.2,5.9,5.9,15,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029191749,49.2705,-123.25027
 12010,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.262065,-123.243072
 12011,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.265207,-123.245594
 12014,,Picea abies,Norway spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220825172632,laura.grant@ubc.ca,20220825172632,49.260582,-123.250125
-12017,,Pseudotsuga menziesii ,Douglas-fir ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271156,-123.250957
 12022,,Acer macrophylla ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270898,-123.249337
-12027,,Acer palmatum 'Atropurpureum',Red japanese maple ,Y,10126,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270824,-123.250105
-12028,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270401,-123.250747
 12032,,Pseudotsuga menziesii ,Douglas-fir ,Y,7296,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271096,-123.249265
 11918,,Acer platanoides ,Norway maple ,Y,9956,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270808,-123.248505
 11922,,Gleditsia triacanthos var inermis,three-horned acacia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824163243,laura.grant@ubc.ca,20220824163243,49.263706,-123.25039
+12049,,Pyrus calleryana,callery pear,Y,10212,Live,15,6,6,1.1,2.5,4.4,20,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029180048,49.270273,-123.251287
+11914,,Magnolia × soulangiana,saucer magnolia,N,,Live,12,5.6,5.6,1.3,4.7,5.3,20,5,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029180411,49.269978,-123.250624
+12012,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,31,12.6,12.6,2,11.3,10.4,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029180753,49.270052,-123.250472
+12149,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,25,10.9,10.9,2.1,9.8,7.9,25,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029181046,49.270077,-123.25039
 11933,,Carpinus betulus,European hornbeam,N,,,,,,,,,,,,,,,,,,,,,,,49.267228,-123.247992
+,,Magnolia x soulangeana,saucer magnolia ,y,9850,Live,9,4.4,4.4,1.7,4,3.5,35,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20241029181318,finnkopf@mail.ubc.ca,20241029181318,49.270088,-123.250329
 11713,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271323,-123.248143
 11718,,Acer platanoides ,Norway maple ,Y,9945,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270947,-123.248569
 11721,,Magnolia stellata,star magnolia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824175816,laura.grant@ubc.ca,20220824175816,49.266614,-123.252594
 11722,,Carpinus betulus ,European hornbeam ,Y,1824,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.26891,-123.252089
-11728,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270182,-123.251093
 11731,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825225952,laura.grant@ubc.ca,20220825225952,49.266362,-123.258321
 8513,,Pseudotsuga menziesii,Douglas-fir ,N,,Live,10,3.6,3.6,0.1,3.8,3.4,45,5,,10,Coniferous,,,,2022,,GISSTUD1,20200106220904,PLAN,20240419162915,49.268769,-123.250226
 12139,,Acer palmatum ,Japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.261969,-123.243327
@@ -2273,9 +2332,14 @@
 10434,,Taxus brevifolia,Pacific yew ,N,,Live,11,4,0.8,0.8,4.9,2.5,50,1,,7,Coniferous,,,,2021,,,,PLAN,20240419162915,49.26215,-123.257361
 12145,,Acer palmatum 'Sangokaku',Sangokaku japanese maple ,N,,,,,,,,,,,,,,,,,,,,,,,49.264867,-123.244608
 12150,,Acer macrophylla ,Big leaf maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270758,-123.248836
-12154,,Carpinus betulus ,European hornbeam ,Y,10179,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270742,-123.251613
 12155,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824172246,laura.grant@ubc.ca,20220824172246,49.263449,-123.2503
+12140,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,22,10.8,10.8,2.6,10.2,7.7,15,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029181515,49.27012,-123.250295
 12036,,Acer pseudoplatanus 'atropurpureum',Purple mountain maple,N,,,,,,,,,,,,,,,,,,,,,,,49.261569,-123.246035
+11437,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,18,8.3,8.3,2.4,6.5,8,45,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029181721,49.270155,-123.2502
+11574,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,23,12.5,12.5,2.4,8.5,8.2,35,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029181839,49.270177,-123.250141
+11931,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,23,11.7,11.7,3.8,6.1,9.6,45,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029182012,49.270205,-123.250057
+11773,,Magnolia × soulangiana,saucer magnolia,y,9845,Live,9,4.7,4.7,1.8,3.9,3.6,15,1,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029182134,49.270191,-123.249957
+11768,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,21,11.7,11.7,3.5,8.5,6.9,20,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029182322,49.270235,-123.249974
 12050,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20220824173005,laura.grant@ubc.ca,20220824173005,49.262864,-123.250632
 12056,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831213152,laura.grant@ubc.ca,20220831213152,49.264441,-123.255613
 11737,,Acer platanoides ,Norway maple ,Y,9939,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271113,-123.248628
@@ -2285,22 +2349,47 @@
 11742,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824163513,laura.grant@ubc.ca,20220824163513,49.263659,-123.250278
 11747,,Cornus 'Eddie's White Wonder',white wonder dogwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831200143,laura.grant@ubc.ca,20220831200143,49.264306,-123.252922
 11748,,Gleditsia triacanthos var inermis,three-horned acacia,,,,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220824163153,laura.grant@ubc.ca,20220824163153,49.263678,-123.250468
-11752,,Acer platanoides ,Norway maple ,Y,2523,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271832,-123.249011
-11754,,Styrax japonicum ,Japanese snowbell,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20220819195616,49.270313,-123.249893
 11755,,Acer platanoides ,Norway maple ,Y,7251,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.27078,-123.248875
+11511,,Juniperus scopulorum 'Blue Arrow',Blue Arrow juniper ,N,,Live,10,2.5,2.5,0.4,2.8,2.9,35,4,,,Coniferous,,,,,"leader got cut, not clean cut",finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029194404,49.27049,-123.250898
+11910,,Styrax japonicum ,Japanese snowbell ,N,,Live,11,7.9,7.9,1.2,7.2,7.9,15,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029194528,49.270548,-123.250946
+11652,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,Live,10,6.2,6.2,0.9,5.4,5.5,10,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029194803,49.270563,-123.250983
+11638,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,Live,,7,7,1.4,6.9,4,30,2,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029195320,49.2706,-123.251028
+11902,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,Live,,6.2,6.2,0.7,5.9,6.4,10,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029195339,49.270589,-123.251001
+11601,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,Live,,7,7,1,4.4,3.4,30,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029195500,49.270586,-123.251071
+11546,,Acer palmatum 'Atropurpureum',Red japanese maple ,N,,Live,,7,7,1.4,4.2,3.5,15,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029195620,49.270573,-123.251104
+11593,,Acer palmatum 'Atropurpureum',Red japanese maple ,y,10196,Live,,7.2,7.2,1.3,7.5,7.1,5,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029195840,49.27061,-123.250914
+12068,,Parrotia persica ,Persian ironwood ,N,,Live,23,10.4,10.4,1.7,9.9,10.9,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029200056,49.270563,-123.250873
+12306,,Styrax japonicus,Japanese snowbell,,,Live,9,3,3,1.1,3.9,3.7,15,4,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209173104,finnkopf@mail.ubc.ca,20241029200525,49.270745,-123.250857
+12307,,Styrax japonicus,Japanese snowbell,y,10148,Live,10,4.4,4.4,0.6,4.2,4.2,25,4,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209173149,finnkopf@mail.ubc.ca,20241029200648,49.270693,-123.250812
+11861,,Parrotia persica ,Persian ironwood ,N,,Live,19,6.7,6.7,1.1,6.9,7.7,25,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029200912,49.270679,-123.250746
+11957,,Parrotia persica ,Persian ironwood ,N,,Live,18,6.4,6.4,1,6.7,6.8,20,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029201240,49.270687,-123.250699
+11868,,Fraxinus angustifolia ,narrow-leaf ash,y,10138,Live,13,7.5,7.5,2.5,5.9,5.7,50,5,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029201441,49.270638,-123.250554
+12125,,Parrotia persica ,Persian ironwood ,N,,Live,21,8.2,8.2,1.2,7.5,10.7,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029201625,49.270759,-123.250491
+11903,,Parrotia persica ,Persian ironwood ,N,,Live,23,10.7,10.7,1.6,7.8,8.3,20,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029201914,49.270775,-123.250446
+11804,,Fraxinus angustifolia ,narrow-leaf ash,N,,,30,12.8,12.8,3.4,12.2,9.9,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029182526,49.27026,-123.249904
 5301,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,PLAN,20190614175836,laura.grant@ubc.ca,20220830160050,49.259672,-123.247957
+11927,,Magnolia sp.,magnolia,N,,Live,16,7.2,7.2,2.1,4.2,5.3,40,2,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029182700,49.270286,-123.249835
 2142,,Pseudtsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,PLAN,20190614175909,laura.grant@ubc.ca,20220830160339,49.259941,-123.248557
+12180,,Magnolia sp.,magnolia,N,,Live,10,5.2,5.2,1.3,4.4,4.4,15,3,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029182822,49.270251,-123.249807
+11754,,Styrax japonicum ,Japanese snowbell,y,10103,Live,14,4.9,4.9,1.5,6.3,5.8,15,1,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029183038,49.270313,-123.249893
 12162,,Acer platanoides ,Norway maple ,Y,2531,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270867,-123.248455
 12170,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271081,-123.248058
+12080,,Magnolia sp.,magnolia,N,,Live,27,8.5,8.5,2.2,10,9.1,20,3,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20241029183225,49.270352,-123.249914
 11765,,Thuja plicata 'Zebrina',Western red cedar 'Zebrina',Y,5781,,,,,,,,,,,,,,,,,,,,,,49.268328,-123.252113
 11767,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831201504,laura.grant@ubc.ca,20220831201504,49.264578,-123.254325
 11771,,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271142,-123.248079
 11775,,Styrax japonicum ,Japanese snowbell ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270574,-123.25215
 11776,,Picea omorika ,Serbian spruce ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,finnkopf@mail.ubc.ca,20220819195616,49.270506,-123.253581
+11798,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,28,10,10,1.9,9.9,9.7,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029202112,49.270681,-123.25044
+11528,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,27,13,13,2.1,9.7,9.7,10,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029202213,49.270724,-123.250325
+12847,,Ilex aquifolium,English holly,y,2279,Live,24,5.4,5.4,1.5,4.1,3.2,0,4,,,Angiosperm,,,,,,laura.grant@ubc.ca,20221212215611,finnkopf@mail.ubc.ca,20241029202416,49.270877,-123.250411
+11489,,Styrax japonicum ,Japanese snowbell ,N,10129,Live,12,3.7,3.7,1.2,5.2,3.9,20,4,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029202618,49.270849,-123.250287
+11877,,Styrax japonicum ,Japanese snowbell ,Y,10130,Live,12,4.3,4.3,1.8,4.4,3.8,25,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029202749,49.270827,-123.250267
 3216,,Quercus robur,English oak,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175820,laura.grant@ubc.ca,20220824184400,49.2666,-123.251343
+11979,,Acer palmatum 'Atropurpureum',Red japanese maple ,Y,10131,Live,,6.4,6.4,1.1,5.8,5.2,15,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029202903,49.270782,-123.250248
+11756,,Fraxinus angustifolia ,narrow-leaf ash,N,,Live,21,11.5,11.5,2.4,9.6,6.6,30,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029203034,49.270755,-123.25023
+11527,,Styrax japonicum ,Japanese snowbell ,Y,10128,Live,60,6.6,6.6,1.5,6.1,6.3,10,3,,,Angiosperm,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20241029203359,49.270908,-123.250159
 12065,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220831212745,laura.grant@ubc.ca,20220831212745,49.26451,-123.255833
-12067,,Parrotia persica ,Persian ironwood ,Y,10150,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.271097,-123.250901
-12068,,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270563,-123.250873
 7529,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000639,laura.grant@ubc.ca,20221113002121,49.258089,-123.238653
 7530,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000640,laura.grant@ubc.ca,20221113002150,49.258173,-123.238729
 7531,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200107000640,laura.grant@ubc.ca,20221113002231,49.25825,-123.2388
@@ -2559,9 +2648,6 @@
 9480,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200221195554,laura.grant@ubc.ca,20221120060256,49.262569,-123.235982
 12304,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221112210150,laura.grant@ubc.ca,20221112210150,49.258125,-123.238075
 12305,,Magnolia stellata,star magnolia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209172456,laura.grant@ubc.ca,20221209172456,49.271359,-123.250297
-12306,,Styrax japonicus,Japanese snowbell,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209173104,laura.grant@ubc.ca,20221209173104,49.270745,-123.250857
-12307,,Styrax japonicus,Japanese snowbell,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209173149,laura.grant@ubc.ca,20221209173149,49.270693,-123.250812
-12308,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221209174607,laura.grant@ubc.ca,20221209174607,49.271013,-123.250593
 12311,,Juglans x,walnut hybrid,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221005192150,laura.grant@ubc.ca,20221005192150,49.258325,-123.240932
 12313,,Picea omorika,Serbian spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221120044127,laura.grant@ubc.ca,20221120044127,49.262022,-123.234851
 12314,,Picea omorika,Serbian spruce,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221120044206,laura.grant@ubc.ca,20221120044206,49.261989,-123.234839
@@ -2740,7 +2826,6 @@
 3307,,Acer palmatum,Japanese maple ,N,,Live,8,5.5,5.1,0.4,4.3,1.9,30,3,,6,Angiosperm,,,,2022,,PLAN,20190614175811,PLAN,20240419162915,49.265097,-123.24734
 11438,,Pinus contorta,lodgepole pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212232924,49.270926,-123.248068
 12109,,Pinus contorta,lodgepole pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233029,49.270902,-123.248035
-11503,,Pyrus calleryana,callery pear,Y,10219,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233306,49.270639,-123.251757
 9927,,Acer palmatum,Japanese maple ,N,,Live,15,7.4,7.4,2.62,6.17,3.1,10,2,,4,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.26229,-123.254576
 11809,,Acer palmatum,Japanese maple ,N,,Live,28,7,7,1.6,7.58,7.3,15,1,,1,Angiosperm,,,,2022,,,,PLAN,20240419162915,49.261929,-123.247077
 7126,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD2,20200208001702,laura.grant@ubc.ca,20221120073751,49.260689,-123.237111
@@ -2791,15 +2876,9 @@
 12410,,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220902233225,laura.grant@ubc.ca,20221213015734,49.269803,-123.248127
 12411,,Cornus 'Eddie's White Wonder',Eddie's White Wonder dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220902233248,laura.grant@ubc.ca,20221213015816,49.269771,-123.248134
 12415,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221013153638,laura.grant@ubc.ca,20221013153721,49.261532,-123.242235
-12117,,Pyrus calleryana,callery pear,Y,10176,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233328,49.270873,-123.251781
-12118,,Carpinus japonica,Japanese hornbeam,Y,10191,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233619,49.270685,-123.250936
-11763,,Carpinus japonica,Japanese hornbeam,Y,10193,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233648,49.270759,-123.251038
-11610,,Carpinus japonica,Japanese hornbeam,Y,10192,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233711,49.270718,-123.251007
-11745,,Pyrus calleryana,callery pear,Y,10220,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212233918,49.270824,-123.251906
 11648,,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212234053,49.270942,-123.249267
 11708,,Acer x freemanii,Freeman maple,Y,10271,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212234412,49.270699,-123.252373
 11803,,Acer x freemanii,Freeman maple,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212234433,49.270725,-123.252301
-11733,,Styrax obassia,fragrant snowbell,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212234612,49.271422,-123.250247
 11941,,Rhus,sumac,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221212234702,49.269731,-123.25016
 11890,,Cornus nuttallii,Pacific dogwood,Y,9689,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221212235200,49.269075,-123.250275
 12054,,Pinus nigra,black pine,N,,Live,,,,,,,,,,,Evergreen,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212235451,49.270382,-123.248676
@@ -3110,7 +3189,6 @@
 12844,,Acer palmatum,Japanese maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221214220940,laura.grant@ubc.ca,20221214220940,49.268802,-123.254538
 12845,,Chamaecyparis pisifera 'Plumosa',sawara cypress,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221214222136,laura.grant@ubc.ca,20221214222136,49.268848,-123.253545
 12846,,Chamaecyparis pisifera 'Plumosa',sawara cypress,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221214222221,laura.grant@ubc.ca,20221214222221,49.268742,-123.253806
-12847,,Ilex aquifolium,English holly,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221212215611,laura.grant@ubc.ca,20221212215611,49.270877,-123.250411
 8100,,Acer campestre,field maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233213,laura.grant@ubc.ca,20221201004454,49.258939,-123.24362
 11578,,Cornus nuttallii,Pacific dogwood,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221206185647,49.264328,-123.248804
 11830,,Quercus palustris,pin oak,Y,3409,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221206185813,49.264393,-123.248994
@@ -3132,9 +3210,6 @@
 12066,,Quercus palustris,pin oak,Y,3486,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221206185937,49.264266,-123.249025
 6775,,Cercis canadensis 'Forest Pansy',eastern redbud,,,Live,,,,,,,,,,,Deciduous,,,,,,PLAN,20190614175852,laura.grant@ubc.ca,20221206190619,49.268257,-123.258441
 4403,,Juniperus,juniper,,,Live,,,,,,,,,,,Evergreen,,,,,,PLAN,20190614175829,laura.grant@ubc.ca,20221206191319,49.267581,-123.254444
-11612,,"Magnolia sp,",magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221206192457,49.270485,-123.250015
-11927,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221206192536,49.270286,-123.249835
-12180,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221206192603,49.270251,-123.249807
 12143,,Magnolia sp.,magnolia,Y,9925,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206192640,49.271106,-123.248497
 11471,,Magnolia sp.,magnolia,Y,9927,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206192714,49.271216,-123.248541
 12047,,Magnolia sp.,magnolia,Y,9928,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206192742,49.271255,-123.248558
@@ -3161,10 +3236,7 @@
 9894,,Acer x freemanii,Freeman maple,N,,Dead,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20220920202612,49.263174,-123.254885
 11863,,Magnolia sp,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206193206,49.270548,-123.249044
 11836,,Magnolia sp.,magnolia,Y,9924,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206193232,49.271069,-123.248486
-11542,,Magnolia sp,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206193259,49.270591,-123.250023
 11790,,Magnolia × soulangiana,saucer magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221206193442,49.270468,-123.249343
-11773,,Magnolia × soulangiana,saucer magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221206193840,49.270191,-123.249957
-11914,,Magnolia × soulangiana,saucer magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221206193904,49.269978,-123.250624
 8106,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233251,laura.grant@ubc.ca,20221206195135,49.259147,-123.244837
 8109,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233252,laura.grant@ubc.ca,20221206195154,49.259232,-123.244919
 8110,,Acer platanoides,Norway maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106233434,laura.grant@ubc.ca,20221206195215,49.259338,-123.24499
@@ -3358,8 +3430,6 @@
 11663,,Acer palmatum,Japanese maple ,Y,3601,Live,20,6.8,6.8,1.3,8.83,7.49,30,2,,4,Angiosperm,,,,2022,,,,PLAN,20240419162915,49.263762,-123.246746
 10963,,Acer palmatum,Japanese maple ,Y,4488,Live,34,7.1,7.1,2.2,9.5,8.1,15,3,,1,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.257336,-123.253018
 10529,,Acer palmatum,Japanese maple ,Y,4286,Live,34,9.4,9.4,1.5,10.7,10.3,40,3,,3,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.259798,-123.252336
-11630,,Cornus nuttallii ,Pacific dogwood ,Y,2238,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212212613,49.271872,-123.248849
-12070,,Cornus nuttallii ,Pacific dogwood ,Y,2237,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212212628,49.271895,-123.248798
 11001,,Acer palmatum,Japanese maple ,Y,5063,Live,24,9.2,9.2,2.3,8.1,5.4,75,2,,3,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.259173,-123.252072
 12175,,Fagus sylvatica 'Dawyck Purple',purple upright European beech,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221212212859,49.270875,-123.248198
 10961,,Acer palmatum,Japanese maple ,Y,4491,Live,36,7.2,7.2,2.2,9.4,8,15,3,,1,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.257398,-123.25283
@@ -3466,8 +3536,6 @@
 8575,,Tsugsa heterophylla,Pacific hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD1,20200106233933,laura.grant@ubc.ca,20221129200603,49.259981,-123.242574
 9379,,Alnus rubra,red alder,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106234820,laura.grant@ubc.ca,20221129201120,49.26037,-123.241009
 12736,,Parrotia persica,Persian ironwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221129190420,laura.grant@ubc.ca,20221129190420,49.258932,-123.244197
-12737,,Pseudotsuga menziesii,Douglas-fir,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221212213324,laura.grant@ubc.ca,20221212213324,49.270821,-123.249939
-12738,,Carpinus japonica,Japanese hornbeam,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213652,laura.grant@ubc.ca,20221212213652,49.27129,-123.24982
 12740,,Prunus emarginata,bitter cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221120080606,laura.grant@ubc.ca,20221120080606,49.261221,-123.234139
 12741,,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221120080721,laura.grant@ubc.ca,20221120080721,49.261231,-123.234191
 12742,,Prunus emarginata,bitter cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221120080748,laura.grant@ubc.ca,20221120080748,49.261223,-123.234229
@@ -3684,11 +3752,7 @@
 6765,,Prunus serrulata 'Sato Zakura',Japanese cherry 'Sato-Zakura',Y,1912,Live,43,7,7,1.8,11.94,9.34,10,1,,11,Angiosperm,,,,2022,,seeds.trees,20190919003340,PLAN,20240419162915,49.269953,-123.248857
 10735,,Acer platanoides 'Royal Red',Norway maple ‘Royal Red’,Y,2705,Live,21,8.2,8.2,2,5.8,5.2,25,3,,1,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.257608,-123.253994
 10122,,Pseudotsuga menziesii ,Douglas-fir ,Y,10999,Live,51,32.2,32.2,10.9,13.7,8.4,65,3,,5,Coniferous,,,,2021,,,,PLAN,20240419162915,49.26005,-123.254549
-11805,,Pyrus calleryana,callery pear,Y,10208,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003251,49.270429,-123.251418
 12046,,Pyrus calleryana,callery pear,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221205003810,49.269721,-123.250797
-12133,,Pyrus calleryana,callery pear,Y,10218,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003849,49.270433,-123.251601
-12049,,Pyrus calleryana,callery pear,Y,10212,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003920,49.270273,-123.251287
-12031,,Pyrus calleryana,callery pear,Y,10178,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205004139,49.270782,-123.251649
 12156,,Cornus sp.,Dogwood ,Y,9773,Live,10,3.9,3.9,0.6,4.9,4.9,80,1,,11,Angiosperm,,,,2022,Tag is grown into tree,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240419162915,49.268962,-123.25015
 10121,,Pseudotsuga menziesii ,Douglas-fir ,Y,10998,Live,58,35.5,35.5,11.2,9.1,5.6,75,3,,5,Coniferous,,,,2021,,,,PLAN,20240419162915,49.260058,-123.254521
 3009,,Betula pendula 'Dalecarlica',,N,,Live,2,22,22,4,13.2,8.9,35,1,,10,,20200301,,,,,PLAN,20190614175826,laura.grant@ubc.ca,20221214223745,49.268503,-123.254051
@@ -3735,9 +3799,6 @@
 2946,,Cornus nuttallii,Pacific dogwood,Y,5967,Live,27,11.47,11.47,2.8,9.4,5.5,25,4,,2,Deciduous,20190301,,,,,PLAN,20190614175929,laura.grant@ubc.ca,20220902180328,49.266645,-123.256005
 2035,,Quercus robur,English oak,Y,6875,Live,49,15.23,15.23,2.5,13.69,13.67,10,5,,9,Deciduous,20190301,,,,,PLAN,20190614175919,laura.grant@ubc.ca,20220902180957,49.267235,-123.25458
 11495,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221205032128,49.260694,-123.244617
-12082,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221205032217,49.270432,-123.249973
-11447,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221205032238,49.270401,-123.249948
-12080,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221205032617,49.270352,-123.249914
 11985,,Magnolia sp.,magnolia,Y,9929,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205032641,49.271293,-123.24857
 11659,,Magnolia sp.,magnolia,Y,9819,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205032707,49.270448,-123.24896
 11988,,Magnolia sp.,magnolia,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205032758,49.270502,-123.249236
@@ -3788,10 +3849,6 @@
 9620,,Fangula purshiana,cascara,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20220908193758,49.264474,-123.256787
 9775,,Chamaecyparis pisifera 'Filifera',sawara cypress,Y,8981,Live,,,,,,,,,,,Evergreen,,,,,,,,laura.grant@ubc.ca,20220908195033,49.264579,-123.256467
 9799,,Fraxinus pennsylvanica,green ash,Y ,4822,Live,,,,,,,,,,,Deciduous,,,,,possible hybrid with F. americana,,,laura.grant@ubc.ca,20220908195207,49.264926,-123.256955
-12119,,Pyrus calleryana,callery pear,Y,10216,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205004507,49.270223,-123.251409
-11460,,Populus tremula 'Erecta',European aspen ,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205004808,49.270181,-123.251467
-11854,,Populus tremula 'Erecta',European aspen ,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205004830,49.270083,-123.251386
-11947,,Populus tremula 'Erecta',European aspen ,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205004850,49.270272,-123.251549
 11150,,Pinus nigra,black pine,Y,4930,Live,,,,,,,,,,,Evergreen,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,laura.grant@ubc.ca,20221205005101,49.26345,-123.258627
 10426,,Pinus nigra,black pine,,,Live,,,,,,,,,,,Evergreen,,,,,,,,laura.grant@ubc.ca,20221205005437,49.262717,-123.257807
 4482,,Ilex aquifolium,English holly,,,Live,,,,,,,,,,,Evergreen,,,,,,PLAN,20190614175830,laura.grant@ubc.ca,20220902183542,49.26767,-123.257317
@@ -4138,13 +4195,6 @@
 11295,,Stewartia monadelpha,orangebark stewartia,Y,4589,Live,,,,,,,,,,,Deciduous,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,laura.grant@ubc.ca,20221205001305,49.265574,-123.259145
 11293,,Stewartia monadelpha,orangebark stewartia,Y,4588,Live,,,,,,,,,,,Deciduous,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,laura.grant@ubc.ca,20221205001333,49.265545,-123.259167
 11923,,Pyrus calleryana,callery pear,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220819195616,laura.grant@ubc.ca,20221205002555,49.269737,-123.25086
-11448,,Pyrus calleryana,callery pear,Y,10177,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205002810,49.270837,-123.251691
-11970,,Pyrus calleryana,callery pear,Y,10181,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205002843,49.270673,-123.251627
-11531,,Pyrus calleryana,callery pear,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205002935,49.270487,-123.251448
-11711,,Pyrus calleryana,callery pear,Y,10180,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003017,49.270699,-123.251646
-12006,,Pyrus calleryana,callery pear,N,,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003113,49.270364,-123.251542
-11692,,Pyrus calleryana,callery pear,Y,10184,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003147,49.270568,-123.251468
-12007,,Pyrus calleryana,callery pear,Y,10215,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,laura.grant@ubc.ca,20221205003220,49.270071,-123.251281
 9868,,Acer platanoides,Norway maple,Y,8952,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221205015806,49.265691,-123.257914
 9879,,Acer x freemanii,Freeman maple,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221205015833,49.263219,-123.255459
 9884,,Acer x freemanii,Freeman maple,N,,Live,,,,,,,,,,,Deciduous,,,,,,,,laura.grant@ubc.ca,20221205015849,49.26314,-123.255398
@@ -5410,7 +5460,6 @@
 8954,,Celtis occidentalis,common hackberry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106235314,PLAN,20240420000539,49.258901,-123.243408
 10710,,Quercus palustris,pin oak,N,,Live,32,8.2,8.2,1.9,11.8,10.6,55,4,,2,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.258565,-123.252861
 10069,,Quercus palustris,pin oak,N,,Live,20,9.9,9.9,0.4,7.2,8.5,35,3,,6,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.260634,-123.257011
-11653,,Quercus palustris ,pin oak,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271376,-123.250465
 10536,,Quercus palustris,pin oak,N,,Live,31,15.6,15.6,3.7,14.2,11.5,20,3,,4,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.260517,-123.252767
 12059,,Quercus palustris,pin oak,Y,3489,Live,32,14.8,12.6,2.2,7.4,1.4,50,2,,6,Angiosperm,,,,2022,,,,PLAN,20240420000539,49.264331,-123.248993
 11539,,Quercus palustris,pin oak,Y,3479,Live,20,14.3,12.8,1.5,8.5,1.2,20,2,,6,Angiosperm,,,,2022,,,,PLAN,20240420000539,49.264243,-123.248848
@@ -5665,12 +5714,10 @@
 6466,,Acer circinatum,vine maple,N,,Live,16,6.8,6.8,2.11,8.94,6.33,50,1,,4,Angiosperm,,,,2022,,PLAN,20190614175849,PLAN,20240420000539,49.263776,-123.247224
 3850,,Acer circinatum,vine maple,N,,Live,1,2.8,2.8,,1.8,1.55,15,3,,2,Angiosperm,20200301,,,2020,,PLAN,20190614175907,PLAN,20240420000539,49.261583,-123.248468
 3884,,Acer circinatum,vine maple,N,,Live,22,5,5,0.1,9,13,15,3,,3,Angiosperm,20200301,,,2020,,PLAN,20190614175901,PLAN,20240420000539,49.262105,-123.249578
-11507,,Cedrus deodara ,deodar cedar,Y,2252,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271229,-123.250062
 10146,,Cedrus deodara,deodar cedar,N,,Live,65,25.3,25.3,4.3,10.7,5.7,60,2,,8,Coniferous,,,,2021,,,,PLAN,20240420000539,49.261495,-123.254965
 10143,,Cedrus deodara,deodar cedar,N,,Live,60,25.5,25.5,3.5,11.5,9.4,80,2,,8,Coniferous,,,,2021,,,,PLAN,20240420000539,49.26145,-123.254854
 7436,,Cedrus deodara,deodar cedar,N,,Live,55,23.4,23.4,1.6,9.7,7.6,35,1,,10,Coniferous,,,,2022,,GISSTUD1,20200106220629,PLAN,20240420000539,49.269327,-123.251325
 10393,,Cedrus deodara,deodar cedar,N,,Live,80,25.2,25.2,4,16.6,16.2,60,2,,8,Coniferous,,,,2021,,,,PLAN,20240420000539,49.262872,-123.256049
-11562,,Cedrus deodara ,deodar cedar,Y,2256,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270991,-123.250693
 10394,,Cedrus deodara,deodar cedar,N,,Live,77,24.5,24.5,4.5,16.4,12.2,65,1,,8,Coniferous,,,,2021,,,,PLAN,20240420000539,49.262915,-123.256085
 10147,,Cedrus deodara,deodar cedar,N,,Live,49,26,26,6.5,7.2,5.9,75,2,,8,Coniferous,,,,2021,it has the tendency to grow to north.,,,PLAN,20240420000539,49.261498,-123.254893
 10642,,Cedrus deodara,deodar cedar,N,,Live,81,23.2,23.2,2.3,11.2,8.3,15,1,,2,Coniferous,,,,2021,,,,PLAN,20240420000539,49.259028,-123.253069
@@ -5749,7 +5796,6 @@
 2955,,Styrax japonicus,Japanese snowbell,,,,,,,,,,,,,,,,,,,,PLAN,20190614175847,PLAN,20240420000539,49.268098,-123.2565
 10918,,Arbutus menziesii,Pacific madrone,N,,Live,14,4.9,4.9,0.8,4.6,2.6,20,3,,13,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.264013,-123.259538
 10917,,Arbutus menziesii,Pacific madrone,N,,Live,23,6.1,6.1,0.6,6.8,5.4,15,2,,13,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.264086,-123.259487
-12720,,Cornus nuttallii,Pacific dogwood,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221212213158,PLAN,20240420000539,49.27196,-123.24864
 9100,,Quercus cerris,European turkey oak/turkey oak,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106235551,PLAN,20240420000539,49.257869,-123.242276
 10315,,Sequoia sempervirens,coast redwood,N,,Live,58,14.8,14.8,0,7.9,7.7,35,2,,7,Coniferous,,,,2021,,,,PLAN,20240420000539,49.261778,-123.257714
 10316,,Sequoia sempervirens,coast redwood,N,,Live,44,14.2,14.2,0,7,5.9,25,2,,7,Coniferous,,,,2021,,,,PLAN,20240420000539,49.261774,-123.257774
@@ -5843,7 +5889,6 @@
 6892,,Acer rubrum,red maple,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231413,PLAN,20240420000539,49.265179,-123.247015
 8739,,Acer rubrum,red maple,N,,Live,26,8.6,8.6,2.42,9.98,9.61,30,3,,2,Angiosperm,,,,2022,,GISSTUD1,20200106230932,PLAN,20240420000539,49.261867,-123.245641
 8860,,Acer rubrum,red maple,N,,Live,22,11.6,11.6,1.76,9.64,8.18,25,4,,2,Angiosperm,,,,2022,,GISSTUD1,20200106231017,PLAN,20240420000539,49.262226,-123.244626
-11592,,Acer rubrum ,red maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271275,-123.250848
 11597,,Acer rubrum ,red maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270935,-123.251699
 12160,,Carpinus betulus 'Fastigiata',European hornbeam,N,,Live,15,9.3,9.3,1.1,3.6,3.5,5,3,,9,Angiosperm,,,,2022,,,,PLAN,20240419162915,49.267504,-123.247219
 10399,,Magnolia sp.,Magnolia,N,,Live,10,4.4,4.4,1.6,3.2,2.2,5,5,,10,Angiosperm,,,,2021,in a rock pit,,,PLAN,20240419162915,49.263134,-123.256313
@@ -5874,8 +5919,6 @@
 8587,,Tsuga heterophylla,western hemlock,,,Live,,,,,,,,,,,Evergreen,,,,,,GISSTUD1,20200106234011,PLAN,20240420000539,49.259838,-123.242342
 6495,,Tsuga heterophylla,western hemlock,Y,3595,Dead,34,2.5,,,,,,,,4,Coniferous,,,,2022,"Dead standing tree, was cut at the trunk ",PLAN,20190614175850,PLAN,20240420000539,49.26361,-123.246448
 7010,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106232518,PLAN,20240420000539,49.262073,-123.244671
-11436,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271525,-123.249164
-11806,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271605,-123.249226
 11807,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.262693,-123.242959
 11543,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.262284,-123.244143
 11615,,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.262229,-123.244308
@@ -5898,7 +5941,6 @@
 9512,,Aesculus hippocastanum,horse-chestnut,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200221195722,PLAN,20240420000539,49.261912,-123.23478
 9303,,Aesculus hippocastanum,horse-chestnut,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200207231359,PLAN,20240420000539,49.261063,-123.238647
 11881,,Acer rubrum ,red maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270973,-123.251611
-11649,,Acer rubrum ,red maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271447,-123.250378
 11661,,Acer rubrum ,red maple,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.26503,-123.244602
 11904,,Acer rubrum,red maple,,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.264624,-123.244281
 8749,,Acer rubrum,red maple,N,,Live,32,16.2,16.2,2.1,11.3,9.6,5,2,,2,Angiosperm,,,,2022,,GISSTUD1,20200106230956,PLAN,20240420000539,49.261935,-123.24543
@@ -6592,18 +6634,10 @@
 10693,,Cotoneaster lacteus,cream-flowered cotoneaster,N,,Live,49,9,9,2.1,8.8,7.2,25,2,,2,Angiosperm,,,,2021,Multiple stem tree,,,PLAN,20240420000539,49.25834,-123.253625
 9007,,Pinus sylvestris ,Scots pine,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106225604,PLAN,20240420000539,49.264567,-123.245458
 5310,,Acer campestre,field maple,N,,Live,25,8.6,8.6,,6.2,5.9,10,1,,1,Angiosperm,20200301,,,2020,,PLAN,20190614175837,PLAN,20240420000539,49.259722,-123.248119
-11483,,Pyrus calleryana ,callery pear,Y,10006,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271314,-123.249186
-11526,,Pyrus calleryana,callery pear,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271591,-123.24978
-11548,,Pyrus calleryana ,callery pear,Y,10009,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271565,-123.249385
 11598,,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825173026,PLAN,20240420000539,49.260449,-123.249927
-11624,,Pyrus calleryana,callery pear,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271552,-123.249943
-11628,,Pyrus calleryana,callery pear,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27162,-123.249647
 11883,,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825173103,PLAN,20240420000539,49.260418,-123.249991
 12100,,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825172842,PLAN,20240420000539,49.260505,-123.250057
 12102,,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825172950,PLAN,20240420000539,49.260489,-123.249954
-11907,,Pyrus calleryana,callery pear,Y,10018,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271459,-123.24993
-11702,,Pyrus calleryana ,callery pear,Y,10007,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271375,-123.249232
-11714,,Pyrus calleryana,callery pear,Y,10017,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271489,-123.249959
 12925,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215021704,laura.grant@ubc.ca,20221215021704,49.268015,-123.249174
 12926,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215021738,laura.grant@ubc.ca,20221215021738,49.268024,-123.249162
 12927,,Acer circinatum,vine maple,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221215021804,laura.grant@ubc.ca,20221215021804,49.268029,-123.249148
@@ -6649,8 +6683,6 @@
 4380,,Acer circinatum,vine maple,N,,Live,6,4,4,0,1.2,1,45,4,,9,Angiosperm,20200301,,,2020,,PLAN,20190614175828,PLAN,20240420000539,49.267401,-123.253814
 4304,,Acer circinatum,vine maple,N,,Live,2,2.1,2.1,0,1,0.7,35,4,,7,Angiosperm,20200301,,,2020,,PLAN,20190614175907,PLAN,20240420000539,49.266887,-123.253355
 11741,,Pyrus calleryana,callery pear,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220825172919,PLAN,20240420000539,49.260467,-123.250026
-12182,,Pyrus calleryana ,callery pear,Y,10008,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271465,-123.249306
-12039,,Pyrus calleryana,callery pear,Y,10016,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271519,-123.249981
 12905,,Gymnocladus dioicus,Kentucky coffeetree,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20230607185151,PLAN,20240420000539,49.258778,-123.250724
 3099,,Cunninghamia lanceolata,Chinese-fir,Y,3820,Live,87,24,24,2.8,9.9,8,15,4,,7,Coniferous,20200301,,,2020,,PLAN,20190614175817,PLAN,20240420000539,49.266766,-123.253452
 3105,,Cunninghamia lanceolata,Chinese-fir,Y,5811,Live,79,18.6,18.6,2.59,12.3,10.6,40,3,,9,Coniferous,20200301,,,2020,,PLAN,20190614175817,PLAN,20240420000539,49.267471,-123.254052
@@ -6770,7 +6802,6 @@
 10984,,Cedrus deodara ,deodar cedar,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.258417,-123.252093
 10196,,Cedrus deodara ,deodar cedar,Y,4808,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.265779,-123.257515
 6614,,Cedrus deodara,deodar cedar,N,,Live,82,23.8,23.8,8.8,15.27,13.69,70,4,,2,Coniferous,,,,2022,Sign of pruning/cutting of branches to protect adjacent building,PLAN,20190614175905,PLAN,20240420000539,49.263624,-123.243694
-11494,,Cedrus deodara ,deodar cedar,Y,2257,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270937,-123.250869
 8387,,Robinia pseudoacacia 'Frisia',Black locust,N,,Live,20,11.6,11.6,2.52,6.86,6.41,30,2,,2,Angiosperm,,,,2022,,GISSTUD1,20200106231111,PLAN,20240419162915,49.262819,-123.244139
 9903,,Sorbus huphensis,Chinese mountain-ash,N,,Live,11,3.9,3.9,2,3.1,2.4,85,4,,8,Angiosperm,,,,2021,,,,PLAN,20240419162915,49.262555,-123.255526
 2774,,Betula utilis 'Jaquemontii',Removed,N,,Dead,24,9,9,0,0,0,100,4,,8,Angiosperm,,,,2021,,PLAN,20190614175851,PLAN,20240419162915,49.263221,-123.25462
@@ -6887,8 +6918,6 @@
 9691,,Fraxinus pennsylvanica ,green ash,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.267733,-123.258456
 7803,,Fraxinus pennsylvanica ,green ash,Y,5782,,,,,,,,,,,,,,,,,,GISSTUD1,20200106220133,PLAN,20240420000539,49.26836,-123.252017
 6912,,Fraxinus pennsylvanica,green ash,n,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231512,PLAN,20240420000539,49.264872,-123.245822
-11446,,Fraxinus pennsylvanica ,green ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.2705,-123.25027
-11508,,Fraxinus pennsylvanica ,green ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270543,-123.25016
 11678,,Fraxinus pennsylvanica ,green ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270756,-123.249763
 9553,,Davidia involucrata,handkerchief-tree,Y,1983,Live,23,8,8,1.67,10.15,9.5,30,0,,11,Angiosperm,,,,2022,was duplicate: 1933,egan.davis@ubc.ca,20190919002444,PLAN,20240420000539,49.269844,-123.248851
 6813,,Acer x freemanii,Freeman maple,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106232942,PLAN,20240420000539,49.260459,-123.244859
@@ -7007,7 +7036,6 @@
 7305,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200214235421,PLAN,20240420000539,49.260943,-123.23368
 7300,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD2,20200214235417,PLAN,20240420000539,49.261251,-123.233929
 12309,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221005191704,PLAN,20240420000539,49.25824,-123.241197
-12019,,Prunus serrulata,Japanese cherry,Y,2319,Live,,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271004,-123.249635
 8799,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,GISSTUD1,20200106235227,PLAN,20240420000539,49.25917,-123.242676
 12794,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220909180317,PLAN,20240420000539,49.257733,-123.252077
 12802,,Prunus serrulata,Japanese cherry,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220909180931,PLAN,20240420000539,49.258603,-123.254084
@@ -7429,7 +7457,6 @@
 2206,,Thuja plicata,western red cedar,N,,Live,44,13.2,13.2,0,6.7,6.8,20,4,,7,Coniferous,20190301,,,2019,,PLAN,20190614175918,PLAN,20240420000539,49.261844,-123.25234
 2180,,Thuja plicata,western red cedar,N,,Live,49,14.162,14.162,0,7.3,7.8,15,5,,7,Coniferous,20190301,,,2019,,PLAN,20190614175931,PLAN,20240420000539,49.26181,-123.252419
 4343,,Thuja plicata,western red cedar,N,,Live,2,2.4,2.4,0.3,0.8,0.7,40,5,,7,Coniferous,20200301,,,2020,,PLAN,20190614175828,PLAN,20240420000539,49.266693,-123.253655
-11845,,Pyrus communis ,common pear,Y,10182,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270638,-123.251528
 11469,,Pyrus communis,common pear,N,,Live,5,4.8,4.8,1.2,3.05,2.9,40,3,,11,Angiosperm,,,,2022,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.269748,-123.250813
 12555,,Magnolia sieboldii,Oyama magnolia,,,Live,,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20220906224055,PLAN,20240420000539,49.264333,-123.251466
 6916,,Salix babylonica ,weeping willow,Y,3002,,,,,,,,,,,,,,,,,,GISSTUD1,20200106231615,PLAN,20240420000539,49.265147,-123.245584
@@ -7608,20 +7635,12 @@
 6513,,Calocedrus decurrens,California incense cedar/incense-cedar,Y,3261,Live,61,21.4,21.4,4.4,7.34,6.41,70,2,,4,Coniferous,,,,2022,,PLAN,20190614175850,PLAN,20240420000539,49.263629,-123.246412
 11101,,Picea orientalis,Oriental spruce,Y,4879,Live,47,15.6,15.6,1.1,6.8,3.3,40,3,,10,Coniferous,,,,2021,,,,PLAN,20240420000539,49.263604,-123.256829
 11014,,Acer macrophyllum,big-leaved maple,Y,4565,Live,69,22.6,22.6,6,10.8,10,35,3,,11,Angiosperm,,,,2021,,,,PLAN,20240420000539,49.264122,-123.258606
-11798,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270681,-123.25044
-11437,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.270155,-123.2502
-11804,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.27026,-123.249904
 11463,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27062,-123.249927
-11868,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270638,-123.250554
-11528,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270724,-123.250325
-11574,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.270177,-123.250141
-11587,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270413,-123.250525
 8533,,Fraxinus angustifolia,narrow-leaf ash,N,,Live,31,13.1,13.1,2.1,12.03,11.28,30,2,,11,Angiosperm,,,,2022,,GISSTUD1,20200106221541,PLAN,20240420000539,49.269908,-123.250352
 11646,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270568,-123.249055
 11995,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270608,-123.248949
 11676,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270436,-123.249437
 11688,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270499,-123.249832
-12012,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.270052,-123.250472
 12026,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270541,-123.249146
 2006,,Ulmus americana,American elm,N,,Live,13,24.2,24.2,5,27.8,29,10,2,,6,Angiosperm,20190301,,,2020,,PLAN,20190614175919,PLAN,20240420000539,49.26504,-123.252557
 3111,,Ulmus americana,American elm,Y,5846,Live,136,25,25,2.1,22.1,26.3,25,5,,6,Angiosperm,,,,2020,,PLAN,20190614175818,PLAN,20240420000539,49.266555,-123.252835
@@ -7700,15 +7719,9 @@
 3881,,Stewartia pseudocamellia,Korean stewartia,N,,Live,6,3.4,3.4,0.9,2,2.3,5,4,,3,Angiosperm,20200301,,,2020,,PLAN,20190614175901,PLAN,20240420000539,49.262113,-123.249463
 6604,,Stewartia pseudocamellia,Korean stewartia,N,,Live,8,4.3,4.3,0.6,3.24,2.7,20,3,,3,Angiosperm,,,,2022,,PLAN,20190614175904,PLAN,20240420000539,49.264061,-123.244087
 3888,,Stewartia pseudocamellia,Korean stewartia,N,,Live,5,2.2,2.2,0.1,2.2,1.6,5,3,,3,Angiosperm,20200301,,,2020,,PLAN,20190614175901,PLAN,20240420000539,49.262338,-123.249603
-11931,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.270205,-123.250057
 12138,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270675,-123.248661
-12140,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.27012,-123.250295
-12149,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.270077,-123.25039
 12043,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270452,-123.249787
 11736,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270393,-123.249564
-11756,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270755,-123.25023
-11757,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270487,-123.250618
-11768,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.270235,-123.249974
 11770,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27072,-123.248537
 8376,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106221906,PLAN,20240420000539,49.27014,-123.249662
 8377,,Fraxinus angustifolia ,narrow-leaf ash,N,,,,,,,,,,,,,,,,,,,GISSTUD1,20200106221907,PLAN,20240420000539,49.270165,-123.249582
@@ -7822,7 +7835,6 @@
 5263,,Quercus garryana,Garry oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175835,PLAN,20240420000539,49.259405,-123.248944
 5264,,Quercus garryana,Garry oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175835,PLAN,20240420000539,49.259319,-123.248884
 5265,,Quercus garryana,Garry oak,,,,,,,,,,,,,,,,,,,,PLAN,20190614175836,PLAN,20240420000539,49.25932,-123.248851
-11683,,Acer circinatum ,vine maple,Y ,10002,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271818,-123.248733
 11895,,Acer circinatum ,vine maple,Y,9978,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271436,-123.2486
 12029,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270887,-123.248967
 11925,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.268426,-123.252003
@@ -7830,7 +7842,6 @@
 11609,,Acer circinatum,vine maple,N,,Live,21,6.4,6.4,2.02,6.11,4.47,65,4,,2,Angiosperm,,,,2022,,,,PLAN,20240420000539,49.262749,-123.245665
 11832,,Acer circinatum,vine maple,N,,Live,12,3.4,3.4,0.2,2.9,1.9,45,2,,10,Angiosperm,,,,2022,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.26962,-123.250946
 12040,,Acer circinatum ,vine maple,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270909,-123.248977
-12052,,Acer circinatum ,vine maple,Y,10003,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271776,-123.248699
 11878,,Acer circinatum,vine maple,N,,Live,8,2.6,2.6,0.2,3.2,2.6,20,1,,10,Angiosperm,,,,2022,,finnkopf@mail.ubc.ca,20220819195616,PLAN,20240420000539,49.269371,-123.251735
 6751,,Acer circinatum,vine maple,N,,Live,23,7,7,0.6,9.5,6.65,30,1,,11,Angiosperm,,,,2022,,seeds.trees,20190919002416,PLAN,20240420000539,49.269521,-123.249096
 11815,,Acer circinatum,vine maple,N,,Live,21,6.6,6.6,1.65,7.23,5.41,30,2,,2,Angiosperm,,,,2022,,,,PLAN,20240420000539,49.262805,-123.245668
@@ -8214,9 +8225,7 @@
 11434,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270908,-123.248907
 11449,,Thuja plicata ,western red cedar,Y,2229,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.272067,-123.248397
 11452,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27107,-123.248963
-11812,,Thuja plicata ,western red cedar,Y,2236,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271918,-123.248851
 11462,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270796,-123.248553
-11844,,Thuja plicata ,western red cedar,Y,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271963,-123.248573
 11498,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270967,-123.249016
 11864,,Thuja plicata ,western red cedar,Y,10065,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270849,-123.249534
 11870,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271081,-123.248931
@@ -8288,14 +8297,10 @@
 5010,,Acer palmatum,Japanese maple,Y,7737,Live,27,5.3,5.3,0.9,8.1,8.3,40,1,,6,Angiosperm,,,,2020,,PLAN,20190614175841,PLAN,20240420000539,49.265137,-123.252435
 4964,,Acer palmatum,Japanese maple,Y,3437,Live,29,6.6,6.6,2.6,6.6,5.5,5,4,,5,Angiosperm,20200301,,,2020,,PLAN,20190614175840,PLAN,20240420000539,49.264217,-123.249972
 6448,,Acer palmatum,Japanese maple,Y,3596,Live,19,6.2,6.2,1.45,8.54,8.36,75,1,,4,Angiosperm,,,,2022,,PLAN,20190614175900,PLAN,20240420000539,49.263596,-123.246513
-11510,,Thuja plicata ,western red cedar,Y,2239,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271715,-123.248785
-11513,,Thuja plicata ,western red cedar,Y,2235,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271927,-123.248806
 12087,,Thuja plicata ,western red cedar,Y,10037,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270916,-123.249334
-12184,,Thuja plicata ,western red cedar,Y,2210,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271708,-123.248874
 11547,,Thuja plicata ,western red cedar,Y,10032,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271035,-123.249298
 11551,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270808,-123.249671
 11553,,Thuja plicata ,western red cedar,Y,10064,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270854,-123.249513
-11556,,Thuja plicata ,western red cedar,Y,10081,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270749,-123.249839
 11570,,Thuja plicata ,western red cedar,Y,10056,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27086,-123.249434
 11948,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270925,-123.249239
 9848,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.264466,-123.255773
@@ -8304,7 +8309,6 @@
 11651,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27112,-123.248805
 11993,,Thuja plicata ,western red cedar,Y,10033,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271012,-123.249412
 11684,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.264704,-123.245609
-11685,,Thuja plicata ,western red cedar,Y,2234,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271932,-123.248747
 12111,,Thuja plicata ,western red cedar,Y,10040,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270896,-123.249392
 11703,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.268308,-123.25222
 11710,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271107,-123.249018
@@ -8385,7 +8389,6 @@
 11758,,Thuja plicata ,western red cedar,Y,2532,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.272059,-123.248444
 11761,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271087,-123.248996
 11764,,Thuja plicata ,western red cedar,Y,10036,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270943,-123.249347
-11769,,Thuja plicata ,western red cedar,Y,10080,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270751,-123.249815
 12057,,Thuja plicata ,western red cedar,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.27096,-123.248961
 10387,,Thuja plicata,western red cedar,N,,Live,22,7.9,7.9,0,6.3,4.2,80,1,,8,Coniferous,,,,2021,,,,PLAN,20240420000539,49.262765,-123.255931
 8527,,Thuja plicata,western red cedar,N,,Live,34,16.2,16.2,0.7,8.2,4.4,15,1,,11,Coniferous,,,,2022,,GISSTUD1,20200106221114,PLAN,20240420000539,49.269312,-123.250524
@@ -8422,7 +8425,6 @@
 4885,,Picea sitchensis,Sitka spruce,Y,11016,Live,27,14.2,14.2,2,5.5,2.3,10,3,,4,Coniferous,20200301,,,2020,,PLAN,20190614175838,PLAN,20240420000539,49.262903,-123.250366
 4350,,Picea sitchensis ,Sitka spruce,N,,Live,4,2.8,2.8,0.1,1.9,1.7,5,4,,8,Coniferous,20200301,,,2020,,PLAN,20190614175828,PLAN,20240420000539,49.26676,-123.253659
 4368,,Picea sitchensis ,Sitka spruce,N,,Live,3,1.8,1.8,0.1,1.6,1.4,20,4,,8,Coniferous,20200301,,,2020,,PLAN,20190614175828,PLAN,20240420000539,49.267052,-123.253479
-11952,,Prunus emarginata,bitter cherry,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270933,-123.249844
 11647,,Prunus emarginata ,bitter cherry,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270846,-123.24842
 12092,,Prunus emarginata ,bitter cherry,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.271065,-123.248624
 11687,,Prunus emarginata ,bitter cherry,N,,,,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,PLAN,20240420000539,49.270949,-123.249292
