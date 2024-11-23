@@ -5,7 +5,6 @@ Commons,Brock Commons East - Tallwood House,BRCE,"6088 Walter Gage Road, Buildin
 Operations,South Campus Warehouse,SCWH,6116 Nurseries Road,V6T 1W5,VBL10077,Complete,-123.231863,49.246256
 Operations,Lower Mall Research Station,LMRS,2259 Lower Mall,V6T 1Z4,VBL10100,Complete,-123.255524,49.260553
 Operations,Staging Environmental Research Centre,SERC,6045 Nurseries Road,V6T 1W5,VBL10123,Complete,-123.228053,49.245383
-Operations,Old Fire Hall,FIRE,2038 West Mall,V6T 1Z2,VBL10139,Complete,-123.255566,49.265032
 Operations,University Services Building,USB,2329 West Mall,V6T 1Z4,VBL10150,Complete,-123.253785,49.2613
 Operations,Main Substation,MSUB,2446 Health Sciences Mall,V6T 1Z3,VBL10192,Complete,-123.24437,49.261347
 Operations,UBC Botanical Garden Nursery - Workshop,BON2,"3929 Wesbrook Mall, Building 1",V6T 1W5,VBL10195,Complete,-123.234449,49.249533
@@ -54,6 +53,8 @@ Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V
 Research,Pulp and Paper Centre,PAPC,2385 East Mall,V6T 1Z4,VBL10045,Complete,-123.247568,49.261416
 Housing,Journey,JOUR,6328 Larkin Drive,V6T 2K2,VBL10225,Complete,-123.247481,49.258036
 StudentHousing,Acadia Park Residence - President's Row,APRP,5501 Presidents Row,V6T 1L5,VBL10295,Complete,-123.238984,49.265326
+Other,AYO Smart Home,AYOH,5935 Agronomy Road,V6T 1Z3,VBL10294,Complete,-123.243407,49.263038
+Operations,Old Fire Hall,FIRE,2038 West Mall,V6T 1Z2,VBL10139,Complete,-123.244018,49.263088
 StudentHousing,Green College - Kitchen/Laundry,GRN2,"6201 Cecil Green Park Road, Building 9",V6T 1Z1,VBL10434,Complete,-123.255578,49.270989
 StudentHousing,Walter H. Gage Residence - North Tower,WGR5,"5959 Student Union Boulevard, Building 4",V6T 1K2,VBL10394,Complete,-123.250029,49.269841
 StudentHousing,Walter H. Gage Residence - South Tower,WGR6,"5959 Student Union Boulevard, Building 2",V6T 1K2,VBL10395,Complete,-123.24972,49.2692
@@ -161,7 +162,6 @@ Operations,Environmental Services Facility - Lab,ENV1,"6025 Nurseries Road, Buil
 Operations,Environmental Services Facility - Office,ENV4,"6025 Nurseries Road, Building 1",V6T 1W5,VBL10400,Complete,-123.228986,49.243471
 Housing,Coast - Apartment East,COSE,6063 Iona Drive,V6T 0B1,VBL10300,Complete,-123.252555,49.271045
 Housing,Thames Court - Townhouses,THAC2,5880 Hampton Place,V6T 2E9,VBL10253,Complete,-123.236162,49.257073
-Other,AYO Smart Home,AYOH,5935 Agronomy Road,V6T 1Z3,VBL10294,Complete,-123.243407,49.263038
 StudentHousing,Acadia Park Residence - Melfa Lane,APR1,2500 Melfa Lane,V6T 2C6,VBL10258,Complete,-123.2371,49.264247
 Academic,Biological Sciences Building,BIOL,6270 University Boulevard,V6T 1Z4,VBL10409,Complete,-123.251339,49.264469
 Research,TRIUMF - Accelerator Trailer,TRF03,"4004 Wesbrook Mall, Building 15",V6T 2A3,VBL10023,Complete,-123.230129,49.246851
