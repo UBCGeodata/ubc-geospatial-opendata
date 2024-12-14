@@ -22,7 +22,6 @@ Housing,Legacy,LGCY,6333 Larkin Drive,V6T 0A7,VBL10160,Complete,-123.248008,49.2
 Housing,Promontory,PROM,2688 West Mall,V6T 2J8,VBL10149,Complete,-123.247569,49.25595
 Housing,Nine on the Park,NINE,6298 Eagles Drive,V6T 0A3,VBL10158,Complete,-123.247034,49.259327
 Housing,Reflections,REFL,6279 Eagles Drive,V6T 2K7,VBL10148,Complete,-123.246886,49.258252
-Research,Building 3800 Wesbrook Mall,3800,3800 Wesbrook Mall,V6S 2L9,VBL10236,Complete,-123.230294,49.250196
 Housing,Somerset,SOMS,6360 Larkin Drive,V6T 2K5,VBL10147,Complete,-123.24813,49.256504
 Services,Child Care Services Administration Building,CCSA,2881 Acadia Road,V6T 1S1,VBL10306,Complete,-123.234257,49.26093
 Housing,Hawthorn Green,HAWT,6318 Hawthorn Lane,V6T 2J6,VBL10144,Complete,-123.248586,49.258174
@@ -281,6 +280,7 @@ Athletics,Doug Mitchell Thunderbird Sports Centre,THUN,6066 Thunderbird Boulevar
 StudentHousing,Acadia House,ACAH,2700 Acadia Road,V6T 1R9,VBL10308,Complete,-123.235908,49.26288
 StudentHousing,Green College - Admin,GRN4,"6201 Cecil Green Park Road, Building 8",V6T 1Z1,VBL10200,Complete,-123.256308,49.270987
 Athletics,Thunderbird Stadium,STAD,6288 Stadium Road,V6T 1Z4,VBL10214,Complete,-123.244579,49.254767
+Research,Building 3800 Wesbrook Mall,3800,3800 Wesbrook Mall,V6S 2L9,VBL10236,Complete,-123.230254,49.250183
 StudentHousing,Point Grey Apartments,PGRA,2875 Osoyoos Crescent,V6T 2G3,VBL10145,Complete,-123.237998,49.259968
 StudentHousing,Green College - A North,GRN1,"6201 Cecil Green Park Road, Building 5",V6T 1Z1,VBL10194,Complete,-123.255667,49.271155
 StudentHousing,Place Vanier Residence - Okanagan House,VNR08,"1935 Lower Mall, Building 2",V6T 1X1,VBL10270,Complete,-123.257764,49.264345
@@ -423,6 +423,7 @@ Academic,The Leonard S. Klinck Building,LSK,6356 Agricultural Road,V6T 1Z2,VBL10
 Housing,Wordsworth - Townhouses,WSW2,"6138 Birney Avenue, Building 1",,VBL10446,UnderConstruction,-123.237199,49.251943
 Services,Third Space,THSP,6363 Biological Sciences Road,V6T 1Z4,VBL10447,Complete,-123.253241,49.263008
 Academic,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Complete,-123.248057,49.261242
+Academic,Sauder Expansion,SBUS,2046 West Mall,V6T 1Z2,VBL10456,PreConstruction,-123.254889,49.265093
 Academic,Music Building,MUSC,6361 Memorial Road,V6T 1Z2,VBL10101,Complete,-123.256781,49.267437
 Academic,Totem Field Studios,TFS,2613 West Mall,V6T 1Z4,VBL10223,Complete,-123.249001,49.256128
 Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V6T 1W9,VBL10231,Complete,-123.252981,49.25804
@@ -443,4 +444,3 @@ Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Com
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
 Other,Carey College Lot 40,CRYC1,,,VBL10449,PreConstruction,-123.24857,49.271747
-Academic,Sauder Expansion,SBUS,,,VBL10456,PreConstruction,-123.254889,49.265093

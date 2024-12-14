@@ -22,7 +22,6 @@ VBL10160,Legacy,LGCY,Complete,20061023,Housing,,UNA,Hawthorn,Private,Occupied,RE
 VBL10149,Promontory,PROM,Complete,20050408,Housing,,UNA,Hawthorn,Private,Occupied,,Concrete,20,55.76,14935,626,0,,,,,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.247569,49.25595
 VBL10158,Nine on the Park,NINE,Complete,20071119,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,4,13.73202,2027,628,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.247034,49.259327
 VBL10148,Reflections,REFL,Complete,20050628,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,5,18.53,8448,623,0,,,,,RACHELW,20240220195546,AptLess5Storey,,,,B5,,-123.246886,49.258252
-VBL10236,Building 3800 Wesbrook Mall,3800,Complete,19850101,Research,,Non-UBC,Academic,Non-UBC,Occupied,,Concrete,5,20.68545,7433,612,0,,,,,TOML,20230214195240,Unspecified,,,,B3,LeasedFromUBC,-123.230294,49.250196
 VBL10147,Somerset,SOMS,Complete,20050826,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,3,13.65342,7266,622;622-1;622-2;622-3;622-4;622-5;622-6;622-7;622-8;622-9,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.24813,49.256504
 VBL10306,Child Care Services Administration Building,CCSA,Complete,19900101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.85,1205,155,1,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.234257,49.26093
 VBL10144,Hawthorn Green,HAWT,Complete,20040820,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,3,15.08571,2051,618,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.248586,49.258174
@@ -280,6 +279,7 @@ VBL10307,Doug Mitchell Thunderbird Sports Centre,THUN,Complete,20080703,Athletic
 VBL10308,Acadia House,ACAH,Complete,19910101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,2,8.367,2855,450-1;450-2;450-3,1,,,,,TOML,20220224175718,AptLess5Storey,Poor,,UBC,B5,,-123.235908,49.26288
 VBL10200,Green College - Admin,GRN4,Complete,19940101,StudentHousing,Administrative,UBC,Academic,SHHS,Occupied,,Wood,2,5.89771,187,418,0,,,GISSTUD2,20190514204410,TOML,20220224175718,Unspecified,Poor,,UBC,B5,,-123.256308,49.270987
 VBL10214,Thunderbird Stadium,STAD,Complete,19670101,Athletics,,UBC,Academic,Athletics,Occupied,,Concrete,2,16.07,3156,785,0,,,,,TOML,20220224175718,Unspecified,Poor,,UBC,B1,,-123.244579,49.254767
+VBL10236,Building 3800 Wesbrook Mall,3800,Complete,19850101,Research,,Non-UBC,Academic,Non-UBC,Occupied,,Concrete,5,20.68545,7433,612,0,,,,,RACHELW,20241210010403,Unspecified,,,,B3,LeasedFromUBC,-123.230254,49.250183
 VBL10145,Point Grey Apartments,PGRA,Complete,19930101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,4,15.19,7184,771,0,,,,,TOML,20220224175718,AptLess5Storey,Critical,,UBC,B5,,-123.237998,49.259968
 VBL10194,Green College - A North,GRN1,Complete,19940101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,3,13.46639,794,413,0,,,GISSTUD2,20190514204242,TOML,20220224175718,AptLess5Storey,Poor,,UBC,B5,,-123.255667,49.271155
 VBL10270,Place Vanier Residence - Okanagan House,VNR08,Complete,19600101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,5,13.48,2123,552,0,,,GISSTUD2,20190514205917,TOML,20220224175718,AptLess5Storey,Poor,,UBC,B5,,-123.257764,49.264345

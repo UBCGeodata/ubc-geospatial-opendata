@@ -1,5 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-,Sauder expansion,,V6T 1Z2,,,CampusBuilding,CampusMail,,-123.25541,49.264905
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -856,6 +855,7 @@ VAD10390,Reflections,Vancouver,V6T 2K7,BC,VBL10148,NeighbourhoodBldg,CanadaPost,
 VAD10121,Journey,Vancouver,V6T 2K2,BC,VBL10225,NeighbourhoodBldg,CanadaPost,6328 Larkin Drive,-123.247618,49.257973
 VAD10184,Neville Scarfe Building,Vancouver,V6T 1Z4,BC,VBL10095,CampusBuilding,CampusMail,2125 Main Mall,-123.252922,49.264141
 VAD10165,Ponderosa Commons East,Vancouver,V6T 1Z4,BC,VBL10311,CampusBuilding,CampusMail,6398 University Boulevard,-123.254712,49.263882
+VAD11235,Sauder expansion,Vancouver,V6T 1Z2,BC,VBL10456,CampusBuilding,CampusMail,2046 West Mall,-123.255399,49.264907
 VAD11038,Earth Sciences Building (ESB),Vancouver,V6T 1Z4,BC,VBL10072,CampusBuilding,CampusMail,2207 Main Mall,-123.251973,49.263195
 VAD10821,Building Operations Storage Shed,Vancouver,V6T 1Z4,BC,VBL10207,CampusBuilding,CampusMail,2214 Lower Mall,-123.254572,49.262084
 VAD10102,Old Fire Hall,Vancouver,V6T 1Z2,BC,VBL10139,CampusBuilding,CampusMail,2038 West Mall,-123.243942,49.263027
