@@ -80,6 +80,7 @@ Operations,UBC Botanical Garden - Workshop (Trailer),BOT6,6450 Stadium Road,V6T 
 Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V6T 1W5,VBL10015,Complete,-123.239793,49.251477
 Housing,Magnolia House,MAGN,3565 Wesbrook Mall,V6S 0H1,VBL10191,Complete,-123.233539,49.251541
 Operations,UBC Farm - Greenhouse 1,FRM4,"3461 Ross Drive, Building 3",V6T 1W5,VBL10009,Complete,-123.238931,49.251148
+Academic,SBME,SBME,6088 University Boulevard,V6T 1Z3,VBL10444,Complete,-123.24731,49.265635
 Operations,UBC Farm - Greenhouse 2,FRM5,"3461 Ross Drive, Building 4",V6T 1W5,VBL10012,Complete,-123.239002,49.251043
 StudentHousing,Place Vanier Residence - Margaret Mackenzie House,VNR07,"1935 Lower Mall, Building 12",V6T 1X1,VBL10326,Complete,-123.259143,49.265692
 StudentHousing,Place Vanier Residence - Phyllis Ross House,VNR09,"1935 Lower Mall, Building 11",V6T 1X1,VBL10368,Complete,-123.259614,49.265329
@@ -197,8 +198,6 @@ Academic,Gas Gun Facility,GASG,6301 Stadium Road,V6T 1Z4,VBL10410,Complete,-123.
 Housing,Coast - Apartment West,COSW,6093 Iona Drive,V6T 0B2,VBL10297,Complete,-123.253207,49.270742
 Academic,First Nations Longhouse,FNLH,1985 West Mall,V6T 1Z2,VBL10386,Complete,-123.257188,49.265561
 Athletics,War Memorial Gymnasium,MGYM,6081 University Boulevard,V6T 1Z1,VBL10161,Complete,-123.247656,49.266772
-Academic,SBME,SBME,6088 University Boulevard,V6T 1Z3,VBL10444,UnderConstruction,-123.24731,49.265635
-Academic,SBME,SBME,6020 University Boulevard,V6T 1Z3,VBL10444,UnderConstruction,-123.24731,49.265635
 Athletics,UBC Tennis Centre,TENN,6160 Thunderbird Boulevard,V6T 1Z3,VBL10090,Complete,-123.243836,49.259487
 Operations,Environmental Services Facility - Waste Processing & Storage,ENV7,"6025 Nurseries Road, Building 6",V6T 1W5,VBL10019,Complete,-123.22872,49.243446
 Services,Child Care Services - Willow,MCC3,2845 Revelstoke Court,V6T 1S1,VBL10375,Complete,-123.235327,49.260828
@@ -250,6 +249,7 @@ StudentHousing,Acadia Park Residence - Montgomery Place,APR2,5501 Montgomery Pla
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.262634
 Academic,Robert F. Osborne Centre - Unit 2,OSB2,"6108 Thunderbird Boulevard, Building 2",V6T 1Z3,VBL10296,Complete,-123.244315,49.259976
 Academic,Robert F. Osborne Centre - Unit 1,OSB1,"6108 Thunderbird Boulevard, Building 1",V6T 1Z3,VBL10251,Complete,-123.24372,49.260296
+Administrative,Gateway,GATE,5955 University Boulevard,V6T 0C4,VBL10442,UnderConstruction,-123.246507,49.266744
 Housing,Theory,THRY,5781 Binning Avenue,,VBL10455,Complete,-123.231135,49.251054
 StudentHousing,Acadia Park Residence - Tennis Crescent,APR5,2621 Tennis Crescent,V6T 2C1,VBL10436,Complete,-123.237716,49.263483
 StudentHousing,Acadia Park Residence - Pearkes Lane,APR4,2500 Pearkes Lane,V6T 2C4,VBL10440,Complete,-123.239427,49.264274
@@ -432,7 +432,6 @@ Housing,Wordsworth - Highrise,WSW1,6138 Birney Avenue,,VBL10445,UnderConstructio
 StudentHousing,Walter H. Gage Residence - West Coast Suites (Gage Court),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,UnderConstruction,-123.250421,49.267994
 Services,AMS Student Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Complete,-123.249807,49.26657
-Administrative,Gateway,GATE,5955 University Boulevard,V6T 0C4,VBL10442,UnderConstruction,-123.246503,49.266744
 Administrative,Ponderosa Annex A,PONA,2011 West Mall,V6T 1Z2,VBL10146,Complete,-123.256382,49.265167
 Administrative,Ponderosa Annex B,PONB,2029 West Mall,V6T 1Z2,VBL10343,Complete,-123.255962,49.264844
 Administrative,Ponderosa Annex C,PONC,2021 West Mall,V6T 1Z2,VBL10344,Complete,-123.256275,49.264854
@@ -442,5 +441,6 @@ Administrative,Ponderosa Annex G,PONG,2044 Lower Mall,V6T 1Z2,VBL10153,Complete,
 Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.233206,49.25084
 Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129
+Administrative,Gateway North,GATN,,,VBL10462,PreConstruction,-123.246887,49.267202
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
 Other,Carey College Lot 40,CRYC1,,,VBL10449,PreConstruction,-123.24857,49.271747

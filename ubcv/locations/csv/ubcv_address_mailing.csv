@@ -789,8 +789,6 @@ VAD10379,Ponderosa Office Annex E,Vancouver,V6T 1Z2,BC,VBL10151,CampusBuilding,C
 VAD10623,Fairview Crescent Residence (Unit 20),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2671 Fairview Crescent,-123.239937,49.263392
 VAD10286,Fairview Crescent Residence (Unit 4),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2744 Fairview Crescent,-123.239113,49.263225
 VAD10772,Cascara House,Vancouver,V6T 0C1,BC,VBL10347,NeighbourhoodBldg,CanadaPost,6385 Hawthorn Lane,-123.249554,49.258272
-VAD11211,SBME,Vancouver,V6T 1Z3,BC,VBL10444,CampusBuilding,CampusMail,6088 University Boulevard,-123.247762,49.265801
-VAD11234,SBME - Retail,Vancouver,V6T 1Z3,BC,VBL10444,Commercial,CampusMail,6020 University Boulevard,-123.246991,49.265852
 VAD11224,Theory,Vancouver,,BC,VBL10455,NeighbourhoodBldg,CanadaPost,5781 Binning Avenue,-123.230884,49.250843
 VAD10104,P. A. Woodward Instructional Resources Centre (IRC),Vancouver,V6T 1Z3,BC,VBL10102,CampusBuilding,CampusMail,2194 Health Sciences Mall,-123.247336,49.264803
 VAD10417,Sandringham,Vancouver,V6T 2G5,BC,VBL10106,NeighbourhoodBldg,CanadaPost,5650 Hampton Place,-123.233503,49.258282
@@ -841,6 +839,8 @@ VAD10882,Acadia Park Highrise,Vancouver,V6T 1N4,BC,VBL10260,CampusBuilding,Campu
 VAD10958,Acadia Park Residence - Tennis Crescent (2663),Vancouver,V6T 2C1,BC,VBL10436,Residential,CampusMail,2663 Tennis Crescent,-123.237542,49.262951
 VAD11008,Acadia Park Residence - Yalta Place (5508),Vancouver,V6T 2C2,BC,VBL10438,Residential,CampusMail,5508 Yalta Place,-123.237405,49.264259
 VAD10711,Child Care Services - Little Goslings/Coho,Vancouver,V6T 2E6,BC,VBL10274,CampusBuilding,CampusMail,5590 Osoyoos Crescent,-123.234238,49.259859
+VAD11211,SBME,Vancouver,V6T 1Z3,BC,VBL10444,CampusBuilding,CampusMail,6088 University Boulevard,-123.247762,49.265801
+VAD11234,SBME - Retail,Vancouver,V6T 1Z3,BC,VBL10444,Commercial,CampusMail,6020 University Boulevard,-123.246991,49.265852
 VAD11107,Child Care Services - Auklet,Vancouver,V6T 1S1,BC,VBL10276,CampusBuilding,CampusMail,5615 Osoyoos Crescent,-123.234687,49.260096
 VAD11101,Child Care Services - Salal,Vancouver,V6T 1S1,BC,VBL10273,CampusBuilding,CampusMail,5655 Osoyoos Crescent,-123.235113,49.25983
 VAD11119,Focal - Retail,Vancouver,V6T 0C7,BC,VBL10232,Commercial,CanadaPost,"6111 University Boulevard, Unit 101",-123.248668,49.266106
