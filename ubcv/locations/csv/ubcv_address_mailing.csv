@@ -1,4 +1,5 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
+VAD10033,3800 Wesbrook,Vancouver,V6S 2L9,BC,,OtherBuilding,CanadaPost,3800 Wesbrook Mall,-123.231067,49.250109
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -224,7 +225,6 @@ VAD10156,Logan Lane (C13),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6
 VAD10157,Logan Lane (A10),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2563 East Mall,-123.245171,49.258769
 VAD10265,Folio - Cityhome (A),Vancouver,V6T 2L5,BC,VBL10309,Residential,CanadaPost,5952 Chancellor Mews,-123.249934,49.272398
 VAD10266,Folio - Cityhome (B),Vancouver,V6T 2L5,BC,VBL10309,Residential,CanadaPost,5958 Chancellor Mews,-123.249975,49.272383
-VAD10033,3800 Wesbrook,Vancouver,V6S 2L9,BC,VBL10236,OtherBuilding,CanadaPost,3800 Wesbrook Mall,-123.231067,49.250109
 VAD10897,Coast - Townhouse (1),Vancouver,V6T 2J5,BC,VBL10277,NeighbourhoodBldg,CanadaPost,6090 Chancellor Mews,-123.253221,49.271035
 VAD10105,Pacific,Vancouver,V6S 0B5,BC,VBL10169,NeighbourhoodBldg,CanadaPost,5928 Birney Avenue,-123.235166,49.253427
 VAD11051,Eton - Apartments,Vancouver,V6S 0K7,BC,VBL10136,NeighbourhoodBldg,CanadaPost,5687 Gray Avenue,-123.231247,49.253124
