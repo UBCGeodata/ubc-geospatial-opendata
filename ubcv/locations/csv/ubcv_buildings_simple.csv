@@ -34,6 +34,7 @@ Housing,Sage - Highrise,SAG1,5782 Berton Avenue,V6S 0C1,VBL10187,Complete,-123.2
 Services,International House,INTL,1783 West Mall,V6T 1Z2,VBL10371,Complete,-123.25896,49.2678
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
 Services,UBC Bookstore / NCE,BOOK,6200 University Boulevard,V6T 1Z4,VBL10065,Complete,-123.250592,49.264988
+Academic,Jack Bell Building for the School of Social Work,SOWK,2080 West Mall,V6T 1Z2,VBL10081,Complete,-123.255094,49.264462
 Housing,Chancellor Hall - Townhouses,CHHT,5978 Chancellor Mews,V6T 2L5,VBL10271,Complete,-123.250355,49.272187
 Housing,Spirit,SPRT,3478 Wesbrook Mall,V6S 0B6,VBL10238,Complete,-123.233615,49.252986
 Services,Green College - D Graham House,GRN7,"6201 Cecil Green Park Road, Building 4",V6T 1Z1,VBL10189,Complete,-123.256266,49.27128
@@ -175,6 +176,7 @@ Administrative,Donald Rix Building,RIX,2389 Health Sciences Mall,V6T 1Z3,VBL1012
 Academic,Liu Institute for Global Issues,LIU,6476 NW Marine Drive,V6T 1Z2,VBL10177,Complete,-123.259267,49.267549
 Academic,Anthropology and Sociology Building,ANSO,6303 NW Marine Drive,V6T 1Z1,VBL10204,Complete,-123.257691,49.270316
 Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4,VBL10209,Complete,-123.253928,49.263869
+StudentHousing,Ritsumeikan-UBC House,RITS,6460 Agronomy Road,V6T 1Z4,VBL10250,Complete,-123.252997,49.260102
 Academic,Asian Centre,ACEN,1871 West Mall,V6T 1Z2,VBL10227,Complete,-123.25871,49.266752
 Academic,Wesbrook Building,WESB,6174 University Boulevard,V6T 1Z3,VBL10266,Complete,-123.249156,49.265251
 Services,Child Care Services - Little Goslings/Coho,CCS3,5590 Osoyoos Crescent,V6T 2E6,VBL10274,Complete,-123.234048,49.25992
@@ -268,7 +270,7 @@ StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - t�
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθən leləm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,Complete,-123.248518,49.269217
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.262634
 Administrative,Gateway,GATE,5955 University Boulevard,V6T 1Z1,VBL10442,UnderConstruction,-123.246507,49.266744
-Housing,Theory,THRY,5781 Binning Avenue,,VBL10455,Complete,-123.231135,49.251054
+Housing,Theory,THRY,5781 Binning Avenue,V6S 0M7,VBL10455,Complete,-123.231135,49.251054
 Administrative,Gateway North,GATN,2047 Wesbrook Mall,V6T 1Z1,VBL10462,PreConstruction,-123.246887,49.267202
 Housing,Eton - Highrise,ETN1,3487 Binning Road,V6S 0K8,VBL10135,Complete,-123.230561,49.25345
 Housing,Westchester,WSTR,2598 West Mall,V6T 2J9,VBL10220,Complete,-123.249109,49.257373
@@ -305,7 +307,6 @@ Athletics,Cecil Green Squash Court,CGSQ,"6251 Cecil Green Park Road, Building 1"
 Parking,Fraser River Parkade,PARF,6440 Memorial Road,V6T 1Z2,VBL10397,Complete,-123.258042,49.266067
 Housing,Norman MacKenzie House,MCKH,6565 NW Marine Drive,V6T 1A7,VBL10233,Complete,-123.261175,49.267676
 Athletics,UBC Football Academic Centre,FOOT,6298 Stadium Road,V6T 1Z4,VBL10246,Complete,-123.24502,49.255246
-StudentHousing,Ritsumeikan-UBC House,RITS,6460 Agronomy Road,V6T 1Z4,VBL10250,Complete,-123.252997,49.260102
 Academic,Wood Fluid and Thermal Treatments Laboratory,WDL,2324 West Mall,V6T 1Z4,VBL10285,Complete,-123.252249,49.261475
 StudentHousing,Place Vanier Residence - Sherwood Lett House,VNR11,"1935 Lower Mall, Building 4",V6T 1X1,VBL10365,Complete,-123.257513,49.26339
 Housing,Axis,AXIS,6090 Iona Drive,V6T 0B6,VBL10314,Complete,-123.252233,49.270001
@@ -388,7 +389,6 @@ Other,Carey Hall,CRYH,1815 Wesbrook Mall,V6T 1J6,VBL10208,Complete,-123.248532,4
 Academic,Dorothy Somerset Studios,DSOM,6361 University Boulevard,V6T 1Z2,VBL10130,Complete,-123.254591,49.264693
 Academic,B.C. Binning Studios,BINN,6373 University Boulevard,V6T 1Z2,VBL10134,Complete,-123.254879,49.264604
 StudentHousing,Fraternity Village,FRAT,2880 Wesbrook Mall,V6T 2J3,VBL10404,Complete,-123.238849,49.259653
-Academic,Jack Bell Building for the School of Social Work,SOWK,2080 West Mall,V6T 1Z2,VBL10081,Complete,-123.255099,49.264475
 Housing,Conservatory - Townhouses,CSY1,"5608 Berton Avenue, Building 1",V6S 2L2,VBL10428,Complete,-123.232103,49.255839
 Housing,Conservatory - Highrise,CSY2,5608 Berton Avenue,V6S 2L2,VBL10427,Complete,-123.231514,49.256042
 Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247066,49.262481

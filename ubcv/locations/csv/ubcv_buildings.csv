@@ -34,6 +34,7 @@ VBL10187,Sage - Highrise,SAG1,Complete,20110704,Housing,,UNA,Wesbrook,Private,Oc
 VBL10371,International House,INTL,Complete,19580101,Services,,UBC,Academic,UBC,Occupied,,Concrete,3,8.71,1142,472,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.25896,49.2678
 VBL10262,Woodward Library,WLIB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,21.11571,7695,536;536-1,0,,,,,RACHELW,20240920185447,Unspecified,Poor,,UBC,B2,,-123.24757,49.264563
 VBL10065,UBC Bookstore / NCE,BOOK,Complete,20140328,Services,,UBC,Academic,UBC,Occupied,,Concrete,2,20.98,7400,081;081-2,1,,,,,RACHELW,20240920195224,Unspecified,Poor,,UBC,B1,,-123.250592,49.264988
+VBL10081,Jack Bell Building for the School of Social Work,SOWK,Complete,19920101,Academic,,UBC,Academic,UBC,Occupied,,Steel,4,18.22909,2712,750,0,,,,,RACHELW,20250303221902,Unspecified,Poor,,UBC,B2,,-123.255094,49.264462
 VBL10271,Chancellor Hall - Townhouses,CHHT,Complete,20070101,Housing,,UNA,Chancellor,Private,Occupied,,Wood,4,9.88747,364,823,0,,,GISSTUD2,20190514222145,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.250355,49.272187
 VBL10238,Spirit,SPRT,Complete,20100927,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Wood,5,18.28856,5410,584,0,,,,,RACHELW,20240220195546,AptLess5Storey,,,,B5,,-123.233615,49.252986
 VBL10189,Green College - D Graham House,GRN7,Complete,19300101,Services,Other,UBC,Academic,SHHS,Occupied,,Wood,3,13.59921,1473,412,0,,,RACHELW,20200623201249,TOML,20230214195240,Unspecified,,,UBC,B5,,-123.256266,49.27128
@@ -175,6 +176,7 @@ VBL10129,Donald Rix Building,RIX,Complete,20000101,Administrative,Research,Non-U
 VBL10177,Liu Institute for Global Issues,LIU,Complete,20000101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.19421,1713,496,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.259267,49.267549
 VBL10204,Anthropology and Sociology Building,ANSO,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.8925,6220,048;876-1;876-2;880,1,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.257691,49.270316
 VBL10209,Theatre-Film Production Building,TFPB,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,13.78,772,036;036-1,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.253928,49.263869
+VBL10250,Ritsumeikan-UBC House,RITS,Complete,19920101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,4,12.23,6763,745,0,,,,,RACHELW,20250307195422,AptLess5Storey,Critical,,UBC,B5,,-123.252997,49.260102
 VBL10227,Asian Centre,ACEN,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,23.66056,4926,046,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.25871,49.266752
 VBL10266,Wesbrook Building,WESB,Complete,19490101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,19.34,10664,864;867,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.249156,49.265251
 VBL10274,Child Care Services - Little Goslings/Coho,CCS3,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.4617,319,203,1,,,GISSTUD2,20190514224753,PLAN,20240711210404,Unspecified,Poor,,UBC,B2,,-123.234048,49.25992
@@ -305,7 +307,6 @@ VBL10418,Cecil Green Squash Court,CGSQ,Complete,19290101,Athletics,,UBC,Academic
 VBL10397,Fraser River Parkade,PARF,Complete,19820101,Parking,,UBC,Academic,Parking,Occupied,,Concrete,5,12.29,17170,052,0,,,,,TOML,20220224175718,Parking,Poor,,UBC,B4,,-123.258042,49.266067
 VBL10233,Norman MacKenzie House,MCKH,Complete,19500101,Housing,,UBC,Academic,UBC,Occupied,,Wood,3,10.54,970,728;728-1,0,,,,,TOML,20220224175718,Duplex/Townhouse,Poor,,UBC,B5,,-123.261175,49.267676
 VBL10246,UBC Football Academic Centre,FOOT,Complete,20160205,Athletics,,UBC,Academic,Athletics,Occupied,,Wood,1,4.84558,161,437,0,,,,,TOML,20220224175718,Unspecified,Good,,UBC,B2,,-123.24502,49.255246
-VBL10250,Ritsumeikan-UBC House,RITS,Complete,19920101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,4,12.23,6763,745,0,,,,,TOML,20220224175718,AptLess5Storey,Critical,,UBC,B5,,-123.252997,49.260102
 VBL10285,Wood Fluid and Thermal Treatments Laboratory,WDL,Complete,19900101,Academic,Research,UBC,Academic,UBC,Occupied,,Wood,1,6.51,283,385,0,,,,,RACHELW,20240926220358,Unspecified,Poor,,UBC,B2,,-123.252249,49.261475
 VBL10365,Place Vanier Residence - Sherwood Lett House,VNR11,Complete,19600101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,5,13.64,2112,560,0,,,GISSTUD2,20190514210111,TOML,20220224175718,AptLess5Storey,Poor,,UBC,B5,,-123.257513,49.26339
 VBL10314,Axis,AXIS,Complete,20130101,Housing,,UNA,Chancellor,Private,Occupied,REAP Gold,Concrete,16,42.22,15941,819,0,,,,,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.252233,49.270001
@@ -390,7 +391,6 @@ VBL10208,Carey Hall,CRYH,Complete,19600101,Other,,Non-UBC,Chancellor,Non-UBC,Occ
 VBL10130,Dorothy Somerset Studios,DSOM,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,13.77421,1823,320,0,,RENEW,,,TONYZ,20231024201253,Unspecified,Critical,,UBC,B1,,-123.254591,49.264693
 VBL10134,B.C. Binning Studios,BINN,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,10.5625,1501,324,0,,,,,TONYZ,20231024201253,Unspecified,Poor,,UBC,B2,,-123.254879,49.264604
 VBL10404,Fraternity Village,FRAT,Complete,20040101,StudentHousing,,UBC,Academic,Non-UBC,Occupied,,Wood,5,14.09,6503,921;922;924;925;926;927;928,1,,Leased to fraternity,,,RACHELW,20240220195546,AptLess5Storey,,,,B5,LeasedFromUBC,-123.238849,49.259653
-VBL10081,Jack Bell Building for the School of Social Work,SOWK,Complete,19920101,Academic,,UBC,Academic,UBC,Occupied,,Steel,4,18.22909,2712,750,0,,,,,TONYZ,20231024201253,Unspecified,Poor,,UBC,B2,,-123.255099,49.264475
 VBL10428,Conservatory - Townhouses,CSY1,Complete,20230825,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Concrete,3,8,757,603-1,0,,,RACHELW,20200203175430,RACHELW,20230901210112,Duplex/Townhouse,,,,B5,,-123.232103,49.255839
 VBL10427,Conservatory - Highrise,CSY2,Complete,20230825,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Concrete,20,70,16729,603,0,,,RACHELW,20200203175521,RACHELW,20230901210116,Apt5StoreyPlus,,,,B5,,-123.231514,49.256042
 VBL10062,Chemical and Biological Engineering Building,CHBE,Complete,20050906,Academic,,UBC,Academic,UBC,Occupied,,Concrete,7,27.00832,11723,300;300-1,0,,,,,RACHELW,20240103181458,Unspecified,Fair,,UBC,B2,,-123.247066,49.262481

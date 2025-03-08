@@ -1734,7 +1734,6 @@
 9006,Acer palmatum ,Japanese maple ,Y,2910,,,,,,,,,,,,,,,GISSTUD1,20200106225558,PLAN,20200914225709,49.264611,-123.245359,,,,
 9003,Pinus sylvestris ,Scots pine,N,,,,,,,,,,,,,,,,GISSTUD1,20200106225517,PLAN,20200914225630,49.264695,-123.245606,,,,
 9004,Pinus sylvestris ,Scots pine,N,,,,,,,,,,,,,,,,GISSTUD1,20200106225519,PLAN,20200914230222,49.264744,-123.245669,,,,
-10766,Tsuga heterophylla,western hemlock,N,,Dead,7,4.7,4.7,1,2.5,1.5,40,1,13,Coniferous,,2021,,,,finnkoepf@gmail.com,20250220211229,49.264939,-123.257927,,1,1.4,
 10401,Magnolia sp.,Magnolia,N,,Live,17,6.2,6.2,1.7,4.3,3.6,5,5,10,Angiosperm,,2021,in a rock pit,,,PLAN,20240419162915,49.263149,-123.256261,,0,1.4,16.5
 5069,Acer glabrum,,N,,Live,5,4.3,4.3,0.6,1.6,1.4,15,5,9,,20200301,,,PLAN,20190614175830,PLAN,20200914225751,49.267673,-123.253836,,,,
 3001,Acer rubrum 'Bowhall',,N,,Live,0,8,8,2,4.6,4.6,35,4,10,,20200301,,,PLAN,20190614175826,PLAN,20200914225725,49.268761,-123.254174,,,,
@@ -1742,7 +1741,6 @@
 3002,Acer rubrum 'Bowhall',,N,,Live,0,8.4,8.4,1.6,5.9,4.4,25,3,10,,20200301,,,PLAN,20190614175826,PLAN,20200914230039,49.268833,-123.254236,,,,
 3004,Acer rubrum 'Bowhall',,N,,Live,0,9.6,9.6,2.4,5,3.9,30,5,10,,20200301,,,PLAN,20190614175826,GISSTUD2,20200110195414,49.268933,-123.254329,,,,
 11727,Magnolia sp.,Magnolia,N,,Live,9,3.5,3.5,0.5,3.2,3,15,3,6,Angiosperm,,2020,,laura.grant@ubc.ca,20220824180335,PLAN,20240419162915,49.266792,-123.252156,,0,1,
-3008,Trochodendron aralioides,,N,,Live,0,7.4,7.4,1.2,6.5,5.85,40,5,10,,20200301,,,PLAN,20190614175826,PLAN,20200914225945,49.268938,-123.25396,,,,
 11882,Ligustrum sp.,Privet,N,,Live,11,2.8,2.2,0.6,6.8,0.9,10,1,6,Angiosperm,,2022,,,,PLAN,20240419162915,49.264834,-123.248334,,0,0.5,"14.9,20.1,14.7,11.8"
 10398,Magnolia sp.,Magnolia,N,,Live,11,4.4,4.4,1.4,3.1,2.9,5,5,10,Angiosperm,,2021,in a rock pit,,,PLAN,20240419162915,49.263099,-123.256283,,0,1.4,11.1
 10557,Magnolia sp.,magnolia,N,,Live,13,10.4,10.4,2,5.9,5.3,5,5,1,Angiosperm,,2021,,,,PLAN,20240419162915,49.257776,-123.252332,,0,1.4,
@@ -2459,6 +2457,8 @@
 11276,Thuja plicata,western red cedar,Y,4584,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,finnkoepf@gmail.com,20250221204912,49.265054,-123.259411,,,,
 11273,,European Oak,Y,4586,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,finnkoepf@gmail.com,20250221205710,49.265139,-123.25904,,,,
 11302,,Western Red Cedar,Y,9174,,,,,,,,,,,,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,finnkoepf@gmail.com,20250221210108,49.265408,-123.259996,,,,
+4422,Liquidambar styraciflua,sweet gum/Alligator-Wood,Y,5734,Live,2,20.6,20.6,3.4,14.3,4.9,25,4,10,Angiosperm,20200301,2020,,PLAN,20190614175829,finnkoepf@gmail.com,20250306000547,49.268169,-123.254078,,0,1.4,
+3069,Fagus sylvatica,beech,Y,5806,Live,2,19.6,19.6,4.2,21.8,9.8,65,5,10,Angiosperm,20200301,2020,,PLAN,20190614175810,finnkoepf@gmail.com,20250306000932,49.268355,-123.25341,,0,1.4,
 7088,Acer platanoides,Norway maple,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD2,20200207221033,laura.grant@ubc.ca,20221113010612,49.259751,-123.239632,,0,,
 7089,Acer platanoides,Norway maple,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD2,20200207221328,laura.grant@ubc.ca,20221113010647,49.259678,-123.239562,,0,,
 2839,Cryptomerica japonica,,Y,7689,Live,7,4.94,4.94,1.48,4.7,5.1,10,2,4,Evergreen,20190301,,,PLAN,20190614175912,laura.grant@ubc.ca,20220831211450,49.264889,-123.254927,Removed as of 08/2022,0,,
@@ -2485,6 +2485,16 @@
 11969,Acer platanoides ,Norway maple ,Y,9951,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270874,-123.248631,,,,
 11973,Acer circinatum,vine maple,,,Live,,,,,,,,,,Deciduous,,,,laura.grant@ubc.ca,20220824172155,laura.grant@ubc.ca,20220824172155,49.263377,-123.25052,,1,,
 11974,Acer platanoides 'Emerald Queen',Norway maple 'Emerald Queen',Y,8224,,,,,,,,,,,,,,,,,,,49.260955,-123.245235,,,,
+,Fagus,Beech,Y,1799,Live,119,19.2,19.2,4.2,17.4,19,35,3,,Angiosperm,,,,finnkoepf@gmail.com,20250306001948,finnkoepf@gmail.com,20250306001948,49.268491,-123.253108,,0,0.6,
+3089,Quercus robur,English oak,Y,1801,Live,2,12.4,12.4,4.2,20.8,18.9,45,4,10,Angiosperm,20200301,2020,,PLAN,20190614175817,finnkoepf@gmail.com,20250306002145,49.268573,-123.25295,,0,1.4,
+3008,Trochodendron aralioides,Wheel tree,N,,Live,0,7.4,7.4,1.2,6.5,5.85,40,5,10,,20200301,,,PLAN,20190614175826,finnkoepf@gmail.com,20250306004405,49.268938,-123.25396,,,,
+3025,Pinus nigra,black pine,Y,5708,Live,1,11.8,11.8,1,8.18,7.1,60,5,10,Coniferous,20200301,2020,,PLAN,20190614175827,finnkoepf@gmail.com,20250306004520,49.269168,-123.25391,,0,1.4,
+3000,Quercus rubra,northern red oak,Y,5705,Live,94,25,25,4,20,20.4,20,4,,Deciduous,,,,PLAN,20190614175826,finnkoepf@gmail.com,20250306010540,49.268659,-123.254058,,0,1.4,
+3009,Betula pendula 'Dalecarlica',Silver birch ,N,,Live,2,22,22,4,13.2,8.9,35,2,10,,20200301,,,PLAN,20190614175826,finnkoepf@gmail.com,20250306010852,49.268503,-123.254051,,,,
+3880,Acer circinatum,Removed,N,,Dead,15,4.2,4.2,0.5,8,3,15,3,3,Angiosperm,20200301,2020,,PLAN,20190614175901,finnkopf@mail.ubc.ca,20250306025230,49.262036,-123.249508,,1,1.4,"5.4,6.4,6,6.5,6.7,4.9"
+3879,Cornus kousa,Removed,N,,Dead,3,2.6,2.6,1.15,2.1,1.85,25,5,2,Angiosperm,20200301,2020,,PLAN,20190614175901,finnkopf@mail.ubc.ca,20250306025248,49.261921,-123.249365,,0,1.4,
+3890,Cornus kousa,Removed,N,,Dead,3,2.4,2.4,1.1,2.45,2.05,20,4,2,Angiosperm,20200301,2020,,PLAN,20190614175901,finnkopf@mail.ubc.ca,20250306025310,49.261915,-123.249453,,0,1.4,
+10766,Tsuga heterophylla,Standing dead tree,N,,Dead,7,4.7,4.7,1,2.5,1.5,40,1,13,Coniferous,,2021,,,,finnkopf@mail.ubc.ca,20250306040229,49.264939,-123.257927,,1,1.4,
 7645,Acer platanoides,Norway maple,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD2,20200207213559,laura.grant@ubc.ca,20221113012747,49.260388,-123.240185,,0,,
 11879,Parrotia persica ,Persian ironwood ,N,,,,,,,,,,,,,,,,,,,,49.260431,-123.2459,,,,
 11880,Acer platanoides ,Norway maple ,N,,,,,,,,,,,,,,,,finnkopf@mail.ubc.ca,20220830192915,finnkopf@mail.ubc.ca,20220830192915,49.270841,-123.248453,,,,
@@ -4031,7 +4041,6 @@
 ,Thuja plicata ,western red cedar ,y,10642,Live,44,31,31,2.2,10.2,8.1,65,1,,Coniferous,,,,finnkopf@mail.ubc.ca,20241106194300,finnkopf@mail.ubc.ca,20241106194336,49.259935,-123.253998,,1,,
 10121,Pseudotsuga menziesii ,Douglas-fir ,Y,10998,Live,58,35.5,35.5,11.2,9.1,5.6,75,3,5,Coniferous,,2021,,,,PLAN,20240419162915,49.260058,-123.254521,,1,1.4,
 ,Thuja plicata ,western red cedar ,y,10641,Live,39,30.1,30.1,2.3,7.4,8.3,60,1,,Coniferous,,,,finnkopf@mail.ubc.ca,20241106194608,finnkopf@mail.ubc.ca,20241106194608,49.259941,-123.253993,,1,,
-3009,Betula pendula 'Dalecarlica',,N,,Live,2,22,22,4,13.2,8.9,35,1,10,,20200301,,,PLAN,20190614175826,laura.grant@ubc.ca,20221214223745,49.268503,-123.254051,,,,
 4386,Populus trichocarpa,black cottonwood,N,,Live,3,2.7,2.7,1.4,1.7,1.3,10,5,8,Deciduous,20200301,,,PLAN,20190614175828,laura.grant@ubc.ca,20221215030806,49.267254,-123.254203,,1,,
 4387,Crataegus douglasii,black hawthorn,N,,Live,3,2.5,2.5,1.4,1.7,1.4,30,3,8,Deciduous,20200301,,,PLAN,20190614175828,laura.grant@ubc.ca,20221215030850,49.267232,-123.254204,,1,,
 4385,Crataegus douglasii,black hawthorn,N,,Live,2,1.7,1.7,0.3,1.6,1.3,35,2,8,Deciduous,20200301,,Heavy phototrophic lean. Pronounced bark damage on trunk through cambium. In competition with nearby bush,PLAN,20190614175828,laura.grant@ubc.ca,20221215031110,49.26723,-123.254126,,1,,
@@ -4149,7 +4158,6 @@
 8948,Gleditsia triacanthos var inermis,honey locust,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD1,20200106235304,laura.grant@ubc.ca,20221205043523,49.258989,-123.243146,,0,,
 2999,Nyssa sylvatica,black gum,,,Live,,,,,,,,,,Deciduous,,,,PLAN,20190614175826,laura.grant@ubc.ca,20221214221059,49.268932,-123.254645,,0,,
 3010,Acer rubrum 'Bowhall',red maple,,,Live,,,,,,,,,,Deciduous,,,,PLAN,20190614175826,laura.grant@ubc.ca,20221214221346,49.268714,-123.254136,,0,,
-3000,Quercus rubra,northern red oak,,,Live,,,,,,,,,,Deciduous,,,,PLAN,20190614175826,laura.grant@ubc.ca,20221214221426,49.268659,-123.254058,,0,,
 8146,Ulmus sp.,elm,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD2,20200110194722,laura.grant@ubc.ca,20221214221459,49.268869,-123.253409,,0,,
 11152,Pinus nigra,black pine,Y,4933,Live,,,,,,,,,,Evergreen,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,laura.grant@ubc.ca,20221205005558,49.263572,-123.258618,,0,,
 11153,Pinus nigra,black pine,Y,4932,Live,,,,,,,,,,Evergreen,,2021,"2021-09 (Bulk add from GPS, Ph3 only)",,,laura.grant@ubc.ca,20221205005632,49.263543,-123.258636,,0,,
@@ -5205,7 +5213,6 @@
 6493,Calocedrus decurrens,California incense cedar/incense-cedar,Y,3258,Live,66,20,20,4.8,7.55,6.91,65,2,4,Coniferous,,2022,,PLAN,20190614175850,PLAN,20240420000539,49.263561,-123.246394,,0,1.4,66
 6504,Calocedrus decurrens,California incense cedar/incense-cedar,Y,3260,Live,52,22,22,4.4,6.4,4.18,85,1,4,Coniferous,,2022,,PLAN,20190614175850,PLAN,20240420000539,49.263608,-123.246394,,0,1.4,51.9
 2666,Pinus nigra,black pine,Y,4235,Live,55,14.976,14.976,0.7,3.1,2.3,80,5,7,Coniferous,20190301,2019,,PLAN,20190614175920,PLAN,20240420000539,49.261719,-123.252796,,0,1.4,
-3025,Pinus nigra,black pine,N,,Live,1,11.8,11.8,1,8.18,7.1,60,5,10,Coniferous,20200301,2020,,PLAN,20190614175827,PLAN,20240420000539,49.269168,-123.25391,,0,1.4,
 3279,Pinus nigra,black pine,N,,Live,50,22.1,17.3,4.8,6.2,2.2,25,1,6,Coniferous,,2022,,PLAN,20190614175822,PLAN,20240420000539,49.264469,-123.24856,,0,1.4,
 10973,Quercus robur,English oak,N,,Live,37,13.2,13.2,1,11.3,11.7,5,4,1,Angiosperm,,2021,,,,PLAN,20240420000539,49.256911,-123.252783,,0,1.4,
 8896,Quercus robur,English oak,N,,Live,62,16.5,16.3,1.46,17.6,16.2,20,3,7,Angiosperm,,2022,"Surrounded by native plant floor of dry ferns, dry salal & lots of bare soil. Sprinklers present. TTH = best guess based on visual comparison with measured LCH. DHC tag #1202",GISSTUD1,20200106225156,PLAN,20240420000539,49.266122,-123.245566,,0,1.4,
@@ -5231,7 +5238,6 @@
 2122,Fagus sylvatica,beech,Y,5482,Live,40,18.2,15.2,3,16.6,12.6,10,4,8,,20190301,,,PLAN,20190614175928,PLAN,20240420000539,49.261072,-123.250783,,,,
 2121,Fagus sylvatica,beech,N,,Live,47,25.58,23.76,1.82,14.5,8.6,40,4,8,,20190301,,,PLAN,20190614175919,PLAN,20240420000539,49.261109,-123.250964,,,,
 1986,Fagus sylvatica,beech,Y,5542,Live,28,10.28,8.87,1.41,22.3,21.5,20,1,11,,20190301,,,PLAN,20190614175911,PLAN,20240420000539,49.261752,-123.249846,,,,
-3069,Fagus sylvatica,beech,Y,5806,Live,2,19.6,19.6,4.2,21.8,9.8,65,5,10,Angiosperm,20200301,2020,,PLAN,20190614175810,PLAN,20240420000539,49.268486,-123.253102,,0,1.4,
 10702,Prunus lusitanica,Portuguese laurel cherry,N,,Live,25,7.2,7.2,2.2,6.9,6.3,10,3,1,Angiosperm,,2021,,,,PLAN,20240420000539,49.258212,-123.253359,,0,1.4,"14.2,14.8,7,12.5"
 10703,Prunus lusitanica,Portuguese laurel cherry,N,,Live,19,7.2,7.2,2.2,5.2,3.2,10,3,1,Angiosperm,,2021,,,,PLAN,20240420000539,49.258196,-123.253358,,0,1.4,"16,10.8"
 10715,Betula pendula ,weeping birch,N,,,,,,,,,,,,,,,,,,PLAN,20240420000539,49.258505,-123.252478,,,,
@@ -5275,11 +5281,9 @@
 3914,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,8,7.6,7.6,1.5,3.6,3.5,25,3,8,,20190301,,,PLAN,20190614175928,PLAN,20240420000539,49.260352,-123.250802,,,,
 6514,Cornus kousa,Kousa dogwood/Japanese Dogwood,Y,3593,,,,,,,,,,,,,,,PLAN,20190614175850,PLAN,20240420000539,49.263714,-123.246595,,,,
 3857,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,9,3.4,3.4,1.5,5,3,60,2,2,Angiosperm,20200301,2020,"estimation, it was behind the bushes ",PLAN,20190614175901,PLAN,20240420000539,49.261519,-123.249165,,0,1.4,
-3890,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,3,2.4,2.4,1.1,2.45,2.05,20,4,2,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.261915,-123.249453,,0,1.4,
 3855,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,12,4,4,1.3,6.7,5.9,35,2,2,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.261512,-123.249107,,0,1.4,
 3860,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,13,5.6,5.6,1.4,7.2,6.7,55,2,2,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.261455,-123.249137,,0,1.4,"7.3,9.2,6"
 3861,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,17,5.8,5.8,1.8,6.6,6.2,45,2,2,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.261423,-123.249194,,0,1.4,"7.5,4,5,9,10"
-3879,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,3,2.6,2.6,1.15,2.1,1.85,25,5,2,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.261921,-123.249365,,0,1.4,
 3856,Cornus kousa,Kousa dogwood/Japanese Dogwood,N,,Live,13,6.2,6.2,1.1,5.4,3.9,50,2,2,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.261536,-123.249109,,0,1.4,"9.3,9.5"
 10747,Catalpa bignonioides,southern catalpa,N,,Live,13,4.2,4.2,1.2,5.1,6.4,5,3,1,Angiosperm,,2021,,,,PLAN,20240420000539,49.257699,-123.253287,,0,1.4,
 4389,Pinus contorta ,lodgepole pine,N,,Live,4,1.4,1.4,0.3,0.9,0.9,15,5,8,Coniferous,20200301,2020,,PLAN,20190614175829,PLAN,20240420000539,49.26728,-123.254192,Removed as of 09/2022,1,0.8,3.7
@@ -5959,7 +5963,6 @@
 3848,Acer circinatum,vine maple,N,,Live,5,1.3,1.3,,1.45,1.1,,3,2,Angiosperm,20200301,2020,cut,PLAN,20190614175907,PLAN,20240420000539,49.261469,-123.248369,,1,1.4,
 6536,Acer circinatum,vine maple,N,,Live,10,6.2,6.2,0.5,6.1,4,40,0,3,Angiosperm,,2022,"DBH: 6, 5, 7 [estimated], height = estimated, short crown estimated ",PLAN,20190614175850,PLAN,20240420000539,49.26348,-123.245626,,1,1.4,
 4862,Acer circinatum,vine maple,N,,Live,13,6.5,6.5,1.2,5,3.2,35,3,3,Angiosperm,20200301,2020,,PLAN,20190614175838,PLAN,20240420000539,49.262739,-123.250393,,1,1.4,"7.1,6.9,5.8,6.5"
-3880,Acer circinatum,vine maple,N,,Live,15,4.2,4.2,0.5,8,3,15,3,3,Angiosperm,20200301,2020,,PLAN,20190614175901,PLAN,20240420000539,49.262036,-123.249508,,1,1.4,"5.4,6.4,6,6.5,6.7,4.9"
 4365,Acer circinatum,vine maple,N,,Live,2,1.9,1.9,0.1,0.9,0.7,30,5,8,Angiosperm,20200301,2020,,PLAN,20190614175828,PLAN,20240420000539,49.267023,-123.253405,,1,1.4,"1.3,1.8"
 5063,Acer circinatum,vine maple,N,,Live,3,3.2,3.2,0,1.9,1.7,25,5,9,Angiosperm,20200301,2020,,PLAN,20190614175830,PLAN,20240420000539,49.267566,-123.253889,,1,1.4,
 6466,Acer circinatum,vine maple,N,,Live,16,6.8,6.8,2.11,8.94,6.33,50,1,4,Angiosperm,,2022,,PLAN,20190614175849,PLAN,20240420000539,49.263776,-123.247224,,1,1.4,"5.2,6.5,5.7,7.2,8.1,5.6"
@@ -6579,7 +6582,6 @@
 5340,Liquidambar styraciflua,sweet gum/Alligator-Wood,Y,5534,Live,23,11.2,11.2,,5.9,6.2,10,2,1,Angiosperm,20200301,2020,,PLAN,20190614175837,PLAN,20240420000539,49.260167,-123.248034,,0,1.4,
 3254,Liquidambar styraciflua,sweet gum/Alligator-Wood,Y,3467,Live,26,14.2,14.2,2.2,7.8,3.5,50,4,4,Angiosperm,20200301,2020,app: Alligator Wood,PLAN,20190614175821,PLAN,20240420000539,49.264014,-123.249155,,0,1.4,
 4421,Liquidambar styraciflua,sweet gum/Alligator-Wood,Y,5735,Live,2,22.6,22.6,4.6,16.7,15.1,35,4,10,Angiosperm,20200301,2020,,PLAN,20190614175829,PLAN,20240420000539,49.268123,-123.25422,,0,1.4,
-4422,Liquidambar styraciflua,sweet gum/Alligator-Wood,Y,5743,Live,2,20.6,20.6,3.4,14.3,4.9,25,4,10,Angiosperm,20200301,2020,,PLAN,20190614175829,PLAN,20240420000539,49.268169,-123.254078,,0,1.4,
 3077,Liquidambar styraciflua ,sweet gum/Alligator-Wood,N,,Live,25,10.4,10.4,2.2,7.7,6.4,55,4,10,Angiosperm,,2022,,PLAN,20190614175816,PLAN,20240420000539,49.270032,-123.253922,,0,1.4,
 10663,Stranvaesia davidiana,Chinese photonia,N,,Dead,35,15.6,15.6,3.2,7.8,7.8,25,3,2,Angiosperm,,2021,Multiple stem tree,,,PLAN,20240419162915,49.258653,-123.253953,,0,1.4,"10.32,22.67,12.74,17.31,25.45"
 10029,Fraxinus excelsior ,European ash,N,,Live,57,12.6,12.6,4.2,10.3,9.6,45,3,5,Angiosperm,,2021,,,,PLAN,20240419162915,49.260753,-123.25648,,0,1.4,
@@ -7116,7 +7118,6 @@
 3213,Quercus robur,English oak,Y,2593,Live,66,22.4,22.4,2.3,16.7,18,35,3,6,Angiosperm,,2020,,PLAN,20190614175820,PLAN,20240420000539,49.26679,-123.251421,,0,1.4,
 3215,Quercus robur,English oak,Y,2595,Live,70,16.6,16.6,2.2,19.4,20.1,30,2,6,Angiosperm,,2020,,PLAN,20190614175820,PLAN,20240420000539,49.266663,-123.251306,,0,1.4,
 3085,Quercus robur,English oak,Y,1795,Live,2,21.4,21.4,4.2,11.7,7.6,85,4,10,Angiosperm,20200301,2020,,PLAN,20190614175817,PLAN,20240420000539,49.268836,-123.253093,,0,1.4,
-3089,Quercus robur,English oak,Y,1081,Live,2,12.4,12.4,4.2,20.8,18.9,45,4,10,Angiosperm,20200301,2020,,PLAN,20190614175817,PLAN,20240420000539,49.268573,-123.25295,,0,1.4,
 3222,Quercus robur,English oak,y,2572,Live,62,17.9,17.9,1.6,15.6,15.3,25,3,6,Angiosperm,,2020,,PLAN,20190614175820,PLAN,20240420000539,49.266957,-123.251627,,0,1.4,
 3223,Quercus robur,English oak,y,2581,Live,68,20.4,20.4,1.6,14.6,13.1,20,2,6,Angiosperm,,2020,,PLAN,20190614175820,PLAN,20240420000539,49.266913,-123.251529,,0,1.4,
 3214,Quercus robur,English oak,Y,2594,Live,55,16.3,16.3,2.1,11.3,12.8,20,2,6,Angiosperm,,2020,,PLAN,20190614175820,PLAN,20240420000539,49.266711,-123.251427,,0,1.4,

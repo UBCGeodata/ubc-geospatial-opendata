@@ -1,5 +1,4 @@
 ADD_UID,SITE_NAME,LOCALITY,POSTAL_CODE,PROVINCE_CODE,BLDG_UID,ADDRESS_DESCRIPTOR,MAIL_PROVIDER,FULL_ADDRESS,LAT,LONG
-VAD10033,3800 Wesbrook,Vancouver,V6S 2L9,BC,,OtherBuilding,CanadaPost,3800 Wesbrook Mall,-123.231067,49.250109
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
 VAD10026,Logan Lane (A9),Vancouver,V6T 2K8,BC,VBL10226,Residential,CanadaPost,2561 East Mall,-123.245146,49.25873
 VAD10028,Logan Lane (E4),Vancouver,V6T 2K9,BC,VBL10226,Residential,CanadaPost,6278 Logan Lane,-123.246518,49.259002
@@ -788,10 +787,10 @@ VAD10379,Ponderosa Office Annex E,Vancouver,V6T 1Z2,BC,VBL10151,CampusBuilding,C
 VAD10623,Fairview Crescent Residence (Unit 20),Vancouver,V6T 2B8,BC,VBL10198,Residential,CampusMail,2671 Fairview Crescent,-123.239937,49.263392
 VAD10286,Fairview Crescent Residence (Unit 4),Vancouver,V6T 2B9,BC,VBL10193,Residential,CampusMail,2744 Fairview Crescent,-123.239113,49.263225
 VAD10772,Cascara House,Vancouver,V6T 0C1,BC,VBL10347,NeighbourhoodBldg,CanadaPost,6385 Hawthorn Lane,-123.249554,49.258272
-VAD11224,Theory,Vancouver,,BC,VBL10455,NeighbourhoodBldg,CanadaPost,5781 Binning Avenue,-123.230884,49.250843
 VAD10104,P. A. Woodward Instructional Resources Centre (IRC),Vancouver,V6T 1Z3,BC,VBL10102,CampusBuilding,CampusMail,2194 Health Sciences Mall,-123.247336,49.264803
 VAD10417,Sandringham,Vancouver,V6T 2G5,BC,VBL10106,NeighbourhoodBldg,CanadaPost,5650 Hampton Place,-123.233503,49.258282
 VAD11071,Thames Court,Vancouver,V6T 2E9,BC,VBL10253,NeighbourhoodBldg,CanadaPost,5880 Hampton Place,-123.236599,49.257487
+VAD11224,Theory,Vancouver,V6S 0M7,BC,VBL10455,NeighbourhoodBldg,CanadaPost,5781 Binning Avenue,-123.230884,49.250843
 VAD11112,UBC Botanical Garden - Scholars' Retreat,Vancouver,V6T 1Z4,BC,VBL10004,CampusBuilding,CampusMail,6380 Stadium Road,-123.246835,49.255045
 VAD10135,Ivy on the Park - Highrise,Vancouver,V6S 0L5,BC,VBL10265,NeighbourhoodBldg,CanadaPost,5629 Birney Avenue,-123.231046,49.254594
 VAD10226,Granite Terrace 2 - Offices,Vancouver,V6S 0B3,BC,VBL10414,NeighbourhoodBldg,CanadaPost,5923 Berton Avenue,-123.236262,49.255085
