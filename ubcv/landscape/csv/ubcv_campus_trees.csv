@@ -1640,6 +1640,7 @@
 5240,Cornus 'Eddie's White Wonder',,N,,Live,8,5.3,,,3,0.31,15,2,1,,20200301,,,PLAN,20190614175816,PLAN,20200914231039,49.259589,-123.248934,,,,
 5159,Malus x domestica,,N,,Live,5,3,,,3.4,3.6,15,4,1,,20200301,,,PLAN,20190614175827,PLAN,20200914230119,49.259539,-123.248869,,,,
 5160,Malus x domestica,,N,,Live,6,3.2,,,3.5,3.5,15,4,1,,20200301,,,PLAN,20190614175828,PLAN,20200914230148,49.259491,-123.248844,,,,
+11787,Cornus nuttallii,Removed,N,,Dead,,,,,,,,,,Deciduous,,,,,,finnkopf@mail.ubc.ca,20250324021948,49.264571,-123.246421,,1,,
 4149,Malus x domestica,,Y,6352,Live,7,2.7,2.7,0.82,3.3,3.3,50,4,5,,20190301,,,PLAN,20190614175930,PLAN,20200914230325,49.263462,-123.253128,,,,
 2158,Aesculus x carnea 'Rosea',,N,,Live,6,3.75,2.25,1.5,2.7,2.4,5,4,8,,20190301,,,PLAN,20190614175931,PLAN,20200914230231,49.259899,-123.251216,,,,
 2705,Chamaecypairs pisifera 'squarrosa',,Y,4153,Live,150,13.4,13.4,1.5,8.9,5.9,40,3,6,,20190301,,,PLAN,20190614175931,PLAN,20200914225626,49.262496,-123.253561,,,,
@@ -1895,8 +1896,12 @@
 4505,Prunus yedonensis 'Akebono',,N,,Live,22,8.22,8.22,2.04,7,6.4,5,5,2,,20190301,,,PLAN,20190614175922,PLAN,20200914230721,49.267446,-123.255851,,,,
 8481,,,,,,,,,,,,,,,,,,,GISSTUD2,20200207233853,RACHELW,20250312185857,49.261715,-123.239791,,,,
 8187,,,,,,,,,,,,,,,,,,,GISSTUD2,20200207233042,RACHELW,20250312185857,49.259931,-123.23934,,,,
+2217,Wollemia nobilis,Removed,N,,Dead,15,3.85,3.85,0.2,1.6,1.55,0,3,6,,20190301,,,PLAN,20190614175915,finnkopf@mail.ubc.ca,20250327002340,49.263065,-123.252519,,,,
 4522,Sorbus hupehensis 'Pink Pagoda',,Y,9543,Live,8,3.6,3.6,1.45,3.8,3.4,15,4,2,,20190301,,,PLAN,20190614175922,PLAN,20200914230900,49.266841,-123.256771,,,,
+,Tsuga heterophylla,Western hemlock,Y,7900,Live,12,10,7,3,3.4,1.7,70,2,,Coniferous,,,,finnkopf@mail.ubc.ca,20250327004339,finnkopf@mail.ubc.ca,20250327004339,49.263843,-123.253125,,1,,
 2156,Aesculus x carnea 'Rosea',,N,,Live,7,3.75,2.2,1.55,2.6,2.6,5,4,8,,20190301,,,PLAN,20190614175923,PLAN,20200914225659,49.260013,-123.2509,,,,
+,Carpinus caroliniana,,N,,Live,6,4.6,3.7,0.9,2.9,2,50,1,,Angiosperm,,,,finnkopf@mail.ubc.ca,20250327004847,finnkopf@mail.ubc.ca,20250327005130,49.264046,-123.25254,,0,,
+,Acer palmatum,Japanese maple,N,,Live,6,3.4,2.5,0.9,3,2,35,2,,Angiosperm,,,,finnkopf@mail.ubc.ca,20250327005254,finnkopf@mail.ubc.ca,20250327005254,49.26398,-123.252605,,0,,
 5013,Chamecypairs obtusa,,Y,9574,Live,19,5.85,5.85,0.4,5.09,3.43,5,4,9,,20190301,,,PLAN,20190614175927,PLAN,20200914225636,49.265899,-123.253222,,,,
 4165,Carpinus betulus 'Fastigiata',,Y,7844,Live,17,8.47,7.67,1.7,4.4,3.2,50,3,5,,20190301,,,PLAN,20190614175927,PLAN,20200914230213,49.264117,-123.253837,,,,
 4260,Fagus sylvatica "duwyck",,N,,Live,8,7.42,7.42,0.4,1.7,2,25,5,4,,20190301,,,PLAN,20190614175927,PLAN,20200914225751,49.265566,-123.255619,,,,
@@ -4085,7 +4090,6 @@
 11950,Picea omorika,Serbian spruce,N,,Live,,,,,,,,,,Evergreen,,,,,,laura.grant@ubc.ca,20221122222344,49.265025,-123.245497,,0,,
 6955,Cornus nuttallii,Pacific dogwood,Y,3088,Live,,,,,,,,,,Deciduous,,,,GISSTUD1,20200106232014,laura.grant@ubc.ca,20221122223347,49.264486,-123.246516,,1,,
 11971,Cornus nuttallii,Pacific dogwood,N,,Live,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221122224025,49.264467,-123.246284,,1,,
-11787,Cornus nuttallii,Pacific dogwood,N,,Live,,,,,,,,,,Deciduous,,,,,,laura.grant@ubc.ca,20221122224316,49.264571,-123.246421,,1,,
 8362,Ulmus sp.,elm,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD1,20200106224446,laura.grant@ubc.ca,20221122233809,49.265954,-123.249424,,0,,
 8846,Parrotia persica,Persian ironwood,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD1,20200107000241,laura.grant@ubc.ca,20221128153946,49.256836,-123.24036,,0,,
 8847,Parrotia persica,Persian ironwood,,,Live,,,,,,,,,,Deciduous,,,,GISSTUD1,20200107000241,laura.grant@ubc.ca,20221128154147,49.256939,-123.240331,,0,,
@@ -6791,7 +6795,6 @@
 11167,Thuja plicata ,western red cedar,Y,9027,Live,28,27.6,27.6,61,6.7,5.5,45,2,10,Coniferous,,2021,,,,PLAN,20240420000539,49.26389,-123.257438,,1,1.4,27.6
 12481,Acer macrophyllum,big-leaved maple,,,Live,,,,,,,,,,Deciduous,,,,laura.grant@ubc.ca,20220920204134,PLAN,20240420000539,49.262453,-123.254406,,1,,
 11549,Chamaecyparis obtusa,hinoki false cypress,,,Live,,,,,,,,,,Evergreen,,,,laura.grant@ubc.ca,20220824183523,PLAN,20240420000539,49.265221,-123.252468,,0,,
-2217,Wollemia nobilis,Wollemi-pine,N,,Live,15,3.85,3.85,0.2,1.6,1.55,0,3,6,,20190301,,,PLAN,20190614175915,PLAN,20240420000539,49.263065,-123.252519,,,,
 11983,Chamaecyparis pisifera 'Squarossa',Sawara cypress ,N,,Live,54,13,13,5.2,9.36,7.2,70,2,2,Coniferous,,2022,,,,PLAN,20240419162915,49.263264,-123.243418,,0,1.4,"41.4,34.7"
 3014,Chamaecyparis pisifera 'Plumosa',sawara cypress,N,,Live,2,25.4,25.4,1.2,8.4,7.7,60,3,10,Coniferous,20200301,2020,,PLAN,20190614175827,PLAN,20240419162915,49.268744,-123.253782,,0,1.4,1.16
 10278,Parrotia persica,Persian ironwood,N,,Live,11,4.59568,4.59568,1,4.82112,4.74368,15,4,6,Angiosperm,,2021,,,,PLAN,20240419162915,49.261701,-123.256472,,0,1.4,
