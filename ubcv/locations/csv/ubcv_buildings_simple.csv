@@ -291,6 +291,7 @@ StudentHousing,Green College - B East,GRN5,"6201 Cecil Green Park Road, Building
 StudentHousing,Green College - Guest House,GRN9,"6201 Cecil Green Park Road, Building 1",V6T 1Z1,VBL10180,Complete,-123.256515,49.27086
 StudentHousing,Green College - Principal's Residence,GRN10,6205 Cecil Green Park Road,V6T 1Z1,VBL10190,Complete,-123.256949,49.270911
 Housing,Georgia Point,GEOP,3381 Ross Drive,V6S 0L2,VBL10247,Complete,-123.239235,49.251948
+Academic,West Mall Swing Space Building,SWNG,2175 West Mall,V6T 1Z4,VBL10304,Complete,-123.254384,49.262795
 StudentHousing,Spirit Park Apartments,SPPA,2715 Osoyoos Crescent,V6T 1X7,VBL10074,Complete,-123.239374,49.261491
 StudentHousing,Sopron House,SOPR,2730 Acadia Road,V6T 1R9,VBL10075,Complete,-123.23534,49.262179
 Athletics,Doug Mitchell Thunderbird Sports Centre,THUN,6066 Thunderbird Boulevard,V6T 1Z3,VBL10307,Complete,-123.241931,49.260341
@@ -383,7 +384,6 @@ Services,Ambulance Station,AMBS,2333 Wesbrook Mall,V6T 1Z3,VBL10186,Complete,-12
 Services,Chan Centre for the Performing Arts,CHAN,6265 Crescent Road,V6T 1Z1,VBL10282,Complete,-123.25511,49.269771
 Other,Carey Centre,CRYC,5920 Iona Drive,V6T 1J6,VBL10257,Complete,-123.248908,49.27152
 Academic,Neville Scarfe Building,SCRF,2125 Main Mall,V6T 1Z4,VBL10095,Complete,-123.253095,49.263965
-Academic,West Mall Swing Space Building,SWNG,2175 West Mall,V6T 1Z4,VBL10304,Complete,-123.254384,49.262795
 Other,Carey College Lot 42,CRYC2,5950 Iona Drive,,VBL10450,UnderConstruction,-123.248739,49.271016
 Other,Carey Hall,CRYH,1815 Wesbrook Mall,V6T 1J6,VBL10208,Complete,-123.248532,49.271737
 Academic,Dorothy Somerset Studios,DSOM,6361 University Boulevard,V6T 1Z2,VBL10130,Complete,-123.254591,49.264693
