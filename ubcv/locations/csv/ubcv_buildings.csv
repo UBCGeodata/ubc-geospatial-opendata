@@ -18,6 +18,7 @@ VBL10160,Legacy,LGCY,Complete,20061023,Housing,,UNA,Hawthorn,Private,Occupied,RE
 VBL10149,Promontory,PROM,Complete,20050408,Housing,,UNA,Hawthorn,Private,Occupied,,Concrete,20,55.76,14935,626,0,,,,,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.247569,49.25595
 VBL10158,Nine on the Park,NINE,Complete,20071119,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,4,13.73202,2027,628,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.247034,49.259327
 VBL10148,Reflections,REFL,Complete,20050628,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,5,18.53,8448,623,0,,,,,RACHELW,20240220195546,AptLess5Storey,,,,B5,,-123.246886,49.258252
+VBL10444,Gordon B. Shrum Building,SHRM,Complete,20241210,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,32,14530,459,0,,,NIKT,20210325152429,RACHELW,20250520191948,Unspecified,,,,B2,,-123.247325,49.265643
 VBL10147,Somerset,SOMS,Complete,20050826,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,3,13.65342,7266,622;622-1;622-2;622-3;622-4;622-5;622-6;622-7;622-8;622-9,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.24813,49.256504
 VBL10306,Child Care Services Administration Building,CCSA,Complete,19900101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.85,1205,155,1,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.234257,49.26093
 VBL10144,Hawthorn Green,HAWT,Complete,20040820,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,3,15.08571,2051,618,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.248586,49.258174
@@ -345,7 +346,6 @@ VBL10216,Mathematics Annex,MATX,Complete,19240101,Academic,,UBC,Academic,UBC,Occ
 VBL10229,Mathematics Building,MATH,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,3,11.83,4520,518,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B2,,-123.255556,49.26645
 VBL10337,Building Operations Nursery,BONR,Complete,20090101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,6.57,1316,768,0,,,,,TOML,20230214195240,Outbuildings,Good,,UBC,B3,,-123.229225,49.244432
 VBL10364,In-Vessel Composting Facility,COMP,Complete,20040101,Operations,,UBC,Academic,UBC,Occupied,,Steel,1,7.1,185,137,0,,,,,TOML,20230214195240,Outbuildings,Fair,,UBC,B3,,-123.228014,49.244905
-VBL10444,Gordon B. Shrum Building,SBME,Complete,20241210,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,32,14530,459,0,,,NIKT,20210325152429,RACHELW,20250408161838,Unspecified,,,,B2,,-123.247325,49.265643
 VBL10402,Environmental Services Facility - Incinerator,ENV2,Complete,19690101,Operations,,UBC,Academic,UBC,Occupied,,Concrete,1,4.128,104,470,0,,,GISSTUD2,20190513225618,TOML,20230214195240,Outbuildings,Poor,,UBC,B3,,-123.229006,49.243679
 VBL10416,Vanier Pump Station,VNRP,Complete,19860101,Operations,,UBC,Academic,UBC,Occupied,,Concrete,1,4.99414,14,543,0,,,RACHELW,20190809163912,TOML,20230214195240,Outbuildings,Critical,,UBC,B3,,-123.260266,49.26482
 VBL10228,"Auditorium Annex Offices - A, B",AUDX,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,9.67894,2431,863-2;045,1,,,,,RACHELW,20240327173643,Unspecified,Critical,,UBC,B2,,-123.256625,49.266582

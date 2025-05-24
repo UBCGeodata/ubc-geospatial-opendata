@@ -18,6 +18,7 @@ Housing,Legacy,LGCY,6333 Larkin Drive,V6T 0A7,VBL10160,Complete,-123.248008,49.2
 Housing,Promontory,PROM,2688 West Mall,V6T 2J8,VBL10149,Complete,-123.247569,49.25595
 Housing,Nine on the Park,NINE,6298 Eagles Drive,V6T 0A3,VBL10158,Complete,-123.247034,49.259327
 Housing,Reflections,REFL,6279 Eagles Drive,V6T 2K7,VBL10148,Complete,-123.246886,49.258252
+Academic,Gordon B. Shrum Building,SHRM,6088 University Boulevard,V6T 1Z3,VBL10444,Complete,-123.247325,49.265643
 Housing,Somerset,SOMS,6360 Larkin Drive,V6T 2K5,VBL10147,Complete,-123.24813,49.256504
 Services,Child Care Services Administration Building,CCSA,2881 Acadia Road,V6T 1S1,VBL10306,Complete,-123.234257,49.26093
 Housing,Hawthorn Green,HAWT,6318 Hawthorn Lane,V6T 2J6,VBL10144,Complete,-123.248586,49.258174
@@ -344,7 +345,6 @@ Academic,Mathematics Annex,MATX,1986 Mathematics Road,V6T 1Z2,VBL10216,Complete,
 Academic,Mathematics Building,MATH,1984 Mathematics Road,V6T 1Z2,VBL10229,Complete,-123.255556,49.26645
 Operations,Building Operations Nursery,BONR,6029 Nurseries Road,V6T 1W5,VBL10337,Complete,-123.229225,49.244432
 Operations,In-Vessel Composting Facility,COMP,6035 Nurseries Road,V6T 1W5,VBL10364,Complete,-123.228014,49.244905
-Academic,Gordon B. Shrum Building,SBME,6088 University Boulevard,V6T 1Z3,VBL10444,Complete,-123.247325,49.265643
 Operations,Environmental Services Facility - Incinerator,ENV2,"6025 Nurseries Road, Building 2",V6T 1W5,VBL10402,Complete,-123.229006,49.243679
 Operations,Vanier Pump Station,VNRP,"1935 Lower Mall, Building 14",V6T 1X1,VBL10416,Complete,-123.260266,49.26482
 Academic,"Auditorium Annex Offices - A, B",AUDX,1924 West Mall,V6T 1Z2,VBL10228,Complete,-123.256625,49.266582
