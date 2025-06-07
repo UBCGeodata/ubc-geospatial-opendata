@@ -176,7 +176,6 @@ VBL10232,Focal,FOCL,Complete,20200417,Housing,Commercial,UNA,UBlvd,UBCPT,Unoccup
 VBL10129,Donald Rix Building,RIX,Complete,20000101,Administrative,Research,Non-UBC,Academic,UBCPT,Occupied,,Concrete,4,20.58,5008,458,0,,Leased to UBCPT,,,RACHELW,20240220195546,Unspecified,,,,B2,LeasedFromUBC,-123.2463,49.261972
 VBL10177,Liu Institute for Global Issues,LIU,Complete,20000101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.19421,1713,496,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.259267,49.267549
 VBL10204,Anthropology and Sociology Building,ANSO,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.8925,6220,048;876-1;876-2;880,1,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.257691,49.270316
-VBL10209,Theatre-Film Production Building,TFPB,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,13.78,772,036;036-1,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.253928,49.263869
 VBL10250,Ritsumeikan-UBC House,RITS,Complete,19920101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,4,12.23,6763,745,0,,,,,RACHELW,20250307195422,AptLess5Storey,Critical,,UBC,B5,,-123.252997,49.260102
 VBL10227,Asian Centre,ACEN,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,23.66056,4926,046,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.25871,49.266752
 VBL10266,Wesbrook Building,WESB,Complete,19490101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,19.34,10664,864;867,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.249156,49.265251
@@ -336,7 +335,6 @@ VBL10279,St. Mark's Duplexes,STMD,Complete,20081110,Housing,,UNA,Chancellor,Priv
 VBL10119,Forest Sciences Centre,FSC,Complete,19980101,Academic,,UBC,Academic,UBC,Occupied,,OtherMixed,6,25.59,22459,353,0,,,,,RACHELW,20230803213336,Unspecified,Fair,,UBC,B2,,-123.247827,49.260597
 VBL10044,Frank Forward Building,FORW,Complete,19680101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,29.635,7542,562,0,,,,,RACHELW,20230803213345,Unspecified,Critical,,UBC,B2,,-123.251692,49.26169
 VBL10085,Fred Kaiser Building,KAIS,Complete,20041012,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,20.7,12792,313,0,,,,,RACHELW,20230803213401,Unspecified,Fair,,UBC,B2,,-123.250082,49.262371
-VBL10405,Frederic Wood Theatre,FRWO,Complete,19630101,Services,Academic,UBC,Academic,UBC,Occupied,,Concrete,3,19.44,2896,376;376-1,0,,,,,RACHELW,20230803213416,Unspecified,Poor,,UBC,B1,,-123.256958,49.268053
 VBL10359,Hennings Building,HENN,Complete,19450101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,17.31,11578,652;652-1,0,,,,,RACHELW,20230803213457,Unspecified,Poor,,UBC,B2,,-123.252196,49.266445
 VBL10221,Michael Smith Laboratories,MSL,Complete,20040101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,24.84,8477,083,1,,,,,RACHELW,20240327185901,Unspecified,Fair,,UBC,B2,,-123.250174,49.264575
 VBL10255,Oakwood Residences,OAKR,Complete,20200813,Housing,,UNA,Wesbrook,UBCPT,Unoccupied,,Wood,3,13.06,2977,719,0,,,GISSTUD2,20190515162139,RACHELW,20240726190409,Duplex/Townhouse,,,,B5,LeasedFromUBC,-123.238526,49.251653
@@ -436,6 +434,8 @@ VBL10102,P. A. Woodward Instructional Resources Centre,IRC,Complete,19720101,Aca
 VBL10344,Ponderosa Annex C,PONC,Complete,19710101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,9.26,587,865-3,0,,,RACHELW,20190116175554,RACHELW,20250116230351,Unspecified,Critical,,UBC,B2,,-123.256275,49.264854
 VBL10152,Ponderosa Annex F,PONF,Complete,19720101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,9.05897,826,871-3,0,,,RACHELW,20190116175554,RACHELW,20250116230351,Unspecified,Critical,,UBC,B2,,-123.257153,49.264919
 VBL10153,Ponderosa Annex G,PONG,Complete,19810101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,1,6.09539,597,873,0,,,RACHELW,20190116175554,RACHELW,20250116230351,Unspecified,Critical,,UBC,B2,,-123.256434,49.264507
+VBL10405,Frederic Wood Theatre,FRWO,Complete,19630101,Services,Academic,UBC,Academic,UBC,Occupied,,Concrete,3,19.44,2896,376;376-1,0,,,,,RACHELW,20250606192253,Unspecified,Poor,,UBC,B1,,-123.256958,49.268053
+VBL10209,Theatre-Film Production Building,TFPB,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,13.78,772,036;036-1,0,,,,,RACHELW,20250606192253,Unspecified,Critical,,UBC,B2,,-123.253928,49.263869
 VBL10407,AMS Student Nest,NEST,Complete,20150101,Services,,UBC,Academic,AMS,Occupied,LEED Platinum,Concrete,5,30.15,20282,795,1,,Leased to AMS,,,RACHELW,20240326222407,Unspecified,Good,,UBC,B1,LeasedFromUBC,-123.249807,49.26657
 VBL10146,Ponderosa Annex A,PONA,Complete,19710101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,11.38228,633,865-1,0,,,RACHELW,20190116175554,RACHELW,20240326224436,Unspecified,Critical,,UBC,B2,,-123.256382,49.265167
 VBL10343,Ponderosa Annex B,PONB,Complete,19710101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,9.26688,975,865-2,0,,,RACHELW,20190116175554,RACHELW,20240326224436,Unspecified,Critical,,UBC,B2,,-123.255962,49.264844
