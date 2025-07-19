@@ -33,7 +33,6 @@ VBL10374,Kids Club,KIDS,Complete,19850101,Services,,UBC,Academic,SHHS,Occupied,,
 VBL10188,Sage - Townhouses,SAG2,Complete,20110704,Housing,,UNA,Wesbrook,Private,Occupied,REAP Silver,Concrete,2,7.9658,1514,595,0,,,GISSTUD2,20190514232334,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.233501,49.254987
 VBL10187,Sage - Highrise,SAG1,Complete,20110704,Housing,,UNA,Wesbrook,Private,Occupied,REAP Silver,Concrete,22,59.39326,12230,595,0,,,GISSTUD2,20190514232334,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.233708,49.255264
 VBL10371,International House,INTL,Complete,19580101,Services,,UBC,Academic,UBC,Occupied,,Concrete,3,8.71,1142,472,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.25896,49.2678
-VBL10262,Woodward Library,WLIB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,21.11571,7695,536;536-1,0,,,,,RACHELW,20240920185447,Unspecified,Poor,,UBC,B2,,-123.24757,49.264563
 VBL10065,UBC Bookstore / NCE,BOOK,Complete,20140328,Services,,UBC,Academic,UBC,Occupied,,Concrete,2,20.98,7400,081;081-2,1,,,,,RACHELW,20240920195224,Unspecified,Poor,,UBC,B1,,-123.250592,49.264988
 VBL10081,Jack Bell Building for the School of Social Work,SOWK,Complete,19920101,Academic,,UBC,Academic,UBC,Occupied,,Steel,4,18.22909,2712,750,0,,,,,RACHELW,20250303221902,Unspecified,Poor,,UBC,B2,,-123.255094,49.264462
 VBL10271,Chancellor Hall - Townhouses,CHHT,Complete,20070101,Housing,,UNA,Chancellor,Private,Occupied,,Wood,4,9.88747,364,823,0,,,GISSTUD2,20190514222145,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.250355,49.272187
@@ -442,4 +441,5 @@ VBL10343,Ponderosa Annex B,PONB,Complete,19710101,Administrative,,UBC,Academic,U
 VBL10151,Ponderosa Annex E,PONE,Complete,19720101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,8.75827,1004,871-2,0,,,RACHELW,20190116175554,RACHELW,20240326224436,Unspecified,Critical,,UBC,B2,,-123.256694,49.264675
 VBL10379,Nobel House,NOBL,Complete,20141028,Housing,,UNA,Wesbrook,UBCPT,Occupied,REAP Gold,Wood,8,20.37432,9965,717,0,,Leased to UBCPT,,,RACHELW,20240611162152,Apt5StoreyPlus,,,,B5,LeasedFromUBC,-123.233206,49.25084
 VBL10421,UBC Counselling Services Annex,CNSL,Complete,20190919,Services,,UBC,Academic,UBC,Unoccupied,,Wood,1,4.8905,479,TMP001,0,,,GISSTUD2,20190923201149,RACHELW,20240116180335,Unspecified,,,UBC,B2,,-123.25199,49.268227
+VBL10262,Woodward Library,WLIB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,21.11571,7695,536;536-1,0,,,,,TOML,20250717213634,Unspecified,Poor,,UBC,B2,,-123.24757,49.264563
 VBL10330,Civil and Mechanical Engineering Laboratories,CEML,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,15.74,5616,305;307;309;511,1,,,RACHELW,20190207192637,RACHELW,20231026230434,Unspecified,Poor,,UBC,B2,,-123.249337,49.263129
