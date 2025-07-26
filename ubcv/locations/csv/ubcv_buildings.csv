@@ -29,6 +29,7 @@ VBL10115,St. James House,STJA,Complete,19940405,Housing,,UNA,Hampton,Private,Occ
 VBL10341,Cecil Green Park Coach House,CGPC,Complete,19110101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,8.9975,243,421,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B3,,-123.25847,49.271001
 VBL10112,Sitka,SITK,Complete,20120803,Housing,,UNA,EastCampus,Private,Occupied,REAP Gold,Concrete,15,46.23,7646,550,0,,,,,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.241911,49.262882
 VBL10342,Cecil Green Park House,CGPH,Complete,19110101,Services,,UBC,Academic,UBC,Occupied,,Wood,5,16.04,2080,420,0,,,,,TOML,20230214195240,Unspecified,Poor,,UBC,B2,,-123.25769,49.271387
+VBL10292,Iona Building,IONA,Complete,19290101,Academic,StudentHousing,UBC,Chancellor,UBC,Occupied,,Concrete,8,30.58492,7298,836,1,,,,,RACHELW,20250721171825,Unspecified,Good,,UBC,B2,,-123.250309,49.270988
 VBL10374,Kids Club,KIDS,Complete,19850101,Services,,UBC,Academic,SHHS,Occupied,,OtherMixed,1,4.06,475,013,0,,,,,TOML,20230214195240,Unspecified,Critical,,UBC,B2,,-123.234805,49.261725
 VBL10188,Sage - Townhouses,SAG2,Complete,20110704,Housing,,UNA,Wesbrook,Private,Occupied,REAP Silver,Concrete,2,7.9658,1514,595,0,,,GISSTUD2,20190514232334,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.233501,49.254987
 VBL10187,Sage - Highrise,SAG1,Complete,20110704,Housing,,UNA,Wesbrook,Private,Occupied,REAP Silver,Concrete,22,59.39326,12230,595,0,,,GISSTUD2,20190514232334,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.233708,49.255264
@@ -90,7 +91,6 @@ VBL10072,Earth Sciences Building,ESB,Complete,20120824,Academic,,UBC,Academic,UB
 VBL10073,Engineering Student Centre,ESC,Complete,20150909,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Wood,2,7.81,1076,310,0,,,,,RACHELW,20250221184615,Unspecified,Good,,UBC,B2,,-123.249278,49.262188
 VBL10078,Institute for Computing Information and Cognitive Systems / Computer Science Building,ICCS,Complete,19930101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,8,29.68,19643,166;165,0,,,,,RACHELW,20250221190047,Unspecified,Poor,,UBC,B2,,-123.248832,49.261174
 VBL10283,West Mall Annex,WMAX,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,9.5803,1962,863-1,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.257156,49.26625
-VBL10292,Iona Building,IONA,Complete,19290101,Academic,StudentHousing,UBC,Chancellor,UBC,Occupied,,Concrete,8,30.58492,7298,836,1,,,,,TOML,20230214194717,Unspecified,Good,,UBC,B2,,-123.250309,49.270988
 VBL10040,Keenleyside,KEEN,Complete,20080415,Housing,,UNA,Wesbrook,Private,Occupied,REAP Bronze,Wood,5,18.3835,8119,587,0,,,,,RACHELW,20240220195546,AptLess5Storey,,,,B5,,-123.233169,49.253967
 VBL10324,Buchanan Tower,BUTO,Complete,19720101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,13,47.52692,9863,120,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.253487,49.268579
 VBL10443,Echo,ECHO,Complete,20231031,Housing,,UBC,Wesbrook,UBCPT,Occupied,REAP Gold,Wood,6,20,12880,702,0,,Leased to UBCPT,NIKT,20210323225715,RACHELW,20240220195546,Apt5StoreyPlus,,,UBCPT,B5,LeasedFromUBC,-123.232318,49.2525
@@ -115,7 +115,6 @@ VBL10005,UBC Botanical Garden - Workshop (Trailer),BOT6,Complete,19800101,Operat
 VBL10015,UBC Farm - Children's Greenhouse,FRM3,Complete,19900101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,2.62205,118,387,0,,,GISSTUD2,20190514191058,RACHELW,20241206174241,Outbuildings,Critical,,UBC,B3,,-123.239793,49.251477
 VBL10191,Magnolia House,MAGN,Complete,20120101,Housing,,UNA,Wesbrook,UBCPT,Occupied,REAP Gold,Wood,5,16.46,7617,713,0,,Leased to UBCPT,,,RACHELW,20240220195546,AptLess5Storey,,,,B5,LeasedFromUBC,-123.233539,49.251541
 VBL10009,UBC Farm - Greenhouse 1,FRM4,Complete,19820101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,5.17,104,071-1,0,,,NIKT,20200406213544,RACHELW,20241206174241,Outbuildings,Critical,,UBC,B3,,-123.238931,49.251148
-VBL10441,Recreation Centre North,RCN,UnderConstruction,,Athletics,,UBC,Academic,Athletics,Unoccupied,,Wood,3,20,9377,775,0,,,NIKT,20210323215825,RACHELW,20250617191020,Unspecified,,,,B2,,-123.250396,49.267999
 VBL10012,UBC Farm - Greenhouse 2,FRM5,Complete,19820101,Operations,,UBC,Academic,UBC,Occupied,,OtherMixed,1,3.25706,143,071-2,0,,,GISSTUD2,20190514191008,RACHELW,20241206174241,Outbuildings,Critical,,UBC,B3,,-123.239002,49.251043
 VBL10326,Place Vanier Residence - Margaret Mackenzie House,VNR07,Complete,19600101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,5,13.63,2114,896-2,0,,,GISSTUD2,20190514205837,RACHELW,20221213023431,AptLess5Storey,Poor,,UBC,B5,,-123.259143,49.265692
 VBL10368,Place Vanier Residence - Phyllis Ross House,VNR09,Complete,19600101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Concrete,5,13.64,2142,896-3,0,,,GISSTUD2,20190514205951,RACHELW,20221213030938,AptLess5Storey,Poor,,UBC,B5,,-123.259614,49.265329
@@ -177,6 +176,7 @@ VBL10129,Donald Rix Building,RIX,Complete,20000101,Administrative,Research,Non-U
 VBL10177,Liu Institute for Global Issues,LIU,Complete,20000101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.19421,1713,496,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.259267,49.267549
 VBL10204,Anthropology and Sociology Building,ANSO,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.8925,6220,048;876-1;876-2;880,1,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.257691,49.270316
 VBL10250,Ritsumeikan-UBC House,RITS,Complete,19920101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,4,12.23,6763,745,0,,,,,RACHELW,20250307195422,AptLess5Storey,Critical,,UBC,B5,,-123.252997,49.260102
+VBL10441,Recreation Centre North,RCN,Complete,20250604,Athletics,,UBC,Academic,Athletics,Occupied,,Wood,3,20,9377,775,0,,,NIKT,20210323215825,RACHELW,20250722183711,Unspecified,,,,B2,,-123.250396,49.267999
 VBL10227,Asian Centre,ACEN,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,23.66056,4926,046,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.25871,49.266752
 VBL10266,Wesbrook Building,WESB,Complete,19490101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,19.34,10664,864;867,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.249156,49.265251
 VBL10274,Child Care Services - Little Goslings/Coho,CCS3,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.4617,319,203,1,,,GISSTUD2,20190514224753,PLAN,20240711210404,Unspecified,Poor,,UBC,B2,,-123.234048,49.25992
