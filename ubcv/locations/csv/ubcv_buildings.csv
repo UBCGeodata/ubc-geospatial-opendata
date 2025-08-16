@@ -176,8 +176,8 @@ VBL10129,Donald Rix Building,RIX,Complete,20000101,Administrative,Research,Non-U
 VBL10177,Liu Institute for Global Issues,LIU,Complete,20000101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.19421,1713,496,0,,,,,TOML,20230214194717,Unspecified,Fair,,UBC,B2,,-123.259267,49.267549
 VBL10204,Anthropology and Sociology Building,ANSO,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,11.8925,6220,048;876-1;876-2;880,1,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.257691,49.270316
 VBL10250,Ritsumeikan-UBC House,RITS,Complete,19920101,StudentHousing,,UBC,Academic,SHHS,Occupied,,Wood,4,12.23,6763,745,0,,,,,RACHELW,20250307195422,AptLess5Storey,Critical,,UBC,B5,,-123.252997,49.260102
-VBL10441,Recreation Centre North,RCN,Complete,20250604,Athletics,,UBC,Academic,Athletics,Occupied,,Wood,3,20,9377,775,0,,,NIKT,20210323215825,RACHELW,20250722183711,Unspecified,,,,B2,,-123.250396,49.267999
 VBL10227,Asian Centre,ACEN,Complete,19750101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,23.66056,4926,046,0,,,,,TOML,20230214194717,Unspecified,Poor,,UBC,B2,,-123.25871,49.266752
+VBL10441,Recreation Centre North,RCN,Complete,20250604,Athletics,,UBC,Academic,Athletics,Occupied,,Wood,3,20,9377,775,0,,,NIKT,20210323215825,RACHELW,20250815170458,Unspecified,,,,B2,,-123.250396,49.267999
 VBL10266,Wesbrook Building,WESB,Complete,19490101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,19.34,10664,864;867,0,,,,,TOML,20230214194717,Unspecified,Critical,,UBC,B2,,-123.249156,49.265251
 VBL10274,Child Care Services - Little Goslings/Coho,CCS3,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,6.4617,319,203,1,,,GISSTUD2,20190514224753,PLAN,20240711210404,Unspecified,Poor,,UBC,B2,,-123.234048,49.25992
 VBL10275,Child Care Services - Little Raven/Pacific Spirit,CCS4,Complete,19890101,Services,,UBC,Academic,SHHS,Occupied,,Wood,1,5.86,482,204,1,,,GISSTUD2,20190514224825,PLAN,20240711210404,Unspecified,Poor,,UBC,B2,,-123.233802,49.260216
