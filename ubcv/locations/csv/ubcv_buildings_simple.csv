@@ -203,14 +203,12 @@ Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234399,49.
 Housing,West Hampstead - Building 1,WHM1,5760 Hampton Place,V6T 2G1,VBL10281,Complete,-123.235241,49.257587
 Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,V6S 0L3,VBL10353,Complete,-123.235007,49.250613
 Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
-Housing,Symphony,SYMY,3638 Wesbrook Mall,,VBL10454,UnderConstruction,-123.232337,49.251114
 Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234582,49.257507
 Parking,West Parkade,PARW,2140 Lower Mall,V6T 1Z4,VBL10284,Complete,-123.255016,49.262597
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimək̓ʷ leləm̓ (Octopus),SQMK,1875 Wesbrook Mall,V6T 1K2,VBL10382,Complete,-123.248315,49.270523
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - təməs leləm̓ (Sea Otter),TMES,1885 Wesbrook Mall,V6T 1K2,VBL10384,Complete,-123.248031,49.270168
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθən leləm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,Complete,-123.248518,49.269217
 Services,Acadia Commonsblock,ACOM,"2707 Tennis Crescent, Building 1",V6T 2E5,VBL10185,Complete,-123.237352,49.262634
-Housing,Theory,THRY,5781 Binning Avenue,V6S 0M7,VBL10455,Complete,-123.231135,49.251054
 Housing,Eton - Highrise,ETN1,3487 Binning Road,V6S 0K8,VBL10135,Complete,-123.230561,49.25345
 Housing,Westchester,WSTR,2598 West Mall,V6T 2J9,VBL10220,Complete,-123.249109,49.257373
 Housing,Westpoint,WSPT,6005 Walter Gage Road,V6T 0B3,VBL10305,Complete,-123.250471,49.270242
@@ -435,11 +433,13 @@ Services,AMS Student Nest,NEST,6133 University Boulevard,V6T 1Z1,VBL10407,Comple
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
 Academic,Iona Building,IONA,6000 Iona Drive,V6T 1L4,VBL10292,Complete,-123.250309,49.270988
 Athletics,Recreation Centre North,RCN,6140 Student Union Boulevard,V6T 1Z1,VBL10441,Complete,-123.250396,49.267999
-Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4,VBL10209,Complete,-123.253928,49.263869
 Academic,B.C. Binning Studios,BINN,6373 University Boulevard,V6T 1Z2,VBL10134,Complete,-123.254879,49.264604
 Academic,Dorothy Somerset Studios,DSOM,6361 University Boulevard,V6T 1Z2,VBL10130,Complete,-123.254591,49.264693
 Services,Frederic Wood Theatre,FRWO,6354 Crescent Road,V6T 1Z2,VBL10405,Complete,-123.256958,49.268053
 Academic,UBC Life Building,LIFE,6138 Student Union Boulevard,V6T 1Z1,VBL10248,Complete,-123.250062,49.267434
 Academic,Centre for Comparative Medicine,CCM,4145 Wesbrook Mall,V6T 1W5,VBL10017,Complete,-123.233554,49.246819
+Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4,VBL10209,Complete,-123.253928,49.263869
+Housing,Theory,THRY,5781 Binning Avenue,V6S 0M7,VBL10455,Complete,-123.231135,49.251054
+Housing,Symphony,SYMY,3638 Wesbrook Mall,V6S 0M9,VBL10454,Complete,-123.232337,49.251114
 Other,Carey College Lot 40,CRYC1,,,VBL10449,PreConstruction,-123.24857,49.271747
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275

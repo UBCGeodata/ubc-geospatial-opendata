@@ -942,7 +942,6 @@ VAD10581,Sage,Vancouver,V6S 0C1,BC,VBL10187,NeighbourhoodBldg,CanadaPost,5782 Be
 VAD11191,The Conservatory,Vancouver,V6S 2L2,BC,VBL10427,NeighbourhoodBldg,CanadaPost,5608 Berton Avenue,-123.231666,49.256192
 VAD11232,BCR7 - Building B,Vancouver,,BC,VBL10460,NeighbourhoodBldg,CanadaPost,3562 Wesbrook Mall,-123.233079,49.251806
 VAD11233,BCR7 - Building A,Vancouver,,BC,VBL10459,NeighbourhoodBldg,CanadaPost,3588 Wesbrook Mall,-123.23295,49.251577
-VAD11221,Symphony,Vancouver,,BC,VBL10454,NeighbourhoodBldg,CanadaPost,3638 Wesbrook Mall,-123.232694,49.251061
 VAD10827,David Lam Learning Centre,Vancouver,V6T 1Z2,BC,VBL10278,Occupant,CampusMail,6326 Agricultural Road,-123.25461,49.265776
 VAD10027,Landscape Operations Building,Vancouver,V6T 1Z4,BC,VBL10097,Occupant,CampusMail,2333 Lower Mall,-123.254794,49.260522
 VAD10844,Earthquake Engineering Research Facility,Vancouver,V6T 1Z4,BC,VBL10330,Occupant,CampusMail,2235 East Mall,-123.2489,49.263563
@@ -1035,4 +1034,5 @@ VAD11211,Gordon B. Shrum Building,Vancouver,V6T 1Z3,BC,VBL10444,CampusBuilding,C
 VAD11234,Gordon B. Shrum Building - Retail,Vancouver,V6T 1Z3,BC,VBL10444,Commercial,CampusMail,6020 University Boulevard,-123.24704,49.265838
 VAD10828,Carey Hall (Carey Theological College),Vancouver,V6T 1J6,BC,VBL10208,OtherBuilding,CanadaPost,1815 Wesbrook Mall,-123.248494,49.271734
 VAD11212,Recreation Centre North,Vancouver,V6T 1Z1,BC,VBL10441,CampusBuilding,,6140 Student Union Boulevard,-123.250884,49.268044
+VAD11221,Symphony,Vancouver,V6S 0M9,BC,VBL10454,NeighbourhoodBldg,CanadaPost,3638 Wesbrook Mall,-123.232694,49.251061
 VAD10384,Power House,Vancouver,V6T 1Z2,BC,VBL10024,CampusBuilding,CampusMail,2040 West Mall,-123.254834,49.265239
