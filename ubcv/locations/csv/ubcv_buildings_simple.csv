@@ -1,5 +1,4 @@
 BLDG_USAGE,NAME,BLDG_CODE,PRIMARY_ADDRESS,POSTAL_CODE,BLDG_UID,CONSTR_STATUS,LAT,LONG
-Housing,Wordsworth - Highrise,WSW1,6138 Birney Avenue,,VBL10445,UnderConstruction,-123.236845,49.252441
 StudentHousing,Walter H. Gage Residence - West Coast Suites (Gage Court),WGR3,5961 Student Union Boulevard,V6T 1K2,VBL10396,Complete,-123.248586,49.269593
 Administrative,Ponderosa Annex A,PONA,2011 West Mall,V6T 1Z2,VBL10146,Complete,-123.256382,49.265167
 Administrative,Ponderosa Annex B,PONB,2029 West Mall,V6T 1Z2,VBL10343,Complete,-123.255962,49.264844
@@ -202,7 +201,6 @@ Housing,The Wesbrook - Townhouses,WSB2,"5838 Berton Avenue, Building 1",V6S 0A5,
 Housing,Ultima,ULTM,3479 Wesbrook Mall,V6S 0B7,VBL10340,Complete,-123.234399,49.25274
 Housing,West Hampstead - Building 1,WHM1,5760 Hampton Place,V6T 2G1,VBL10281,Complete,-123.235241,49.257587
 Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,V6S 0L3,VBL10353,Complete,-123.235007,49.250613
-Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
 Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234582,49.257507
 Parking,West Parkade,PARW,2140 Lower Mall,V6T 1Z4,VBL10284,Complete,-123.255016,49.262597
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimək̓ʷ leləm̓ (Octopus),SQMK,1875 Wesbrook Mall,V6T 1K2,VBL10382,Complete,-123.248315,49.270523
@@ -301,7 +299,6 @@ Services,Thea Koerner House,THEA,6371 Crescent Road,V6T 1Z2,VBL10249,Complete,-1
 Housing,Tapestry at Wesbrook Village - Building 1,TAP1,3338 Wesbrook Mall,V6S 0A6,VBL10137,Complete,-123.235012,49.254739
 Housing,Tapestry at Wesbrook Village - Building 2,TAP2,3382 Wesbrook Mall,V6S 0A7,VBL10182,Complete,-123.234518,49.254147
 Housing,Thames Court - Building 1,THAC1,"5880 Hampton Place, Building 1",V6T 2E9,VBL10417,Complete,-123.235775,49.257255
-Housing,Wordsworth - Townhouses,WSW2,"6138 Birney Avenue, Building 1",,VBL10446,UnderConstruction,-123.237199,49.251943
 Services,Third Space,THSP,6363 Biological Sciences Road,V6T 1Z4,VBL10447,Complete,-123.253241,49.263008
 Academic,Hugh Dempster Pavilion,DMP,6245 Agronomy Road,V6T 1Z4,VBL10363,Complete,-123.248057,49.261242
 Academic,Music Building,MUSC,6361 Memorial Road,V6T 1Z2,VBL10101,Complete,-123.256781,49.267437
@@ -361,8 +358,6 @@ Operations,UBC Botanical Garden - Workshop (Trailer),BOT6,6450 Stadium Road,V6T 
 Operations,UBC Farm - Children's Greenhouse,FRM3,"3461 Ross Drive, Building 2",V6T 1W5,VBL10015,Complete,-123.239793,49.251477
 Operations,UBC Farm - Greenhouse 1,FRM4,"3461 Ross Drive, Building 3",V6T 1W5,VBL10009,Complete,-123.238931,49.251148
 Operations,UBC Farm - Greenhouse 2,FRM5,"3461 Ross Drive, Building 4",V6T 1W5,VBL10012,Complete,-123.239002,49.251043
-Academic,Sauder Expansion,SBUS,2046 West Mall,V6T 1Z2,VBL10456,UnderConstruction,-123.254889,49.265093
-Services,Orchard Commons - Childcare,ORCC,2378 West Mall,V6T 1Z4,VBL10458,UnderConstruction,-123.252031,49.260376
 Housing,BCR7 - Building A,BCR7A,3588 Wesbrook Mall,,VBL10459,UnderConstruction,-123.232759,49.251598
 Housing,BCR7 - Building B,BCR7B,3562 Wesbrook Mall,,VBL10460,UnderConstruction,-123.232902,49.251901
 Housing,BCR7 - Building C,BCR7C,3578 Wesbrook Mall,,VBL10461,UnderConstruction,-123.232203,49.251849
@@ -440,6 +435,11 @@ Academic,UBC Life Building,LIFE,6138 Student Union Boulevard,V6T 1Z1,VBL10248,Co
 Academic,Centre for Comparative Medicine,CCM,4145 Wesbrook Mall,V6T 1W5,VBL10017,Complete,-123.233554,49.246819
 Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4,VBL10209,Complete,-123.253928,49.263869
 Housing,Theory,THRY,5781 Binning Avenue,V6S 0M7,VBL10455,Complete,-123.231135,49.251054
+Academic,Sauder Expansion,SBUS,2046 West Mall,V6T 1Z2,VBL10456,UnderConstruction,-123.254889,49.265093
+Housing,Wordsworth - Highrise,WSW1,6138 Birney Avenue,,VBL10445,UnderConstruction,-123.236845,49.252441
+Housing,Wordsworth - Townhouses,WSW2,"6138 Birney Avenue, Building 1",,VBL10446,UnderConstruction,-123.237199,49.251943
+Services,Orchard Commons - Childcare,ORCC,2378 West Mall,V6T 1Z4,VBL10458,UnderConstruction,-123.252031,49.260376
+Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
 Housing,Symphony,SYMY,3638 Wesbrook Mall,V6S 0M9,VBL10454,Complete,-123.232337,49.251114
 Other,Carey College Lot 40,CRYC1,,,VBL10449,PreConstruction,-123.24857,49.271747
 Housing,Binning Tower - Townhouses,BINT,,,VBL10299,Complete,-123.231641,49.255275
