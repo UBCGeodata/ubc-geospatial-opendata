@@ -281,8 +281,6 @@ VBL10139,Old Fire Hall,FIRE,PreConstruction,19260101,Operations,,UBC,Academic,UB
 VBL10450,Timothy Hall,TMHL,Complete,20250612,Other,Housing,Non-UBC,Chancellor,Non-UBC,Occupied,,Wood,6,18.3,4570,812,0,,Leased to Carey Hall - Lot 42,RACHELW,20220812172031,RACHELW,20250620164553,Apt5StoreyPlus,,,,B3,LeasedFromUBC,-123.248731,49.271005
 VBL10407,AMS Student Nest,NEST,Complete,20150101,Services,,UBC,Academic,AMS,Occupied,LEED Platinum,Concrete,5,30.15,20282,795,1,,Leased to AMS,,,RACHELW,20250620224039,Unspecified,Good,,UBC,B1,LeasedFromUBC,-123.249801,49.266573
 VBL10185,Acadia Commonsblock,ACOM,Complete,19890101,Services,StudentHousing,UBC,Academic,SHHS,Occupied,,Wood,1,6.49313,836,011,0,,,,,RACHELW,20240412183915,Unspecified,Poor,,UBC,B2,,-123.237352,49.262634
-VBL10442,Gateway,GATE,UnderConstruction,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,24800,217,0,,,NIKT,20210323221220,RACHELW,20241217173057,Unspecified,,,,B2,,-123.246507,49.266744
-VBL10462,Gateway North,GATN,PreConstruction,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,7712,,0,,,RACHELW,20241217173210,RACHELW,20241217173351,Unspecified,,,,B2,,-123.246887,49.267202
 VBL10135,Eton - Highrise,ETN1,Complete,20190226,Housing,,UNA,Wesbrook,Private,Occupied,REAP Gold,Concrete,20,61.0833,22008,592,0,,,GISSTUD2,20190516182139,RACHELW,20230110211725,Apt5StoreyPlus,,,,B5,,-123.230561,49.25345
 VBL10220,Westchester,WSTR,Complete,20040713,Housing,,UNA,Hawthorn,Private,Occupied,,Wood,4,13.57477,5969,616;616-1;616-2;616-3;616-4;616-5;616-6;616-7,0,,,,,RACHELW,20240220195546,Duplex/Townhouse,,,,B5,,-123.249109,49.257373
 VBL10305,Westpoint,WSPT,Complete,20081017,Housing,,UNA,Chancellor,Private,Occupied,,Concrete,7,26.60316,5145,841,0,,,,,RACHELW,20240220195546,Apt5StoreyPlus,,,,B5,,-123.250471,49.270242
@@ -345,7 +343,6 @@ VBL10279,St. Mark's Duplexes,STMD,Complete,20081110,Housing,,UNA,Chancellor,Priv
 VBL10119,Forest Sciences Centre,FSC,Complete,19980101,Academic,,UBC,Academic,UBC,Occupied,,OtherMixed,6,25.59,22459,353,0,,,,,RACHELW,20230803213336,Unspecified,Fair,,UBC,B2,,-123.247827,49.260597
 VBL10044,Frank Forward Building,FORW,Complete,19680101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,29.635,7542,562,0,,,,,RACHELW,20230803213345,Unspecified,Critical,,UBC,B2,,-123.251692,49.26169
 VBL10085,Fred Kaiser Building,KAIS,Complete,20041012,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,20.7,12792,313,0,,,,,RACHELW,20230803213401,Unspecified,Fair,,UBC,B2,,-123.250082,49.262371
-VBL10359,Hennings Building,HENN,Complete,19450101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,17.31,11578,652;652-1,0,,,,,RACHELW,20230803213457,Unspecified,Poor,,UBC,B2,,-123.252196,49.266445
 VBL10221,Michael Smith Laboratories,MSL,Complete,20040101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,24.84,8477,083,1,,,,,RACHELW,20240327185901,Unspecified,Fair,,UBC,B2,,-123.250174,49.264575
 VBL10255,Oakwood Residences,OAKR,Complete,20200813,Housing,,UNA,Wesbrook,UBCPT,Unoccupied,,Wood,3,13.06,2977,719,0,,,GISSTUD2,20190515162139,RACHELW,20240726190409,Duplex/Townhouse,,,,B5,LeasedFromUBC,-123.238526,49.251653
 VBL10042,Frederic Lasserre Building,LASR,Complete,19620101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,5,17.88196,4572,028,0,,,,,RACHELW,20230302024629,Unspecified,Critical,,UBC,B2,,-123.255979,49.267591
@@ -431,7 +428,6 @@ VBL10448,Dan On Food and Beverage Innovation Centre,FBIC,Complete,20240502,Servi
 VBL10396,Walter H. Gage Residence - West Coast Suites (Gage Court),WGR3,Complete,19720101,StudentHousing,,UBC,Academic,SHHS,Occupied,LEED Gold,Concrete,4,11.80222,3597,872-2,0,,,GISSTUD2,20190514202820,RACHELW,20240229230217,AptLess5Storey,Poor,,UBC,B1,,-123.248586,49.269593
 VBL10099,Hector J. MacLeod Building,MCLD,Complete,19630101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,16.58,7282,312,0,,,,,RACHELW,20250116230351,Unspecified,Poor,,UBC,B2,,-123.249401,49.261716
 VBL10111,Life Sciences Centre,LSC,Complete,20040820,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,8,31.9975,59596,529,0,,,,,RACHELW,20250116230351,Unspecified,Fair,,UBC,B2,,-123.245112,49.262548
-VBL10104,Allard Hall,ALRD,Complete,20110829,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,5,25.52,15000,482,1,,,,,RACHELW,20250116230351,Unspecified,Good,,UBC,B2,,-123.253297,49.270044
 VBL10102,P. A. Woodward Instructional Resources Centre,IRC,Complete,19720101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,6,26.98,10842,473;475,0,,,,,RACHELW,20250116230351,Unspecified,Poor,,UBC,B2,,-123.246848,49.264822
 VBL10344,Ponderosa Annex C,PONC,Complete,19710101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,2,9.26,587,865-3,0,,,RACHELW,20190116175554,RACHELW,20250116230351,Unspecified,Critical,,UBC,B2,,-123.256275,49.264854
 VBL10152,Ponderosa Annex F,PONF,Complete,19720101,Administrative,,UBC,Academic,UBC,Occupied,,Wood,3,9.05897,826,871-3,0,,,RACHELW,20190116175554,RACHELW,20250116230351,Unspecified,Critical,,UBC,B2,,-123.257153,49.264919
@@ -442,4 +438,8 @@ VBL10151,Ponderosa Annex E,PONE,Complete,19720101,Administrative,,UBC,Academic,U
 VBL10379,Nobel House,NOBL,Complete,20141028,Housing,,UNA,Wesbrook,UBCPT,Occupied,REAP Gold,Wood,8,20.37432,9965,717,0,,Leased to UBCPT,,,RACHELW,20240611162152,Apt5StoreyPlus,,,,B5,LeasedFromUBC,-123.233206,49.25084
 VBL10421,UBC Counselling Services Annex,CNSL,Complete,20190919,Services,,UBC,Academic,UBC,Unoccupied,,Wood,1,4.8905,479,TMP001,0,,,GISSTUD2,20190923201149,RACHELW,20240116180335,Unspecified,,,UBC,B2,,-123.25199,49.268227
 VBL10262,Woodward Library,WLIB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,21.11571,7695,536;536-1,0,,,,,TOML,20250717213634,Unspecified,Poor,,UBC,B2,,-123.24757,49.264563
+VBL10104,Allard Hall,ALRD,Complete,20110829,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,5,25.52,15000,482,1,,,,,RACHELW,20251030181416,Unspecified,Good,,UBC,B2,,-123.253297,49.270044
+VBL10442,Gateway,GWHB,Complete,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,24800,217,0,,,NIKT,20210323221220,RACHELW,20251030192643,Unspecified,,,,B2,,-123.246505,49.266745
+VBL10462,Gateway North,GATN,PreConstruction,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,7712,,0,,,RACHELW,20241217173210,RACHELW,20251030192925,Unspecified,,,,B2,,-123.246884,49.267204
+VBL10359,Hennings Building,HENN,Complete,19450101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,17.31,11578,652;652-1,0,,,,,RACHELW,20251030202713,Unspecified,Poor,,UBC,B2,,-123.252196,49.266445
 VBL10330,Civil and Mechanical Engineering Laboratories,CEML,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,15.74,5616,305;307;309;511,1,,,RACHELW,20190207192637,RACHELW,20231026230434,Unspecified,Poor,,UBC,B2,,-123.249337,49.263129
