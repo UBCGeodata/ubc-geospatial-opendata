@@ -193,6 +193,7 @@ Housing,Coast - Apartment East,COSE,6063 Iona Drive,V6T 0B1,VBL10300,Complete,-1
 Housing,Thames Court - Townhouses,THAC2,5880 Hampton Place,V6T 2E9,VBL10253,Complete,-123.236162,49.257073
 Services,Old Auditorium,AUDI,6344 Memorial Road,V6T 1Z2,VBL10335,Complete,-123.256099,49.266903
 Academic,Mary Bollert Hall,MBOL,6253 NW Marine Drive,V6T 1Z1,VBL10201,Complete,-123.256017,49.270579
+Administrative,Gateway Health Building,GWHB,5955 University Boulevard,V6T 1Z1,VBL10442,Complete,-123.246505,49.266745
 Academic,B.C. Binning Studios,BINN,6373 University Boulevard,V6T 1Z2,VBL10134,Complete,-123.254879,49.264604
 Academic,UBC Life Building,LIFE,6138 Student Union Boulevard,V6T 1Z1,VBL10248,Complete,-123.250062,49.267434
 Academic,Dorothy Somerset Studios,DSOM,6361 University Boulevard,V6T 1Z2,VBL10130,Complete,-123.254591,49.264693
@@ -436,7 +437,6 @@ Services,Frederic Wood Theatre,FRWO,6354 Crescent Road,V6T 1Z2,VBL10405,Complete
 Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
 Academic,Allard Hall,ALRD,1822 East Mall,V6T 1Z1,VBL10104,Complete,-123.253297,49.270044
-Administrative,Gateway,GWHB,5955 University Boulevard,V6T 1Z1,VBL10442,Complete,-123.246505,49.266745
 Administrative,Gateway North,GATN,2047 Wesbrook Mall,V6T 1Z1,VBL10462,PreConstruction,-123.246884,49.267204
 Academic,Hennings Building,HENN,6224 Agricultural Road,V6T 1Z1,VBL10359,Complete,-123.252196,49.266445
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129

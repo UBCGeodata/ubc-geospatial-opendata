@@ -193,6 +193,7 @@ VBL10300,Coast - Apartment East,COSE,Complete,20090603,Housing,,UNA,Chancellor,P
 VBL10253,Thames Court - Townhouses,THAC2,Complete,19920724,Housing,,UNA,Hampton,Private,Occupied,,Wood,2,12.65,8816,502-1;502-2;502-3;502-4;502-5;502-6;502-7;502-8;502-9;502-10;502-11;502-12;502-13;502-14;502-15;502-16;502-17,0,,,,,RACHELW,20240903181445,Duplex/Townhouse,,,,B5,,-123.236162,49.257073
 VBL10335,Old Auditorium,AUDI,Complete,19250101,Services,Academic,UBC,Academic,UBC,Occupied,,Wood,3,16.19,2634,044,0,,RENEW,,,RACHELW,20251008180436,Unspecified,Fair,,UBC,B1,,-123.256099,49.266903
 VBL10201,Mary Bollert Hall,MBOL,Complete,19500101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,3,8.90813,1318,614,0,,,,,RACHELW,20251009234957,Unspecified,Critical,,UBC,B2,,-123.256017,49.270579
+VBL10442,Gateway Health Building,GWHB,Complete,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,24800,217,0,,,NIKT,20210323221220,RACHELW,20260105174740,Unspecified,,,,B2,,-123.246505,49.266745
 VBL10134,B.C. Binning Studios,BINN,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,10.5625,1501,324,0,,,,,RACHELW,20250826211826,Unspecified,Poor,,UBC,B2,,-123.254879,49.264604
 VBL10248,UBC Life Building,LIFE,Complete,19680101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,3,18.7017,20244,790;790-1;790-2,0,,,,,RACHELW,20250827204650,Unspecified,Fair,,UBC,B2,,-123.250062,49.267434
 VBL10130,Dorothy Somerset Studios,DSOM,Complete,19250101,Academic,,UBC,Academic,UBC,Occupied,,Wood,2,13.77421,1823,320,0,,RENEW,,,RACHELW,20250826211826,Unspecified,Critical,,UBC,B1,,-123.254591,49.264693
@@ -438,7 +439,6 @@ VBL10405,Frederic Wood Theatre,FRWO,Complete,19630101,Services,Academic,UBC,Acad
 VBL10421,UBC Counselling Services Annex,CNSL,Complete,20190919,Services,,UBC,Academic,UBC,Unoccupied,,Wood,1,4.8905,479,TMP001,0,,,GISSTUD2,20190923201149,RACHELW,20240116180335,Unspecified,,,UBC,B2,,-123.25199,49.268227
 VBL10262,Woodward Library,WLIB,Complete,19640101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,21.11571,7695,536;536-1,0,,,,,TOML,20250717213634,Unspecified,Poor,,UBC,B2,,-123.24757,49.264563
 VBL10104,Allard Hall,ALRD,Complete,20110829,Academic,,UBC,Academic,UBC,Occupied,LEED Gold,Concrete,5,25.52,15000,482,1,,,,,RACHELW,20251030181416,Unspecified,Good,,UBC,B2,,-123.253297,49.270044
-VBL10442,Gateway,GWHB,Complete,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,24800,217,0,,,NIKT,20210323221220,RACHELW,20251030192643,Unspecified,,,,B2,,-123.246505,49.266745
 VBL10462,Gateway North,GATN,PreConstruction,,Administrative,,UBC,Academic,UBC,Unoccupied,,Wood,6,36,7712,,0,,,RACHELW,20241217173210,RACHELW,20251030192925,Unspecified,,,,B2,,-123.246884,49.267204
 VBL10359,Hennings Building,HENN,Complete,19450101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,4,17.31,11578,652;652-1,0,,,,,RACHELW,20251030202713,Unspecified,Poor,,UBC,B2,,-123.252196,49.266445
 VBL10330,Civil and Mechanical Engineering Laboratories,CEML,Complete,19690101,Academic,,UBC,Academic,UBC,Occupied,,Concrete,2,15.74,5616,305;307;309;511,1,,,RACHELW,20190207192637,RACHELW,20231026230434,Unspecified,Poor,,UBC,B2,,-123.249337,49.263129
