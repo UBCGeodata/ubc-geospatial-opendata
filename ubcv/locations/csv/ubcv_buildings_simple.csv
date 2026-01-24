@@ -397,8 +397,6 @@ StudentHousing,Totem Park Residence - Haida/Salish House,TPR6,"2525 West Mall, B
 Services,Ambulance Station,AMBS,2333 Wesbrook Mall,V6T 1Z3,VBL10186,Complete,-123.243597,49.263243
 Services,Chan Centre for the Performing Arts,CHAN,6265 Crescent Road,V6T 1Z1,VBL10282,Complete,-123.25511,49.269771
 StudentHousing,Fraternity Village,FRAT,2880 Wesbrook Mall,V6T 2J3,VBL10404,Complete,-123.238849,49.259653
-Housing,Conservatory - Townhouses,CSY1,"5608 Berton Avenue, Building 1",V6S 2L2,VBL10428,Complete,-123.232103,49.255839
-Housing,Conservatory - Highrise,CSY2,5608 Berton Avenue,V6S 2L2,VBL10427,Complete,-123.231514,49.256042
 Academic,Chemical and Biological Engineering Building,CHBE,2360 East Mall,V6T 1Z3,VBL10062,Complete,-123.247066,49.262481
 Research,NRC Institute for Fuel Cell Innovation,NRC,4250 Wesbrook Mall,V6T 1W5,VBL10243,Complete,-123.232287,49.245182
 Services,Public Safety Building - RCMP + Fire,PSAB,2990 Wesbrook Mall,V6T 2B7,VBL10046,Complete,-123.238113,49.258943
@@ -434,6 +432,8 @@ Administrative,Ponderosa Annex E,PONE,2034 Lower Mall,V6T 1Z2,VBL10151,Complete,
 Housing,Nobel House,NOBL,3655 Wesbrook Mall,V6S 0G6,VBL10379,Complete,-123.233206,49.25084
 Academic,Theatre-Film Production Building,TFPB,6358 University Boulevard,V6T 1Z4,VBL10209,Complete,-123.253928,49.263869
 Services,Frederic Wood Theatre,FRWO,6354 Crescent Road,V6T 1Z2,VBL10405,Complete,-123.256958,49.268053
+Housing,Conservatory - Highrise,CSY2,5608 Berton Avenue,V6S 2L2,VBL10427,Complete,-123.231532,49.256042
+Housing,Conservatory - Townhouses,CSY1,"5608 Berton Avenue, Building 1",V6S 2L2,VBL10428,Complete,-123.232106,49.25585
 Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
 Academic,Allard Hall,ALRD,1822 East Mall,V6T 1Z1,VBL10104,Complete,-123.253297,49.270044
