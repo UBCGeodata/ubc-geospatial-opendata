@@ -223,7 +223,6 @@ Athletics,Cecil Green Squash Court,CGSQ,"6251 Cecil Green Park Road, Building 1"
 Athletics,National Soccer Development Centre,NSDC,3065 Wesbrook Mall,V6T 1Z3,VBL10091,Complete,-123.239979,49.257149
 Housing,Vista Point,VIST,5828 Thunderbird Boulevard,V6T 0B8,VBL10011,Complete,-123.240272,49.261694
 Housing,Mundell House,MUNH,6038 Birney Avenue,V6S 0L4,VBL10213,Complete,-123.236053,49.252946
-Services,Museum of Anthropology,MOA,6393 NW Marine Drive,V6T 1Z2,VBL10235,Complete,-123.259417,49.269507
 Housing,Granite Terrace,GRT1,3233 Wesbrook Mall,V6S 0B4,VBL10164,Complete,-123.236997,49.254831
 Academic,Plant Science Garage,PLS2,"2613 West Mall, Building 1",V6T 1Z4,VBL10432,Complete,-123.249256,49.25644
 Housing,Greenwood Commons,GRWC,2660 Wesbrook Mall,V6T 0A5,VBL10010,Complete,-123.240072,49.260948
@@ -234,7 +233,6 @@ Housing,Eton - Apartment,ETN2,5687 Gray Avenue,V6S 0K7,VBL10136,Complete,-123.23
 StudentHousing,MBA House,MBAH,3385 Wesbrook Mall,V6T 1Z4,VBL10403,Complete,-123.235169,49.253876
 Academic,Irving K. Barber Learning Centre,IBLC,1961 East Mall,V6T 1Z1,VBL10080,Complete,-123.252738,49.267595
 Academic,Gas Gun Facility,GASG,6301 Stadium Road,V6T 1Z4,VBL10410,Complete,-123.246052,49.256017
-Operations,Vanier Pump Station,VNRP,"1935 Lower Mall, Building 14",V6T 1X1,VBL10416,Complete,-123.260266,49.26482
 Housing,Coast - Apartment West,COSW,6093 Iona Drive,V6T 0B2,VBL10297,Complete,-123.253207,49.270742
 Athletics,War Memorial Gymnasium,MGYM,6081 University Boulevard,V6T 1Z1,VBL10161,Complete,-123.247656,49.266772
 Athletics,UBC Tennis Centre,TENN,6160 Thunderbird Boulevard,V6T 1Z3,VBL10090,Complete,-123.243836,49.259487
@@ -251,7 +249,6 @@ Housing,Tamarack House,TAMK,6230 Thunderbird Boulevard,V6T 0C3,VBL10159,Complete
 Housing,The Mews,MEWS,3333 Wesbrook Mall,V6S 0E3,VBL10165,Complete,-123.235709,49.254534
 Housing,Village Square,VSQU,3338 Webber Lane,V6S 0J7,VBL10170,Complete,-123.236379,49.25396
 Academic,Sing Tao Building,STAO,6388 Crescent Road,V6T 1Z2,VBL10348,Complete,-123.25776,49.267832
-Academic,"Auditorium Annex Offices - A, B",AUDX,1924 West Mall,V6T 1Z2,VBL10228,Complete,-123.256621,49.266585
 Academic,Music Building,MUSC,6361 Memorial Road,V6T 1Z2,VBL10101,Complete,-123.256778,49.26744
 Housing,Larkspur House,LARK,3428 Wesbrook Mall,V6S 0G9,VBL10018,Complete,-123.234055,49.25356
 Athletics,Gerald McGavin UBC Rugby Centre,RUGC,2765 Wesbrook Mall,V6T 1Z3,VBL10412,Complete,-123.241314,49.259582
@@ -280,7 +277,10 @@ Services,Totem Park Residence - Commonsblock,TPR1,"2525 West Mall, Building 1",V
 Housing,West Hampstead - Building 1,WHM1,5760 Hampton Place,V6T 2G1,VBL10281,Complete,-123.235241,49.257587
 Housing,The Residences at Nobel Park - Apartment,REN1,3533 Ross Drive,V6S 0L3,VBL10353,Complete,-123.235007,49.250613
 Housing,West Hampstead - Townhouses,WHM2,"5760 Hampton Place, Building 1",V6T 2G1,VBL10398,Complete,-123.234582,49.257507
+Services,Museum of Anthropology,MOA,6393 NW Marine Drive,V6T 1Z2,VBL10235,Complete,-123.259423,49.269499
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - sqimək̓ʷ leləm̓ (Octopus),SQMK,1875 Wesbrook Mall,V6T 1K2,VBL10382,Complete,-123.248315,49.270523
+Academic,"Auditorium Annex Offices - A, B",AUDX,1924 West Mall,V6T 1Z2,VBL10228,Complete,-123.256621,49.266585
+Administrative,Old Administration Building,OAB,6328 Memorial Road,V6T 1Z2,VBL10138,Complete,-123.255511,49.267105
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - təməs leləm̓ (Sea Otter),TMES,1885 Wesbrook Mall,V6T 1K2,VBL10384,Complete,-123.248031,49.270168
 StudentHousing,tə šxʷhəleləm̓s tə k̓ʷaƛ̓kʷəʔaʔɬ (Saltwater) - qʷta:yθən leləm̓ (Sturgeon),QTYN,"5955 Student Union Boulevard, Building 1",V6T 1K2,VBL10378,Complete,-123.248518,49.269217
 Operations,Old Fire Hall,FIRE,2038 West Mall,V6T 1Z2,VBL10139,PreConstruction,-123.244018,49.263088
@@ -335,6 +335,7 @@ Parking,Fraser River Parkade,PARF,6440 Memorial Road,V6T 1Z2,VBL10397,Complete,-
 Housing,Norman MacKenzie House,MCKH,6565 NW Marine Drive,V6T 1A7,VBL10233,Complete,-123.261175,49.267676
 Athletics,UBC Football Academic Centre,FOOT,6298 Stadium Road,V6T 1Z4,VBL10246,Complete,-123.24502,49.255246
 Academic,Wood Fluid and Thermal Treatments Laboratory,WDL,2324 West Mall,V6T 1Z4,VBL10285,Complete,-123.252249,49.261475
+Operations,Vanier Pump Station,VNRP,"1935 Lower Mall, Building 14",V6T 1X1,VBL10416,Complete,-123.260251,49.264821
 StudentHousing,Place Vanier Residence - Sherwood Lett House,VNR11,"1935 Lower Mall, Building 4",V6T 1X1,VBL10365,Complete,-123.257513,49.26339
 Housing,Axis,AXIS,6090 Iona Drive,V6T 0B6,VBL10314,Complete,-123.252233,49.270001
 Housing,Prodigy - Building 1,PRD1,6033 Gray Avenue,V6S 0G3,VBL10349,Complete,-123.235957,49.251667
@@ -359,7 +360,6 @@ Academic,Fred Kaiser Building,KAIS,2332 Main Mall,V6T 1Z4,VBL10085,Complete,-123
 Academic,Michael Smith Laboratories,MSL,2185 East Mall,V6T 1Z4,VBL10221,Complete,-123.250174,49.264575
 Housing,Oakwood Residences,OAKR,3383 Ross Drive,V6S 0L1,VBL10255,Complete,-123.238526,49.251653
 Academic,Frederic Lasserre Building,LASR,6333 Memorial Road,V6T 1Z2,VBL10042,Complete,-123.255979,49.267591
-Administrative,Old Administration Building,OAB,6328 Memorial Road,V6T 1Z2,VBL10138,Complete,-123.255511,49.267105
 Academic,Mathematics Annex,MATX,1986 Mathematics Road,V6T 1Z2,VBL10216,Complete,-123.254848,49.266103
 Academic,Mathematics Building,MATH,1984 Mathematics Road,V6T 1Z2,VBL10229,Complete,-123.255556,49.26645
 Operations,Building Operations Nursery,BONR,6029 Nurseries Road,V6T 1W5,VBL10337,Complete,-123.229225,49.244432
