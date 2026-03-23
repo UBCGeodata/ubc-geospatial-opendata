@@ -37,7 +37,9 @@ Housing,Chancellor Hall - Townhouses,CHHT,5978 Chancellor Mews,V6T 2L5,VBL10271,
 Housing,Spirit,SPRT,3478 Wesbrook Mall,V6S 0B6,VBL10238,Complete,-123.233615,49.252986
 Academic,Walter C. Koerner Library,KLIB,1958 Main Mall,V6T 1Z2,VBL10154,Complete,-123.255125,49.26665
 Housing,Logan Lane,LOGN,6226 Logan Lane,V6T 2K9,VBL10226,Complete,-123.245728,49.258901
+Administrative,Gateway North,GATN,2047 Wesbrook Mall,V6T 1Z1,VBL10462,UnderConstruction,-123.246884,49.267204
 Academic,David Strangway Building,STRG,5950 University Boulevard,V6T 1Z3,VBL10070,Complete,-123.246173,49.265839
+Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,Complete,-123.231851,49.250869
 Housing,Journey,JOUR,6328 Larkin Drive,V6T 2K2,VBL10225,Complete,-123.247481,49.258036
 Academic,Robert F. Osborne Centre - Unit 1,OSB1,"6108 Thunderbird Boulevard, Building 1",V6T 1Z3,VBL10251,Complete,-123.24372,49.260296
 Academic,Robert F. Osborne Centre - Unit 2,OSB2,"6108 Thunderbird Boulevard, Building 2",V6T 1Z3,VBL10296,Complete,-123.244315,49.259976
@@ -188,7 +190,6 @@ Academic,Sauder Expansion,SBUS,2046 West Mall,V6T 1Z2,VBL10456,UnderConstruction
 Housing,Wordsworth - Highrise,WSW1,6138 Birney Avenue,,VBL10445,UnderConstruction,-123.236845,49.252441
 Housing,Wordsworth - Townhouses,WSW2,"6138 Birney Avenue, Building 1",,VBL10446,UnderConstruction,-123.237199,49.251943
 Services,Orchard Commons - Childcare,ORCC,2378 West Mall,V6T 1Z4,VBL10458,UnderConstruction,-123.252031,49.260376
-Housing,Verve,VERV,5855 Binning Avenue,,VBL10453,UnderConstruction,-123.231851,49.250869
 Housing,Symphony,SYMY,3638 Wesbrook Mall,V6S 0M9,VBL10454,Complete,-123.232337,49.251114
 Academic,Wesbrook Building,WESB,6174 University Boulevard,V6T 1Z3,VBL10266,Complete,-123.249156,49.265251
 Services,Child Care Services - Little Goslings/Coho,CCS3,5590 Osoyoos Crescent,V6T 2E6,VBL10274,Complete,-123.234048,49.25992
@@ -437,7 +438,6 @@ Housing,Conservatory - Townhouses,CSY1,"5608 Berton Avenue, Building 1",V6S 2L2,
 Services,UBC Counselling Services Annex,CNSL,1930 East Mall,V6T 1Z1,VBL10421,Complete,-123.25199,49.268227
 Academic,Woodward Library,WLIB,2198 Health Sciences Mall,V6T 1Z3,VBL10262,Complete,-123.24757,49.264563
 Academic,Allard Hall,ALRD,1822 East Mall,V6T 1Z1,VBL10104,Complete,-123.253297,49.270044
-Administrative,Gateway North,GATN,2047 Wesbrook Mall,V6T 1Z1,VBL10462,PreConstruction,-123.246884,49.267204
 Academic,Hennings Building,HENN,6224 Agricultural Road,V6T 1Z1,VBL10359,Complete,-123.252196,49.266445
 Academic,Civil and Mechanical Engineering Laboratories,CEML,2275 East Mall,V6T 1Z4,VBL10330,Complete,-123.249337,49.263129
 Other,Carey College Lot 40,CRYC1,,,VBL10449,PreConstruction,-123.24857,49.271747
